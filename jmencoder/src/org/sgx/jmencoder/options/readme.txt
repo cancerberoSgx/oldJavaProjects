@@ -1,0 +1,1 @@
+here are java beans that represent mplayer or mencoder parameters values sets

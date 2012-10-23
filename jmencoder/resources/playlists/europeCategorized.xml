@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<document>
+<section description="" image="" name="Top 40">
+<endpoint name="Kronehit - Vienna - Austria" description="city: Vienna - Austria - resolution: 64 Kbps - description: undefined" url="http://onair.krone.at:80/kronehit.mp3.m3u"></endpoint>
+<endpoint name="Energy 104,2 - Vienna - Austria" description="city: Vienna - Austria - resolution: 56 Kbps - description: undefined" url="http://80.237.157.46:8120/listen.pls"></endpoint>
+<endpoint name="Hit FM - Krems - Austria" description="city: Krems - Austria - resolution: 96 Kbps - description: undefined" url="http://hitfm.biosnet.at:8000/listen.pls"></endpoint>
+<endpoint name="Welle 1 - Innsbruck - Austria" description="city: Innsbruck - Austria - resolution: 64 Kbps - description: undefined" url="http://81.16.98.214:8000/welle1.mp3.m3u"></endpoint>
+<endpoint name="Welle 1 - Salzburg - Austria" description="city: Salzburg - Austria - resolution: 128 Kbps - description: undefined" url="http://fra01.live.welle1.at:8128/listen.pls"></endpoint>
+<endpoint name="Q-Music - Vilvoorde - Belgium" description="city: Vilvoorde - Belgium - resolution: 32 Kbps - description: undefined" url="http://www.q-music.be/asx/q_low.asx"></endpoint>
+<endpoint name="NRJ - Brussels - Belgium" description="city: Brussels - Belgium - resolution: 48 Kbps - description: undefined" url="http://broadcast.infomaniak.net/nrjbe-low.mp3.m3u"></endpoint>
+<endpoint name="Fun Radio - Brussels - Belgium" description="city: Brussels - Belgium - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/funradiobe-high.mp3.pls"></endpoint>
+<endpoint name="NRJ - Sofia - Bulgaria" description="city: Sofia - Bulgaria - resolution: 96 Kbps - description: undefined" url="http://80.72.68.217:80/nrj.ogg.m3u"></endpoint>
+<endpoint name="Radio Fresh - Sofia - Bulgaria" description="city: Sofia - Bulgaria - resolution: 36 Kbps - description: undefined" url="http://193.108.24.21:8000/fresh_low.ogg.m3u"></endpoint>
+<endpoint name="Radio Vitosha - Sofia - Bulgaria" description="city: Sofia - Bulgaria - resolution: 64 Kbps - description: undefined" url="http://217.75.128.46:8000/listen.pls"></endpoint>
+<endpoint name="Evropa 2 - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.play.cz/radio/evropa2-32.asx"></endpoint>
+<endpoint name="Evropa 2 Top 40 - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://www.play.cz/radio/Evropa2_Top40_128.asx"></endpoint>
+<endpoint name="The Voice - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://dix.media.webpartner.dk/voice48"></endpoint>
+<endpoint name="go!FM - Århus - Denmark" description="city: Århus - Denmark - resolution: 128 Kbps - description: Top 40" url="mms://media2.xstream.dk/gofm"></endpoint>
+<endpoint name="PowerHit Radio - Tallinn - Estonia" description="city: Tallinn - Estonia - resolution: 64 Kbps - description: undefined" url="http://streamer.sotovik.ee/streamgen.php?stream=powerhit&amp;format=ogg&amp;quality=low"></endpoint>
+<endpoint name="The Voice - Helsinki - Finland" description="city: Helsinki - Finland - resolution: 96 Kbps - description: undefined" url="http://stream.sbs.fi:8040/listen.pls"></endpoint>
+<endpoint name="Evasion FM - Paris - France" description="city: Paris - France - resolution: 160 Kbps - description: undefined" url="http://www.listenlive.eu/evasion.m3u"></endpoint>
+<endpoint name="Fréquence3 - Internet only - France" description="city: Internet only - France - resolution: 192 Kbps - description: undefined" url="http://streams.frequence3.net/mp3-192.m3u"></endpoint>
+<endpoint name="Fun Radio - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://radio.funradio.fr/funradio.pls"></endpoint>
+<endpoint name="Nice Radio 102.3 - Nice - France" description="city: Nice - France - resolution: 128 Kbps - description: undefined" url="http://88.191.59.68:8000/listen.pls"></endpoint>
+<endpoint name="Energy 97,1 - Hamburg - Germany" description="city: Hamburg - Germany - resolution: 128 Kbps - description: undefined" url="mms://nrj.project-fx.de/play.wma?radio=NRJ_HAMBURG"></endpoint>
+<endpoint name="Energy 93,3 - Munich - Germany" description="city: Munich - Germany - resolution: 64 Kbps - description: undefined" url="mms://nrj.project-fx.de/play.wma?radio=NRJ_MUENCHEN"></endpoint>
+<endpoint name="Energy 103,4 - Berlin - Germany" description="city: Berlin - Germany - resolution: 128 Kbps - description: undefined" url="mms://nrj.project-fx.de/play.wma?radio=NRJ_BERLIN"></endpoint>
+<endpoint name="Energy 106,9 - Nürnberg - Germany" description="city: Nürnberg - Germany - resolution: 128 Kbps - description: undefined" url="mms://nrj.project-fx.de/play.wma?radio=NRJ_NUERNBERG"></endpoint>
+<endpoint name="Energy Bremen - Bremen - Germany" description="city: Bremen - Germany - resolution: 32 Kbps - description: undefined" url="mms://nrj.project-fx.de/play.wma?radio=NRJ_BREMEN"></endpoint>
+<endpoint name="Energy Stuttgart - Stuttgart - Germany" description="city: Stuttgart - Germany - resolution: 48 Kbps - description: undefined" url="mms://nrj.project-fx.de/play.wma?radio=NRJ_STUTTGART"></endpoint>
+<endpoint name="Energy Sachsen - Leipzig - Germany" description="city: Leipzig - Germany - resolution: 128 Kbps - description: undefined" url="mms://nrj.project-fx.de/play.wma?radio=NRJ_SACHSEN"></endpoint>
+<endpoint name="HIT104 - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://www.hit104.com/listen.pls"></endpoint>
+<endpoint name="Juventus Radio - Budapest - Hungary" description="city: Budapest - Hungary - resolution: 160 Kbps - description: undefined" url="http://live.juventus.hu:8000/live.m3u"></endpoint>
+<endpoint name="FM104 - Dublin - Ireland" description="city: Dublin - Ireland - resolution: 32 Kbps - description: undefined" url="http://media2.vistatec.ie/FM104"></endpoint>
+<endpoint name="European Hit Radio - Riga - Latvia" description="city: Riga - Latvia - resolution: 56 Kbps - description: undefined" url="http://stream.europeanhitradio.com:8000/ehr64.m3u"></endpoint>
+<endpoint name="European Hit Radio - Vilnius - Lithuania" description="city: Vilnius - Lithuania - resolution: 40 Kbps - description: undefined" url="http://mms.skynet.lt/EHR.asx"></endpoint>
+<endpoint name="EldoRadio - Luxembourg - Luxembourg" description="city: Luxembourg - Luxembourg - resolution: 90 Kbps - description: undefined" url="mms://streaming.newmedia.lu/eldoradio"></endpoint>
+<endpoint name="Antenna 5 Hitlist - Skopje - Macedonia" description="city: Skopje - Macedonia - resolution: 160 Kbps - description: undefined" url="http://217.16.69.17:8000/hitlist.mp3.m3u"></endpoint>
+<endpoint name="Radio 3FM - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 32 Kbps - description: undefined" url="http://www.omroep.nl/live/radio3-smal.asx"></endpoint>
+<endpoint name="Caz! - Amsterdam - Netherlands" description="city: Amsterdam - Netherlands - resolution: 128 Kbps - description: undefined" url="http://81.173.4.10/caz_audio_01"></endpoint>
+<endpoint name="Radio 538 - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 96 Kbps - description: undefined" url="http://streamers.at.brussels.garnierprojects.com/radio538"></endpoint>
+<endpoint name="TMF Radio - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://217.196.35.24/tmfradio"></endpoint>
+<endpoint name="NRJ - Oslo - Norway" description="city: Oslo - Norway - resolution: 96 Kbps - description: undefined" url="http://www.nwrweb.com/player/asx/92.asx"></endpoint>
+<endpoint name="Radio 1 HITS - Oslo - Norway" description="city: Oslo - Norway - resolution: 48 Kbps - description: undefined" url="http://85.196.91.162/R1O-48"></endpoint>
+<endpoint name="Radio 1 HITS - Stavanger - Norway" description="city: Stavanger - Norway - resolution: 48 Kbps - description: undefined" url="http://85.196.91.162/R1S-48"></endpoint>
+<endpoint name="Radio 1 HITS - Bergen - Norway" description="city: Bergen - Norway - resolution: 48 Kbps - description: undefined" url="http://85.196.91.162/R1B-48"></endpoint>
+<endpoint name="Radio 1 HITS - Trondheim - Norway" description="city: Trondheim - Norway - resolution: 48 Kbps - description: undefined" url="http://85.196.91.162/R1T-48"></endpoint>
+<endpoint name="Kiss FM - Bucharest - Romania" description="city: Bucharest - Romania - resolution: 32 Kbps - description: undefined" url="http://80.86.106.136:8000/listen.pls"></endpoint>
+<endpoint name="Love Radio Top 40 - Moscow - Russia" description="city: Moscow - Russia - resolution: 128 Kbps - description: undefined" url="http://stream.loveradio.ru:8000/Top_128_stereo.mp3.m3u"></endpoint>
+<endpoint name="Fun Radio - Bratislava - Slovakia" description="city: Bratislava - Slovakia - resolution: 24 Kbps - description: undefined" url="http://stream1.blueorange.sk:9000/fun24.m3u"></endpoint>
+<endpoint name="Radio Antena - Ljubljana - Slovenia" description="city: Ljubljana - Slovenia - resolution: 96 Kbps - description: undefined" url="mms://live.radio1.si/antena"></endpoint>
+<endpoint name="NRJ - Geneva - Switzerland" description="city: Geneva - Switzerland - resolution: 48 Kbps - description: undefined" url="http://broadcast.infomaniak.net/nrj-low.mp3.pls"></endpoint>
+<endpoint name="NRJ - Kyiv - Ukraine" description="city: Kyiv - Ukraine - resolution: 128 Kbps - description: undefined" url="http://195.66.153.33:8010/listen.pls"></endpoint>
+
+</section>
+
+<section description="" image="" name="Hot Adult Contemporary">
+<endpoint name="Radio 100FM - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 128 Kbps - description: undefined" url="http://onair.100fmlive.dk/100fm_live.mp3.m3u"></endpoint>
+<endpoint name="Raadio Uuno - Tallinn - Estonia" description="city: Tallinn - Estonia - resolution: 128 Kbps - description: undefined" url="http://trio.icecast.linxtelecom.com:8000/uuno.mp3.m3u"></endpoint>
+<endpoint name="Star FM - Tallinn - Estonia" description="city: Tallinn - Estonia - resolution: 64 Kbps - description: undefined" url="http://streamer.sotovik.ee/streamgen.php?stream=starfm&amp;format=ogg&amp;quality=low"></endpoint>
+<endpoint name="Virgin Radio - Paris - France" description="city: Paris - France - resolution: 64 Kbps - description: undefined" url="http://player.virginradio.fr/V4/virgin/virgin.asx"></endpoint>
+<endpoint name="Antenne Bayern - Munich - Germany" description="city: Munich - Germany - resolution: 96 Kbps - description: undefined" url="mms://wms.webradio.antenne.de"></endpoint>
+<endpoint name="Charivari 95.5 - Munich - Germany" description="city: Munich - Germany - resolution: 96 Kbps - description: undefined" url="http://stream.novalnet.de:8000/charivari.m3u"></endpoint>
+<endpoint name="R101 - Milan - Italy" description="city: Milan - Italy - resolution: 32 Kbps - description: undefined" url="rtsp://live.r101.it/redundant/r101vr.rm"></endpoint>
+<endpoint name="Star FM - Riga - Latvia" description="city: Riga - Latvia - resolution: 40 Kbps - description: undefined" url="http://stream.deac.lv/radiostarfm"></endpoint>
+<endpoint name="Q Music - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 96 Kbps - description: undefined" url="http://www.q-music.nl/asx/q-music.asx"></endpoint>
+<endpoint name="Radio 8FM - Den Bosch - Netherlands" description="city: Den Bosch - Netherlands - resolution: 48 Kbps - description: undefined" url="http://server-09.stream-server.nl:8422/listen.pls"></endpoint>
+<endpoint name="Blue FM - Poznan - Poland" description="city: Poznan - Poland - resolution: 96 Kbps - description: undefined" url="http://stream4.radioagora.pl:443/bluefm.mp3.m3u"></endpoint>
+<endpoint name="Radio Comercial - Lisbon - Portugal" description="city: Lisbon - Portugal - resolution: 32 Kbps - description: undefined" url="http://radiocomercial.clix.pt/asx/estrangeiro/comercial20.asx"></endpoint>
+<endpoint name="National FM - Bucharest - Romania" description="city: Bucharest - Romania - resolution: 48 Kbps - description: undefined" url="http://193.226.163.57:8000/national.m3u"></endpoint>
+<endpoint name="Radio Expres - Bratislava - Slovakia" description="city: Bratislava - Slovakia - resolution: 20 Kbps - description: undefined" url="mms://85.248.7.162/EXPRES_LQ"></endpoint>
+<endpoint name="Radio BE1 - Bern - Switzerland" description="city: Bern - Switzerland - resolution: 192 Kbps - description: undefined" url="http://broadcast.infomaniak.net/radiobe1-high.mp3.m3u"></endpoint>
+
+</section>
+<section description="" image="" name="Adult Contemporary">
+<endpoint name="Life Radio - Linz - Austria" description="city: Linz - Austria - resolution: 128 Kbps - description: undefined" url="http://liferadio.liwest.at:8000/liferadio2.m3u"></endpoint>
+<endpoint name="Life Radio Tyrol - Innsbruck - Austria" description="city: Innsbruck - Austria - resolution: 128 Kbps - description: undefined" url="http://www.liferadio-tirol.at/popup/webradio/liferadio.m3u"></endpoint>
+<endpoint name="Joe FM - Brussels - Belgium" description="city: Brussels - Belgium - resolution: 96 Kbps - description: undefined" url="http://streaming.4fm.be/4fm_hi"></endpoint>
+<endpoint name="FM Plus - Sofia - Bulgaria" description="city: Sofia - Bulgaria - resolution: 36 Kbps - description: undefined" url="http://fmplus-stream.atlantis.bg:8000/fmplus_low.ogg.m3u"></endpoint>
+<endpoint name="Radio Romantika - Sofia - Bulgaria" description="city: Sofia - Bulgaria - resolution: 64 Kbps - description: undefined" url="http://89.190.212.173:8002/listen.pls"></endpoint>
+<endpoint name="Frekvence 1 Romantika - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://ice-01.lagardere.cz/web-f1-romantika.m3u"></endpoint>
+<endpoint name="DR Soft - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://www.dr.dk/netradio/Metafiler/ASX/DR_Soft_32.asx"></endpoint>
+<endpoint name="Easy FM - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 128 Kbps - description: undefined" url="http://stream.thevoicemobil.dk/easyfm.m3u"></endpoint>
+<endpoint name="Radio Soft - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 128 Kbps - description: undefined" url="http://radiosoft.dk/netradio/soft.pls"></endpoint>
+<endpoint name="Cherie FM - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://player.cheriefm.fr/V4/cheriefm/microplayer/cheriefm.asx"></endpoint>
+<endpoint name="MFM - Paris - France" description="city: Paris - France - resolution: 20 Kbps - description: undefined" url="mms://str1.creacast.com/mfm_stream"></endpoint>
+<endpoint name="RFM - Paris - France" description="city: Paris - France - resolution: 66 Kbps - description: undefined" url="mms://viplagardere.yacast.net/encoderrfm"></endpoint>
+<endpoint name="NDR 2 - Hamburg - Germany" description="city: Hamburg - Germany - resolution: 128 Kbps - description: undefined" url="http://62.27.44.59/ndr/ndr2.mp3.m3u"></endpoint>
+<endpoint name="Radio Augsburg - Augsburg - Germany" description="city: Augsburg - Germany - resolution: 128 Kbps - description: undefined" url="http://web25.u161.umbra.fastwebserver.de/streams/radioaugsburg.m3u"></endpoint>
+<endpoint name="Létt Bylgjan - Reykjavik - Iceland" description="city: Reykjavik - Iceland - resolution: 64 Kbps - description: undefined" url="mms://utvarp.visir.is/lett"></endpoint>
+<endpoint name="Antenna 5 Love - Skopje - Macedonia" description="city: Skopje - Macedonia - resolution: 160 Kbps - description: undefined" url="http://217.16.69.17:8000/lovehits.mp3.m3u"></endpoint>
+<endpoint name="RTL Lounge - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 192 Kbps - description: undefined" url="http://www.rtl.nl/experience/rtllounge/player/player.asx"></endpoint>
+<endpoint name="Sky Radio - Naarden - Netherlands" description="city: Naarden - Netherlands - resolution: 128 Kbps - description: undefined" url="http://wm.media51.kpnstreaming.nl/kpn=SkyRadioLive=skyradio"></endpoint>
+<endpoint name="Candlelight - Internet only - Netherlands" description="city: Internet only - Netherlands - resolution: 128 Kbps - description: undefined" url="http://www.candlelight.nl/Candlelight_playlist.m3u"></endpoint>
+<endpoint name="Doctor FM - Brasov - Romania" description="city: Brasov - Romania - resolution: 128 Kbps - description: undefined" url="http://79.116.205.121:8000/listen.pls"></endpoint>
+<endpoint name="Rádio Jemné Melódie - Bratislava - Slovakia" description="city: Bratislava - Slovakia - resolution: 128 Kbps - description: undefined" url="http://www.jemnemelodie.sk:8000/listen.pls"></endpoint>
+<endpoint name="Fun Radio Love Songs - Bratislava - Slovakia" description="city: Bratislava - Slovakia - resolution: 64 Kbps - description: undefined" url="http://stream.funradio.sk:8000/slow64.mp3.m3u"></endpoint>
+
+</section>
+<section description="" image="" name="Oldies/80s/90s">
+<endpoint name="Life Radio Studio 30 - Linz - Austria" description="city: Linz - Austria - resolution: 128 Kbps - description: undefined" url="http://liferadio.liwest.at:8000/studio30.m3u"></endpoint>
+<endpoint name="City Gold 107.5 fm - Ternat - Belgium" description="city: Ternat - Belgium - resolution: 128 Kbps - description: undefined" url="http://stream.citygold.be:8004/listen.pls"></endpoint>
+<endpoint name="stadsradio M - Mechelen - Belgium" description="city: Mechelen - Belgium - resolution: 128 Kbps - description: undefined" url="http://www.stadsradiom.be/streams/winamp.pls"></endpoint>
+<endpoint name="Webradio Golden Flash - Internet only - Belgium" description="city: Internet only - Belgium - resolution: 128 Kbps - description: undefined" url="http://www.goldenflash.org/servers/winamp128.pls"></endpoint>
+<endpoint name="Fantasy Classic Gold - Weelde - Belgium" description="city: Weelde - Belgium - resolution: 64 Kbps - description: undefined" url="http://fantasyclassicgold.dahstream.nl/stream.m3u"></endpoint>
+<endpoint name="Nostalgie - Antwerp - Belgium" description="city: Antwerp - Belgium - resolution: 128 Kbps - description: undefined" url="http://stream10.fluoline.net/listen.pls"></endpoint>
+<endpoint name="Nostalgie - Brussels - Belgium" description="city: Brussels - Belgium - resolution: 128 Kbps - description: undefined" url="http://stream.nostalgie.be:8000/premium.mp3.m3u"></endpoint>
+<endpoint name="Nostalgie80 - Brussels - Belgium" description="city: Brussels - Belgium - resolution: 128 Kbps - description: undefined" url="http://91.121.157.99:3730/80.mp3.m3u"></endpoint>
+<endpoint name="Zone80 - Liège - Belgium" description="city: Liège - Belgium - resolution: 192 Kbps - description: undefined" url="http://www.zone80.be/stream/z80_128.m3u"></endpoint>
+<endpoint name="Radio Mila Gold - Sofia - Bulgaria" description="city: Sofia - Bulgaria - resolution: 128 Kbps - description: undefined" url="http://193.108.24.21:8000/mila.m3u"></endpoint>
+<endpoint name="Kiss FM Gold - Nicosia - Cyprus" description="city: Nicosia - Cyprus - resolution: 128 Kbps - description: undefined" url="kissgold.m3u"></endpoint>
+<endpoint name="Frekvence 1 Legendy - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 96 Kbps - description: undefined" url="http://ice-01.lagardere.cz/web-f1-legendy.m3u"></endpoint>
+<endpoint name="Oldies Radio Olympic - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 16 Kbps - description: undefined" url="http://www.play.cz/radio/olympic16.asx"></endpoint>
+<endpoint name="Radio City Osmdesátka - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://osel.limemedia.cz/city80?WMContentBitrate=135000"></endpoint>
+<endpoint name="Radio City Devadesátka - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://osel.limemedia.cz/city90?WMContentBitrate=135000"></endpoint>
+<endpoint name="DR Evergreen - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://www.dr.dk/netradio/Metafiler/ASX/DR_Evergreen_32.asx"></endpoint>
+<endpoint name="Gold FM - Bordeaux - France" description="city: Bordeaux - France - resolution: WebPlayer - description: undefined" url="http://www.goldfm.fr/startplayer"></endpoint>
+<endpoint name="HotmixRadio 80 - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.hotmixradio.fr/hotmix80.m3u"></endpoint>
+<endpoint name="HotmixRadio 90 - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.hotmixradio.fr/hotmix90.m3u"></endpoint>
+<endpoint name="M2 Vinyl - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://meta.m2stream.fr:443/listen.pls"></endpoint>
+<endpoint name="M2 Analog - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.m2radio.fr/pls/m2analog_winamp.m3u"></endpoint>
+<endpoint name="Nostalgie - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://vipmms9.yacast.net/encodernostalgie"></endpoint>
+<endpoint name="Nostalgie 60's - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://vipnrj.yacast.net/nostalgie_webradio08"></endpoint>
+<endpoint name="Nostalgie 70's - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://vipnrj.yacast.net/nostalgie_webradio09"></endpoint>
+<endpoint name="Nostalgie Beatles - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://vipicecast.yacast.net/nostalgie_beatles.m3u"></endpoint>
+<endpoint name="Nostalgie Chansons Françaises - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://vipnrj.yacast.net/nostalgie_webradio07"></endpoint>
+<endpoint name="Nostalgie Soul - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://vipnrj.yacast.net/nostalgie_webradio06"></endpoint>
+<endpoint name="Nostalgie Slow - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://vipnrj.yacast.net/nostalgie_webradio05"></endpoint>
+<endpoint name="Nostalgie Classiques80 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://vipnrj.yacast.net/nostalgie_webradio01"></endpoint>
+<endpoint name="Nostalgie Disco - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://vipnrj.yacast.net/nostalgie_webradio04"></endpoint>
+<endpoint name="Nostalgie Hit Parade - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://vipicecast.yacast.net/nostalgie_hit_parade.m3u"></endpoint>
+<endpoint name="Nostalgie Rock Legends - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://vipnrj.yacast.net/nostalgie_webradio02"></endpoint>
+<endpoint name="Nostalgie British Attitude - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://vipnrj.yacast.net/nostalgie_webradio03"></endpoint>
+<endpoint name="Nostalgie American Legend - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://vipicecast.yacast.net/nostalgie_american_legend.m3u"></endpoint>
+<endpoint name="NRJ 80 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://viphttp.yacast.net/nrj/PUBWEBRADIOS/NRJ/nrj_webradio08.asx"></endpoint>
+<endpoint name="X-Steam80 - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.x-stream80.com/stream128k.m3u"></endpoint>
+<endpoint name="Magic Radio - Internet only - France" description="city: Internet only - France - resolution: 192 Kbps - description: undefined" url="http://www.magic-radio.net/stream192k.m3u"></endpoint>
+<endpoint name="Radio Scoop 100% Années 80 - Lyon - France" description="city: Lyon - France - resolution: 128 Kbps - description: undefined" url="http://web4.radioscoop.com/scoop1.mp3.m3u"></endpoint>
+<endpoint name="Radio Scoop 100% Scoopbox Vintage - Lyon - France" description="city: Lyon - France - resolution: 128 Kbps - description: undefined" url="http://web4.radioscoop.com/scoop3.mp3.m3u"></endpoint>
+<endpoint name="Virgin Radio Rock Classics 70 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://viplagardere.yacast.net/vra_webradio03"></endpoint>
+<endpoint name="Virgin Radio Rock UK 80 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://viplagardere.yacast.net/vra_webradio06"></endpoint>
+<endpoint name="Virgin Radio Rock US 80 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://viplagardere.yacast.net/vra_webradio04"></endpoint>
+<endpoint name="Virgin Radio New Wave 80 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://viplagardere.yacast.net/vra_webradio05"></endpoint>
+<endpoint name="Antenne Bayern Oldies but Goldies - Munich - Germany" description="city: Munich - Germany - resolution: 96 Kbps - description: undefined" url="mms://channels.webradio.antenne.de/oldies-but-goldies"></endpoint>
+<endpoint name="Antenne Bayern 80er Kulthits - Munich - Germany" description="city: Munich - Germany - resolution: 96 Kbps - description: undefined" url="mms://channels.webradio.antenne.de/80er-kulthits"></endpoint>
+<endpoint name="Cafe 80s FM - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://87.230.92.163:8000/listen.pls"></endpoint>
+<endpoint name="Oldie 95 - Hamburg - Germany" description="city: Hamburg - Germany - resolution: 48 Kbps - description: undefined" url="http://lsd.newmedia.tiscali-business.com/bb/redirect.lsc?stream=oldie95$livestream.wma&amp;content=live&amp;media=ms"></endpoint>
+<endpoint name="Oldie-Radio - Rüsselsheim - Germany" description="city: Rüsselsheim - Germany - resolution: 96 Kbps - description: undefined" url="http://www.oldie-radio.de:8000/listen.pls"></endpoint>
+<endpoint name="OldieStar Radio - Berlin - Germany" description="city: Berlin - Germany - resolution: 128 Kbps - description: undefined" url="http://www.oldiestar.de/oldie.pls"></endpoint>
+<endpoint name="Radio Kö - Augsburg - Germany" description="city: Augsburg - Germany - resolution: 64 Kbps - description: undefined" url="http://duesseldorf.radiostream.de:28345/listen.pls"></endpoint>
+<endpoint name="RPR1 80er - Ludwigshafen - Germany" description="city: Ludwigshafen - Germany - resolution: 96 Kbps - description: undefined" url="http://217.151.151.46/80er"></endpoint>
+<endpoint name="RauteMusik Goldies - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://goldies-high.rautemusik.fm/listen.pls"></endpoint>
+<endpoint name="SR 3 - Oldiewelt - Saarbrücken - Germany" description="city: Saarbrücken - Germany - resolution: 96 Kbps - description: undefined" url="http://streaming02.sr-online.de/sr3oldiewelt.m3u"></endpoint>
+<endpoint name="Retro Radio - Nyíregyháza - Hungary" description="city: Nyíregyháza - Hungary - resolution: 160 Kbps - description: undefined" url="http://www.retrofm.hu/listen.pls"></endpoint>
+<endpoint name="Slager Radio - Budapest - Hungary" description="city: Budapest - Hungary - resolution: 128 Kbps - description: undefined" url="http://109.232.200.246:8000/zthjduds.mp3.m3u"></endpoint>
+<endpoint name="Oldies Radio - Budapest - Hungary" description="city: Budapest - Hungary - resolution: 64 Kbps - description: undefined" url="http://stream.oldiesradio.hu:8064/listen.pls"></endpoint>
+<endpoint name="Gull Bylgjan - Reykjavik - Iceland" description="city: Reykjavik - Iceland - resolution: 128 Kbps - description: undefined" url="mms://webradio.visir.is/gull-bylgjan"></endpoint>
+<endpoint name="All 80s Digital Radio - Dublin - Ireland" description="city: Dublin - Ireland - resolution: 32 Kbps - description: undefined" url="http://www.all80s.ie/listen_to_80s.asx"></endpoint>
+<endpoint name="R101 Ottanta - Milan - Italy" description="city: Milan - Italy - resolution: 128 Kbps - description: undefined" url="http://players.creacast.com/creacast/r101_thema1/playlist.pls"></endpoint>
+<endpoint name="R101 Novanta - Milan - Italy" description="city: Milan - Italy - resolution: 128 Kbps - description: undefined" url="http://players.creacast.com/creacast/r101_thema2/playlist.pls"></endpoint>
+<endpoint name="Radio 105 Classics - Milan - Italy" description="city: Milan - Italy - resolution: 32/64 Kbps - description: undefined" url="http://www.105classics.net/105classics.asx"></endpoint>
+<endpoint name="RMC 60 - Milan - Italy" description="city: Milan - Italy - resolution: 64 Kbps - description: undefined" url="http://shoutcast.unitedradio.it:1317/listen.pls"></endpoint>
+<endpoint name="RMC 70 - Milan - Italy" description="city: Milan - Italy - resolution: 64 Kbps - description: undefined" url="http://shoutcast.unitedradio.it:1407/listen.pls"></endpoint>
+<endpoint name="RMC 80 - Milan - Italy" description="city: Milan - Italy - resolution: 64 Kbps - description: undefined" url="http://shoutcast.unitedradio.it:1401/listen.pls"></endpoint>
+<endpoint name="RMC 90 - Milan - Italy" description="city: Milan - Italy - resolution: 64 Kbps - description: undefined" url="http://shoutcast.unitedradio.it:1403/listen.pls"></endpoint>
+<endpoint name="Golden Radio Italia - Internet only - Italy" description="city: Internet only - Italy - resolution: 128 Kbps - description: undefined" url="http://www.goldenradio.it/listen.m3u"></endpoint>
+<endpoint name="Radio Skipper - Internet only - Italy" description="city: Internet only - Italy - resolution: 128 Kbps - description: undefined" url="http://ibiza.broadstreamer.com:8700/listen.pls"></endpoint>
+<endpoint name="Vintage Radio - Rome - Italy" description="city: Rome - Italy - resolution: 96 Kbps - description: undefined" url="http://www.shoutcast.com/sbin/shoutcast-playlist.pls?rn=300173"></endpoint>
+<endpoint name="EldoRadio 80s - Luxembourg - Luxembourg" description="city: Luxembourg - Luxembourg - resolution: 128 Kbps - description: undefined" url="http://sc-80s.eldoradio.lu/listen.pls"></endpoint>
+<endpoint name="Antenna 5 Gold - Skopje - Macedonia" description="city: Skopje - Macedonia - resolution: 160 Kbps - description: undefined" url="http://217.16.69.17:8000/goldhits.mp3.m3u"></endpoint>
+<endpoint name="AVRO Steenen Tijdperk Fifties - Internet only - Netherlands" description="city: Internet only - Netherlands - resolution: 128 Kbps - description: undefined" url="http://shoutcast.omroep.nl:8064/listen.pls"></endpoint>
+<endpoint name="AVRO Steenen Tijdperk Sixties - Internet only - Netherlands" description="city: Internet only - Netherlands - resolution: 192 Kbps - description: undefined" url="http://shoutcast.omroep.nl:8066/listen.pls"></endpoint>
+<endpoint name="Radio 10 Gold - Amsterdam - Netherlands" description="city: Amsterdam - Netherlands - resolution: 128 Kbps - description: undefined" url="http://talpa-asx.streaming.is.nl/streaming.asp?P=20007&amp;Q=R10_HIGH"></endpoint>
+<endpoint name="Radio 10 Gold 90s - Internet only - Netherlands" description="city: Internet only - Netherlands - resolution: 128 Kbps - description: undefined" url="http://talpa-asx.streaming.is.nl/streaming.asp?P=11003&amp;Q=WEB10_HQ"></endpoint>
+<endpoint name="Radio 10 Gold 80s - Internet only - Netherlands" description="city: Internet only - Netherlands - resolution: 128 Kbps - description: undefined" url="http://talpa-asx.streaming.is.nl/streaming.asp?P=10503&amp;Q=WEB05_HQ"></endpoint>
+<endpoint name="Radio 10 Gold 60/70s - Internet only -  Netherlands" description="city: Internet only -  Netherlands - resolution: 128 Kbps - description: undefined" url="http://talpa-asx.streaming.is.nl/streaming.asp?P=10903&amp;Q=WEB09_HQ"></endpoint>
+<endpoint name="Radio Unique - Amsterdam - Netherlands" description="city: Amsterdam - Netherlands - resolution: 128 Kbps - description: undefined" url="http://212.79.240.174/Unique.asx"></endpoint>
+<endpoint name="Veronica192 - Internet only - Netherlands" description="city: Internet only - Netherlands - resolution: 96 Kbps - description: undefined" url="http://www.stream-server.nl/streams/Veronica675.pls"></endpoint>
+<endpoint name="Radio Mi Amigo - Amsterdam - Netherlands" description="city: Amsterdam - Netherlands - resolution: 128 Kbps - description: undefined" url="http://www.radio-miamigo.nl/128k.pls"></endpoint>
+<endpoint name="Radio Veronica - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://www.garnierstreamingmedia.com/asx/veronicaradio.asp"></endpoint>
+<endpoint name="P4 RadioRetro - Lillehammer - Norway" description="city: Lillehammer - Norway - resolution: 96 Kbps - description: undefined" url="http://mms-cluster2.nextra.no/P4_radioretro"></endpoint>
+<endpoint name="Radio Zlote Przeboje - Poznan - Poland" description="city: Poznan - Poland - resolution: 128 Kbps - description: undefined" url="http://www.radio.pionier.net.pl/stream.pls?radio=zloteprzeboje"></endpoint>
+<endpoint name="Złote Przeboje '80 - Internet only - Poland" description="city: Internet only - Poland - resolution: 128 Kbps - description: undefined" url="http://www.radio.pionier.net.pl/stream.pls?radio=tuba4"></endpoint>
+<endpoint name="RMF Słoneczne Przeboje - Kraków - Poland" description="city: Kraków - Poland - resolution: 48 Kbps - description: undefined" url="http://miastomuzyki.pl/rmfsprzeboje.asx"></endpoint>
+<endpoint name="RMF 80s - Kraków - Poland" description="city: Kraków - Poland - resolution: 48 Kbps - description: undefined" url="http://www.miastomuzyki.pl/rmf80s.asx"></endpoint>
+<endpoint name="Kiss Klassix - Albufeira - Portugal" description="city: Albufeira - Portugal - resolution: 64 Kbps - description: undefined" url="http://stream.stationplaylist.com/algarve"></endpoint>
+<endpoint name="Gold FM - Bucharest - Romania" description="city: Bucharest - Romania - resolution: 32 Kbps - description: undefined" url="http://80.86.106.110:8000/listen.pls"></endpoint>
+<endpoint name="Romantic Twist - Bucharest - Romania" description="city: Bucharest - Romania - resolution: 32 Kbps - description: undefined" url="http://81.196.2.157:8004/listen.pls"></endpoint>
+<endpoint name="Radio Lynx - Cool80s - Internet only - Romania" description="city: Internet only - Romania - resolution: 128 Kbps - description: undefined" url="http://www.radiolynx.ro:8128/live.m3u"></endpoint>
+<endpoint name="Love Radio Gold - Moscow - Russia" description="city: Moscow - Russia - resolution: 32 Kbps - description: undefined" url="http://stream.loveradio.ru:8000/Gold_32_mono.mp3.m3u"></endpoint>
+<endpoint name="Retro FM - Moscow - Russia" description="city: Moscow - Russia - resolution: 64 Kbps - description: undefined" url="http://audio.rambler.ru/play.html?id=166088"></endpoint>
+<endpoint name="Gamla Godingar 94.5 - Malmö - Sweden" description="city: Malmö - Sweden - resolution: 128 Kbps - description: undefined" url="http://93.182.176.123/listen.pls"></endpoint>
+<endpoint name="Hit FM Gold - Växjö - Sweden" description="city: Växjö - Sweden - resolution: 192 Kbps - description: undefined" url="http://gold24.xnk.nu:8080/listen.pls"></endpoint>
+<endpoint name="Radio Guld - Sundsvall - Sweden" description="city: Sundsvall - Sweden - resolution: 128 Kbps - description: undefined" url="http://www.guld.nu/lyssna_live.asx"></endpoint>
+<endpoint name="105 Classics - Basel - Switzerland" description="city: Basel - Switzerland - resolution: 128 Kbps - description: undefined" url="http://212.40.5.105:8000/listen.pls"></endpoint>
+<endpoint name="Energy 80s - Zurich - Switzerland" description="city: Zurich - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/energy80s-high.mp3.m3u"></endpoint>
+<endpoint name="Energy 90s - Zurich - Switzerland" description="city: Zurich - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/energy90s-high.mp3.m3u"></endpoint>
+<endpoint name="Traxx FM Gold Hits - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/traxx017-low.mp3.m3u"></endpoint>
+<endpoint name="Gold - London - United Kingdom" description="city: London - United Kingdom - resolution: 128 Kbps - description: undefined" url="http://mediasrv-sov.musicradio.com/CapitalGold"></endpoint>
+
+</section>
+<section description="" image="" name="Country Music">
+<endpoint name="Country Radio - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.play.cz/radio/countryradio32.asx"></endpoint>
+<endpoint name="DR Country - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://www.dr.dk/netradio/Metafiler/ASX/DR_Country_32.asx"></endpoint>
+<endpoint name="Country 108 - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://www.country108.com/listen.pls"></endpoint>
+<endpoint name="Útvarp Kántrýbær - Skagaströnd - Iceland" description="city: Skagaströnd - Iceland - resolution: 96 Kbps - description: undefined" url="http://93.95.74.162:8000/listen.pls%20"></endpoint>
+<endpoint name=" Country Mix 106.8 - Dublin - Ireland" description="city: Dublin - Ireland - resolution: 32 Kbps - description: undefined" url="http://streaming.planetwideradio.com/countrymix"></endpoint>
+<endpoint name="Country Power Station - Internet only - Italy" description="city: Internet only - Italy - resolution: 128 Kbps - description: undefined" url="http://s1.viastreaming.net:7490/listen.pls"></endpoint>
+<endpoint name="Nashville FM - Rotterdam - Netherlands" description="city: Rotterdam - Netherlands - resolution: 128 Kbps - description: undefined" url="http://www.nashvillefm.nl/live/breedband.pls"></endpoint>
+<endpoint name="P4 Radio Country - Lillehammer - Norway" description="city: Lillehammer - Norway - resolution: 96 Kbps - description: undefined" url="http://mms-cluster2.nextra.no/P4_country"></endpoint>
+<endpoint name="PolskaStacja Country - Internet only - Poland" description="city: Internet only - Poland - resolution: 128 Kbps - description: undefined" url="http://91.121.116.107:7300/listen.pls"></endpoint>
+<endpoint name="101.ru Country - Internet only - Russia" description="city: Internet only - Russia - resolution: 32 Kbps - description: undefined" url="http://www.101.ru/asx.asx?uid=39670&amp;bit=32"></endpoint>
+<endpoint name="Radio CountryTime - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://bigmamma.0808.ch:9000/listen.pls"></endpoint>
+<endpoint name="UKCountryRadio.com - Internet only - United Kingdom" description="city: Internet only - United Kingdom - resolution: 32 Kbps - description: undefined" url="http://ukcountryradio.com/ukcr.m3u"></endpoint>
+
+</section>
+<section description="" image="" name="RnB/HipHop">
+<endpoint name="Rádio Spin - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.play.cz/radio/radiospin32.asx"></endpoint>
+<endpoint name="Evropa 2 Lowrider - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 96 Kbps - description: undefined" url="http://ice-01.lagardere.cz/web-e2-lowrider.m3u"></endpoint>
+<endpoint name="DR R&amp;B - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://www.dr.dk/netradio/Metafiler/ASX/DR_RogB_32.asx"></endpoint>
+<endpoint name="DR HipHop - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://www.dr.dk/netradio/Metafiler/ASX/DR_Hiphop_32.asx"></endpoint>
+<endpoint name="Spin FM - Tallinn - Estonia" description="city: Tallinn - Estonia - resolution: 192 Kbps - description: undefined" url="http://striiming.trio.ee/spinfm.mp3.m3u"></endpoint>
+<endpoint name="Ado FM - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/start-adofm-high.mp3.pls"></endpoint>
+<endpoint name="Booster FM - Toulouse - France" description="city: Toulouse - France - resolution: 192 Kbps - description: undefined" url="http://boosterstu.nerim.net/bfm.m3u"></endpoint>
+<endpoint name="Generations 88.2 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/generationfm-high.mp3.m3u"></endpoint>
+<endpoint name="Generations R&amp;B Soul - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.net/generationfm-slowjam-high.mp3.m3u"></endpoint>
+<endpoint name="Generations Rap FR - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.net/generationfm-rap-high.mp3.m3u"></endpoint>
+<endpoint name="Generations Rap US - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.net/generationfm-underground-high.mp3.m3u"></endpoint>
+<endpoint name="Radio Laser - Rennes - France" description="city: Rennes - France - resolution: 56 Kbps - description: undefined" url="http://217.128.133.215:8000/stream.mp3.m3u"></endpoint>
+<endpoint name="Skyrock - Paris - France" description="city: Paris - France - resolution: 64 Kbps - description: undefined" url="http://vipmms9.yacast.net/encoderskyrock"></endpoint>
+<endpoint name="Antenne Bayern Black Beatz - Munich - Germany" description="city: Munich - Germany - resolution: 128 Kbps - description: undefined" url="mms://channels.webradio.antenne.de/black-beatz"></endpoint>
+<endpoint name="BeFM - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://server10.digital-webstream.de:19230/listen.pls"></endpoint>
+<endpoint name="DasDing Sprechstunde - Baden Baden - Germany" description="city: Baden Baden - Germany - resolution: 128 Kbps - description: undefined" url="http://edge.live.msmedia.mdn.newmedia.nacamar.net/swrdasdingraka02$livestream.wma"></endpoint>
+<endpoint name="HR You FM Black Musicstream - Frankfurt - Germany" description="city: Frankfurt - Germany - resolution: 128 Kbps - description: undefined" url="http://metafiles.gl-systemhaus.de/hr/youfm_black.m3u"></endpoint>
+<endpoint name="RPR1 RnB &amp; Soul - Ludwigshafen - Germany" description="city: Ludwigshafen - Germany - resolution: 64 Kbps - description: undefined" url="http://www.rpr1.de/ext/stream/stream.4.asx"></endpoint>
+<endpoint name="RauteMusik JaM - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://yp.shoutcast.com/sbin/shoutcast-playlist.pls?rn=4267&amp;file=filename.pls"></endpoint>
+<endpoint name="Luxfunk Radio - Internet only - Hungary" description="city: Internet only - Hungary - resolution: 192 Kbps - description: undefined" url="http://ebony.slip7.net/tunein.php/8085961224/playlist.pls"></endpoint>
+<endpoint name="105 Hip Hop - Milan - Italy" description="city: Milan - Italy - resolution: 64 Kbps - description: undefined" url="http://www.105.net/sezioni/inradio/radio/asx/ch_3.asx"></endpoint>
+<endpoint name="FunX NL - Rotterdam - Netherlands" description="city: Rotterdam - Netherlands - resolution: 128 Kbps - description: undefined" url="mms://live1.xs4all.nl/funx"></endpoint>
+<endpoint name="FunX Rotterdam - Rotterdam - Netherlands" description="city: Rotterdam - Netherlands - resolution: 128 Kbps - description: undefined" url="mms://live1.xs4all.nl/funx-rotterdam"></endpoint>
+<endpoint name="FunX Amsterdam - Amsterdam - Netherlands" description="city: Amsterdam - Netherlands - resolution: 128 Kbps - description: undefined" url="mms://live1.xs4all.nl/funx-amsterdam"></endpoint>
+<endpoint name="FunX Utrecht - Utrecht - Netherlands" description="city: Utrecht - Netherlands - resolution: 128 Kbps - description: undefined" url="mms://live1.xs4all.nl/funx-utrecht"></endpoint>
+<endpoint name="FunX Den Haag - The Hague - Netherlands" description="city: The Hague - Netherlands - resolution: 128 Kbps - description: undefined" url="mms://live1.xs4all.nl/funx-denhaag"></endpoint>
+<endpoint name="538 Juize - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://82.201.100.9:8000/juizefm.m3u"></endpoint>
+<endpoint name="Reflex FM - Amsterdam - Netherlands" description="city: Amsterdam - Netherlands - resolution: 128 Kbps - description: undefined" url="http://94.23.29.8:8888/listen.pls"></endpoint>
+<endpoint name="The Beat - Oslo - Norway" description="city: Oslo - Norway - resolution: 128 Kbps - description: undefined" url="mms://vbox1.radiometro.no/beat"></endpoint>
+<endpoint name="The Voice - Oslo - Norway" description="city: Oslo - Norway - resolution: 96 Kbps - description: undefined" url="http://85.196.91.162/VRADIO-96"></endpoint>
+<endpoint name="RMF R&amp;B - Kraków - Poland" description="city: Kraków - Poland - resolution: 48 Kbps - description: undefined" url="http://miastomuzyki.pl/rmfrnb.asx"></endpoint>
+<endpoint name="Eska Bounce - Warsaw - Poland" description="city: Warsaw - Poland - resolution: 128 Kbps - description: undefined" url="http://poznan5-2.radio.pionier.net.pl:8000/eska-stream3-1.ogg.m3u"></endpoint>
+<endpoint name="Eska Squad - Warsaw - Poland" description="city: Warsaw - Poland - resolution: 128 Kbps - description: undefined" url="http://poznan5-1.radio.pionier.net.pl:8000/eska-stream2-1.ogg.m3u"></endpoint>
+<endpoint name="Kiss The Flow - Internet only - Poland" description="city: Internet only - Poland - resolution: 128 Kbps - description: undefined" url="http://www.radio.pionier.net.pl/stream.pls?radio=tuba7"></endpoint>
+<endpoint name="ProFM Black - Bucharest - Romania" description="city: Bucharest - Romania - resolution: 48 Kbps - description: undefined" url="http://www.profm.ro/black.m3u"></endpoint>
+<endpoint name="Radio Lynx - Hip-Hop Lynx - Internet only - Romania" description="city: Internet only - Romania - resolution: 128 Kbps - description: undefined" url="http://www.radiolynx.ro:9328/live.m3u"></endpoint>
+<endpoint name="DFM Urban - Moscow - Russia" description="city: Moscow - Russia - resolution: 96 Kbps - description: undefined" url="http://cluster.quantumart.ru/broadcast/default.aspx?media=station04"></endpoint>
+<endpoint name="Love Radio RnB - Moscow - Russia" description="city: Moscow - Russia - resolution: 32 Kbps - description: undefined" url="http://stream.loveradio.ru:8000/Rnb_32_mono.mp3.m3u"></endpoint>
+<endpoint name="Radio Next - Moscow - Russia" description="city: Moscow - Russia - resolution: 32 Kbps - description: undefined" url="http://www.rambler-audio.ru/asx/radio/radiostation/next/next.asx"></endpoint>
+<endpoint name="Fun Radio HipHop/RnB - Bratislava - Slovakia" description="city: Bratislava - Slovakia - resolution: 64 Kbps - description: undefined" url="http://stream.funradio.sk:8000/hiphop64.mp3.m3u"></endpoint>
+<endpoint name="Sveriges Radio P3 Street - Stockholm - Sweden" description="city: Stockholm - Sweden - resolution: 96 Kbps - description: undefined" url="rtsp://rm-live.sr.se/broadcast/p3street.rm"></endpoint>
+<endpoint name="MRS - Stockholm - Sweden" description="city: Stockholm - Sweden - resolution: 128 Kbps - description: undefined" url="http://radiostreamthree.mine.nu:19050/listen.pls"></endpoint>
+<endpoint name="Virus Bounce - Basel - Switzerland" description="city: Basel - Switzerland - resolution: 192 Kbps - description: undefined" url="http://stream.virus.ch/bounce.m3u"></endpoint>
+<endpoint name="105 Dope - Basel - Switzerland" description="city: Basel - Switzerland - resolution: 128 Kbps - description: undefined" url="http://212.40.5.105:9000/listen.pls"></endpoint>
+<endpoint name="Energy Black - Zurich - Switzerland" description="city: Zurich - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/energyblack-high.mp3.m3u"></endpoint>
+<endpoint name="Traxx FM RnB - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/traxx007-low.mp3.m3u"></endpoint>
+<endpoint name="Traxx FM Soul - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/traxx006-low.mp3.m3u"></endpoint>
+<endpoint name="BBC 1Xtra - London - United Kingdom" description="city: London - United Kingdom - resolution: 64 Kbps - description: undefined" url="http://www.bbc.co.uk/1xtra/realmedia/1xtralive.ram"></endpoint>
+<endpoint name="BANG Radio - Harlesden - United Kingdom" description="city: Harlesden - United Kingdom - resolution: 128 Kbps - description: undefined" url="http://icecast.commedia.org.uk:8000/lifefm.mp3.m3u"></endpoint>
+
+</section>
+<section description="" image="" name="Top 40">
+<endpoint name="FG DJ Radio - Antwerp - Belgium" description="city: Antwerp - Belgium - resolution: 128 Kbps - description: undefined" url="http://www.radiofg.us/stream/radiofg-ant.pls"></endpoint>
+<endpoint name="Tempo FM - Kampenhout - Belgium" description="city: Kampenhout - Belgium - resolution: 48 Kbps - description: undefined" url="http://mirror1.livestream.tempo.fm/tempofm"></endpoint>
+<endpoint name="Top Radio - Gent - Belgium" description="city: Gent - Belgium - resolution: 128 Kbps - description: undefined" url="http://ns25042.ovh.net/streams/topgen_128mp3.m3u"></endpoint>
+<endpoint name="Topradio Aalter - Aalter - Belgium" description="city: Aalter - Belgium - resolution: 128 Kbps - description: undefined" url="http://www.topradioaalter.be/interactive/livestream.m3u"></endpoint>
+<endpoint name="Topradio Antwerpen - Antwerp - Belgium" description="city: Antwerp - Belgium - resolution: 128 Kbps - description: undefined" url="http://streams.lazernet.be:3595/listen.pls"></endpoint>
+<endpoint name="Radio Deejay - Zagreb - Croatia" description="city: Zagreb - Croatia - resolution: 128 Kbps - description: undefined" url="http://radiodeejay.hrvatski-hosting.com:8100/listen.pls"></endpoint>
+<endpoint name="Club Radio - Internet only - Czech Republic" description="city: Internet only - Czech Republic - resolution: 48 Kbps - description: undefined" url="http://radio.ipip.cz:7970/listen.pls"></endpoint>
+<endpoint name="Dance Radio - Internet only - Czech Republic" description="city: Internet only - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://www.play.cz/radio/danceradio128.mp3.m3u"></endpoint>
+<endpoint name="Fun 1 - Internet only - Czech Republic" description="city: Internet only - Czech Republic - resolution: 64 Kbps - description: undefined" url="http://www.fun1.cz/audio/fun1-64.m3u"></endpoint>
+<endpoint name="Evropa 2 Movin - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 96 Kbps - description: undefined" url="http://ice-01.lagardere.cz/web-e2-movin.m3u"></endpoint>
+<endpoint name="Radio DJ - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.play.cz/radio/inforadio32.asx"></endpoint>
+<endpoint name="SYKE.FM - Internet only - Finland" description="city: Internet only - Finland - resolution: 192 Kbps - description: undefined" url="http://syke.fm:8000/listen.pls"></endpoint>
+<endpoint name="Flash FM - Limoges - France" description="city: Limoges - France - resolution: 128 Kbps - description: undefined" url="http://live140.impek.com:8000/listen.pls"></endpoint>
+<endpoint name="Happy FM - Reims - France" description="city: Reims - France - resolution: 192 Kbps - description: undefined" url="http://88.191.44.54:8008/listen.pls"></endpoint>
+<endpoint name="HotmixRadio Dance - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.hotmixradio.fr/hotmix.m3u"></endpoint>
+<endpoint name="Kiss FM Dance - Nice - France" description="city: Nice - France - resolution: 128 Kbps - description: undefined" url="kissfmdance.m3u"></endpoint>
+<endpoint name="Radio FG - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://www.radiofg.com/streams/fg.pls"></endpoint>
+<endpoint name="Radio FG Underground - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://www.radiofg.com/streams/fgu.pls"></endpoint>
+<endpoint name="Radio FG Chic - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://fgc.impek.tv/listen.pls"></endpoint>
+<endpoint name="Radio FG America - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://fg6.impek.tv/listen.pls"></endpoint>
+<endpoint name="Radio FG Dance - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://fgd.impek.tv/listen.pls"></endpoint>
+<endpoint name="Radio FG Classics - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://www.radiofg.com/streams/fgv.pls"></endpoint>
+<endpoint name="Puls' Radio - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.pulsradio.com/pls/puls-adsl.m3u"></endpoint>
+<endpoint name="Radio NTI - Nantes - France" description="city: Nantes - France - resolution: 128 Kbps - description: undefined" url="http://www.tv-radio.com/station/nti-mp3/nti-mp3-128k.pls"></endpoint>
+<endpoint name="MixNation - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.mixnation.de/listen.pls"></endpoint>
+<endpoint name="Paris-One Club - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.paris-one.com/pls/radio.pls"></endpoint>
+<endpoint name="Paris-One Reverse - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.paris-one.com/pls/radio_v6.pls"></endpoint>
+<endpoint name="Paris-One Deeper - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.paris-one.com/pls/radio_deeper.pls"></endpoint>
+<endpoint name="Paris-One Trance - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.paris-one.com/pls/radio_trance.pls"></endpoint>
+<endpoint name="Paris-One Dance - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.paris-one.com/pls/radio_dance.pls"></endpoint>
+<endpoint name="Dance 106 - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://sc1.netstreamer.net:8110/listen.pls"></endpoint>
+<endpoint name="HR You FM Club Musicstream - Frankfurt - Germany" description="city: Frankfurt - Germany - resolution: 128 Kbps - description: undefined" url="http://metafiles.gl-systemhaus.de/hr/youfm_club.m3u"></endpoint>
+<endpoint name="Nova Radio - Munich - Germany" description="city: Munich - Germany - resolution: 128 Kbps - description: undefined" url="http://www.novaradio.de/stream.m3u"></endpoint>
+<endpoint name="Sunshine Live - Schwetzingen - Germany" description="city: Schwetzingen - Germany - resolution: 96 Kbps - description: undefined" url="http://62.26.214.248/sunshinelive/livestream.mp3.m3u"></endpoint>
+<endpoint name="RauteMusik Club - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://club-high.rautemusik.fm/listen.pls"></endpoint>
+<endpoint name="RauteMusik FunkY - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://funky-high.rautemusik.fm/listen.pls"></endpoint>
+<endpoint name="RauteMusik BigCityBeats - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://bcb-high.rautemusik.fm/listen.pls"></endpoint>
+<endpoint name="RauteMusik HardeR - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://harder-high.rautemusik.fm/listen.pls"></endpoint>
+<endpoint name="Venus Radio - Mykonos - Greece" description="city: Mykonos - Greece - resolution: 64 Kbps - description: undefined" url="http://s1.onweb.gr:8410/listen.pls"></endpoint>
+<endpoint name="RMNpowerstream - Internet only - Germany" description="city: Internet only - Germany - resolution: 192 Kbps - description: undefined" url="http://server.powerstream.de:30846/listen.pls"></endpoint>
+<endpoint name="92.9 Party FM - Kiskunhalason - Hungary" description="city: Kiskunhalason - Hungary - resolution: 96 Kbps - description: undefined" url="http://www.sztarnet.hu:9034/listen.pls"></endpoint>
+<endpoint name="Antenna Uno - Catania - Italy" description="city: Catania - Italy - resolution: 56 Kbps - description: undefined" url="http://84.33.192.44:8090/a1.mp3.m3u"></endpoint>
+<endpoint name="m2o - Rome - Italy" description="city: Rome - Italy - resolution: 32 Kbps - description: undefined" url="http://live.mediaserver.kataweb.it/m2o"></endpoint>
+<endpoint name="105 House - Milan - Italy" description="city: Milan - Italy - resolution: 64 Kbps - description: undefined" url="http://www.105.net/sezioni/inradio/radio/asx/ch_5.asx"></endpoint>
+<endpoint name="Progressive FM - Cēsis - Latvia" description="city: Cēsis - Latvia - resolution: 128 Kbps - description: undefined" url="http://85.15.231.57:8000/listen.pls"></endpoint>
+<endpoint name="Top Radio - Riga - Latvia" description="city: Riga - Latvia - resolution: 128 Kbps - description: undefined" url="http://77.93.23.12:8000/listen.pls"></endpoint>
+<endpoint name="Studio 7 - Kaunas - Lithuania" description="city: Kaunas - Lithuania - resolution: 128 Kbps - description: undefined" url="http://www.studio7.lt/high.m3u"></endpoint>
+<endpoint name="Antenna 5 Dance - Skopje - Macedonia" description="city: Skopje - Macedonia - resolution: 160 Kbps - description: undefined" url="http://217.16.69.17:8000/dancehits.mp3.m3u"></endpoint>
+<endpoint name="Antenna 5 Techno - Skopje - Macedonia" description="city: Skopje - Macedonia - resolution: 32 Kbps - description: undefined" url="http://217.16.69.17:8000/techno.mp3.m3u"></endpoint>
+<endpoint name="Club FM - Skopje - Macedonia" description="city: Skopje - Macedonia - resolution: 128 Kbps - description: undefined" url="http://217.16.69.17:8000/club.mp3.m3u"></endpoint>
+<endpoint name="Fresh FM - Zoetermeer - Netherlands" description="city: Zoetermeer - Netherlands - resolution: 128 Kbps - description: undefined" url="http://stream22.multikabel.net/listen.pls"></endpoint>
+<endpoint name="Radio Delta - Rotterdam - Netherlands" description="city: Rotterdam - Netherlands - resolution: 48 Kbps - description: undefined" url="mms://84.82.10.114:1050/"></endpoint>
+<endpoint name="XFM - Geldrop - Netherlands" description="city: Geldrop - Netherlands - resolution: 128 Kbps - description: undefined" url="http://streamserver6.telconet.nl:8100/listen.pls"></endpoint>
+<endpoint name="Track FM - Internet only - Netherlands" description="city: Internet only - Netherlands - resolution: 96 Kbps - description: undefined" url="http://82.94.255.191:8000/medium.m3u"></endpoint>
+<endpoint name="RMF Dance - Kraków - Poland" description="city: Kraków - Poland - resolution: 48 Kbps - description: undefined" url="http://miastomuzyki.pl/rmfdance.asx"></endpoint>
+<endpoint name="Kiss The Beat - Internet only - Poland" description="city: Internet only - Poland - resolution: 128 Kbps - description: undefined" url="http://www.radio.pionier.net.pl/stream.pls?radio=tuba6"></endpoint>
+<endpoint name="Eska Club - Warsaw - Poland" description="city: Warsaw - Poland - resolution: 128 Kbps - description: undefined" url="http://poznan5-2.radio.pionier.net.pl:8000/eska-stream4-1.ogg.m3u"></endpoint>
+<endpoint name="Eska Live RMX - Warsaw - Poland" description="city: Warsaw - Poland - resolution: 128 Kbps - description: undefined" url="http://warszawa1-1.radio.pionier.net.pl:8000/pl/eska-stream6-1.ogg.m3u"></endpoint>
+<endpoint name="BragaRadioDj - Internet only - Portugal" description="city: Internet only - Portugal - resolution: 128 Kbps - description: undefined" url="http://online.bragaradiodj.net:8002/listen.pls"></endpoint>
+<endpoint name="One FM - Bucharest - Romania" description="city: Bucharest - Romania - resolution: 48 Kbps - description: undefined" url="http://80.86.106.35:8000/listen.pls"></endpoint>
+<endpoint name="Vibe FM - Bucharest - Romania" description="city: Bucharest - Romania - resolution: 32 Kbps - description: undefined" url="http://89.238.252.146:9000/listen.pls"></endpoint>
+<endpoint name="Radio DEEA - Bucharest - Romania" description="city: Bucharest - Romania - resolution: 128 Kbps - description: undefined" url="http://radiodeea.ro/live/listen.pls"></endpoint>
+<endpoint name="ProFM Dance - Bucharest - Romania" description="city: Bucharest - Romania - resolution: 48 Kbps - description: undefined" url="http://www.profm.ro/dance.m3u"></endpoint>
+<endpoint name="Radio Lynx - DnB Lynx - Internet only - Romania" description="city: Internet only - Romania - resolution: 128 Kbps - description: undefined" url="http://www.radiolynx.ro:9828/live.m3u"></endpoint>
+<endpoint name="Radio Lynx - Club Lynx - Internet only - Romania" description="city: Internet only - Romania - resolution: 128 Kbps - description: undefined" url="http://www.radiolynx.ro:9528/live.m3u"></endpoint>
+<endpoint name="DFM Fresh - Moscow - Russia" description="city: Moscow - Russia - resolution: 96 Kbps - description: undefined" url="http://cluster.quantumart.ru/broadcast/default.aspx?media=station02"></endpoint>
+<endpoint name="DFM Club - Moscow - Russia" description="city: Moscow - Russia - resolution: 96 Kbps - description: undefined" url="http://cluster.quantumart.ru/broadcast/default.aspx?media=station01"></endpoint>
+<endpoint name="DFM Russian Dance - Moscow - Russia" description="city: Moscow - Russia - resolution: 96 Kbps - description: undefined" url="http://cluster.quantumart.ru/broadcast/default.aspx?media=station03"></endpoint>
+<endpoint name="Love Radio Dance - Moscow - Russia" description="city: Moscow - Russia - resolution: 32 Kbps - description: undefined" url="http://stream.loveradio.ru:8000/Dance_32_mono.mp3.m3u"></endpoint>
+<endpoint name="Radio Record - St.Petersburg - Russia" description="city: St.Petersburg - Russia - resolution: 128 Kbps - description: undefined" url="http://78.111.92.26:8000/listen.pls"></endpoint>
+<endpoint name="Radio Go Deejay - Trenčín - Slovakia" description="city: Trenčín - Slovakia - resolution: 64 Kbps - description: undefined" url="http://195.168.11.25:8000/live64.m3u"></endpoint>
+<endpoint name="Fun Radio Dance - Bratislava - Slovakia" description="city: Bratislava - Slovakia - resolution: 64 Kbps - description: undefined" url="http://stream.funradio.sk:8000/dance64.mp3.m3u"></endpoint>
+<endpoint name="Global FM - Madrid - Spain" description="city: Madrid - Spain - resolution: 192 Kbps - description: undefined" url="http://91.121.117.220:7000/listen.pls"></endpoint>
+<endpoint name="Ibiza Radio Global - Ibiza - Spain" description="city: Ibiza - Spain - resolution: 128 Kbps - description: undefined" url="http://s6.viastreaming.net:7010/listen.pls"></endpoint>
+<endpoint name="Loca FM Madrid - Madrid - Spain" description="city: Madrid - Spain - resolution: 32 Kbps - description: undefined" url="mms://205.234.167.58/avwebwinlive8162"></endpoint>
+<endpoint name="Loca FM Bilbao - Bilbao - Spain" description="city: Bilbao - Spain - resolution: 32 Kbps - description: undefined" url="http://www.locafmbilbao.com/locafm/windowsmedia/radio_online.asx"></endpoint>
+<endpoint name="Loca FM Ribera - Tudela - Spain" description="city: Tudela - Spain - resolution: 48 Kbps - description: undefined" url="http://91.121.173.214:8000/locafmtudela.mp3.m3u"></endpoint>
+<endpoint name="Loca FM Granada - Granada - Spain" description="city: Granada - Spain - resolution: 24 Kbps - description: undefined" url="http://80.33.41.41:8000/listen.pls"></endpoint>
+<endpoint name="Playdio - Internet only - Sweden" description="city: Internet only - Sweden - resolution: 128 Kbps - description: undefined" url="http://www.playdio.se/bredband.pls"></endpoint>
+<endpoint name="NERadio - Internet only - Sweden" description="city: Internet only - Sweden - resolution: 128 Kbps - description: undefined" url="http://www.neradio.se/listen.pls"></endpoint>
+<endpoint name="Radio Seven - Internet only - Sweden" description="city: Internet only - Sweden - resolution: 128 Kbps - description: undefined" url="http://www.radioseven.se/128.pls"></endpoint>
+<endpoint name="Virus Shake - Basel - Switzerland" description="city: Basel - Switzerland - resolution: 192 Kbps - description: undefined" url="http://stream.virus.ch/shake.m3u"></endpoint>
+<endpoint name="DJ Radio - Zurich - Switzerland" description="city: Zurich - Switzerland - resolution: 64 Kbps - description: undefined" url="http://wms01.green.ch/djradio"></endpoint>
+<endpoint name="Energy Dance - Zurich - Switzerland" description="city: Zurich - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/energydance-high.mp3.m3u"></endpoint>
+<endpoint name="Rouge Platine - Lausanne - Switzerland" description="city: Lausanne - Switzerland - resolution: 48 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/rougeplatine-low.mp3.m3u"></endpoint>
+<endpoint name="Traxx FM Electro - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/traxx003-low.mp3.m3u"></endpoint>
+<endpoint name="Traxx FM House - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/traxx002-low.mp3.m3u"></endpoint>
+<endpoint name="Traxx FM Deep - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/traxx013-low.mp3.m3u"></endpoint>
+<endpoint name="Kiss FM - Kyiv - Ukraine" description="city: Kyiv - Ukraine - resolution: 64 Kbps - description: undefined" url="http://193.84.77.74:8000/kiss-fm-64k.ogg.m3u"></endpoint>
+<endpoint name="MyRadio Dance Club - Internet only - Ukraine" description="city: Internet only - Ukraine - resolution: 64 Kbps - description: undefined" url="http://myradio.com.ua/alias/dance32.m3u"></endpoint>
+<endpoint name="MyRadio Electro House - Internet only - Ukraine" description="city: Internet only - Ukraine - resolution: 64 Kbps - description: undefined" url="http://myradio.com.ua/alias/Electro-House32.m3u"></endpoint>
+<endpoint name="MyRadio Trance &amp; Progressive - Internet only - Ukraine" description="city: Internet only - Ukraine - resolution: 64 Kbps - description: undefined" url="http://myradio.com.ua/alias/trance32.m3u"></endpoint>
+<endpoint name="NonStopPlay.com - Internet only - United Kingdom" description="city: Internet only - United Kingdom - resolution: 128 Kbps - description: undefined" url="http://www.nonstopplay.com/listen.pls"></endpoint>
+
+</section>
+<section description="" image="" name="Rock / Classic Rock">
+<endpoint name="Antenne Vorarlberg - Classic Rock - Schwarzach - Austria" description="city: Schwarzach - Austria - resolution: 128 Kbps - description: undefined" url="http://194.208.21.29:8030/listen.pls"></endpoint>
+<endpoint name="Radio 1 Rock - Sofia - Bulgaria" description="city: Sofia - Bulgaria - resolution: 48 Kbps - description: undefined" url="http://www.radio1rock.bg/radio1rocklow.m3u"></endpoint>
+<endpoint name="Radio Z-Rock - Sofia - Bulgaria" description="city: Sofia - Bulgaria - resolution: 36 Kbps - description: undefined" url="http://zrock.atlantis.bg:8000/zrock_low.ogg.m3u"></endpoint>
+<endpoint name="Radio Beat - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.abradio.cz/asx/beat32.asx"></endpoint>
+<endpoint name="Evropa 2 Heavy - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 96 Kbps - description: undefined" url="http://ice-01.lagardere.cz/web-e2-heavy.m3u"></endpoint>
+<endpoint name="RockMax Rádio - Zlín - Czech Republic" description="city: Zlín - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.play.cz/radio/rockmax32.asx"></endpoint>
+<endpoint name="RockZone 105,9 - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.play.cz/radio/rockzone32.asx"></endpoint>
+<endpoint name="RockJam Radio - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://217.73.17.75:8106/listen.pls"></endpoint>
+<endpoint name="RockJam Hity - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://217.73.17.75:8010/listen.pls"></endpoint>
+<endpoint name="RockJam Klasika - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://217.73.17.75:8012/listen.pls"></endpoint>
+<endpoint name="RockJam Metal - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://217.73.17.75:8014/listen.pls"></endpoint>
+<endpoint name="RockJam Punk - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://217.73.17.75:8016/listen.pls"></endpoint>
+<endpoint name="DR Rock - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://www.dr.dk/netradio/Metafiler/ASX/DR_Rock_32.asx"></endpoint>
+<endpoint name="Radio Mania - Tallinn - Estonia" description="city: Tallinn - Estonia - resolution: 128 Kbps - description: undefined" url="mms://real.datanet.ee/wmtencoder/mania"></endpoint>
+<endpoint name="Virgin Radio Rock Classics 70 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://viplagardere.yacast.net/vra_webradio03"></endpoint>
+<endpoint name="Virgin Radio Rock UK 80 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://viplagardere.yacast.net/vra_webradio06"></endpoint>
+<endpoint name="Virgin Radio Rock US 80 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://viplagardere.yacast.net/vra_webradio04"></endpoint>
+<endpoint name="Oui FM - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/ouifm-high.mp3.m3u"></endpoint>
+<endpoint name="Oui FM3 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://ouifm3.impek.com/listen.pls"></endpoint>
+<endpoint name="HotmixRadio Rock - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.hotmixradio.fr/hotmixrock.m3u"></endpoint>
+<endpoint name="RPR1 Rock - Ludwigshafen - Germany" description="city: Ludwigshafen - Germany - resolution: 96 Kbps - description: undefined" url="http://217.151.151.46/rock"></endpoint>
+<endpoint name="Rockland Radio - Pirmasens - Germany" description="city: Pirmasens - Germany - resolution: 128 Kbps - description: undefined" url="http://rockland.ice.streaming.spacenet.de/rockland.m3u"></endpoint>
+<endpoint name="Radio 21 - Garbsen - Germany" description="city: Garbsen - Germany - resolution: 128 Kbps - description: undefined" url="http://www.radio21.de/cms/fileadmin/playlist/radio21.m3u"></endpoint>
+<endpoint name="Rock Antenne - Munich - Germany" description="city: Munich - Germany - resolution: 96 Kbps - description: undefined" url="mms://wms.webradio.rockantenne.de"></endpoint>
+<endpoint name="Rocky FM - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://www.rockyfm.com/listen.pls"></endpoint>
+<endpoint name="105 Rock Hits - Milan - Italy" description="city: Milan - Italy - resolution: 64 Kbps - description: undefined" url="http://shoutcast.unitedradio.it:1117/listen.pls"></endpoint>
+<endpoint name="Arrow Classic Rock - The Hague - Netherlands" description="city: The Hague - Netherlands - resolution: 128 Kbps - description: undefined" url="http://www.garnierstreamingmedia.com/asx/streamerswitch.asp?stream=205"></endpoint>
+<endpoint name="City FM - Sneek - Netherlands" description="city: Sneek - Netherlands - resolution: 128 Kbps - description: undefined" url="http://81.26.220.13/listen.pls"></endpoint>
+<endpoint name="Nova Classic Rock - The Hague - Netherlands" description="city: The Hague - Netherlands - resolution: 128 Kbps - description: undefined" url="http://fastcast4u.com:9106/listen.pls"></endpoint>
+<endpoint name="P4 Bandit - Lillehammer - Norway" description="city: Lillehammer - Norway - resolution: 96 Kbps - description: undefined" url="http://mms-cluster2.nextra.no/P4_Bandit"></endpoint>
+<endpoint name="Radio Eska Rock - Warsaw - Poland" description="city: Warsaw - Poland - resolution: 128 Kbps - description: undefined" url="http://warszawa.radio.pionier.net.pl:8000/pl/eskarock.ogg.m3u"></endpoint>
+<endpoint name="RMF Classic Rock - Kraków - Poland" description="city: Kraków - Poland - resolution: 48 Kbps - description: undefined" url="http://miastomuzyki.pl/rmfclassicrock.asx"></endpoint>
+<endpoint name="RMF Rock - Kraków - Poland" description="city: Kraków - Poland - resolution: 48 Kbps - description: undefined" url="http://miastomuzyki.pl/rmfrock.asx"></endpoint>
+<endpoint name="Roxy FM - Poznań - Poland" description="city: Poznań - Poland - resolution: 128 Kbps - description: undefined" url="http://www.radio.pionier.net.pl/stream.pls?radio=roxyfm"></endpoint>
+<endpoint name="Roxy FM Fresh - Internet only - Poland" description="city: Internet only - Poland - resolution: 128 Kbps - description: undefined" url="http://www.radio.pionier.net.pl/stream.pls?radio=tuba1"></endpoint>
+<endpoint name="Roxy FM Rewind - Internet only - Poland" description="city: Internet only - Poland - resolution: 128 Kbps - description: undefined" url="http://www.radio.pionier.net.pl/stream.pls?radio=tuba2"></endpoint>
+<endpoint name="PolskaStacja Modern Rock - Internet only - Poland" description="city: Internet only - Poland - resolution: 48 Kbps - description: undefined" url="http://www.polskastacja.pl/play/aac_mrock.pls"></endpoint>
+<endpoint name="Złote Przeboje Klasyka Rocka - Internet only - Poland" description="city: Internet only - Poland - resolution: 128 Kbps - description: undefined" url="http://www.radio.pionier.net.pl/stream.pls?radio=tuba11"></endpoint>
+<endpoint name="Best Rock FM - Lisbon - Portugal" description="city: Lisbon - Portugal - resolution: 32 Kbps - description: undefined" url="http://bestrock.clix.pt/asx/estrangeiro/bestrockfm48.asx"></endpoint>
+<endpoint name="Radio Maximum - Moscow - Russia" description="city: Moscow - Russia - resolution: 96 Kbps - description: undefined" url="http://broadcast01.station.ru/maximum"></endpoint>
+<endpoint name="Radio ROKS - St. Petersburg - Russia" description="city: St. Petersburg - Russia - resolution: 48 Kbps - description: undefined" url="http://roks.ru/air/roks_low.m3u"></endpoint>
+<endpoint name="Fun Radio Rock - Bratislava - Slovakia" description="city: Bratislava - Slovakia - resolution: 64 Kbps - description: undefined" url="http://stream.funradio.sk:8000/rock64.mp3.m3u"></endpoint>
+<endpoint name="Sveriges Radio P3 Rockster - Stockholm - Sweden" description="city: Stockholm - Sweden - resolution: 96 Kbps - description: undefined" url="rtsp://rm-live.sr.se/broadcast/p3rockster.rm"></endpoint>
+<endpoint name="Rocket FM 95.3 - Stockholm - Sweden" description="city: Stockholm - Sweden - resolution: 24 Kbps - description: undefined" url="http://stream.thsradio.se:8000/rocket_lo.mp3.m3u"></endpoint>
+<endpoint name="Kiss Rock FM 98,6 - Östra Göinge - Sweden" description="city: Östra Göinge - Sweden - resolution: 128 Kbps - description: undefined" url="http://radio.kissrock.se:9000/listen.pls"></endpoint>
+<endpoint name="Energy Rock - Zurich - Switzerland" description="city: Zurich - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/energyrock-high.mp3.m3u"></endpoint>
+<endpoint name="Rock Nation - Zurich - Switzerland" description="city: Zurich - Switzerland - resolution: 128 Kbps - description: undefined" url="http://105-stream-02.datacomm.ch:8000/rocknation.m3u"></endpoint>
+<endpoint name="Absolute Classic Rock - London - United Kingdom" description="city: London - United Kingdom - resolution: 32 Kbps - description: undefined" url="http://network.absoluteradio.co.uk/core/audio/real/live.smi?service=vc"></endpoint>
+<endpoint name="Kerrang! - Digital Network - United Kingdom" description="city: Digital Network - United Kingdom - resolution: 112 Kbps - description: undefined" url="http://tx.whatson.com/icecast.php?i=kerrang.mp3.m3u"></endpoint>
+<endpoint name="Radio Caroline - Digital Network - United Kingdom" description="city: Digital Network - United Kingdom - resolution: 64 Kbps - description: undefined" url="http://lazygit.no-ip.info:5560/listen.pls"></endpoint>
+
+
+</section>
+<section description="" image="" name="Alternative Rock">
+<endpoint name="97.9 FM Das SoundPortal - Graz - Austria" description="city: Graz - Austria - resolution: 64 Kbps - description: undefined" url="http://www.soundportal.at:8000/live64.pls"></endpoint>
+<endpoint name="Radio 1 - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.play.cz/radio/radio1-32.asx"></endpoint>
+<endpoint name="RockJam New Wave - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://217.73.17.75:8018/listen.pls"></endpoint>
+<endpoint name="RockJam Indies - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 128 Kbps - description: undefined" url="http://217.73.17.75:8022/listen.pls"></endpoint>
+<endpoint name="DR Barometer - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://www.dr.dk/netradio/Metafiler/ASX/DR_Barometer_32.asx"></endpoint>
+<endpoint name="Virgin Radio Rock Alternative - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="mms://viplagardere.yacast.net/vra_webradio01"></endpoint>
+<endpoint name="Oui FM2 - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://ouifm2.impek.com:80/listen.pls"></endpoint>
+<endpoint name="BR on3radio - Munich - Germany" description="city: Munich - Germany - resolution: 56 Kbps - description: undefined" url="http://streams.br-online.de/jugend-radio_1.m3u"></endpoint>
+<endpoint name="XFM - Dublin - Ireland" description="city: Dublin - Ireland - resolution: 96 Kbps - description: undefined" url="http://xfmdublin.com/live.pls"></endpoint>
+<endpoint name="EldoRadio Alternative - Luxembourg - Luxembourg" description="city: Luxembourg - Luxembourg - resolution: 128 Kbps - description: undefined" url="http://sc-alternative.eldoradio.lu/listen.pls"></endpoint>
+<endpoint name="Kink FM - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://ms.stream.garnierprojects.com/kinkfm"></endpoint>
+<endpoint name="Eska Xtreme - Warsaw - Poland" description="city: Warsaw - Poland - resolution: 128 Kbps - description: undefined" url="http://poznan5-1.radio.pionier.net.pl:8000/eska-stream1-1.ogg.m3u"></endpoint>
+<endpoint name="Roxy FM Alternative - Internet only - Poland" description="city: Internet only - Poland - resolution: 128 Kbps - description: undefined" url="http://www.tuba.fm/stream.pls?radio=18&amp;ogg=1"></endpoint>
+<endpoint name="ProFM Alternative - Bucharest - Romania" description="city: Bucharest - Romania - resolution: 48 Kbps - description: undefined" url="http://www.profm.ro/alternativ.m3u"></endpoint>
+<endpoint name="Radio Lynx - Alternativ Lynx - Internet only - Romania" description="city: Internet only - Romania - resolution: 128 Kbps - description: undefined" url="http://www.radiolynx.ro:9228/live.m3u"></endpoint>
+<endpoint name="Love Radio Alternative - Moscow - Russia" description="city: Moscow - Russia - resolution: 32 Kbps - description: undefined" url="http://stream.loveradio.ru:8000/Alternative_32_mono.mp3.m3u"></endpoint>
+<endpoint name="Ultra 100.5 - Moscow - Russia" description="city: Moscow - Russia - resolution: 48 Kbps - description: undefined" url="mms://wma.radioultra.ru:80/Ultra128?WMContentBitrate=48000"></endpoint>
+<endpoint name="Nation Radio - Cardiff - United Kingdom" description="city: Cardiff - United Kingdom - resolution: 64 Kbps - description: undefined" url="http://www.mybroadbandradio.com/asx/listen.asx?station=NATION"></endpoint>
+<endpoint name="NME Radio - London - United Kingdom" description="city: London - United Kingdom - resolution: 128 Kbps - description: undefined" url="http://broker.proradiostreaming.com/?Type=mediaplayer&amp;Stream=nmewrn"></endpoint>
+
+</section>
+
+<section description="" image="" name="CChillout, Lounge and Ambient Music">
+<endpoint name="M2 Chillout - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.m2radio.fr/pls/m2chillout_winamp.m3u"></endpoint>
+<endpoint name="Antenne Bayern Chillout - Munich - Germany" description="city: Munich - Germany - resolution: 96 Kbps - description: undefined" url="mms://channels.webradio.antenne.de/chillout"></endpoint>
+<endpoint name="RMNrelax - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://rmnrelax1.powerstream.de:8023/listen.pls"></endpoint>
+<endpoint name="RauteMusik Lounge - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://lounge-high.rautemusik.fm/listen.pls"></endpoint>
+<endpoint name="ChillPlusz - Szeged - Hungary" description="city: Szeged - Hungary - resolution: 128 Kbps - description: undefined" url="http://stream.radioplusz.fm:8028/listen.pls"></endpoint>
+<endpoint name="RMC 2 - Milan - Italy" description="city: Milan - Italy - resolution: 64 Kbps - description: undefined" url="http://shoutcast.unitedradio.it:1107/listen.pls"></endpoint>
+<endpoint name="EldoRadio Chill - Luxembourg - Luxembourg" description="city: Luxembourg - Luxembourg - resolution: 160 Kbps - description: undefined" url="http://sc-chill.eldoradio.lu/listen.pls"></endpoint>
+<endpoint name="Antenna 5 Chillout - Skopje - Macedonia" description="city: Skopje - Macedonia - resolution: 160 Kbps - description: undefined" url="http://217.16.69.17:8000/chillouthits.mp3.m3u"></endpoint>
+<endpoint name="ChilliZet - Warsaw - Poland" description="city: Warsaw - Poland - resolution: 64 Kbps - description: undefined" url="http://194.242.39.21/site/chillizet.pls"></endpoint>
+<endpoint name="RMF Chillout - Kraków - Poland" description="city: Kraków - Poland - resolution: 48 Kbps - description: undefined" url="http://www.miastomuzyki.pl/rmfchillout.asx"></endpoint>
+<endpoint name="Radio Horyzont - Internet only - Poland" description="city: Internet only - Poland - resolution: 128 Kbps - description: undefined" url="http://radiohoryzont.net:9050/listen.pls"></endpoint>
+<endpoint name="PolskaStacja Chillout - Internet only - Poland" description="city: Internet only - Poland - resolution: 48 Kbps - description: undefined" url="http://www.polskastacja.pl/play/aac_chillout.pls"></endpoint>
+<endpoint name="101.ru Office Lounge - Internet only - Russia" description="city: Internet only - Russia - resolution: 48 Kbps - description: undefined" url="http://www.101.ru/asx.asx?uid=27&amp;bit=de32"></endpoint>
+<endpoint name="Love Radio Chill - Moscow - Russia" description="city: Moscow - Russia - resolution: 32 Kbps - description: undefined" url="http://stream.loveradio.ru:8000/Chill_32_mono.mp3.m3u"></endpoint>
+<endpoint name="Radio Monte Carlo - St Petersburg - Russia" description="city: St Petersburg - Russia - resolution: 128 Kbps - description: undefined" url="http://stream1.radiostyle.ru:8001/rmcspb.m3u"></endpoint>
+<endpoint name="Traxx FM Lounge - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/traxx004-low.mp3.m3u"></endpoint>
+<endpoint name="Lounge-Radio.com - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://radio.mesh-server.com:8050/listen.pls"></endpoint>
+<endpoint name="MyRadio Lounge - Internet only - Ukraine" description="city: Internet only - Ukraine - resolution: 40 Kbps - description: undefined" url="http://myradio.com.ua/alias/LOUNGE32.m3u"></endpoint>
+<endpoint name="Chill - Digital Network - United Kingdom" description="city: Digital Network - United Kingdom - resolution: 128 Kbps - description: undefined" url="http://mediasrv-the.musicradio.com/Chill"></endpoint>
+
+</section>
+
+<section description="" image="" name="Jazz music">
+<endpoint name="VRT Klara Jazz - Brussels - Belgium" description="city: Brussels - Belgium - resolution: 16 Kbps - description: undefined" url="http://www.listenlive.eu/vrtklarajazz-low.m3u"></endpoint>
+<endpoint name="Crooze.fm - Antwerp - Belgium" description="city: Antwerp - Belgium - resolution: 128 Kbps - description: undefined" url="http://streams.lazernet.be:2580/listen.pls"></endpoint>
+<endpoint name="Jazz FM - Sofia - Bulgaria" description="city: Sofia - Bulgaria - resolution: 36 Kbps - description: undefined" url="http://193.108.24.6:8000/jazzfm_low.ogg.m3u"></endpoint>
+<endpoint name="Radio Jazz - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.abradio.cz/asx/jazz.asx"></endpoint>
+<endpoint name="Radio Blues - Prague, - Czech Republic" description="city: Prague, - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.abradio.cz/asx/blues64.asx"></endpoint>
+<endpoint name="Radio Swing - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.abradio.cz/asx/swing.asx"></endpoint>
+<endpoint name="DR Jazz - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://www.dr.dk/netradio/Metafiler/ASX/DR_Jazz_32.asx"></endpoint>
+<endpoint name="Jazz Radio - Lyon - France" description="city: Lyon - France - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/jazzradio-high.mp3.pls"></endpoint>
+<endpoint name="LinasJazz - Internet only - France" description="city: Internet only - France - resolution: 128 Kbps - description: undefined" url="http://www.streamakaci.com/radios/linas.m3u"></endpoint>
+<endpoint name="Swing FM - Limoges - France" description="city: Limoges - France - resolution: 128 Kbps - description: undefined" url="http://www.swingfm.asso.fr/html/mp3.m3u"></endpoint>
+<endpoint name="TSF - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.net/tsfjazz-high.mp3.m3u"></endpoint>
+<endpoint name="Radio Syndicate 104.3 - Tbilisi - Georgia" description="city: Tbilisi - Georgia - resolution: 128 Kbps - description: undefined" url="mms://media.caucasus.net/104.3"></endpoint>
+<endpoint name="SR 2 - Off-Beat - Saarbrücken - Germany" description="city: Saarbrücken - Germany - resolution: 96 Kbps - description: undefined" url="http://streaming02.sr-online.de/sr2offbeat.m3u"></endpoint>
+<endpoint name="Jazz FM - Debrecen - Hungary" description="city: Debrecen - Hungary - resolution: 128 Kbps - description: undefined" url="http://92.249.143.18:8000/listen.pls"></endpoint>
+<endpoint name="Jazz Radio - Budapest - Hungary" description="city: Budapest - Hungary - resolution: 56 Kbps - description: undefined" url="http://www.jazzradio.hu/jazzradio_ogg_56.m3u"></endpoint>
+<endpoint name="90.9 Jazzy - Budapest - Hungary" description="city: Budapest - Hungary - resolution: 96 Kbps - description: undefined" url="http://www.sztarnet.hu/Jazzy/online_2.m3u"></endpoint>
+<endpoint name="Jazz FM - Vilnius - Lithuania" description="city: Vilnius - Lithuania - resolution: 64 Kbps - description: undefined" url="http://mms.skynet.lt/JazzFM.asx"></endpoint>
+<endpoint name="Pūkas 2 - Kaunas - Lithuania" description="city: Kaunas - Lithuania - resolution: 128 Kbps - description: undefined" url="http://82.135.234.195/pukas2.asx"></endpoint>
+<endpoint name="Jazz FM - Skopje - Macedonia" description="city: Skopje - Macedonia - resolution: 128 Kbps - description: undefined" url="http://217.16.69.17:8000/jazz.mp3.m3u"></endpoint>
+<endpoint name="Arrow Jazz 90,7 - The Hague - Netherlands" description="city: The Hague - Netherlands - resolution: 128 Kbps - description: undefined" url="http://www.garnierstreamingmedia.com/asx/streamerswitch.asp?stream=204"></endpoint>
+<endpoint name="Concertzender Jazz - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://shoutcast.omroep.nl:8162/listen.pls"></endpoint>
+<endpoint name="Radio 6 Jazz - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://shoutcast.omroep.nl:8192/listen.pls"></endpoint>
+<endpoint name="RMF Smooth Jazz - Kraków - Poland" description="city: Kraków - Poland - resolution: 48 Kbps - description: undefined" url="http://www.miastomuzyki.pl/rmfsjazz.asx"></endpoint>
+<endpoint name="JazzNet.ru - Internet only - Russia" description="city: Internet only - Russia - resolution: 96 Kbps - description: undefined" url="mms://217.74.164.251/128"></endpoint>
+<endpoint name="RadioJAZZ.fm - Internet only - Poland" description="city: Internet only - Poland - resolution: 160 Kbps - description: undefined" url="http://shot4.inten.pl:8252/listen.pls"></endpoint>
+<endpoint name="PolskaStacja Jazz - Internet only - Poland" description="city: Internet only - Poland - resolution: 48 Kbps - description: undefined" url="http://www.polskastacja.pl/play/aac_jazz.pls"></endpoint>
+<endpoint name="Smoothjazz.com.pl - Internet only - Poland" description="city: Internet only - Poland - resolution: 128 Kbps - description: undefined" url="http://sc2.soundcast.pl:8216/listen.pls"></endpoint>
+<endpoint name="Smooth Jazz Cafe - Internet only - Poland" description="city: Internet only - Poland - resolution: 128 Kbps - description: undefined" url="http://www.radio.pionier.net.pl/stream.pls?radio=tuba5"></endpoint>
+<endpoint name="Radio Hermitage - St. Petersburg - Russia" description="city: St. Petersburg - Russia - resolution: 128 Kbps - description: undefined" url="rtsp://213.170.86.230:554/encoder/hermitage.rm"></endpoint>
+<endpoint name="Radio Jazz - Moscow - Russia" description="city: Moscow - Russia - resolution: 32 Kbps - description: undefined" url="http://audio.rambler.ru/asx/radio/radiostation/jazz/jazz32.asx"></endpoint>
+<endpoint name="101.ru Jazz - Internet only - Russia" description="city: Internet only - Russia - resolution: 32 Kbps - description: undefined" url="http://www.101.ru/asx.asx?uid=26029&amp;bit=de32"></endpoint>
+<endpoint name="101.ru Smooth Jazz - Internet only - Russia" description="city: Internet only - Russia - resolution: 32 Kbps - description: undefined" url="http://www.101.ru/asx.asx?uid=30&amp;bit=de32"></endpoint>
+<endpoint name="Special Radio - Internet only, - Russia" description="city: Internet only, - Russia - resolution: 64 Kbps - description: undefined" url="http://www.specialradio.ru/10.asx"></endpoint>
+<endpoint name="iCat Jazz - Barcelona - Spain" description="city: Barcelona - Spain - resolution: 64 Kbps - description: undefined" url="http://icatjazz.directe-wm.emissio.catradio.cat/reflector:34439?WMCache=0"></endpoint>
+<endpoint name="All That Jazz - Internet only - Spain" description="city: Internet only - Spain - resolution: 32 Kbps - description: undefined" url="http://asx.abacast.com/jazz_fm-jazzfm-32.asx"></endpoint>
+<endpoint name="Swiss Jazz - Bern - Switzerland" description="city: Bern - Switzerland - resolution: 128 Kbps - description: undefined" url="http://www.radioswissjazz.ch/live/mp3.m3u"></endpoint>
+<endpoint name="Radio Jazz International - Crissier - Switzerland" description="city: Crissier - Switzerland - resolution: 128 Kbps - description: undefined" url="http://broadcast.infomaniak.ch/radiojazz-high.mp3.pls"></endpoint>
+<endpoint name="Radio Crazy Jazz - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://www.swissradio.ch/streams/6054.m3u"></endpoint>
+<endpoint name="Radio Crazy Modern Jazz - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://www.swissradio.ch/streams/6092.m3u"></endpoint>
+<endpoint name="TSTU Jazz - Ternopil - Ukraine" description="city: Ternopil - Ukraine - resolution: 192 Kbps - description: undefined" url="http://radio.tstu.edu.ua:8000/jazz.m3u"></endpoint>
+<endpoint name="Jazz FM - London - United Kingdom" description="city: London - United Kingdom - resolution: 64 Kbps - description: undefined" url="http://tlrc.as34763.net/live.asx?station=jazz1"></endpoint>
+
+</section>
+
+<section description="" image="" name="Classical music">
+<endpoint name="Radio Stephansdom - Vienna - Austria" description="city: Vienna - Austria - resolution: 32 Kbps - description: undefined" url="http://srvhost24.serverhosting.apa.net:8000/rsdstream32.m3u"></endpoint>
+<endpoint name="VRT Radio Klara - Brussels - Belgium" description="city: Brussels - Belgium - resolution: 16 Kbps - description: undefined" url="http://www.listenlive.eu/vrtklara-low.m3u"></endpoint>
+<endpoint name="VRT Klara Continuo - Brussels - Belgium" description="city: Brussels - Belgium - resolution: 16 Kbps - description: undefined" url="http://www.listenlive.eu/vrtklaracontinuo-low.m3u"></endpoint>
+<endpoint name="RTBF Musiq 3 - Brussels - Belgium" description="city: Brussels - Belgium - resolution: 128 Kbps - description: undefined" url="http://streaming.rtbf.be:8000/mus3128xrtbf.m3u"></endpoint>
+<endpoint name="Classic FM - Sofia - Bulgaria" description="city: Sofia - Bulgaria - resolution: 32 Kbps - description: undefined" url="http://classic-nonstop.atlantis.bg:8000/classic_nonstop_low.ogg.m3u"></endpoint>
+<endpoint name="Bayrak Klasik - Lefkosa - Cyprus" description="city: Lefkosa - Cyprus - resolution: 20 Kbps - description: undefined" url="mms://bms.brtk.net/bayrak-classic"></endpoint>
+<endpoint name="ČRo D-dur - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.rozhlas.cz/audio/download/croddur-32.asx"></endpoint>
+<endpoint name="Classic FM - Prague - Czech Republic" description="city: Prague - Czech Republic - resolution: 32 Kbps - description: undefined" url="http://www.play.cz/radio/classic32.asx"></endpoint>
+<endpoint name="Danmarks Radio P2 - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://www.dr.dk/netradio/Metafiler/ASX/DR_P2_32.asx"></endpoint>
+<endpoint name="DR Klassisk - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://www.dr.dk/netradio/Metafiler/ASX/DR_Klassisk_32.asx"></endpoint>
+<endpoint name="DR Allegro - Copenhagen - Denmark" description="city: Copenhagen - Denmark - resolution: 32 Kbps - description: undefined" url="http://www.dr.dk/netradio/Metafiler/ASX/DR_Allegro_32.asx"></endpoint>
+<endpoint name="Klassikaraadio - Tallinn - Estonia" description="city: Tallinn - Estonia - resolution: 96 Kbps - description: undefined" url="http://klassikaraadio.err.ee/gfx/klassik.ram"></endpoint>
+<endpoint name="YLE Ylen Klassinen - Helsinki - Finland" description="city: Helsinki - Finland - resolution: 192 Kbps - description: undefined" url="http://mediau.yle.fi/liveklassinen"></endpoint>
+<endpoint name="Rondo FM - Helsinki - Finland" description="city: Helsinki - Finland - resolution: 48 Kbps - description: undefined" url="mms://mms.rondofm.fi/Rondo"></endpoint>
+<endpoint name="France Vivace - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://www.tv-radio.com/station/france_vivace_mp3/france_vivace_mp3-128k.m3u"></endpoint>
+<endpoint name="Accent 4 - Strasbourg - France" description="city: Strasbourg - France - resolution: 48 Kbps - description: undefined" url="http://str0.creacast.com:900/listen.pls"></endpoint>
+<endpoint name="Radio Classique - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://players.creacast.com/creacast/classique/playlist.pls"></endpoint>
+<endpoint name="Radio Classique Cinéma - Paris - France" description="city: Paris - France - resolution: 128 Kbps - description: undefined" url="http://str2.creacast.com:94/listen.pls"></endpoint>
+<endpoint name="Radio Classique Tubes - Paris - France" description="city: Paris - France - resolution: 96 Kbps - description: undefined" url="http://str2.creacast.com:96/listen.pls"></endpoint>
+<endpoint name="Radio Classique Baroque - Paris - France" description="city: Paris - France - resolution: 96 Kbps - description: undefined" url="http://str2.creacast.com:106/listen.pls"></endpoint>
+<endpoint name="BR-Klassik - Munich - Germany" description="city: Munich - Germany - resolution: 56 Kbps - description: undefined" url="http://streams.br-online.de/br-klassik_1.m3u"></endpoint>
+<endpoint name="Classical 102 - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://sc1.netstreamer.net:8120/listen.pls"></endpoint>
+<endpoint name="HR2 - Frankfurt - Germany" description="city: Frankfurt - Germany - resolution: 64 Kbps - description: undefined" url="http://metafiles.gl-systemhaus.de/hr/hr2_1.asx"></endpoint>
+<endpoint name="Klassik Radio - Hamburg - Germany" description="city: Hamburg - Germany - resolution: 96 Kbps - description: undefined" url="http://players.creacast.com/creacast/klassik/playlist.pls"></endpoint>
+<endpoint name="MDR FIGARO Livestream - Halle - Germany" description="city: Halle - Germany - resolution: 56 Kbps - description: undefined" url="http://avw.mdr.de/livestreams/mdr_figaro_live_56.m3u"></endpoint>
+<endpoint name="MDR FIGARO Classic in Concert - Halle - Germany" description="city: Halle - Germany - resolution: 64 Kbps - description: undefined" url="http://avw.mdr.de/livestreams/mdr_figaro_classic_64.m3u"></endpoint>
+<endpoint name="MDR KLASSIK Livestream - Halle - Germany" description="city: Halle - Germany - resolution: 128 Kbps - description: undefined" url="http://avw.mdr.de/livestreams/mdr_klassik_live_128.m3u"></endpoint>
+<endpoint name="NDR Kultur - Hamburg - Germany" description="city: Hamburg - Germany - resolution: 128 Kbps - description: undefined" url="http://ndr.ic.llnwd.net/stream/ndr_ndrkultur_hi_mp3.m3u"></endpoint>
+<endpoint name="RBB Kulturradio - Berlin - Germany" description="city: Berlin - Germany - resolution: 48 Kbps - description: undefined" url="http://www.kulturradio.de/live.wax"></endpoint>
+<endpoint name="SR2 KulturRadio - Saarbrücken - Germany" description="city: Saarbrücken - Germany - resolution: 56 Kbps - description: undefined" url="http://streaming01.sr-online.de/sr2_1.m3u"></endpoint>
+<endpoint name="WDR 3 - Cologne - Germany" description="city: Cologne - Germany - resolution: 64 Kbps - description: undefined" url="http://www.wdr.de/wdrlive/media/wdr3-wm32.asx"></endpoint>
+<endpoint name="SWR2 - Stuttgart - Germany" description="city: Stuttgart - Germany - resolution: 128 Kbps - description: undefined" url="http://wma-live.swr.de/swr2_m.asx"></endpoint>
+<endpoint name="Recorder Radio - Internet only - Germany" description="city: Internet only - Germany - resolution: 128 Kbps - description: undefined" url="http://rs3.stream24.org:8220/listen.pls"></endpoint>
+<endpoint name="MR3-Bartók Rádió - Budapest - Hungary" description="city: Budapest - Hungary - resolution: 80 Kbps - description: undefined" url="http://www.listenlive.eu/mr3.m3u"></endpoint>
+<endpoint name="Klasszik Rádió 92.1 - Budapest - Hungary" description="city: Budapest - Hungary - resolution: 128 Kbps - description: undefined" url="http://www.shstream01.gtk.hu:9012/listen.pls"></endpoint>
+<endpoint name="RTE Lyric FM - Limerick - Ireland" description="city: Limerick - Ireland - resolution: 32 Kbps - description: undefined" url="http://dynamic.rte.ie/av/live/radio/lyric.asx"></endpoint>
+<endpoint name="RAI FD Auditorium - Rome - Italy" description="city: Rome - Italy - resolution: 32 Kbps - description: undefined" url="http://www.radio.rai.it/live/fd5.ram"></endpoint>
+<endpoint name="RadioClassica - Milan - Italy" description="city: Milan - Italy - resolution: 64 Kbps - description: undefined" url="http://radioclassica.milanofinanza.it/radioclassica.asx"></endpoint>
+<endpoint name="Radio Classica Bresciana - Brescia - Italy" description="city: Brescia - Italy - resolution: 48 Kbps - description: undefined" url="http://radio.gruppoeditorialebresciana.it/radioclassica"></endpoint>
+<endpoint name="Radio Marconi 2 - Milan - Italy" description="city: Milan - Italy - resolution: 32 Kbps - description: undefined" url="mms://stream.radiomarconi.info/marconi2"></endpoint>
+<endpoint name="Rete Toscana Classica - Florence - Italy" description="city: Florence - Italy - resolution: 64 Kbps - description: undefined" url="mms://streaming.intoscana.it/wmtencoder/rtc.wma"></endpoint>
+<endpoint name="Venice Classic Radio - Internet only - Italy" description="city: Internet only - Italy - resolution: 128 Kbps - description: undefined" url="http://www.radioonda.it/live2/128.pls"></endpoint>
+<endpoint name="Latvijas Radio 3 Klasika - Riga - Latvia" description="city: Riga - Latvia - resolution: 32 Kbps - description: undefined" url="http://www.radio.org.lv/realaud/lr3s.ram"></endpoint>
+<endpoint name="Lietuvos Radijas Klasika - Vilnius - Lithuania" description="city: Vilnius - Lithuania - resolution: 160 Kbps - description: undefined" url="http://82.135.234.195/Klasika.asx"></endpoint>
+<endpoint name="Radio 4 - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://livestreams.omroep.nl/npo/radio4-bb"></endpoint>
+<endpoint name="Classic FM - Naarden - Netherlands" description="city: Naarden - Netherlands - resolution: 128 Kbps - description: undefined" url="http://reflector.kpnstreaming.nl/?user=SkyRadioLive&amp;file=Classicfm&amp;type=live&amp;service=windowsmedia&amp;protocol=http&amp;port=&amp;output=asx"></endpoint>
+<endpoint name="AVRO Het beste van het beste - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 256 Kbps - description: undefined" url="http://shoutcast.omroep.nl:8072/listen.pls"></endpoint>
+<endpoint name="AVRO Webradio Festival Classique - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 256 Kbps - description: undefined" url="http://shoutcast.omroep.nl:8148/listen.pls"></endpoint>
+<endpoint name="AVRO Baroque around the Clock - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 256 Kbps - description: undefined" url="http://shoutcast.omroep.nl:8068/listen.pls"></endpoint>
+<endpoint name="AVRO Film - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 256 Kbps - description: undefined" url="http://shoutcast.omroep.nl:8070/listen.pls"></endpoint>
+<endpoint name="AVRO Ziel en Zaligheid - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 256 Kbps - description: undefined" url="http://shoutcast.omroep.nl:8074/listen.pls"></endpoint>
+<endpoint name="Concertzender - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 192 Kbps - description: undefined" url="http://streams.greenhost.nl:8080/live.m3u"></endpoint>
+<endpoint name="Concertzender Nieuwe Muziek - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://streams.greenhost.nl:8080/nieuwemuziek.m3u"></endpoint>
+<endpoint name="Concertzender Oude Muziek - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://streams.greenhost.nl:8080/oudemuziek.m3u"></endpoint>
+<endpoint name="Concertzender Klassieke Muziek - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://streams.greenhost.nl:8080/klassiek.m3u"></endpoint>
+<endpoint name="Concertzender De Gehoorde Stilte - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://streams.greenhost.nl:8080/gehoordestilte.m3u"></endpoint>
+<endpoint name="Concertzender November Music - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://streams.greenhost.nl:8080/novembermusic.m3u"></endpoint>
+<endpoint name="Concertzender Gregoriaans - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://streams.greenhost.nl:8080/gregoriaans.m3u"></endpoint>
+<endpoint name="Concertzender Raakvlakken - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://streams.greenhost.nl:8080/raakvlakken.m3u"></endpoint>
+<endpoint name="Concertzender Young Professionals - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://streams.greenhost.nl:8080/youngprofessionals.m3u"></endpoint>
+<endpoint name="Concertzender Jubileumkanaal - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 128 Kbps - description: undefined" url="http://streams.greenhost.nl:8080/jubileumkanaal.m3u"></endpoint>
+<endpoint name="RNW Classical - Hilversum - Netherlands" description="city: Hilversum - Netherlands - resolution: 64 Kbps - description: undefined" url="http://shoutcast.omroep.nl:8308/listen.pls"></endpoint>
+<endpoint name="NRK Klassisk - Oslo - Norway" description="city: Oslo - Norway - resolution: 16 Kbps - description: undefined" url="http://nettradio.nrk.no/php/includes/channelstreamingurl.php?pichannel=ak&amp;quality=l"></endpoint>
+<endpoint name="Radio Zet Classic - Warsaw - Poland" description="city: Warsaw - Poland - resolution: 128 Kbps - description: undefined" url="http://zetclassic-02.eurozet.pl:8100/listen.pls"></endpoint>
+<endpoint name="RMF Classic - Kraków - Poland" description="city: Kraków - Poland - resolution: 48 Kbps - description: undefined" url="http://217.74.72.30/RMFCLASSIC48"></endpoint>
+<endpoint name="RDP Antena 2 - Lisbon - Portugal" description="city: Lisbon - Portugal - resolution: 64 Kbps - description: undefined" url="mms://195.245.168.21/antena2"></endpoint>
+<endpoint name="SRR Radio România Muzical - Bucharest - Romania" description="city: Bucharest - Romania - resolution: 64 Kbps - description: undefined" url="http://stream2.srr.ro:8020/listen.pls"></endpoint>
+<endpoint name="Radio Culture - Moscow - Russia" description="city: Moscow - Russia - resolution: 64 Kbps - description: undefined" url="mms://live.rfn.ru/rcult_64"></endpoint>
+<endpoint name="Radio Orpheus - Moscow - Russia" description="city: Moscow - Russia - resolution: 64 Kbps - description: undefined" url="mms://live.rfn.ru/orfey/"></endpoint>
+<endpoint name="Special Radio Classical music - Internet only - Russia" description="city: Internet only - Russia - resolution: 64 Kbps - description: undefined" url="mms://81.13.20.10/9button"></endpoint>
+<endpoint name="101.ru Spivakov Classic - Internet only - Russia" description="city: Internet only - Russia - resolution: 32 Kbps - description: undefined" url="http://www.101.ru/asx.asx?uid=3&amp;bit=32&amp;war=1"></endpoint>
+<endpoint name="101.ru Pop Classical - Internet only - Russia" description="city: Internet only - Russia - resolution: 32 Kbps - description: undefined" url="http://www.101.ru/asx.asx?uid=41896&amp;bit=32&amp;war=1"></endpoint>
+<endpoint name="101.ru Opera - Internet only - Russia" description="city: Internet only - Russia - resolution: 48 Kbps - description: undefined" url="http://www.101.ru/asx.asx?uid=40163&amp;bit=32&amp;war=1"></endpoint>
+<endpoint name="SRO Rádio Devín - Bratislava - Slovakia" description="city: Bratislava - Slovakia - resolution: 32 Kbps - description: undefined" url="http://www.slovakradio.sk/inetportal/sounds/new_stream/devin/devin_32.mp3.m3u"></endpoint>
+<endpoint name="RNE Radio Clásica - Madrid - Spain" description="city: Madrid - Spain - resolution: 32 Kbps - description: undefined" url="http://www.rtve.es/rne/audio/RNEclasica.asx"></endpoint>
+<endpoint name="Catalunya Música - Barcelona - Spain" description="city: Barcelona - Spain - resolution: 128 Kbps - description: undefined" url="mms://catmusica.directe-wm.emissio.catradio.cat/reflector:36524"></endpoint>
+<endpoint name="Sveriges Radio P2 - Stockholm - Sweden" description="city: Stockholm - Sweden - resolution: 96 Kbps - description: undefined" url="rtsp://rm-live.sr.se/broadcast/p2.rm"></endpoint>
+<endpoint name="Sveriges Radio  SR Klassiskt - Stockholm - Sweden" description="city: Stockholm - Sweden - resolution: 96 Kbps - description: undefined" url="rtsp://rm-live.sr.se/broadcast/srklassiskt.rm"></endpoint>
+<endpoint name="Radio Swiss Classic - Berne - Switzerland" description="city: Berne - Switzerland - resolution: 128 Kbps - description: undefined" url="http://www.radioswissclassic.ch/live/mp3.m3u"></endpoint>
+<endpoint name="Radio Suisse Classique - Berne - Switzerland" description="city: Berne - Switzerland - resolution: 128 Kbps - description: undefined" url="http://www.radiosuisseclassique.ch/live/mp3.m3u"></endpoint>
+<endpoint name="Radio Svizzera Classica - Berne - Switzerland" description="city: Berne - Switzerland - resolution: 128 Kbps - description: undefined" url="http://www.radiosvizzeraclassica.ch/live/mp3.m3u"></endpoint>
+<endpoint name="Radio Crazy Classical - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://www.swissradio.ch/streams/6034.m3u"></endpoint>
+<endpoint name="Radio Crazy Opera - Internet only - Switzerland" description="city: Internet only - Switzerland - resolution: 128 Kbps - description: undefined" url="http://www.swissradio.ch/streams/6060.m3u"></endpoint>
+<endpoint name="ITU Radyosu - Istanbul - Turkey" description="city: Istanbul - Turkey - resolution: 32 Kbps - description: undefined" url="http://maestro.radyo.itu.edu.tr/Radyo_uni.asx"></endpoint>
+<endpoint name="BBC Radio 3 - National - United Kingdom" description="city: National - United Kingdom - resolution: 64 Kbps - description: undefined" url="http://bbc.co.uk/radio/listen/live/r3.ram"></endpoint>
+
+</section>
+
+<section description="" image="" name="Top 40">
+</section>
+
+<section description="" image="" name="Top 40">
+</section>
+</document>

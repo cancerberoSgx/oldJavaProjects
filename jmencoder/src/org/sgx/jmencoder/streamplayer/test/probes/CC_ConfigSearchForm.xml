@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+en este archivo se configuran los campos que han de salir en la página de búsqueda. 
+También los repositorios y calses documentales que estarán disponibles en el portlet.
+
+Nota: si no se especifica ninguna clase documental se mostrarán todas al 
+usuario. Idem con los repositorios.
+
+@author: sgurin
+-->
+
+<!--  DTD  --> 
+<!DOCTYPE SMConfig[
+
+<!ELEMENT SMConfig (searchField|repository|documentClass)*>
+<!-- cconfig es el elemento raíz. Se respetará el orden de los elementos y s
+e agruparan en las secciones simples y avanzada -->
+
+	<!ELEMENT searchField EMPTY>
+	<!-- campo en la página de búsqueda.  -->
+	
+		<!ATTLIST searchField name CDATA #REQUIRED>
+		<!-- Nombre del campo de búsqueda. en caso de comenzar con "$" se utilizará el valor como clave i18. De otra forma se utilizará exactamente. 
+		si se omite el atributo o se pasa string vacío se utilizará el mismo nombre de la user-property con id userPropertyId -->
+		<!ATTLIST searchField propertyId CDATA #REQUIRED>
+		<!-- id de la user property con la cual se hará corresponder este campo
+		TODO:  por ahora solo funciona con user properties ids. cambiar el nombre del 
+		atributo a propertyId y aceptar tambien propiedades del sistema... -->
+		<!ATTLIST searchField format (none|keywords|includeVersions|rightSearchButton|docclassList|repoList|allOption) #IMPLIED>
+		<!--
+		includeVersions
+		keywords: el campo keywords de beeblos (se matchea distinto que las propiedades)
+		rightSearchButton: es un campo de búsqueda vacío. Lo que hace ers agregar un botón de búsqueda a la derecha del campo de busqueda anterior (ver ejemplo)
+		docclassList: lista de selección de clase documental y de propiedades de usuario
+		repoList: lista de selección del repositorio
+		allOption: indicar si al campo de tipo cvl hay que agregarle un ítem "all" al principio
+		-->
+		<!ATTLIST searchField searchSection (simple|advanced) #IMPLIED>
+		<!--  -->
+		<!-- <!ATTLIST searchField allOption (true|false) #IMPLIED>
+		 -->
+		
+	<!ELEMENT repository EMPTY>
+	<!-- lista de repositorios disponibles en la página de busqueda del portelt  -->
+	
+		<!ATTLIST repository id CDATA #REQUIRED>
+		<!ATTLIST repository description CDATA #IMPLIED>
+		
+	<!ELEMENT documentClass EMPTY>
+	<!-- lista de clases documentales disponibles en la página de busqueda del portelt  -->
+	
+		<!ATTLIST documentClass id CDATA #REQUIRED>
+		<!ATTLIST documentClass description CDATA #IMPLIED>
+	 
+]>
+
+
+<!--  configuración -->
+<SMConfig>
+	<searchField name="$keywords" format="keywords" propertyId="" />	
+	<searchField name="" format="rightSearchButton" propertyId=""/><!-- 
+			agregamos un botón de búsqueda a la derecha del campo "keywords" -->
+	<searchField name="una cvl" propertyId="property_1256" />
+	<searchField name="una fecha" format="allOption" propertyId="property_1356" />
+	
+	<searchField name="Bibliotecas" format="repoList" propertyId="" />
+	<searchField name="Clasificación" format="docclassList" propertyId="" />			
+	
+	<repository id="1703" description="colección de volantes"></repository>	
+	<documentClass id="746" description="perfil de Persona"></documentClass>
+	<documentClass id="646" description="otra ..."></documentClass>
+</SMConfig>
+
+
+
+<!--	<searchField name="numero-de-documento" userPropertyId="317" searchSection="simple"/>-->
+<!--	<searchField name="fecha-desde" userPropertyId="318" searchSection="advanced"/>-->
+<!--	<searchField name="fecha-to" userPropertyId="319" searchSection="advanced"/>-->
+<!--	<searchField name="terminal" userPropertyId="320" searchSection="advanced"/>-->
+<!--	<searchField name="usuario" userPropertyId="321" searchSection="advanced"/>-->
+
+<!--	<recentSize size="10"></recentSize>-->

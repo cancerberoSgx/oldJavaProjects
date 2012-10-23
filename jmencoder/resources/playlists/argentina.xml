@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<document>
+<section description="" image="" name="Buenos Aires- Radios FM">
+<endpoint description="" image="" name="La 2x4 Tango FM 92.7" url="mms://2x4.telecomdatacenter.com.ar/2x4"/>
+<endpoint description="" image="" name="Radio Disney FM 94.3" url="mms://radiodisney.telecomdatacenter.com.ar/radioDisney/radiodisney.asx"/>
+<endpoint description="" image="" name="RPLM Radio Palermo 94.7 FM" url="mmsh://200.49.150.35:80/FMPALERMO1"/>
+<endpoint description="" image="" name="RPLM Radio Palermo 93.9 FM" url="mmsh://200.49.150.35:80/FMPALERMO3"/>
+<endpoint description="" image="" name="La Metro FM 95.1" url="mmsh://streaming.metro951.com/metro?MSWMExt=.asf"/>
+<endpoint description="" image="" name="FM Patricios FM 95.5" url="http://174.123.165.123:6040"/>
+<endpoint description="http://www.fmrockandpop.com/" image="" name="FM RockAndPop 95.9 FM" url="mmsh://streaming.fmrockandpop.com/rockandpop?MSWMExt=.asf"/>
+<endpoint description="" image="" name="FM La lsla - 89.9 FM" url="mms://fmlaisla.cdmon.org/fmlaisla"/>
+<endpoint description="" image="" name="Millenium 106.7 FM" url="http://174.142.20.99:9300/listen.pls"/>
+<endpoint description="" image="" name="Radio Jai FM 96.3" url="http://174.142.163.189:7032"/>
+<endpoint description="" image="" name="Nacional Clásica FM 96.7" url="mms://fm967.telecomdatacenter.com.ar/fm967"/>
+<endpoint description="" image="" name="FM VALE FM 97.5" url="mmsh://200.43.193.190/vale?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Mega 98.3" url="mmsh://mega.telecomdatacenter.com.ar/mega?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Cadena 3 FM 99.1" url="mms://cadena3.telecomdatacenter.com.ar/cadena3"/>
+<endpoint description="" image="" name="La 100 FM 99.9" url="http://200.42.92.36/La100.mp3"/>
+<endpoint description="" image="" name="Amadeus FM 100.3" url="http://200.42.92.7:8000/amadeus.mp3"/>
+<endpoint description="" image="" name="Blue FM FM 100.7" url="mmsh://streaming.bluefm.com.ar/blue?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Latina FM 101.1" url="mmsh://200.115.194.1:8080/RadioLatina?MSWMExt=.asf"/>
+<endpoint description="" image="" name="POP Radio FM 101.5" url="mmsh://10.0.8.17:80/pop"/>
+<endpoint description="" image="" name="KSK Radio FM 101.9" url="mmsh://radios.fibertel.com.ar/kskradio?MSWMExt=.asf"/>
+<endpoint description="" image="" name="ASPEN FM 102.3" url="mmsh://imcradios9.fibertel.com.ar/aspen?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Los 40 Principales FM 105.5" url="mmsh://66.175.96.10/ARLOS40P?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Continental FM FM 104.3" url="mmsh://66.175.96.43/arcontinental?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Kabul FM 104.3" url="http://www.fmkabul.com/fmkabul.asx"/>
+<endpoint description="" image="" name="espn FM" url="mms://a183.l1318236841.c13182.l.lm.akamaistream.net/D/183/13182/v0001/reflector:36841"/>
+</section>
+<section description="" image="" name="Capital Federal">
+<endpoint description="" image="" name="La catedral del americando" url="http://stream.alsolnet.com/LaCatedral"/>
+<endpoint description="http://mega.10musica.com/" image="" name="Mega 98.3" url="http://mega.telecomdatacenter.com.ar/mega"/>
+<endpoint description="http://www.radiomitre.com.ar/" image="" name="Mitre" url="http://200.42.92.40/Mitre.mp3"/>
+</section>
+<section description="" image="" name="Buenos Aires - Radios AM">
+<endpoint description="http://www.radiocenter.com.ar/" image="" name="Radio Centro " url="mms://unicast.vdo3.com/radiolive_RadioCentro"/>
+<endpoint description="" image="" name="radio 10 AM 710" url="mmsh://10.0.8.16:80/radio10"/>
+<endpoint description="" image="" name="Radio Nacional | AM 870 (Buenos Aires)" url="mms://am870.telecomdatacenter.com.ar/am870"/>
+<endpoint description="http://www.am740.com.ar/" image="" name="Radio Cooperativa AM 740" url="http://streaming2.uosolutions.com:5000"/>
+<endpoint description="" image="" name="Radio Mitre | AM 790 (Buenos Aires)" url="http://200.42.92.40/Mitre.mp3"/>
+<endpoint description="" image="" name="Gral. Belgrano AM 640" url="mmsh://174.142.97.121/am840?MSWMExt=.asf"/>
+<endpoint description="" image="" name="La Red AM 910" url="rtmp://vivolared.multimediosamerica.com.ar/streamlared/&amp;streamId=lared"/>
+<endpoint description="" image="" name="Belgrano AM 950" url="http://mfile.akamai.com/25734/live/reflector:31946.asx"/>
+<endpoint description="" image="" name="Radio Génesis AM 970" url="mmsh://174.142.97.121/genesis?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Splendid AM 990" url="http://broadcast.amsplendid.com.ar:8000"/>
+<endpoint description="" image="" name="Del Plata AM 1030" url="mms://delplata.telecomdatacenter.com.ar/delplata"/>
+<endpoint description="" image="" name="Radio Argentina AM 570" url="mmsh://200.49.150.34:80/AM570"/>
+<endpoint description="" image="" name="El Mundo AM 1070" url="http://85.17.45.87:8470/vivo"/>
+<endpoint description="" image="" name="Radio de la Ciudad AM 1110" url="mms://radiociudad.telecomdatacenter.com.ar/radiociudad"/>
+<endpoint description="" image="" name="América AM 1190" url="mmsh://200.107.200.16/amamerica_22?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Radio Provincia AM 1270" url="mms://170.155.145.40/AM_Provincia"/>
+<endpoint description="" image="" name="Radio Buenos Aires AM 1350" url="mmsh://streamair.alsolnet.com:8080/radiobuenosaires?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Onda Latina AM 1010" url="mms://190.220.149.204:1267"/>
+<endpoint description="" image="" name="La Voz de las Madres AM 530" url="mms://radio.madres.org.ar/madres"/>
+<section description="" image="" name="Concepto AM AM 1050"/>
+</section>
+<section description="radios que salen en el sitio www.10musica.com" image="" name="www.10musica.com">
+<endpoint description="Rock Argentino.&#10;Los artistas mas importanrtes del rock argenino suenan en esta radio exclusiva. Clásicos de todas las épocas y nuevos artistas. Un repaso por las bandas fundacionales y fundamentales del rock local. " image="" name="rock nacional" url="mms://200.43.193.192/radio1/0000076.wsx"/>
+<endpoint description="" image="" name="Rock y Pop Internacional" url="mms://200.43.193.192/radio3/0000052.wsx"/>
+<endpoint description="" image="" name="latina" url="mms://200.43.193.192/radio6/0000100.wsx"/>
+</section>
+<section description="" image="" name="Santa Fe">
+<endpoint description=" http://www.radiolt10.com.ar" image="" name="LT10 Radio Santa Fe AM 1020, Santa Fe, Provincia de Santa Fe" url="http://85.17.141.15:8555/vivo?type=sound&amp;autostart=true&amp;volume=50&amp;duration=99999"/>
+<endpoint description="" image="" name=" &#9; Radio Nacional Santa Fe AM 540, Santa Fe" url="mms://beta2.santafe-conicet.gov.ar:1175"/>
+</section>
+</document>

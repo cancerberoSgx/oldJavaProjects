@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<document>
+<section description="" image="" name="Brazil - FM &amp; AM">
+<endpoint description="AC - Natal - 32 Kbps - website: http://www.96fm.com.br/" image="" name="96 FM - Natal" url="http://servidor1.crossdigital.com.br:8012/listen.pls"/>
+<endpoint description="Top 40 - Sao Paulo - 32 Kbps - website: http://www.fm98fm.com.br/" image="" name="98 FM - Sao Paulo" url="http://streaming.apkomp.com.br/98fmprudente/98fmprudente.asx"/>
+<endpoint description="Rock - Rio de Janeiro - 32 Kbps - website: http://portalamazonia.globo.com/acrefm/aovivo.htm" image="" name="Acre 98.1 FM - Rio de Janeiro" url="http://portalamazonia.globo.com/acrefm/aovivo/acrefm.asx"/>
+<endpoint description="News - Concordia - 32 Kbps - website: http://www.radioalianca.com.br/" image="" name="Alianca 750 AM - Concordia" url="http://www.radioalianca.com.br/arquivos_radio_online/alianca.asx"/>
+<endpoint description="AC - Umuarama - 32 Kbps - website: http://www.alinefm.com.br/" image="" name="Aline 93.7 FM - Umuarama" url="mms://www.omegasistemas.com.br/alinefm"/>
+<endpoint description="TV Broadcast - Sao Paulo - 140 Kbps - website: http://www.alltv.com.br/" image="" name="All TV - Sao Paulo" url="mms://media.brturbo.com.br/turbotv.wmv"/>
+<endpoint description="News | Top 40 - Caraguatatuba - 20 Kbps - website: http://www.noroestenews.com.br/" image="" name="Alternativa News - Caraguatatuba" url="http://noroestenews.com.br/radioalternativanews.asx"/>
+<endpoint description="Religious - Porto Velho - 48 Kbps - website: http://www.amazongospel.com/" image="" name="Amazon Gospel - Porto Velho" url="http://radios.radioetvnaweb.com:8024/listen.pls"/>
+<endpoint description="AC - Sao Paulo - 32 Kbps - website: http://www.antena1.com.br/" image="" name="Antena 1 Digital FM - Sao Paulo" url="http://wmedia.telium.com.br/antenaum"/>
+<endpoint description="Rock - Lagarto - 32 Kbps - website: http://www.aparecidafm.com.br/" image="" name="Aparecida FM - Lagarto" url="mms://midia.infonet.com.br/aparecidafm"/>
+<endpoint description="Smooth Jazz - Castanhal - 48 Kbps - website: http://www.apeufm.1br.net/" image="" name="Apeu FM - Castanhal" url="mms://apeufm.dnip.com.br/apeufm"/>
+<endpoint description="Government TV - Ceara - 102 Kbps - website: http://www.al.ce.gov.br/" image="" name="Assembleia Legislativa do Ceara - Ceara" url="mms://streaming.al.ce.gov.br:8080"/>
+<endpoint description="AC - Ceara - 64 Kbps - website: http://www.atlanticosulfm.com.br/" image="" name="Atlantico Sul FM - Ceara" url="http://216.245.205.28:8921/listen.pls"/>
+<endpoint description="Top 40 - Concordia - 32 Kbps - website: http://www.atualfm.com.br/" image="" name="Atual FM - Concordia" url="mms://70.85.175.106/atualradio"/>
+<endpoint description="Soul - Internet - 96 Kbps - website: http://www.audiogrooves.net/home/" image="" name="Audiogrooves Club: Soul - Internet" url="http://www.audiogrooves.net/stream/audiogrooves-soul/9004.m3u"/>
+<endpoint description="News - Guanambi - 32 Kbps - website: http://www.radioculturagbi.com.br/" image="" name="Bahia Cultura AM - Guanambi" url="http://rio.radioetvweb.com.br:8320/listen.pls"/>
+<endpoint description="Pop - Joao Pessoa - 32 Kbps - website: http://www.bandvalefm.com.br/" image="" name="Band Vale FM - Joao Pessoa" url="mms://streamingradiotv.com.br/Radio%2520Band%2520Vale%2520FM"/>
+<endpoint description="Dance - Rio De Janeiro - 64 Kbps - website: http://globoradio.globo.com/MusicCenter/0,,4497,00.html" image="" name="BEAT98 FM - Rio De Janeiro" url="http://wm-sgr-live.globo.com/sgr_off_98fmrj_live.wma"/>
+<endpoint description="Pop - Umuarama - 32 Kbps - website: http://www.biancafm.com.br/" image="" name="Bianca FM - Umuarama" url="mms://www.omegasistemas.com.br/biancafm"/>
+<endpoint description="News | AC - Santa Barbara - 32 Kbps - website: http://www.radiobrasilsbo.com.br/" image="" name="Brasil 690 AM - Santa Barbara" url="http://www.crosshost.com.br/servidor2/8016/listen.pls"/>
+<endpoint description="Brazilian music - Piaui - 32 Kbps - website: http://www.brasileirasat.com.br/" image="" name="Brasileira Sat - Piaui" url="http://www.portal93.com.br/93fm.pls"/>
+<endpoint description="Variety - Brasilia - 48 Kbps - website: http://www.superfm.com.br/" image="" name="Brasilia Super Radio FM - Brasilia" url="http://angrawms.sistemaplug.com/superfm"/>
+<endpoint description="Sports | Brazilian music - Lagoa Vermelha - 48 Kbps - website: http://www.radiocacique.com.br/am/" image="" name="Cacique AM - Lagoa Vermelha" url="http://74.86.8.8/caciquefm"/>
+<endpoint description="AC - Fortaleza - 48 Kbps - website: http://www.calypsofm.com.br/" image="" name="Calypso FM - Fortaleza" url="http://www.opovo.com.br/radios/calypso.asx"/>
+<endpoint description="TV Broadcast - Cascavel - 140 Kbps - website: http://www.canal21cascavel.com.br/" image="" name="Canal 21 Cascavel - Cascavel" url="http://www.canal21cascavel.com.br/aovivo_21.asx"/>
+<endpoint description="News | Music - Cascavel - 64 Kbps - website: http://www.capitalfm.com.br/" image="" name="Capital AM - Cascavel" url="http://www.capitalfm.com.br:8000/fm-media.m3u"/>
+<endpoint description="Dance - Campo Grande - 24 Kbps - website: http://www.fmcapital.com.br/" image="" name="Capital FM - Campo Grande" url="http://www.megawebservice.com:8014/listen.pls"/>
+<endpoint description="Variety - Internet - 128 Kbps - website: http://www.cariocachannel.net/" image="" name="Carioca Channel - Internet" url="http://www.shoutitaly.com/centovacast/tunein.php/carioca/playlist.pls"/>
+<endpoint description="News | Talk - Sao Paulo - 32 Kbps - website: http://cbn.globoradio.globo.com/" image="" name="CBN 90.5 FM - Sao Paulo" url="http://wm-sgr-live.globo.com/sgr_off_cbnfmsp_live.wma"/>
+<endpoint description="News - Curitiba - 16 Kbps - website: http://tudoparana.globo.com/cbncuritiba/" image="" name="CBN Curitiba FM - Curitiba" url="http://wms2.netpoint.com.br/cbncuritiba"/>
+<endpoint description="News - Londrina - 48 Kbps - website: http://www.cbnlondrina.com.br/" image="" name="CBN Londrina AM - Londrina" url="mms://servidor-br0.apkomp.com.br/cbnlondrina"/>
+<endpoint description="Rock | Pop - Cianorte - 64 Kbps - website: http://www.cianortefm.com.br/" image="" name="Cianorte FM - Cianorte" url="http://66.7.208.210:9338/listen.pls"/>
+<endpoint description="Talk | Variety - Recife - 64 Kbps - website: http://www.pernambuco.com/clube/" image="" name="Clube AM - Recife" url="http://s7-uk.upx.com.br:12990/listen.pls"/>
+<endpoint description="Top 40 - Ribeirao Preto - 78 Kbps - website: http://www.clubefm.com.br/" image="" name="Clube FM 100.5 - Ribeirao Preto" url="http://shoutserver1r.upx.com.br:11002/listen.pls"/>
+<endpoint description="Brazilian music - Navirai - 32 Kbps - website: http://www.cultura690.com.br/" image="" name="Cultura 69 AM - Navirai" url="mms://187.4.83.28:8080/"/>
+<endpoint description="Dance - Fernandopolis - 32 Kbps - website: http://www.90fm.com.br/" image="" name="Cultura 90.5 FM - Fernandopolis" url="http://www.90fm.com.br/aovivo.asx"/>
+<endpoint description="Talk - Santos - 32 Kbps - website: http://www.radiocultura.com.br/" image="" name="Cultura 930 AM - Santos" url="http://wmserver1.bcmg.com.br/culturaam?MSWMExt=.asf"/>
+<endpoint description="News | Sports - Uberlandia - 56 Kbps - website: http://www.radioculturafm.com.br/" image="" name="Cultura 1020 AM - Uberlandia" url="http://radio.opinguim.net:8007/listen.pls"/>
+<endpoint description="Classical - Sao Paulo - 128 Kbps - website: http://www.tvcultura.com.br/radiofm/" image="" name="Cultura 103.3 FM - Sao Paulo" url="http://www2.tvcultura.com.br/radiofm/radiofm.asx"/>
+<endpoint description="Pop - Santos - 32 Kbps - website: http://www.radiocultura.com.br/" image="" name="Cultura 106.7 FM - Santos" url="http://75.125.234.138/culturafm"/>
+<endpoint description="Brazilian music - Sao Paulo - 32 Kbps - website: http://www.radiocultura.am.br/" image="" name="Cultura 1200 AM - Sao Paulo" url="http://www.tvcultura.com.br/radioam/radioam.asx"/>
+<endpoint description="Variety - Pocos de Caldas - 32 Kbps - website: http://www.radioculturapocos.com.br/" image="" name="Cultura 1350 AM - Pocos de Caldas" url="http://shoutserver2r.upx.com.br:14987/listen.pls"/>
+<endpoint description="TV Broadcast - Sao Paulo - 142 Kbps - website: http://www.demaistv.com.br/" image="" name="D+ TV - Sao Paulo" url="http://www.demaistv.com.br/tv/demais.asx"/>
+<endpoint description="Pop - Sao Carlos - 32 Kbps - website: http://www.dbcfm.com/" image="" name="DBC FM - Sao Carlos" url="http://servidor4.crossdigital.com.br:8012/listen.pls"/>
+<endpoint description="Brazilian music - Jatai - 48 Kbps - website: http://www.difusoraonline.com.br/" image="" name="Difusora 680 AM - Jatai" url="http://189.5.232.50:8000/listen.pls"/>
+<endpoint description="AC - Ribeirao - 48 Kbps - website: http://www.difusorafm.com.br/htm/default.asp" image="" name="Diffusora 91.3 FM - Ribeirao" url="http://189.5.232.50:8000/listen.pls"/>
+<endpoint description="Top 40 | Sports - Batatais - 32 Kbps - website: http://www.difusoraam.com.br/" image="" name="Difusora 1080 AM - Batatais" url="mms://200.170.181.21:1755"/>
+<endpoint description="Religious TV - Londrina - 273 Kbps - website: http://www.radiodifusoradelondrina.com.br/" image="" name="Difusora de Londrina AM - Londrina" url="mms://radio-difusora.ivx.com.br:2930"/>
+<endpoint description="Sports | AC - Penapolis - 48 Kbps - website: http://www.difusoradepenapolis.com.br/" image="" name="Difusora Penapolis AM - Penapolis" url="http://servidor2.crossdigital.com.br:8034/listen.pls"/>
+<endpoint description="AC - Brusque - 32 Kbps - website: http://www.diplomatafm.com.br/" image="" name="Diplomata FM - Brusque" url="http://ams01.egihosting.com/422156"/>
+<endpoint description="Top 40 - Jundiai - 32 Kbps - website: http://www.dumontfm.com.br/" image="" name="Dumont 104.3 FM - Jundiai" url="http://sh.upx.com.br/tunein.php/00193_2/playlist.asx"/>
+<endpoint description="Top 40 - Rondon - 20 Kbps - website: http://www.radioeducadora.com/" image="" name="Educadora Marechal AM - Rondon" url="http://ws-3e9.quatrobe.com/BRD-EducadoraAM630"/>
+<endpoint description="Public Radio - Campinas - 64 Kbps - website: http://www.campinas.sp.gov.br/" image="" name="Educativa FM - Campinas" url="http://radioeducativa.ima.sp.gov.br:8000/listen.pls"/>
+<endpoint description="MPB | Adult Contemporary - Sao Paulo - 64 Kbps - website: http://www.radioeldoradofm.com.br/" image="" name="Eldorado FM - Sao Paulo" url="mms://wms1.estadao.com.br/RadioFMbl"/>
+<endpoint description="Brazilian music - Pato Branco - 48 Kbps - website: http://www.elitefm.com.br/" image="" name="Elite FM - Pato Branco" url="http://209.51.147.220:1017/listen.pls"/>
+<endpoint description="Top 40 - Sao Paulo - 32 Kbps - website: http://www.97fm.com.br/" image="" name="Energia 97 FM - Sao Paulo" url="http://mp4.97fm.com.br/listen.pls"/>
+<endpoint description="TV Broadcast - Sao Paulo - 185 Kbps - website: http://www.tvfaap.com.br/" image="" name="FAAP TV - Sao Paulo" url="http://video.faap.br/tvfaap"/>
+<endpoint description="Religious - Internet - 22 Kbps - website: http://www.radiofamanet.com/" image="" name="FamaNet - Internet" url="http://212.72.165.19/famaradio4"/>
+<endpoint description="Top 40 - Rio De Janeiro - 64 Kbps - website: http://www.fm94.rj.gov.br/" image="" name="FM 94 Roquete Pinto - Rio De Janeiro" url="mms://Roquette.94fm.rj.gov.br:8000"/>
+<endpoint description="AC - Rio de Janeiro - 20 Kbps - website: http://fmodia.terra.com.br/" image="" name="FM O Dia 100.5 FM - Rio de Janeiro" url="http://mibclient3.terra.com.br/MIBGetPointer.aspx?LIVE=596%20"/>
+<endpoint description="Gospel | Pop - Goiania - 32 Kbps - website: http://www.fontedavidafm.com.br/" image="" name="Fonte da Vida FM - Goiania" url="http://radio.livesh.com.br:8002/listen.pls"/>
+<endpoint description="Jazz | Brazilian - Blumenau - 32 Kbps - website: http://furbtv.furb.br/hp/index.php" image="" name="Furb FM - Blumenau" url="http://200.174.59.150:8000/listen.pls"/>
+<endpoint description="News | Music - Cornelio Procopio - 32 Kbps - website: http://www.grauna.com.br/" image="" name="Grauna FM - Cornelio Procopio" url="http://streaming.apkomp.com.br/graunafm/audio.asx"/>
+<endpoint description="Oldies - Guajara - 22 Kbps - website: http://www.portalamazonia.com/guajarafm" image="" name="Guajara FM - Guajara" url="http://portalamazonia.globo.com/guajarafm/guajarafm.asx"/>
+<endpoint description="Rock - Curitibanos - 56 Kbps - website: http://www.guaranah.com.br/" image="" name="Guaranah Music Brasil - Curitibanos" url="http://tv13.stream-music.net:8008/listen.pls"/>
+<endpoint description="MPB | Pop - Belo Horizonte - 128 Kbps - website: http://www.guarani.com.br/" image="" name="Guarani FM - Belo Horizonte" url="http://www.guarani.com.br/programacao/vivo.asx"/>
+<endpoint description="Talk - Lajeado - 32 Kbps - website: http://www.independente.com.br/" image="" name="Independente AM - Lajeado" url="http://www.independente.com.br/independente.pls"/>
+<endpoint description="Top 40 - Goiania - 128 Kbps - website: http://www.interativafm.net/" image="" name="Interativa FM - Goiania" url="http://www.interativafm.net/interativa.m3u"/>
+<endpoint description="Rock - Porto Alegre - 48 Kbps - website: http://www.ipanema.com.br/" image="" name="Ipanema FM - Porto Alegre" url="http://p.mm.uol.com.br/ipanema_alta"/>
+<endpoint description="Top 40 - Ivinhema - 192 Kbps - website: http://www.itapoafm.com.br/" image="" name="Itapoa FM  - Ivinhema" url="http://servidor1.brasilhostinternet.com.br:9058/listen.pls"/>
+<endpoint description="AC - Jacobina - 64 Kbps - website: http://www.jacobinafm.com.br/" image="" name="Jacobina FM - Jacobina" url="http://www.dnip.com.br/link/jacobinafm.wmx"/>
+<endpoint description="Variety - Sao Cristovao - 98 Kbps - website: http://www.jbfm.com.br/" image="" name="JB FM 99.7 - Sao Cristovao" url="http://200.222.115.50/oifm_jbfm"/>
+<endpoint description="News | Talk - Recife - 20 Kbps - website: http://jc.uol.com.br/cbnrecife/" image="" name="JC/CBN FM - Recife" url="http://jc3.uol.com.br/cbnrecife/jccbn.asx"/>
+<endpoint description="Dance - Centro - 32 Kbps - website: http://www.jovemfm.net/" image="" name="Jovem FM - Centro" url="mms://jovemaudio.acessaradios.com.br/jovemaudio"/>
+<endpoint description="Top 40 - Palmas - 64 Kbps - website: http://www.jovempalmas.com.br/" image="" name="Jovem Palmas FM - Palmas" url="mms://130.94.69.93/jovempalmas"/>
+<endpoint description="News | Sports - Sao Paulo - 32 Kbps - website: http://jovempan.uol.com.br/jpamnew/" image="" name="Jovem Pan AM - Sao Paulo" url="http://p.mm.uol.com.br/ampan"/>
+<endpoint description="Dance - Maringa - 32 Kbps - website: http://londrina.jovempanfm.com.br/" image="" name="Jovem Pan FM - Maringa" url="http://servidor11.crossdigital.com.br:8000/maringa"/>
+<endpoint description="Dance - Londrina - 48 Kbps - website: http://www.jovempanlondrina.com.br/" image="" name="Jovempan 102.9 FM - Londrina" url="mms://servidor-br0.apkomp.com.br/jovempan"/>
+<endpoint description="News | Music - Brasilia - 32 Kbps - website: http://www.radiojustica.gov.br/home/" image="" name="Justica FM - Brasilia" url="http://mediaserver.stf.gov.br/radiojustica"/>
+<endpoint description="Top 40 - Dourados - 64 Kbps - website: http://www.karandafm.com.br/" image="" name="Karanda FM - Dourados" url="http://www.interrogacaodigital.com/stream/?cliente=karandafm"/>
+<endpoint description="News | Brazilian music - Lagoa - 32 Kbps - website: http://www.lagoafm.com.br/" image="" name="Lagoa FM - Lagoa" url="http://www.lagoafm.com.br/media.asx"/>
+<endpoint description="Public Radio - Palmeira das Missoes - 20 Kbps - website: http://www.landelfm.com.br/" image="" name="Landell FM - Palmeira das Missoes" url="http://www.landelfm.com.br/radio.asx"/>
+<endpoint description="Brazilian - Itapipoca - 32 Kbps - website: http://www.fmlider103.com.br/" image="" name="Lider FM - Itapipoca" url="mms://lideritapipoca.dnip.com.br/lideritapipoca"/>
+<endpoint description="Religious - Internet - 24 Kbps - website: http://www.litaurica.com.br/" image="" name="Litaurica - Internet" url="http://litaurica.com:8000/listen.pls"/>
+<endpoint description="Brazilian music - Blumenau - 32 Kbps - website: http://www.radiomenina.com.br/blumenau/" image="" name="Menina FM - Blumenau" url="mms://meninatropical.radioamfm.com.br/meninatropical"/>
+<endpoint description="Top 40 - Sao Paulo - 64 Kbps - website: http://metropolitanafm.uol.com.br/" image="" name="Metropolitana FM - Sao Paulo" url="http://p.mm.uol.com.br/metropolitana_alta"/>
+<endpoint description="AC - Pato Branco - 32 Kbps - website: http://www.movimentofm.com.br/" image="" name="Movimento 97.5 FM - Pato Branco" url="http://movimentofm.dnip.com.br:1380/movimentofm"/>
+<endpoint description="AC - Curitibanos - 32 Kbps - website: http://www.movimento.fm.br/" image="" name="Movimento 98.9 FM - Curitibanos" url="http://www.radiosbr.com.br/radios/movimentofm.wmx"/>
+<endpoint description="Brazilian - Rio de Janeiro - 64 Kbps - website: http://www.mpbfm.com.br/" image="" name="MPB FM - Rio de Janeiro" url="http://www.mpbfm.com.br/radinho.asx"/>
+<endpoint description="Top 40 - Santa Maria - 32 Kbps - website: http://www.nativafmsantamaria.com.br/" image="" name="Nativa 95.5 FM - Santa Maria" url="http://www.nativafmsantamaria.com.br/aovivo_winamp.pls"/>
+<endpoint description="News - Sao Paolo - 64 Kbps - website: http://www.ongrace.com/" image="" name="Nossa Radio SP FM - Sao Paolo" url="http://servidor11.crossdigital.com.br:8000/nossaradio"/>
+<endpoint description="Top 40 - Londrina - 32 Kbps - website: http://www.paiquerefm.com.br/" image="" name="Paiquere FM - Londrina" url="mms://streaming.redenetworks.com.br/paiquerefm"/>
+<endpoint description="Top 40 - Itajuba - 32 Kbps - website: http://www.radiopanoramafm.com.br/" image="" name="Panorama 103.5 FM - Itajuba" url="http://radio.projesom.com.br:8000/panorama.mp3.m3u"/>
+<endpoint description="Brazilian music - Paulinia - 32 Kbps - website: http://www.pauliniafm.com.br/" image="" name="Paulinia FM - Paulinia" url="http://www.sisdera.com/radio/pauliniafm.pls"/>
+<endpoint description="Top 40 - Sidrolandia - 32 Kbps - website: http://www.fmperoladoplanalto.com.br/" image="" name="Perola 104.9 FM - Sidrolandia" url="mms://www.omegasistemas.com.br/peroladoplanalto"/>
+<endpoint description="AC - Salvador - 64 Kbps - website: http://www.piatafm.com.br/" image="" name="Piata FM - Salvador" url="http://66.197.177.21:90/radiopiata"/>
+<endpoint description="Sports | Brazilian music - Pitanga - 32 Kbps - website: http://www.radiopoema.com.br/" image="" name="Poema AM - Pitanga" url="mms://www.radiosaqui.com.br/radiopoema"/>
+<endpoint description="Top 40 | News - Presidente Prudent - 32 Kbps - website: http://www.fm101fm.com.br/" image="" name="Prudente AM - Presidente Prudent" url="http://www.fm101fm.com.br/aovivo.asx"/>
+<endpoint description="Top 40 - Timbo - 32 Kbps - website: http://www.92online.com.br/" image="" name="Radio 92 FM - Timbo" url="http://radio.tpa.com.br:8000/92fm.m3u"/>
+<endpoint description="Rock - Lavras - 32 Kbps - website: http://www.radio94fm.net/" image="" name="Radio 94 FM - Lavras" url="mms://riograndefm.dnip.com.br/riograndefm"/>
+<endpoint description="Variety - Ipatinga - 32 Kbps - website: http://www.radio95fm.com.br/" image="" name="Radio 95 FM - Ipatinga" url="http://74.63.82.5:8002/listen.pls"/>
+<endpoint description="AC - Maceio - 32 Kbps - website: http://www.radio96.com.br/" image="" name="Radio 96 FM - Maceio" url="http://servidor2.virtualbrasilonline.com.br:5050/radio96_maceio"/>
+<endpoint description="Rock - Foz do Iguacu - 32 Kbps - website: http://www.radio97.fm.br/" image="" name="Radio 97.7 FM - Foz do Iguacu" url="http://www.radio97.fm.br/radio.asx"/>
+<endpoint description="Top 40 - Tucurui - 32 Kbps - website: http://www.sistemafloresta.com.br/" image="" name="Radio 104 FM - Tucurui" url="http://www.sistemafloresta.com.br/aovivo/104FM.m3u"/>
+<endpoint description="Dance - Brasilia - 64 Kbps - website: http://www.105fm.com.br/" image="" name="Radio 105 FM - Brasilia" url="http://producao.upx.com.br/players/clubefm_audio.wmx"/>
+<endpoint description="Hip Hop | Top 40 - Jundiai - 32 Kbps - website: http://www.radio105fm.com.br/" image="" name="Radio 105 FM - Jundiai" url="http://gutionline.com.br/server/105/105.m3u"/>
+<endpoint description="News | Sports - Novo Hamburgo - 24 Kbps - website: http://www.radioabc.com.br/" image="" name="Radio ABC RS 900 AM - Novo Hamburgo" url="http://aovivo.radioabc900.com.br:80/listen.pls"/>
+<endpoint description="News | Sports - Sao Paulo - 32 Kbps - website: http://www.radioabc.com.br/" image="" name="Radio ABC SP 1570 AM - Sao Paulo" url="http://servidor3.crossdigital.com.br:8046/listen.pls"/>
+<endpoint description="Religious - Agudo - 32 Kbps - website: http://www.radioagudo.com.br/" image="" name="Radio Agudo - Agudo" url="http://suaradio2.dyndns.ws:8022/listen.pls"/>
+<endpoint description="AC - Porto Alegre - 64 Kbps - website: http://www.radioalegria.com.br/" image="" name="Radio Alegria - Porto Alegre" url="http://radioalegria64k.dnip.com.br:1380/radioalegria64k"/>
+<endpoint description="Adult Contemporary - Manaus - 22 Kbps - website: http://www.amazonasfm.com.br/" image="" name="Radio Amazonas - Manaus" url="http://portalamazonia.globo.com/amazonasfm/aovivo/amazonasfm.asx"/>
+<endpoint description="Rock - Jales - 32 Kbps - website: http://www.antena102.com.br/" image="" name="Radio Antena - Jales" url="http://216.75.30.141:9000/listen.pls"/>
+<endpoint description="Talk | Brazilian music - Arapiraca - 40 Kbps - website: http://www.96fmarapiraca.com.br/" image="" name="Radio Arapiraca 96 FM - Arapiraca" url="http://servidor4.crossdigital.com.br:8028/listen.pls"/>
+<endpoint description="Christian Pop - Palmas - 64 Kbps - website: http://www.atalaianet.com/" image="" name="Radio Atalainet - Palmas" url="http://atalaia.globalradios.com/high.asx"/>
+<endpoint description="Top 40 - Rondon - 32 Kbps - website: http://www.atlantidafm.com/" image="" name="Radio Atlantida - Rondon" url="http://www.atlantidafm.com/atlantida/aovivofm.asx%20"/>
+<endpoint description="Pop - Sao Paulo - 32 Kbps - website: http://www.auriverde.am.br/" image="" name="Radio Auri-Verde 760 AM - Sao Paulo" url="mms://streamer-br0.apkomp.com.br/auriverde"/>
+<endpoint description="News | Talk - Curitiba - 32 Kbps - website: http://www.radiobandab.com.br/" image="" name="Radio Banda B - Curitiba" url="http://wmedia.telium.com.br/bandab550am"/>
+<endpoint description="Sports | AC - Porto Alegre - 48 Kbps - website: http://www.bandrs.com.br/" image="" name="Radio Bandeirantes 640 AM - Porto Alegre" url="mms://201.48.237.34/POA"/>
+<endpoint description="Religious - Sao Paulo - 48 Kbps - website: http://www.redeboavontade.com/" image="" name="Radio Boa Vontade - Sao Paulo" url="http://servidor1.crossdigital.com.br:8058/listen.pls"/>
+<endpoint description="Public Radio - Caldas - 32 Kbps - website: http://www.radiocaldasfm.com.br/" image="" name="Radio Caldas - Caldas" url="mms://radiocaldasfm.dnip.com.br/radiocaldasfm"/>
+<endpoint description="AC - Brasilia - 128 Kbps - website: http://www.camara.gov.br/internet/radiocamara/" image="" name="Radio Camara - Brasilia" url="mms://theon.camara.gov.br/radio"/>
+<endpoint description="AC - Acreuna - 64 Kbps - website: http://www.radiocanada.com.br/" image="" name="Radio Canada FM Acreuna - Acreuna" url="http://www.radiocanada.com.br/website/ouvir/acreuna/winamp.m3u"/>
+<endpoint description="AC - Britania - 64 Kbps - website: http://www.radiocanada.com.br/" image="" name="Radio Canada FM Britania - Britania" url="http://www.radiocanada.com.br/website/ouvir/britania/winamp.m3u"/>
+<endpoint description="AC - Edeia - 64 Kbps - website: http://www.radiocanada.com.br/" image="" name="Radio Canada FM Edeia - Edeia" url="http://www.radiocanada.com.br/website/ouvir/edeia/winamp.m3u"/>
+<endpoint description="AC - Qurinopolis - 32 Kbps - website: http://www.radiocanada.com.br/" image="" name="Radio Canada FM Qurinopolis - Qurinopolis" url="http://www.radiocanada.com.br/website/ouvir/quirinopolis/winamp.m3u"/>
+<endpoint description="Religious - Sao Paulo - 48 Kbps - website: http://www.cancaonova.com/" image="" name="Radio Cancao Nova AM - Sao Paulo" url="http://www.cancaonova.com/radioam.asx"/>
+<endpoint description="Religious - Sao Paulo - 128 Kbps - website: http://www.cancaonova.com/" image="" name="Radio Cancao Nova FM - Sao Paulo" url="http://www.cancaonova.com/radiofm.asx"/>
+<endpoint description="Sports | News | AC - Joacaba - 20 Kbps - website: http://www.radiocatarinense.com.br/" image="" name="Radio Catarinense - Joacaba" url="mms://200.215.87.245:8080"/>
+<endpoint description="Religious - Rio de Janeiro - 32 Kbps - website: http://www.radiocatedral.com.br/" image="" name="Radio Catedral - Rio de Janeiro" url="http://radiocatedral.dnip.com.br:2030/listen.pls"/>
+<endpoint description="News | Sports - Campinas - 32 Kbps - website: http://www.cbncampinas.com.br/" image="" name="Radio CBN Campinas 99.1 FM - Campinas" url="http://windows3.upx.com.br/cbn"/>
+<endpoint description="News - Rio de Janeiro - 32 Kbps - website: http://www.cbncampinas.com.br/" image="" name="Radio CBN RJ 860 AM - Rio de Janeiro" url="http://servidor6.crossdigital.com.br:8084/listen.pls"/>
+<endpoint description="News - Sao Paulo - 32 Kbps - website: http://www.cbncampinas.com.br/" image="" name="Radio CBN SP 780 AM - Sao Paulo" url="http://servidor6.crossdigital.com.br:8068/listen.pls"/>
+<endpoint description="News and Music - Campo Verde - 32 Kbps - website: http://www.cidadebela.fm.br/" image="" name="Radio Cicade Bela - Campo Verde" url="http://cidadebela.fm.br/play/radio.asx"/>
+<endpoint description="Brazilian music - Natal - 32 Kbps - website: http://www.radiocidadenatal.com.br/" image="" name="Radio Cidade 94.3 FM - Natal" url="mms://174.132.67.117/94fm"/>
+<endpoint description="Pop - Recife - 32 Kbps - website: http://www.redecidadeweb.com.br/" image="" name="Radio Cidade 95.9 FM - Recife" url="http://redecidadeweb.no-ip.org:8088/listen.pls"/>
+<endpoint description="Top 40 - Juiz de Fora - 32 Kbps - website: http://www.radiocidadejf.com.br/" image="" name="Radio Cidade 100.1 FM - Juiz de Fora" url="mms://radiocidade.radioamfm.com.br/radiocidade"/>
+<endpoint description="Top 40 - Guaxupe - 20 Kbps - website: http://www.fmcidade.com/" image="" name="Radio Cidade 105.5 FM - Guaxupe" url="http://www.fmcidade.com/radio.asx"/>
+<endpoint description="News | Sports - Vitoria da Conquista - 32 Kbps - website: http://www.radiocidadeconquista.com.br/" image="" name="Radio Cidade 1550 AM - Vitoria da Conquista" url="http://radiowebtv.dnip.net:8285/listen.pls"/>
+<endpoint description="Brazilian music - Natal - 32 Kbps - website: http://www.radiocidadenatal.com.br/" image="" name="Radio Cidade FM - Natal" url="mms://174.132.67.117/94fm"/>
+<endpoint description="News | Sports - Belem - 32 Kbps - website: http://www.radioclubedopara.com.br/" image="" name="Radio Clube do Para 690 AM - Belem" url="http://servidor1.crossdigital.com.br:8004/listen.pls"/>
+<endpoint description="Brazilian Oldies - Internet - 48 Kbps - website: http://www.collectors.com.br/" image="" name="Radio Collector - Internet" url="http://dc800.servermedia.com.br:7075/listen.pls"/>
+<endpoint description="Brazilian music - Cascavel - 48 Kbps - website: http://www.radiocolmeia.com.br/" image="" name="Radio Colmeia 650 AM - Cascavel" url="http://www.novafm.fm:55419/colmeia.m3u"/>
+<endpoint description="Oldies - Congonhas - 48 Kbps - website: http://www.colonialfm.com.br/" image="" name="Radio Colonial 104.7 FM - Congonhas" url="http://96.9.131.101:8024/listen.pls"/>
+<endpoint description="AC - Lorena - 20 Kbps - website: http://www.fmcolumbia.com.br/" image="" name="Radio Columbia - Lorena" url="mms://200.210.101.4:8080/"/>
+<endpoint description="Dance - Guarapuava - 32 Kbps - website: http://www.centralcultura.com.br/" image="" name="Radio Cultura 560 AM - Guarapuava" url="mms://ws-3e9.quatrobe.com/brd-culturaam560"/>
+<endpoint description="News | Talk - Araraquara - 24 Kbps - website: http://www.culturafmam.com.br/" image="" name="Radio Cultura 790 AM - Araraquara" url="http://streaming.incremento.com.br:8004/listen.pls"/>
+<endpoint description="Dance - Guarapuava - 32 Kbps - website: http://www.centralcultura.com.br/" image="" name="Radio Cultura 93.7 FM - Guarapuava" url="mms://ws-3e9.quatrobe.com/brd-culturafm937"/>
+<endpoint description="Pop - Araraquara - 32 Kbps - website: http://www.culturafmam.com.br/" image="" name="Radio Cultura 97.3 FM - Araraquara" url="http://streaming.incremento.com.br:8002/listen.pls"/>
+<endpoint description="Top 40 - Uberlandia - 128 Kbps - website: http://www.radioculturafm.com.br/" image="" name="Radio Cultural 95.1 FM - Uberlandia" url="http://radio.opinguim.net:8011/listen.pls"/>
+<endpoint description="News | Top 40 - Uberlandia - 56 Kbps - website: http://www.culturaam.net/" image="" name="Radio Cultural AM - Uberlandia" url="http://radio.opinguim.net:8007/listen.pls"/>
+<endpoint description="Variety - Internet - 128 Kbps - website: http://www.radiodavila.com.br/" image="" name="Radio da Vila - Internet" url="http://66.96.250.136:9078/listen.pls"/>
+<endpoint description="Dance - Internet - 32 Kbps - website: http://www.radiodence.com/" image="" name="Radio Dence - Internet" url="mms://dence.dnip.com.br/dence"/>
+<endpoint description="News | Sports - Patrocinio - 32 Kbps - website: http://www.sistemadifusoraderadio.com.br/" image="" name="Radio Difusora 560 AM - Patrocinio" url="http://www.brasilwork.com.br:8026/listen.pls"/>
+<endpoint description="Pop - Patrocinio - 32 Kbps - website: http://www.sistemadifusoraderadio.com.br/" image="" name="Radio Difusora 98.9 FM - Patrocinio" url="http://www.brasilwork.com.br:8024/listen.pls"/>
+<endpoint description="Brazilian music - Bage - 24 Kbps - website: http://www.difusorabage.com.br/" image="" name="Radio Difusora 1170 AM - Bage" url="http://201.11.251.6:8184/Difusora.m3u"/>
+<endpoint description="News | Sports - Pocos de Caldas - 32 Kbps - website: http://www.difusorapocos.com.br/" image="" name="Radio Difusora AM 1250 - Pocos de Caldas" url="http://windows2.upx.com.br/difusoraam"/>
+<endpoint description="Rock - Pocos de Caldas - 32 Kbps - website: http://www.difusorapocos.com.br/" image="" name="Radio Difusora FM 104.1 - Pocos de Caldas" url="http://windows2.upx.com.br/difusorafm"/>
+<endpoint description="Rock - Uba - 32 Kbps - website: http://www.educadora.com.br/" image="" name="Radio Educadora 94.5 FM  - Uba" url="mms://educadoratrabalhista.dnip.com.br/educadoratrabalhista"/>
+<endpoint description="Variety - Campinas - 20 Kbps - website: http://www.educadora.ba.gov.br/" image="" name="Radio Educadora 107.5 FM - Campinas" url="http://www.educadora.ba.gov.br/radio/radio.asx"/>
+<endpoint description="News and Music - Rio de Janeiro - 32 Kbps - website: http://www.radio93.com.br/" image="" name="Radio El Shadai 93 FM - Rio de Janeiro" url="http://www.radio93.com.br/radio_online/audio.asx"/>
+<endpoint description="News | Talk - Sao Paulo - 32 Kbps - website: http://www.radioeldorado.com.br/" image="" name="Radio Eldorado - Sao Paulo" url="http://www.territorioeldorado.limao.com.br/player/aovivo_am_bl.asx"/>
+<endpoint description="Pop | Classical - Sao Paulo - 64 Kbps - website: http://www.radioeldoradofm.com.br/" image="" name="Radio Eldorado 92.9 FM - Sao Paulo" url="http://www.radioeldoradofm.com.br/aovivo.asx"/>
+<endpoint description="Rock - Sapucaia - 32 Kbps - website: http://www.radioequipe.com.br/" image="" name="Radio Equipe 87.9 FM - Sapucaia" url="http://189.27.222.109:8000/listen.pls"/>
+<endpoint description="Top 40 - Vacaria - 64 Kbps - website: http://www.radioesmeralda.com.br/" image="" name="Radio Esmeralda 93.1 FM - Vacaria" url="mms://201.15.128.11:8080"/>
+<endpoint description="AC - Bauru - 64 Kbps - website: http://www.94fm.com.br/" image="" name="Radio Essa 94.1 FM - Bauru" url="http://s8-ul.upx.net.br/94fm"/>
+<endpoint description="College Radio - Sao Paulo - 64 Kbps - website: http://www.radiofaap.com.br/" image="" name="Radio FAAP FM - Sao Paulo" url="mms://radiofaap.faap.br/radiofaap"/>
+<endpoint description="AC - Belo Horizonte - 24 Kbps - website: http://radio.fae.ufmg.br/" image="" name="Radio.FaE.ufmg.br - Belo Horizonte" url="http://150.164.116.121:64000/listen.pls"/>
+<endpoint description="Top 40 | Brazilian music - Itapolis - 32 Kbps - website: http://www.radiofm107.com.br/" image="" name="Radio FM 107 - Itapolis" url="http://fm107.acessaradios.com.br/fm107"/>
+<endpoint description="Top 40 | Rock - Patos de Minas - 32 Kbps - website: http://www.fmliberdade.com/" image="" name="Radio FM Liberdade - Patos de Minas" url="http://www.brasilwork.com.br:8022/listen.pls"/>
+<endpoint description="Top 40 - Londrina - 48 Kbps - website: http://www.folhafm.com.br/" image="" name="Radio Folha - Londrina" url="http://www.folhafm.com.br/player/folhafm.asx"/>
+<endpoint description="Religious - Porto Alegre - 64 Kbps - website: http://www.fundacaofraternidade.org.br/" image="" name="Radio Fraternidade 98.9 FM - Porto Alegre" url="http://radio2.suaradionanet.net:8044/listen.pls"/>
+<endpoint description="AC - Araras - 32 Kbps - website: http://www.fraternidadefm.com.br/" image="" name="Radio Fraternidade FM - Araras" url="mms://servidor-br1.apkomp.com.br/fraternidadefm"/>
+<endpoint description="Top 40 - Paranavai - 32 Kbps - website: http://www.redederadios.com.br/" image="" name="Radio Globo 93.3 FM - Paranavai" url="mms://174.133.123.50/fm933_audio"/>
+<endpoint description="Top 40 - Paranavai - 32 Kbps - website: http://www.redederadios.com.br/" image="" name="Radio Globo 94.5 FM - Paranavai" url="mms://174.133.123.50/fm945_audio"/>
+<endpoint description="News | Talk - Sao Paulo - 32 Kbps - website: http://globoradio.globo.com/" image="" name="Radio Globo 1100 AM - Sao Paulo" url="http://wm-sgr-live.globo.com/sgr_off_globoamsp_live.wma"/>
+<endpoint description="News | Talk - Rio de Janeiro - 32 Kbps - website: http://globoradio.globo.com/" image="" name="Radio Globo 1220 AM - Rio de Janeiro" url="http://wm-sgr-live.globo.com/sgr_off_globoamrj_live.wma"/>
+<endpoint description="News - Londrina - 32 Kbps - website: http://www.radioglobolondrina.com.br/" image="" name="Radio Globo 1400 AM - Londrina" url="mms://streamer-br0.apkomp.com.br/globolondrina"/>
+<endpoint description="Smooth Jazz - Porto Alegre - 22 Kbps - website: http://www.guaiba.com.br/" image="" name="Radio Guaiba - Porto Alegre" url="http://www.radioguaiba.com.br/aovivo/New/guaibaFm.asx"/>
+<endpoint description="News/Sports - Criciuma - 32 Kbps - website: http://www.hulhanet.com.br/" image="" name="Radio Hulha Negra - Criciuma" url="mms://189.28.176.240/RadioHulhaNegra"/>
+<endpoint description="News/Music - Londrina - 48 Kbps - website: http://www.igapofm.com.br/" image="" name="Radio Igapo 1120 FM - Londrina" url="http://www.igapofm.com.br/igapofm.asx"/>
+<endpoint description="News/Music - Santiago - 32 Kbps - website: http://www.iguacufm.com.br/" image="" name="Radio Iguacu FM - Santiago" url="mms://201.10.44.50:8080"/>
+<endpoint description="Top 40 - Paranagua - 48 Kbps - website: http://www.fmilhadomel.com.br/" image="" name="Radio Ilha do Mel 90.3 FM - Paranagua" url="mms://streamer-br0.apkomp.com.br/fmilhadomel"/>
+<endpoint description="News | Pop - Nova Petropolis - 48 Kbps - website: http://www.imperial.fm.br/" image="" name="Radio Imperial 104.5 FM - Nova Petropolis" url="http://72.36.130.114:8209/listen.pls"/>
+<endpoint description="Dance - Belo Horizonte - 48 Kbps - website: http://www.inconfidencia.com.br/" image="" name="Radio Inconfidencia 100.9 FM - Belo Horizonte" url="mms://midiaserverbr.com/inconfidenciafm"/>
+<endpoint description="News | Sports - Belo Horizonte - 48 Kbps - website: http://www.inconfidencia.com.br/" image="" name="Radio Inconfidencia 880 AM - Belo Horizonte" url="http://www.inconfidencia.com.br/am/aovivo/capture.asx"/>
+<endpoint description="Variety - Salvador - 32 Kbps - website: http://www.itaparicafm.com.br/" image="" name="Radio Itaparica 91.0 FM - Salvador" url="http://64.15.158.242:8138/listen.pls"/>
+<endpoint description="News | Sports - Jaragua do Sul - 48 Kbps - website: http://www.jaraguaam.com.br/" image="" name="Radio Jaragua AM - Jaragua do Sul" url="http://stream.tfi.com.br/jaraguaam.asx"/>
+<endpoint description="News | Music - Amambai - 32 Kbps - website: http://www.radiojornalamambai.com.br/" image="" name="Radio Jornal 102.5 FM - Amambai" url="http://wms.radiowebtv.com:8123/listen.pls"/>
+<endpoint description="Pop - Itajuba - 32 Kbps - website: http://www.jovemfm.com.br/" image="" name="Radio Jovem - Itajuba" url="http://radio.projesom.com.br:8000/jovem.mp3.m3u"/>
+<endpoint description="Dance - Catalao - 48 Kbps - website: http://www.fmliberdade.com.br/" image="" name="Radio Liberdade - Catalao" url="http://187.4.81.65:8000/listen.pls"/>
+<endpoint description="Top 40 - Vicosa - 32 Kbps - website: http://www.radiolider.fm.br/" image="" name="Radio Lider FM - Vicosa" url="http://radiolidervicosa.dnip.com.br:1380/radiolidervicosa"/>
+<endpoint description="Pop - Garanhuns - 48 Kbps - website: http://www.maranofm.com.br/" image="" name="Radio Marano 102.3 FM - Garanhuns" url="http://servidor2.crossdigital.com.br:8014/listen.pls"/>
+<endpoint description="AC - Campo Grande - 48 Kbps - website: http://www.mega94.com.br/" image="" name="Radio Mega FM - Campo Grande" url="http://idc3.radiowebtv.com:8400/listen.pls"/>
+<endpoint description="Rock - Sinop - 32 Kbps - website: http://www.meridionalfm.com.br/" image="" name="Radio Meridional FM - Sinop" url="http://www.meridionalfm.com.br/radio.asx"/>
+<endpoint description="Top 40 - Patrocinio - 48 Kbps - website: http://www.modulofm.com.br/" image="" name="Radio Modulo FM - Patrocinio" url="http://www.brasilwork.com.br:8034/listen.pls"/>
+<endpoint description="Brazilian music - Araraquara - 24 Kbps - website: http://www.radiomorada.com.br/" image="" name="Radio Morada FM - Araraquara" url="http://streaming.incremento.com.br:8006/listen.pls"/>
+<endpoint description="Talk - Sao Paulo - 32 Kbps - website: http://www.radiomundial.com.br/" image="" name="Radio Mundial 95.7 FM - Sao Paulo" url="http://servidor4.crossdigital.com.br:8008//listen.pls"/>
+<endpoint description="Sports | Top 40 - Brasilia - 32 Kbps - website: http://www.radiobras.gov.br/" image="" name="Radio Nacional AM de Brasília - Brasilia" url="http://www.radiobras.gov.br/radioslivres/nacional-am.m3u"/>
+<endpoint description="News - Rio de Janeiro - 32 Kbps - website: http://www.radiobras.gov.br/" image="" name="Radio Nacional AM do Rio de Janeiro - Rio de Janeiro" url="http://www.radiobras.gov.br/radioslivres/nacional-rj.m3u"/>
+<endpoint description="Jazz | Brazilian music - Brasilia - 32 Kbps - website: http://www.radiobras.gov.br/" image="" name="Radio Nacional FM de Brasília - Brasilia" url="http://www.radiobras.gov.br/radioslivres/nacional-fm.m3u"/>
+<endpoint description="Sports | Top 40 - Brasilia - 32 Kbps - website: http://www.radiobras.gov.br/" image="" name="Radio Nacional Amazonia - Brasilia" url="http://www.radiobras.gov.br/radioslivres/amazonia.m3u"/>
+<endpoint description="Sports | Top 40 - Nova Venecia - 48 Kbps - website: http://www.novaonda.com.br/" image="" name="Radio Nova Onda 99.3 FM - Nova Venecia" url="http://69.64.43.94/novaonda"/>
+<endpoint description="Religious - Salvador - 48 Kbps - website: http://www.novotemposalvador.com.br/" image="" name="Radio Novo Tempo Salvador 920 AM - Salvador" url="mms://strm04.novotempo.org.br/rnt-salvadorba-vivo"/>
+<endpoint description="Religious - Nova Friburgo - 48 Kbps - website: http://www.nuevotiempo.org/" image="" name="Radio Nuevo Tiempo - Nova Friburgo" url="http://ntmc.novotempo.org.br/radionuevotiempo-vivo.asx"/>
+<endpoint description="Top 40 - Rio Grande - 32 Kbps - website: http://www.oceanofm.com.br/" image="" name="Radio Oceano FM - Rio Grande" url="http://servidor2.crossdigital.com.br:8072/listen.pls"/>
+<endpoint description="News | Music - Ondas Medias - 32 Kbps - website: http://www.paiquere.com.br/" image="" name="Radio Paiquere - Ondas Medias" url="mms://audioserver.paiquere.com.br/paiquere"/>
+<endpoint description="News - Porto Alegre - 32 Kbps - website: http://www.radiopampa.com.br/" image="" name="Radio Pampa - Porto Alegre" url="http://streaming.pampa.com.br:8000/RadioPampa.m3u"/>
+<endpoint description="Top 40 - Avare - 32 Kbps - website: http://www.panoramafm.com.br/" image="" name="Radio Panorama - Avare" url="mms://servidor12.dnip.com.br/panoramafm"/>
+<endpoint description="AC | Brazilian music - Rio De Janeiro - 96 Kbps - website: http://www.paradisofm.com.br/" image="" name="Radio Paradiso FM - Rio De Janeiro" url="http://p.mm.uol.com.br/paradisofm"/>
+<endpoint description="Brazilian music | News - Vilhena - 20 Kbps - website: http://www.plansol.com.br/" image="" name="Radio Planalto AM - Vilhena" url="mms://streamer-br0.apkomp.com.br/planaltovilhena"/>
+<endpoint description="News | Sports - Ubata - 24 Kbps - website: http://www.radiopovo.com.br/" image="" name="Radio Povo Ubata 1230 AM - Ubata" url="http://174.142.61.109:8040/listen.pls"/>
+<endpoint description="Brazilian music - Presidente Prudente - 20 Kbps - website: http://www.fm101fm.com.br/" image="" name="Radio Presidente Prudente - Presidente Prudente" url="mms://servidor-br0.apkomp.com.br/101fmprudente"/>
+<endpoint description="Top 40 - Rio De Janeiro - 64 Kbps - website: http://www.fm94.rj.gov.br/" image="" name="Radio Roquete Pinto FM - Rio De Janeiro" url="mms://Roquette.94fm.rj.gov.br:8000/"/>
+<endpoint description="News | Sports - Concordia - 32 Kbps - website: http://www.radiorural.com.br/" image="" name="Radio Rural AM - Concordia" url="mms://ws-3e9.quatrobe.com/BRU-RuralAM840"/>
+<endpoint description="News | Talk - Santa Fe do Sul - 24 Kbps - website: http://www.radiosantafe.com.br/" image="" name="Radio Santa Fe 930 AM - Santa Fe do Sul" url="http://midiaserverbr3.com:8070/listen.pls"/>
+<endpoint description="Variety - Itauna - 24 Kbps - website: http://www.santanafm.com.br/" image="" name="Radio Santana FM - Itauna" url="http://200.243.216.57:8000/listen.pls"/>
+<endpoint description="News | Sports - Caxias do Sul - 32 Kbps - website: http://www.saofrancisco.am.br/" image="" name="Radio Sao Francisco Sat - Caxias do Sul" url="http://200.203.121.33:8004/listen.pls"/>
+<endpoint description="News | Sports - Sao Joao Del Rei - 32 Kbps - website: http://www.radiosaojoaodelrei.am.br/" image="" name="Radio Sao Joao - Sao Joao Del Rei" url="mms://broadcast.radiosaojoaodelrei.am.br:1175"/>
+<endpoint description="AC - Uruguaiana - 24 Kbps - website: http://www.portaluruguaiana.com/smiguel/" image="" name="Radio Sao Miguel  - Uruguaiana" url="http://radiosaomiguel.servemp3.com:8000/listen.pls"/>
+<endpoint description="Brazilian music - Ituporanga - 53 Kbps - website: http://www.sintonia.am.br/" image="" name="Radio Sintonia - Ituporanga" url="mms://sintoniaam.dnip.com.br/sintoniaam"/>
+<endpoint description="Rock - Saquarema - 32 Kbps - website: http://www.sulfluminense.com.br/" image="" name="Radio Sociedade 104.1 FM - Saquarema" url="http://servidor6.crossdigital.com.br:8056/listen.pls"/>
+<endpoint description="News | Talk - Salvador - 32 Kbps - website: http://www.radiosociedadeam.com.br/" image="" name="Radio Sociedede 740 AM - Salvador" url="http://189.14.239.7:8010/listen.pls"/>
+<endpoint description="AC - Imperatriz - 32 Kbps - website: http://www.fmterra.com.br/" image="" name="Radio Terra 100.3 FM - Imperatriz" url="http://www.radioum.com.br:4150/listen.pls"/>
+<endpoint description="Top 40 - Sao Joao Nepomuceno - 32 Kbps - website: http://www.transamericasjn.com.br/" image="" name="Radio Transamerica 91.7 FM - Sao Joao Nepomuceno" url="http://www.transamericasjn.com.br/aovivo/radiotransa.asx"/>
+<endpoint description="Top 40 - Curitiba - 64 Kbps - website: http://transanet-ctbapop.bigsolutions.com.br/" image="" name="Radio Transamerica Pop PR 100.3 FM - Curitiba" url="http://wmedia.telium.com.br/transprpop"/>
+<endpoint description="AC - Mogi das Cruzes - 32 Kbps - website: http://www.transcontinentalfm.com.br/" image="" name="Radio Transcontinental - Mogi das Cruzes" url="http://servidor3.crossdigital.com.br:8042/listen.pls"/>
+<endpoint description="Brazilian | Latin Music - Fortaleza - 24 Kbps - website: http://www.canalforro.com.br/" image="" name="Radio Tropical 92.9 FM - Fortaleza" url="http://tropicalfm.argohost.com.br:8245/listen.pls"/>
+<endpoint description="Rock - Ponta Grossa - 32 Kbps - website: http://www.fmtropical.com.br/" image="" name="Radio Tropical 97.3 FM - Ponta Grossa" url="http://tropicalfm1.masterwebbrasil.com/listen.pls"/>
+<endpoint description="AC - Passo Fundo - 24 Kbps - website: http://www.rduirapuru.com.br/" image="" name="Radio Uirapuru - Passo Fundo" url="http://201.90.127.2:8000/listen.pls"/>
+<endpoint description="College Radio - Ijui - 32 Kbps - website: http://www.unijui.edu.br/" image="" name="Radio Unijui - Ijui" url="mms://fm.unijui.tche.br:9000"/>
+<endpoint description="World Tropical - Sao Leopoldo - 20 Kbps - website: http://www.unisinosfm.com.br/" image="" name="Radio Unisinos - Sao Leopoldo" url="http://www.unisinos.br/comunicacao/radio/aovivo/radio_externo.asx"/>
+<endpoint description="College Radio - Maringa - 48 Kbps - website: http://www.uem.br/" image="" name="Radio Universitaria 106.9 FM - Maringa" url="http://rtu-live.uem.br:8000/rtu.mp3.m3u"/>
+<endpoint description="College Radio - Garca - 24 Kbps - website: http://unimidia.tripod.com.br/" image="" name="Radio Universitaria de Garca 1060 AM - Garca" url="http://200.171.3.100:8000/listen.pls"/>
+<endpoint description="Sports | Pop - Dom Pedrito - 20 Kbps - website: http://www.radioupacarai.com.br/" image="" name="Radio Upacarai - Dom Pedrito" url="http://www.radioupacarai.com.br/noar.asx"/>
+<endpoint description="College Radio - Sao Paulo - 64 Kbps - website: http://www.usp.br/radiousp/" image="" name="Radio USP 93.7 FM - Sao Paulo" url="http://www.emm.usp.br/radiouspw.asx"/>
+<endpoint description="Brazilian music - Jesuitas - 32 Kbps - website: http://www.valeverdefm.com.br/" image="" name="Radio Vale Verde - Jesuitas" url="mms://streamer-br9.apkomp.com.br/valeverde"/>
+<endpoint description="Religious - Sao Paulo - 32 Kbps - website: http://www.redealeluia.com.br/" image="" name="Rede Aleluia FM - Sao Paulo" url="http://mediaserv.arcauniversal.com/redealeluia"/>
+<endpoint description="News | Pop - Internet - 48 Kbps - website: http://www.redeblitz.com.br/" image="" name="Rede Blitz - Internet" url="http://servidor6.crossdigital.com.br:8074/listen.pls"/>
+<endpoint description="Religious - Campina Grande - 32 Kbps - website: http://www.redefe.com/" image="" name="Rede Fe - Campina Grande" url="http://www.redefe.com.br/Rede_Fe_1.wmx"/>
+<endpoint description="Religious TV - Sao Paulo - 91 Kbps - website: http://www.redesuper.com.br/" image="" name="Rede Super Gospel - Sao Paulo" url="http://patras.uni5.net/ibl320"/>
+<endpoint description="Brazilian music - Baependi - 32 Kbps - website: http://www.rioverdefm.com.br/" image="" name="Rio Verde 106.1 FM - Baependi" url="http://wmedia.telium.com.br/rioverdefm"/>
+<endpoint description="Religious TV - Rio de Janeiro - 159 Kbps - website: http://www.ongrace.com/" image="" name="RIT Rede Internacional Televisao - Rio de Janeiro" url="http://www.ongrace.com/centralMedia/ritTV.asx"/>
+<endpoint description="Brazilian music - Sao Carlos - 64 Kbps - website: http://www.saocarlosfm.com.br/" image="" name="Sao Carlos FM - Sao Carlos" url="mms://wmedia.telium.com.br/saocarlosfm"/>
+<endpoint description="Pop - Sao Paulo - 32 Kbps - website: http://www.scallafm.com.br/" image="" name="Scalla 92.5 FM - Sao Paulo" url="http://crosshost.com.br/cbs/scalla_vocal/listen.pls"/>
+<endpoint description="Pop - Sao Paulo - 32 Kbps - website: http://www.scallafm.com.br/" image="" name="Scalla 92.5 FM Instrumental - Sao Paulo" url="http://crosshost.com.br/cbs/scalla_Instrumental/listen.pls"/>
+<endpoint description="News | Brazilian music - Gaspar - 120 Kbps - website: http://www.sentineladovale.com.br/" image="" name="Sentinela do Vale AM - Gaspar" url="mms://sentineladovale.dnip.com.br/sentineladovale"/>
+<endpoint description="News | Top 40 - Juiz de Fora - 32 Kbps - website: http://www.radiosolar.com.br/" image="" name="Solar AM 1010 - Juiz de Fora" url="http://174.37.156.194:8122/listen.pls"/>
+<endpoint description="Pop - Sao Jose - 64 Kbps - website: http://www.stereovale.fm/" image="" name="Stereo Valle 103.9 FM - Sao Jose" url="mms://welltecnologia.com.br/Sterio"/>
+<endpoint description="Pop - Jaragua do Sul - 192 Kbps - website: http://www.studiofm.com.br/" image="" name="Studio FM 99.1 - Jaragua do Sul" url="http://stream.tfi.com.br/studiofm.asx"/>
+<endpoint description="Public Radio - Campo Grande - 36 Kbps - website: http://www.fmmoreninhas.com.br/" image="" name="Sul Moreninhas FM - Campo Grande" url="http://www.fmmoreninhas.com.br/arquivos/radioaovivo.asx"/>
+<endpoint description="Top 40 - Ibitinga - 32 Kbps - website: http://www.radioibitinga.com.br/" image="" name="Ternura 99.3 FM - Ibitinga" url="http://radio.tokhost.com.br/ternura"/>
+<endpoint description="Brazilian music - Itamaraju - 64 Kbps - website: http://www.terramarfm.com.br/" image="" name="Terramar 92.9 FM - Itamaraju" url="http://radios.agenciarwebhost.com.br:4020/listen.pls"/>
+<endpoint description="AC - Internet - 32 Kbps - website: http://www.top98.com.br/" image="" name="Top 98.3 FM - Internet" url="mms://streamer-br1.apkomp.com.br/top98fm"/>
+<endpoint description="Top 40 - Paranavai - 32 Kbps - website: http://www.cidadefmonline.com.br/" image="" name="Transamerica 100.7 FM - Paranavai" url="mms://200.203.233.138:1007"/>
+<endpoint description="Top 40 - Balneario De Camboriu - 40 Kbps - website: http://www.trans99fm.com.br/" image="" name="Transamerica Balneario Camboriu 99.7 FM - Balneario De Camboriu" url="http://stream1.interrogacaodigital.net/redel"/>
+<endpoint description="College Radio - Curitiba - 64 Kbps - website: http://www.radio.ufpr.br/" image="" name="UFPR - Curitiba" url="mms://200.17.209.14/radio"/>
+<endpoint description="Brazilian music - Brasília - 32 Kbps - website: http://www.verdeolivafm.exercito.gov.br/" image="" name="Verde Oliva 98.7 FM - Brasília" url="http://wms1.netpoint.com.br/ccse"/>
+<endpoint description="Brazilian music - Taio - 32 Kbps - website: http://www.verdevalefm.com.br/" image="" name="Verde Vale - Taio" url="mms://verdevalefm.dnip.com.br/verdevale"/>
+<endpoint description="Rock - Cascavel - 48 Kbps - website: http://www.verdescamposfm.com.br/" image="" name="Verdes Campos 93.1 FM - Cascavel" url="http://verdescampos.certto.com.br:8000/verdescampos.m3u"/>
+<endpoint description="Rock - Santiago - 48 Kbps - website: http://www.verdespampas.com.br/" image="" name="Verdes Pampas FM 102.1 - Santiago" url="http://broadcast.verdespampas.com.br/radio"/>
+</section>
+<section description="" image="" name="untitled section">
+<endpoint description="http://www.caiobafm.com.br/#" image="" name="caiobafm 102.3" url="http://radios.microum.com.br:8600"/>
+<endpoint description="Rádio YES (Top 40/Pop / 64k stereo)&#10;Language: Portuguese&#10;Location: Rio de Janeiro, Brazil&#10;Rádio Online Jovem do Brasil para " image="" name="YES" url="http://69.64.52.60:7048"/>
+<endpoint description="" image="" name="Extra - 103.9 FM" url="mms://aovivo.itatiaia.com.br/Extra"/>
+<endpoint description="" image="" name="Radio Giga. A Conexão Certa !" url="http://fms2.corptv.com.br:8000"/>
+<endpoint description="http://www.culturawebradio.com.br/" image="" name="Cultura" url="http://www.culturawebradio.com.br/stream.pls"/>
+<endpoint description="Radio Pop Hits (Top 40/Pop / 48k stereo)&#10;Language: English&#10;Location: Bage, Brazil&#10;The best of 80s, 90s and all of Top 40. " image="" name="Radio POP Hits" url="http://www.radiopophits.com/pophits_winamp.pls"/>
+<endpoint description="http://www.nossavoz.rg3.net/" image="" name="Nossa Voz" url="mmsh://wmserver3.bcmg.com.br/saudadefm?MSWMExt=.asf"/>
+<endpoint description="http://www.territorioeldorado.limao.com.br/" image="" name="el dorado" url="http://www.radioeldoradofm.com.br/aovivobl.asx"/>
+<endpoint description="" image="" name="metropolitana 98.5 FM" url="http://metropolitanafm.uol.com.br/ao-vivo/sao-paulo.asx"/>
+<endpoint description="http://www.fm94.rj.gov.br&#10;Rio Janeiro RJ, Brazil&#10;Top 40 radio from Rio Janeiro RJ Brazil " image="" name="FM 94 Roquete Pinto" url="mms://Roquette.94fm.rj.gov.br:8000/"/>
+<endpoint description="http://www.radionova1.com/&#10;Nova Friburgo, Brazil&#10;Um jeito diferente de ouvir Rádio." image="" name="Rádio Nova" url="http://www.radionova1.com/winamp.m3u"/>
+<endpoint description="Minas Gerais, Brazil&#10;Web Radio On Line 24h. Eletronica, Techno, 00\'s " image="" name="Radio Sigma" url="http://sc4.mystreamserver.com:8006"/>
+<endpoint description="http://www.aliadosdoritmo.com.br/" image="" name="Aliados do ritmo" url="http://www.aliadosdoritmo.com.br/metafiles/aliados.pls"/>
+<endpoint description="http://www.radiogaia.com.br/. Sao Paulo, Brazil&#10;A blue dot in the universe ... seen from space, this is the way our astronauts describe our planet. For millions of years, civilizations have come their way and left their marks. Mayans, Incas, Aztecs, Egyptians. Each played a role in Earth's history. T " image="" name="radio gaia" url="http://www.radiogaia.com.br/radio-listen/radio-gaia128k.pls"/>
+<endpoint description="http://radio-o-proletario.in/cariboost1/" image="" name="radio web o proletario" url="http://stream4.servidordedicado.info/tunein.php/webradiooproletario/playlist.pls"/>
+<endpoint description="http://www.radioyes.com/&#10;&#10;http://69.64.52.60:7048" image="" name="radio YES" url="http://69.64.52.60:7048//listen.pls"/>
+<endpoint description="http://portalamazonia.globo.com/acrefm/aovivo.htm&#10;Rio de Janeiro RJ, Brazil&#10;Rock station from Rio de Janeiro RJ Brazil " image="" name="Acre 98.1 FM " url="http://portalamazonia.globo.com/acrefm/aovivo/acrefm.asx"/>
+<endpoint description="http://www.pelomundo.com.br/new/&#10;Uma das webradios mais acessadas do Brasil, com diversos estilos musicais, indo do world music ao eletrônico. " image="" name="Pelo Mundo " url="http://www.pelomundo.com.br/radio/rd2.asx"/>
+<endpoint description="http://www.mixagem.radio.br&#10;São José do Rio Pardo, Brazil&#10;MPB, rock clássico, New Wave, Pop " image="" name="Mixagem " url="http://www.mixagem.radio.br/ouvir_winamp_24kbps.m3u"/>
+<endpoint description="http://www.fm98fm.com.br" image="" name="98 FM" url="http://streaming.apkomp.com.br/98fmprudente/98fmprudente.asx"/>
+<endpoint description="" image="" name="Aparecida 94.7 FM " url="mms://midia2.infonet.com.br/aparecidafm"/>
+<endpoint description="http://www.biancafm.com.br" image="" name="Bianca 92.5 FM" url="mms://www.omegasistemas.com.br/biancafm"/>
+</section>
+<section description="" image="" name="http://www.redesul.am.br (religion)">
+<endpoint description="http://www.redesul.am.br" image="" name="Alvorada 1360 AM " url="http://200.203.121.33:8010"/>
+<endpoint description="http://www.redesul.am.br" image="" name="Cacique AM" url="http://200.203.121.33:8012"/>
+<endpoint description="" image="" name="Cristal AM" url="http://200.203.121.33:8016"/>
+<endpoint description="" image="" name="Fatima AM" url="http://200.203.121.33:8024"/>
+<section description="" image="" name="Garibaldi AM"/>
+<endpoint description="" image="" name="Sao Francisco" url="http://200.203.121.33:8004"/>
+</section>
+</document>

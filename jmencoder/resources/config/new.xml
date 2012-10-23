@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!-- empty play list document
+	@author: sgurin
+-->
+
+	<!-- DTD -->
+<!DOCTYPE Tree [
+
+<!ELEMENT document (section|endpoint)*>
+	<!ATTLIST document name CDATA #REQUIRED>
+	<!ATTLIST document description CDATA #IMPLIED>
+<!ELEMENT section (section|endpoint)*>
+	<!ATTLIST section name CDATA #REQUIRED>
+	<!ATTLIST section description CDATA #IMPLIED>
+	
+<!ELEMENT endpoint (#PCDATA)>
+	<!ATTLIST endpoint name CDATA #REQUIRED>
+	<!ATTLIST endpoint description CDATA #IMPLIED>
+	<!ATTLIST endpoint url CDATA #REQUIRED>
+	<!ATTLIST endpoint image CDATA #IMPLIED>
+	
+]>
+
+<document name="untitled">
+
+	<section name="untitled section">
+		<endpoint name="untitled example"
+			url=""></endpoint>		 
+	</section>
+	
+</document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+
+	@author: sgurin
+-->
+
+<!-- DTD -->
+<!DOCTYPE Tree [
+
+<!ELEMENT document (section)*>
+<!ELEMENT section (section|endpoint)*>
+	<!ATTLIST section name CDATA #REQUIRED>
+	<!ATTLIST section description CDATA #IMPLIED>
+	
+<!ELEMENT endpoint (#PCDATA)>
+	<!ATTLIST endpoint name CDATA #REQUIRED>
+	<!ATTLIST endpoint description CDATA #IMPLIED>
+	<!ATTLIST endpoint url CDATA #REQUIRED>
+	<!ATTLIST endpoint image CDATA #IMPLIED>
+	
+]>
+
+<document>
+	<section name="section1.1">
+		<endpoint name="endpoint 1.1"></endpoint>
+		<endpoint name="endpoint 1.2" url="url1"></endpoint>
+		<section name="section1.3">
+			<endpoint name="endpoint 1.3.1" url="url1"></endpoint>
+			<endpoint name="endpoint 1.4.1" url="url1"></endpoint>
+			<endpoint name="endpoint 1.5.1" url="url1"></endpoint>
+		</section>
+		<endpoint name="endpoint 1.4"></endpoint>
+	</section>
+
+	<section name="section1.2">
+		<endpoint name="endpoint 2.1" url="url1"></endpoint>
+		<endpoint name="endpoint 2.2" url="url1"></endpoint>
+		<endpoint name="endpoint 2.3" url="url1"></endpoint>
+	</section>
+
+</document>

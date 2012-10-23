@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<document>
+<section description="" image="" name="New Zeeland">
+<endpoint name="Radio New Zealand National - Wellington" description="city: Wellington - resolution: 64 Kbps - description: News/Features" url="http://www.radionz.co.nz/audio/live/national/adaptive.asx"></endpoint>
+<endpoint name="Radio New Zealand Concert - Wellington" description="city: Wellington - resolution: 64 Kbps - description: Classical" url="http://www.radionz.co.nz/audio/live/concert/adaptive.asx"></endpoint>
+<endpoint name="Radio New Zealand AM Network - Wellington" description="city: Wellington - resolution: 40 Kbps - description: Parliamentary broadcasts" url="http://www.radionz.co.nz/audio/live/parliament"></endpoint>
+<endpoint name="Radio New Zealand Int. - Wellington" description="city: Wellington - resolution: 64 Kbps - description: Pacific-wide service" url="http://www.radionz.co.nz/audio/live/rnzi/adaptive.asx"></endpoint>
+<endpoint name="1XX - Whakatane" description="city: Whakatane - resolution: 32 Kbps - description: Local service" url="mms://ac1-bak.streaming.net.nz/1xx"></endpoint>
+<endpoint name="88.4 The Cheese - Wellington" description="city: Wellington - resolution: 64 Kbps - description: 80s/90s/today" url="http://203.97.214.251:8000/listen.pls"></endpoint>
+<endpoint name="95bFM - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Variety" url="http://www.95bfm.com/bfm32.m3u"></endpoint>
+<endpoint name="Access Radio 783 - Wellington" description="city: Wellington - resolution: 64 Kbps - description: Community radio" url="http://www1.streaming.net.nz/meta/accessradio-56.asx"></endpoint>
+<endpoint name="Apna 990 AM - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Hindi programming" url="http://www1.streaming.net.nz/meta/apnafm.asx"></endpoint>
+<endpoint name="Atiawa Toa FM - Lower Hutt" description="city: Lower Hutt - resolution: 22 Kbps - description: Maori" url="http://www.irirangi.net/asxgenerate.asp?id=4"></endpoint>
+<endpoint name="Awa FM - Wanganui" description="city: Wanganui - resolution: 22 Kbps - description: Maori Music" url="http://www.irirangi.net/asxgenerate.asp?id=5"></endpoint>
+<endpoint name="Base FM - Auckland" description="city: Auckland - resolution: 40 Kbps - description: Dance" url="http://media.telepathy.co.nz/playlist/basefm40.m3u"></endpoint>
+<endpoint name="The Breeze Wellington - Wellington" description="city: Wellington - resolution: 40 Kbps - description: Easy Listening" url="http://www1.streaming.net.nz/meta/tvworks-breeze-wlg.asx"></endpoint>
+<endpoint name="The Breeze Waikato - Hamilton" description="city: Hamilton - resolution: 40 Kbps - description: Easy Listening" url="http://www1.streaming.net.nz/meta/tvworks-breeze-ham.asx"></endpoint>
+<endpoint name="The Breeze Auckland - Auckland" description="city: Auckland - resolution: 40 Kbps - description: Easy Listening" url="http://www1.streaming.net.nz/meta/breeze-akl.asx"></endpoint>
+<endpoint name="The Breeze Christchurch - Christchurch" description="city: Christchurch - resolution: 40 Kbps - description: Easy Listening" url="http://www1.streaming.net.nz/meta/breeze-chc.asx"></endpoint>
+<endpoint name="Classic Hits 97.4 - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Adult contemporary" url="http://www.classichits.co.nz/listenlive/classichits.asx"></endpoint>
+<endpoint name="Classic Hits 97.7 FM - Christchurch" description="city: Christchurch - resolution: 32 Kbps - description: Adult contemporary" url="http://www.classichits.co.nz/listenlive/classichitsCH.asx"></endpoint>
+<endpoint name="Classic Hits 90FM - Wellington" description="city: Wellington - resolution: 32 Kbps - description: Adult contemporary" url="mms://ac1.streaming.net.nz/trn-classic-hits-wlg"></endpoint>
+<endpoint name="Coast FM - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Easy Listening/Nostalgia" url="http://www.newstalkzb.co.nz/audioredirect.asp?whichbrand=coastAK"></endpoint>
+<endpoint name="Coast FM Christchuch - Christchuch" description="city: Christchuch - resolution: 32 Kbps - description: Easy Listening/Nostalgia" url="http://www.newstalkzb.co.nz/audioredirect.asp?whichbrand=coastCH"></endpoint>
+<endpoint name="Coast FM Wellington - Wellington" description="city: Wellington - resolution: 32 Kbps - description: Easy Listening/Nostalgia" url="http://www.newstalkzb.co.nz/audioredirect.asp?whichbrand=coastWN"></endpoint>
+<endpoint name="Cool Blue 96.1 FM - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Jazz/Blues" url="http://www1.streaming.net.nz/meta/coolblue-56.asx"></endpoint>
+<endpoint name="Community Radio Hamilton - Hamilton" description="city: Hamilton - resolution: 32 Kbps - description: Community radio" url="http://www1.streaming.net.nz/meta/communityradio.asx"></endpoint>
+<endpoint name="Country Radio 88.1 - Rotorua" description="city: Rotorua - resolution: 32 Kbps - description: Country" url="http://countryradio3.homeip.net:8000/listen.pls"></endpoint>
+<endpoint name="Easy Mix - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Adult Contemporary" url="mms://wms-trn-all.streaming.net.nz/trn-viva"></endpoint>
+<endpoint name="Flava - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Urban/HipHop/RnB" url="http://www.newstalkzb.co.nz/audioredirect.asp?whichbrand=Flava"></endpoint>
+<endpoint name="The Flea - Bayswater/Auckland" description="city: Bayswater/Auckland - resolution: 24 Kbps - description: Community radio" url="http://121.98.168.24:10042/listen.pls"></endpoint>
+<endpoint name="Fleet FM - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Variety" url="http://www.fleetfm.co.nz/FleetDialUp.m3u"></endpoint>
+<endpoint name="George FM - Auckland" description="city: Auckland - resolution: 40 Kbps - description: Dance" url="http://media.georgefm.co.nz/playlist/georgefm40.m3u"></endpoint>
+<endpoint name="George Jazz - Auckland" description="city: Auckland - resolution: 40 Kbps - description: Jazz" url="http://media.georgefm.co.nz/playlist/Georgejazz40.m3u"></endpoint>
+<endpoint name="George Classic Dance - Auckland" description="city: Auckland - resolution: 40 Kbps - description: Dance" url="http://media.georgefm.co.nz/playlist/GCD32.m3u"></endpoint>
+<endpoint name="KFM - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Soul/Funk/Jazz" url="http://210.48.73.162:8000/listen.pls"></endpoint>
+<endpoint name="LFM - Whitianga" description="city: Whitianga - resolution: 28 Kbps - description: Top 40" url="http://60.234.142.217:8003/listen.pls"></endpoint>
+<endpoint name="Life FM - Auckland" description="city: Auckland - resolution: 40 Kbps - description: Christian Rock" url="http://www1.streaming.net.nz/meta/rbg-lifefm.asx"></endpoint>
+<endpoint name="Maniapoto FM - Te Kuiti" description="city: Te Kuiti - resolution: 22 Kbps - description: Maori Music" url="http://www.irirangi.net/asxgenerate.asp?id=8"></endpoint>
+<endpoint name="Moana AM - Tauranga" description="city: Tauranga - resolution: 22 Kbps - description: Maori Music" url="http://www.irirangi.net/asxgenerate.asp?id=9"></endpoint>
+<endpoint name="Munt FM - Wellington" description="city: Wellington - resolution: 32 Kbps - description: Student radio (Massey Uni.)" url="mms://static.actrix.co.nz/muntfm"></endpoint>
+<endpoint name="Newstalk ZB - Auckland" description="city: Auckland - resolution: 32 Kbps - description: News/talk" url="http://www.newstalkzb.co.nz/audio2/newstalkzb.asx"></endpoint>
+<endpoint name="Newstalk ZB - Christchuch" description="city: Christchuch - resolution: 32 Kbps - description: News/talk" url="http://www.newstalkzb.co.nz/audio2/newstalkzbch.asx"></endpoint>
+<endpoint name="Newstalk ZB - Wellington" description="city: Wellington - resolution: 32 Kbps - description: News/talk" url="http://www.newstalkzb.co.nz/audio2/newstalkzbwn.asx"></endpoint>
+<endpoint name="Nga Iwi FM - Paeroa" description="city: Paeroa - resolution: 22 Kbps - description: Maori Music" url="http://www.irirangi.net/asxgenerate.asp?id=10"></endpoint>
+<endpoint name="Ngati Hine FM - Whangarei" description="city: Whangarei - resolution: 22 Kbps - description: Maori Music" url="http://www.irirangi.net/asxgenerate.asp?id=13"></endpoint>
+<endpoint name="Pulzar FM - Christchurch" description="city: Christchurch - resolution: 48 Kbps - description: Dance/Rock/Pop" url="mms://87.117.228.28/pulzar"></endpoint>
+<endpoint name="Radio Active - Wellington" description="city: Wellington - resolution: 32 Kbps - description: Variety - Victoria University" url="http://radio.paradise.net.nz:9024/listen.pls"></endpoint>
+<endpoint name="Radio Dunedin - Dunedin" description="city: Dunedin - resolution: 40 Kbps - description: Oldies" url="http://www1.streaming.net.nz/meta/tvworks-radun.asx"></endpoint>
+<endpoint name="Radio Hauraki - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Classic rock" url="mms://wms-trn-all.streaming.net.nz/trn-hauraki-akl"></endpoint>
+<endpoint name="Radio Hauraki - Wellington" description="city: Wellington - resolution: 32 Kbps - description: Classic rock" url="mms://wms-trn-all.streaming.net.nz/trn-hauraki-wlg"></endpoint>
+<endpoint name="Radio Hauraki - Christchurch" description="city: Christchurch - resolution: 32 Kbps - description: Classic rock" url="mms://wms-trn-all.streaming.net.nz/trn-hauraki-chc"></endpoint>
+<endpoint name="Radio Live - Auckland" description="city: Auckland - resolution: 40 Kbps - description: Talk" url="http://www1.streaming.net.nz/meta/radiolive-32.asx"></endpoint>
+<endpoint name="Radio Ngati Porou - Gisborne" description="city: Gisborne - resolution: 22 Kbps - description: Maori Music" url="http://www.irirangi.net/asxgenerate.asp?id=14"></endpoint>
+<endpoint name="Radio One - Dunedin" description="city: Dunedin - resolution: 32 Kbps - description: University of Otago" url="http://stream.r1.co.nz:8080/listen.pls"></endpoint>
+<endpoint name="Radio Sport - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Sport" url="http://203.167.213.237/audioredirect.asp?whichbrand=radiosportAK"></endpoint>
+<endpoint name="Radio Sport - Christchurch" description="city: Christchurch - resolution: 32 Kbps - description: Sport" url="http://203.167.213.237/audioredirect.asp?whichbrand=radiosportCH"></endpoint>
+<endpoint name="Radio Sport - Wellington" description="city: Wellington - resolution: 32 Kbps - description: Sport" url="http://203.167.213.237/audioredirect.asp?whichbrand=radiosportWN"></endpoint>
+<endpoint name="Raukawa FM - Tokoroa/Aotearoa" description="city: Tokoroa/Aotearoa - resolution: 22 Kbps - description: Maori Music" url="http://www.irirangi.net/asxgenerate.asp?id=18"></endpoint>
+<endpoint name="RDU 98.5 FM - Christchurch" description="city: Christchurch - resolution: 96 Kbps - description: Alternative - Uni. of Canterbury" url="http://stream01.l2.co.nz:8000/RDU.m3u"></endpoint>
+<endpoint name="Ruia Mai - Tamaki Makau Rau" description="city: Tamaki Makau Rau - resolution: 20 Kbps - description: Maori" url="http://www.ruiamai.co.nz/asxgenerate.asp?id=3"></endpoint>
+<endpoint name="Ski FM - Ruapehu" description="city: Ruapehu - resolution: 96 Kbps - description: Information/music" url="http://stream01.l2.co.nz:8000/SkiFM-Live.m3u"></endpoint>
+<endpoint name="Solid Gold FM - Auckland" description="city: Auckland - resolution: 40 Kbps - description: Oldies" url="http://www1.streaming.net.nz/meta/solid-gold-32.asx"></endpoint>
+<endpoint name="Soul FM - Tauranga" description="city: Tauranga - resolution: 32 Kbps - description: New Age/World/Instrumental" url="http://soulfm.stationplaylist.com/listen.m3u"></endpoint>
+<endpoint name="Southern Star - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Gentle Christian Music" url="http://www1.streaming.net.nz/meta/rbg-sstar.asx"></endpoint>
+<endpoint name="Static FM - Auckland" description="city: Auckland - resolution: 24 Kbps - description: Auckland University of Technology" url="http://artsweb.aut.ac.nz:8002/listen.pls"></endpoint>
+<endpoint name="Turanga FM - Gisborne" description="city: Gisborne - resolution: 22 Kbps - description: Maori Music" url="http://www.irirangi.net/asxgenerate.asp?id=20"></endpoint>
+<endpoint name="Tuwharetoa FM - Turangi/Taupo" description="city: Turangi/Taupo - resolution: 22 Kbps - description: Maori Music" url="http://www.irirangi.net/asxgenerate.asp?id=21"></endpoint>
+<endpoint name="Twisted 107.7 - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Dance" url="http://www.twisted.co.nz/radio/lofi.m3u"></endpoint>
+<endpoint name="UGM - Matamata" description="city: Matamata - resolution: 64 Kbps - description: Alternative" url="http://www.ugmradio.com/listen/ugm-mp3.m3u"></endpoint>
+<endpoint name="Up FM - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Dance" url="http://stream.upfm.dj:8000/upfm_mp3_32.m3u"></endpoint>
+<endpoint name="World FM - Wellington" description="city: Wellington - resolution: 26 Kbps - description: World radio" url="http://www.worldfm.co.nz:8882/worldfm.aac.m3u"></endpoint>
+<endpoint name="ZM Auckland - Auckland" description="city: Auckland - resolution: 32 Kbps - description: Top 40" url="http://203.167.213.237/audioredirect.asp?whichbrand=zmak"></endpoint>
+<endpoint name="ZM Christchurch - Christchurch" description="city: Christchurch - resolution: 32 Kbps - description: Top 40" url="http://203.167.213.237/audioredirect.asp?whichbrand=zmch"></endpoint>
+<endpoint name="ZM Wellington - Wellington" description="city: Wellington - resolution: 32 Kbps - description: Top 40" url="http://203.167.213.237/audioredirect.asp?whichbrand=zmwn"></endpoint>
+
+</section>
+
+</document>

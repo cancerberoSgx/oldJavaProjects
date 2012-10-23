@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<document>
+<section description="por Sebastián Gurin" image="" name="Radios del Uruguay">
+<section description="" image="" name="FM">
+<section description="" image="" name="Montevideo">
+<endpoint description="" image="" name="Oceano - Montevideo" url="http://radio2.oceanofm.com:8010/"/>
+<endpoint description="" image="" name="Futura - Montevideo" url="http://rfm.radio.netgate.com.uy:8000/futurafm"/>
+<endpoint description="http://www.inolvidablefm.com.uy" image="" name="Inolvidable 93.1 FM" url="mms://inolvidable.audio-server.com/inolvidable"/>
+<endpoint description="http://metropolis.elpais.com.uy/metropolisOnLine.htm" image="" name="Metropolis 104.9 FM" url="mms://flux.cxnlive.com/metropolisfm"/>
+<endpoint description="" image="" name="M24 (97.9FM) - Montevideo" url="mms://200.40.120.90/01173"/>
+<endpoint description="" image="" name="Sodre: Emisora del sur (94.7 FM) - Montevideo" url="http://66.55.139.217:9160/"/>
+<endpoint description="" image="" name="Sodre: Babel (97.1 FM) - Montevideo" url="http://66.55.139.217:9170/"/>
+<endpoint description="http://www.fmmas.com/" image="" name="Mas &#8211; 101.3 FM - Montevideo" url="mmsh://flux.cxnlive.com:8080/fmmas?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Azul &#8211; 101.9 FM - Montevideo" url="mms://200.40.120.90/01144"/>
+<endpoint description="http://www.fmdelsol.com&#10;99.5 MONTEVIDEO | 96.7 PUNTA DEL ESTE " image="" name="Del Sol &#8211; 99.5 FM" url="mms://200.108.192.48/Brodcast_DelSol"/>
+<endpoint description="" image="" name="Urbana &#8211; 92.5 FM" url="http://streaming.urbana.com.uy/urbana"/>
+<endpoint description="http://www.airefm.com.uy/" image="" name="Aire 100.3 FM" url="http://96.31.81.7:49616/listen.pls"/>
+<endpoint description="http://www.radiocero.com.uy/" image="" name="radiocero 104.3 FM" url="http://www.radiocero.com.uy/radiocero.asx"/>
+</section>
+<section description="" image="" name="Paysandu">
+<endpoint description="" image="" name="Mas &#8211; 101.3 FM - Paysandu" url="mmsh://flux.cxnlive.com:8080/fmmas?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Contacto &#8211; 106.9 FM - Paysandu" url="http://radiointercom.net:7196/"/>
+<endpoint description="" image="" name="CASINO FM - Paysandu" url="http://www.casinofm.net/images/Listen-online_Playlist.wax"/>
+<endpoint description="http://www.fmlatina953.com/uy/" image="" name="latina 95.3 fm" url="http://99.198.112.242:8048"/>
+</section>
+<section description="http://www.amatistafm.com/" image="" name="Artigas">
+<endpoint description="" image="" name="Horizonte " url=""/>
+<endpoint description="http://www.radioartigas.com/" image="" name="La Voz de Artigas &#8211; 1180 AM" url="http://usa12.ciudaddigital.com.uy/medios/lavozdeartigas/audio/directo.pls"/>
+<endpoint description="http://www.radiobellaunion.com/" image="" name="Bella Unión &#8211; 1250 AM" url="http://usa8.ciudaddigital.com.uy/emisoras/bellaunion/audio/directo.pls"/>
+<endpoint description="http://www.amatistafm.com/" image="" name="Amatista &#8211; 90.7 FM" url="http://usa8.ciudaddigital.com.uy/emisoras/amatista/audio/directo.pls"/>
+<endpoint description="http://www.radiocuareim.com/" image="" name="Cuareim &#8211; 1270 AM" url="http://usa8.ciudaddigital.com.uy/emisoras/cuareim/audio/directo.pls"/>
+</section>
+<section description="" image="" name="Canelones">
+<endpoint description="http://caucesfm.com/" image="" name="Cauces &#8211; 89.1 FM" url="http://caucesfm.listen2myradio.com/media/playradio369522.asx"/>
+<endpoint description="" image="" name="Atlantida FM &#8211; 89.9 FM - Canelones" url="mms://200.40.120.90/01135"/>
+<endpoint description="http://www.radiocontinental.com.uy/" image="" name="Radio Continental &#8211; 1600 AM - Canelones" url="http://usa8.ciudaddigital.com.uy/emisoras/radiomil/audio/directo.pls"/>
+<endpoint description="http://www.fmideal.com/" image="" name="Ideal &#8211; 90.1 FM - Canelones" url="mms://74.208.154.181/fmideal"/>
+</section>
+<section description="" image="" name="Colonia">
+<endpoint description="" image="" name="Reflejos &#8211; 90.7 FM - Colonia" url="http://usa8.ciudaddigital.com.uy:9100/reflejos"/>
+<endpoint description="" image="" name="Radio Ombues &#8211; 97.3 FM - Colonia" url="http://giss.tv:8000/fmombues.mp3"/>
+<endpoint description="" image="" name="Amanecer 91.9 FM - Colonia" url="http://www.colonialinux.com:8000/AmanecerFM.ogg"/>
+<endpoint description="http://www.radiocolonia.com/" image="" name="radio colonia 550 AM" url="http://www.ipradio.com.ar/asx/amcolonia.asx"/>
+<endpoint description="" image="" name="Radio Del Oeste 1490 AM CX149" url="http://usa8.ciudaddigital.com.uy:9100/deloeste"/>
+</section>
+<section description="" image="" name="Cerro Largo">
+<endpoint description="http://www.lavozdemelo.com/" image="" name="La Voz de Melo &#8211; 1340 AM" url="http://usa8.ciudaddigital.com.uy/emisoras/lavozdemelo/audio/directo.wax"/>
+</section>
+<endpoint description="" image="" name="La Noventa &#8211; 90.9 FM - Florida" url="http://usa12.ciudaddigital.com.uy/medios/lanoventafm/audio/directo.wax"/>
+<endpoint description="" image="" name="Federal &#8211; 99.1 FM - Lavalleja" url="http://usa8.ciudaddigital.com.uy:9000/federal"/>
+<endpoint description="" image="" name="Tranqueras &#8211; 107.3 FM - Rivera" url="mms://200.40.120.90/01146"/>
+<endpoint description="" image="" name="Cenit &#8211; 100.3 - Rivera" url="http://radios-online.info:3290/"/>
+<endpoint description="" image="" name="Cadena de la Costa &#8211; 102.1 FM - Rocha" url="http://200.108.212.229:5000"/>
+<endpoint description="" image="" name="Emisora del Ã‰xodo &#8211; 106.5 - Salto" url="http://agenda.org.uy:8090/als"/>
+<endpoint description="" image="" name="Inolvidable &#8211; 93.1 - San Jose" url="mms://inolvidable.audio-server.com/inolvidable"/>
+<endpoint description="" image="" name="Musica &#8211; 88.9 FM - Tacuarembo" url="mms://st5.unored.com/uruguay20?MSWMExt=.asf"/>
+<endpoint description="" image="" name="Conquistador &#8211; 97.3 FM - Treinta y Tres" url="http://usa8.ciudaddigital.com.uy:9100/fmconquistador"/>
+<endpoint description="" image="" name="Lider &#8211; 89.1 FM  - Treinta y Tres" url="mmsh://insserver.com:8081/liderfm891.asx?MSWMExt=.asf"/>
+<endpoint description="" image="" name="fm gente - Maldonado" url="http://67.222.24.88:7048/"/>
+<endpoint description="http://www.delplatafm.com/" image="" name="Del Plata &#8211; 95.5 FM" url="http://www.delplatafm.com/DelPlataFM955.m3u"/>
+<endpoint description="http://www.surfm.net/" image="" name="Sur &#8211; 107.1 FM - Flores" url="http://radios-online.info:6020"/>
+<endpoint description="" image="" name="Digital - Lavalleja" url="http://usa8.ciudaddigital.com.uy/emisoras/fmdigital/audio/directo.pls"/>
+</section>
+<section description="" image="" name="AM">
+<endpoint description="" image="" name="El Espectador" url="http://streaming.espectador.com/envivo"/>
+<endpoint description="http://www.oriental.com.uy" image="" name="Oriental 770 AM" url="http://173.212.215.26:7906"/>
+<endpoint description="http://www.radiomontecarlo.com.uy/" image="" name="Montecarlo (930 AM)" url="http://www.radiomontecarlo.com.uy/cx20.asx"/>
+<endpoint description="http://www.sarandi.com.uy/" image="" name="Sarandi 690 am" url="http://radioonline.netgate.com.uy:8000/sarandi.m3u"/>
+<endpoint description="" image="" name="Nuevo_Tiempo" url="http://66.98.168.9:9050"/>
+<endpoint description="" image="" name="Clarin &#8211; 580 AM" url="http://www.radioclarin.com/audio/directo.m3u"/>
+<endpoint description="http://www.carve850.com.uy/" image="" name="Carve &#8211; 850 AM" url="http://carve850.com.uy/directo.pls"/>
+<endpoint description="" image="" name="Sodre: Clasica (650 AM)" url="http://66.55.139.217:9090/listen.pls"/>
+<endpoint description="" image="" name="Sodre: Uruguay (1050 AM)" url="http://66.55.139.217:9120/listen.pls"/>
+<endpoint description="" image="" name="Radio Rural &#8211; 610 AM" url="http://www.cx4radiorural.com/directo.wax"/>
+<endpoint description="" image="" name="Sport &#8211; 890 AM" url="http://www.sport890.com.uy/Sport890.m3u"/>
+<endpoint description="http://22universal.com/web/universalweb/" image="" name="Universal &#8211; 970 AM" url="http://66.45.232.218:8000/Universal.m3u"/>
+<endpoint description="http://www.radio36.com.uy/" image="" name="Centenario &#8211; 1250 AM cx36" url="http://www.radio36.com.uy/radio36.asx"/>
+<endpoint description="" image="" name="Ciudad de Montevideo &#8211; 1370 AM" url="http://www.emisoraciudaddemontevideo.com.uy/windowsmedia.wax"/>
+<endpoint description="http://www3.1410amlibre.com/" image="" name="AM Libre &#8211; 1410 AM" url="mms://multimedia.montevideo.com.uy/amlibre"/>
+<endpoint description="" image="" name="Paysandu &#8211; 1240 AM" url="http://www.paysandu.com/panoramicadeportiva/envivowindowsm.wax"/>
+<endpoint description="" image="" name="Felicidad &#8211; 1420 AM" url="http://usa8.ciudaddigital.com.uy:9300/felicidad"/>
+<endpoint description="" image="" name="TurÃ­stica &#8211; 1410 AM - Salto" url="http://agenda.org.uy:8086/turistic"/>
+<endpoint description="" image="" name="Arapey &#8211; 1450 AM - Salto" url="http://agenda.org.uy:8085/arapey"/>
+<endpoint description="" image="" name="Difusora Soriano &#8211; 1210 AM" url="http://usa8.ciudaddigital.com.uy:9100/difusorasoriano"/>
+<endpoint description="" image="" name="San Salvador &#8211; 1580 AM - Soriano" url="http://usa8.ciudaddigital.com.uy:9000/sansalvador"/>
+<endpoint description="" image="" name="Zorilla &#8211; 1400 AM - TacuarembÃ³" url="http://usa8.ciudaddigital.com.uy:9000/zorrilla"/>
+<endpoint description="" image="" name="La voz de Artigas &#8211; 1180 AM" url="mms://radios.ciudaddigital.com.uy/LaVozdeArtigasAM"/>
+<endpoint description="" image="" name="Bella Union &#8211; 1250 AM - Artigas" url="http://usa8.ciudaddigital.com.uy:9100/bellaunion"/>
+<endpoint description="" image="" name="Difusora Rochense &#8211; 1260 AM - Rocha" url="mms://media04.cxnlive.com/difusorarochense"/>
+<endpoint description="" image="" name="Cuareim &#8211; 1270 AM - Artigas " url="http://usa8.ciudaddigital.com.uy:9000/cuareim"/>
+<endpoint description="" image="" name="Radio Colonia &#8211; 550 AM" url="mms://200.49.150.35:80/AMCOLONIA"/>
+<endpoint description="" image="" name="Del Oeste &#8211; 1490 AM - Colonia" url="http://usa8.ciudaddigital.com.uy:9100/deloeste"/>
+<endpoint description="" image="" name="Durazno &#8211; 1430 AM" url="http://usa8.ciudaddigital.com.uy:9000/durazno"/>
+<endpoint description="" image="" name="CW 33 La Nueva Radio &#8211; 1200 AM - Florida" url="mms://200.40.120.90/01153"/>
+<endpoint description="" image="" name="Radio Impacial - CX28" url="http://usa8.ciudaddigital.com.uy/emisoras/radioimparcial/audio/directo.pls"/>
+</section>
+</section>
+</document>

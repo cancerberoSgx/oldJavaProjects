@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- configuración de las columnas de la lista de resultados.
+	Nota: la configuración está a lo último de este archivo.
+	@author: sgurin -->
+	
+	
+<!-- DTD -->
+
+<!DOCTYPE ccconfig [
+
+<!ELEMENT ccconfig (column*)>
+<!-- cconfig es el elemento raíz. -->
+
+	<!ELEMENT column EMPTY>
+	<!-- se definirá una lista de <column> cada una de las cuales especifica nombre, id de la propiedad a la acual hace referencia, anchura, y si debe ser ordenable.-->
+	
+	<!ATTLIST column name CDATA #IMPLIED>
+	<!--  título de la columna. 
+	si no se especifica el atributo name se asumirá el nombre de la propiedad como nombre de columna.
+	si se especifica name="" la columna no tendrá título
+	si name.startsWith("$") tratamos a name como si fuera una clave internacionalizable
+	si no se cumple name.startsWith("$"), name será tomado como el valor literal del título de la columna
+	-->
+	
+	<!ATTLIST column propertyId CDATA #REQUIRED>
+	<!-- deberá cumplirse propertyId.startsWith("property_") en el caso de que la propiedad sea una UP. 
+		En el caso de ser una system property el id está definido en 
+		com.beeblos.documentlibrary.util.lucene.BeeblosLuceneFields	-->
+		
+	<!ATTLIST column width CDATA #IMPLIED>
+	<!-- debe ser una cadena css válida, como "20%" o "100px", etc. 
+	Si no se especifica, a la columna se le dará anchura mínima -->
+	
+	<!ATTLIST column ordenable (true|false) #IMPLIED>
+	<!-- especifica si la columna deberá ser ordenable o no. Por defecto no es ordenable -->
+	
+	<!ATTLIST column format (none|version|mimeicon|downloadLink|forceDownloadLink|
+		configsearch|date|datetime) #IMPLIED>	
+	<!-- Especifica si se ha de utilizar alguno de los "formatos" predefinidos que son:
+		none: se imprime el campo referenciado por propertyId sin ningún formato.		
+		version: muestra una "V" grande y verde si el doc es una versión. ignora propertyId
+		mimeicon: se muestra el icono en 16x16 respectivo al mimetype del documento
+		downloadLink: "descargar para abrir con programa asociado...". construye un enlace de descarga utilizando como etiqueta la propiedad propertyId. el documento se abrirá con el viewer del sistema que el usuario tenga instalado
+		forceDownloadLink: "descargar para guardar en disco...". construye un enlace de descarga utilizando como etiqueta la propiedad propertyId. se forzará el diálogo "save file as..." del browser
+		configsearch : muestra el campo tal cual lo define la config search
+		date: el campo deberá ser una fecha. si no lo es se mostrara el campo tal es. Mostrado en formato aaaa-mm-dd internacionalizado
+		datetime: el campo deberá ser una fecha. si no lo es se mostrara el campo tal es. Mostrado en formato aaaa-mm-dd hh:mm:ss internacionalizado
+		
+		el valor por defecto es none
+	 -->	
+	 
+	 <!ATTLIST column titleAlign (right|center|left) #IMPLIED>
+	 <!-- alineación del título. left por defecto -->
+	 
+	 <!ATTLIST column valueAlign (right|center|left) #IMPLIED>
+	 <!-- alineación de los valores de la columna. left por defecto -->
+	 
+	 <!ATTLIST column cssStyle CDATA #IMPLIED>
+	 <!-- estilo css adicional para los valores de la columna debe ser una cadena css válida, 
+	 como por ejemplo: "background-color:rgb(233,222,244); text-family: courier"
+	 
+	 Tip 1, si se quiere asegurar de que el texto se mostrará sin saltos de linea utilizar "white-space: nowrap; "
+	 tip 3: si se quiere limitar la anchura para lineas con texto largo utilizar, por ejemplo: max-width: 100px; display: block 
+	 etc
+	 -->
+	 
+]>
+
+<!-- configuración -->
+<ccconfig>
+	<column name="date1" ordenable="true" 
+		propertyId="property_1356" 
+		format="datetime" 
+		cssStyle="font-style: italic; font-size: medium; font-weight: bold;"/>		
+	<column ordenable="true" propertyId="property_1256" 
+		cssStyle="background-color:rgb(233,222,244); text-family: courier;" />	
+	<column name="iconito" propertyId="mimetype" format="mimeicon" />
+	<column name="$document-name" ordenable="true" 
+		propertyId="filename" format="downloadLink" width="20%" />
+	<column name="$creation-date" titleAlign="center" ordenable="true" 
+		propertyId="creationdate" format="datetime" width="15%"/>	
+</ccconfig>

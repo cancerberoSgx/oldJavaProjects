@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!-- 
+listas de radios am y fm del uruguay
+	@author: sgurin
+-->
+
+	<!-- DTD -->
+<!DOCTYPE Tree [
+
+<!ELEMENT document (section|endpoint)*>
+	<!ATTLIST document name CDATA #REQUIRED>
+	<!ATTLIST document description CDATA #IMPLIED>
+<!ELEMENT section (section|endpoint)*>
+	<!ATTLIST section name CDATA #REQUIRED>
+	<!ATTLIST section description CDATA #IMPLIED>
+	
+<!ELEMENT endpoint (#PCDATA)>
+	<!ATTLIST endpoint name CDATA #REQUIRED>
+	<!ATTLIST endpoint description CDATA #IMPLIED>
+	<!ATTLIST endpoint url CDATA #REQUIRED>
+	<!ATTLIST endpoint image CDATA #IMPLIED>
+	
+]>
+
+<document name="mi primera colección">
+
+	<section name="TV- deportes">
+		<endpoint name="nasa tv"
+			url="mms://209.73.191.149/nqsenc004_d?StreamID=95808537&amp;pl_auth=6abbb168690e7f462abd765da054554e&amp;ht=120&amp;pl_b=00CEBE2C2ABE86A46341CDB2B44B096DF7&amp;CG_ID=1369080&amp;Segment=149773"></endpoint>
+		<endpoint name="RO TV Food"
+			url="mmsh://a20.v165440.c16544.g.vm.akamaistream.net/7/20/16544/v001/roomediaco1.download.akamai.com/16544/wm.roomedia/83/83951_300.wmv?clipId=83951&amp;channel=Food&amp;category=Food&amp;site=rootv/portal&amp;MSWMExt=.asf"></endpoint>
+
+		<endpoint name="Fine living"
+			url="mmsh://wms.scrippsnetworks.com/library/Food_Network/65766.wmv?site=fine&amp;source=Food%20Network&amp;player=UP%20Fine%20Living%20Main%20Player&amp;channel=Champagne%20Cocktails&amp;MSWMExt=.asf"></endpoint>
+		<endpoint name="TV Knov"
+			url="mmsh://streams.tvknob.com/tvloops/Ch10/tvknob.wsx?MSWMExt=.asf"></endpoint>
+			
+		<endpoint name="GOLF" url="mms://151.1.245.36/rtl102.5vs " description=""></endpoint>
+		<endpoint name="EUROSPORTS NEWS RUSSIA" url="http://rr.ubf.jet-stream.nl/nocnsf=channel3" description=""></endpoint>
+		<endpoint name="" url="" description=""></endpoint>
+			 
+	</section>
+	
+	<section name="TV-Colombia">
+		<endpoint name="RWC" url="mms://67.210.227.162/rwc"></endpoint>
+		<endpoint name="Canal 23" url="mms://palco1.uac.edu.co/canal23"></endpoint>
+		<endpoint name="Canal UNE de Medellín"
+			url="mmsh://200.13.254.183/canalunemedellin?MSWMExt=.asf"></endpoint>
+		<endpoint name="Canal UNE de Medellín"
+			url="mmsh://200.13.254.183/canalunemedellin?MSWMExt=.asf"></endpoint>
+		<endpoint name="Canal 41 ABN - Bogotá" url="mms://markoni.netpatio.com/avivamiento/modem"></endpoint>
+		<endpoint name="CNC" url="mms://190.14.241.6/CNC"></endpoint>
+	</section>
+	
+	<section name="TV-CUBA">
+		<endpoint name="martin noticias tv"
+			url="mms://a165.1211035484.c2110.g.lm.akamaistream.net/D/165/2110/v0001/reflector:35484"></endpoint>
+		<endpoint name="martin noticias radio"
+			url="mms://a913.l211024109.c2110.g.lm.akamaistream.net/D/913/2110/v0001/reflector:24109"></endpoint>
+		<endpoint name="Canal 23" url="mms://palco1.uac.edu.co/canal23"></endpoint>
+	</section>
+
+	<section name="TV-Iran">
+		<endpoint name="Irib TV 1" url="mms://62.220.122.4/tv1"></endpoint>
+		<endpoint name="Irib TV 2" url="mms://62.220.122.4/tv2"></endpoint>
+		<endpoint name="Irib TV 3" url="mms://62.220.122.4/tv3"></endpoint>
+	</section>
+	
+	<section name="TV-España">
+		<endpoint name="Teleasturias" url="mms://DWS28.dinaserver.com/directo"></endpoint>
+		<endpoint name="Teletrebol" url="mmsh://streaming.alisys.net/rsa_tv"></endpoint>
+		<endpoint name="TV Canaria" url="mms://wm.gobiernodecanarias.org/tvctdt"></endpoint>
+		<endpoint name="Kiss TV" url="mms://ml2.gazeta.pl/kiss_tv"></endpoint>
+		<endpoint name="Localia TV"
+			url="mmsh://streaming.wdreams.com/localiatv?MSWMExt=.asf"></endpoint>
+		<endpoint name="TeleTaxi" url="mms://88.87.218.43/teletaxitv"
+			description=" Videclips of spanish artists and comercials."></endpoint>
+		<endpoint name="TV Ferrol"
+			url="mmsh://stream.visualnetworks.es:3840/tvf?MSWMExt=.asf"
+			description="Televisión Local de Galicia"></endpoint>
+		<endpoint name="m95"
+			url="mms://win91va.audiovideoweb.com/va91winlive2091" description="Televisión Local de Marbella"></endpoint>
+		<endpoint name="STV Rioja" url="mms://www.riojasintonia.com/stv"
+			description="Televisión Local de Rioja"></endpoint>
+		<endpoint name="Barcelona TV"
+			url="http://83.231.187.101/barcelonatv/barcelonatv.asf" description="Televisión Local de Bacelona"></endpoint>
+		<endpoint name="VEO TV" url="mms://reflector.marca.com:9003"
+			description="Televisión General"></endpoint>
+		<endpoint name="Intereconomía" url="mms://www.intereconomia.com/INTERECONOMIA-TV"
+			description="Noticias Financieras"></endpoint>
+		<endpoint name="TV Almansa" url="mms://89.29.128.10/tvalmansa"
+			description="Televisión General"></endpoint>
+		<endpoint name="El Independiente de Las Palmas (Gran Canaria)"
+			url="mmsh://aspvideo.inerza.com/independiente" description="Televisión de Las Palmas (Gran Canaria)."></endpoint>
+		<endpoint name="Canal 7 de Madrid"
+			url="mmsh://canal7santiago.telecomdatacenter.com.ar/canal7santiago?MSWMExt=.asf"
+			description="Televisión de Madrid"></endpoint>
+		<endpoint name="Cervantes TV" url="mms://193.146.5.220/Cervantes_tv"
+			description="Canal Cultural"></endpoint>
+		<endpoint name="Tosiriar TV"
+			url="mms://193.146.5.220/mms://wm.ofmin.com/tosiriartv" description="TV local"></endpoint>
+		<endpoint name="TCRTVG"
+			url="mmsh://videor.mundo-r.com/TVG/tvg.asx?MSWMExt=.asf" description="Canal de Galicia"></endpoint>
+		<endpoint name="TV Mallorca" url="http://stream.tvmallorca.net:8800/tv.ogg"
+			description="Canal de Mallorca"></endpoint>
+		<endpoint name="TV Canaria Internacional" url="mms://wm.gobiernodecanarias.org/TVCTDT"
+			description="Canal de Canaria"></endpoint>
+		<endpoint name="Mundo Magico TV" url="mms://verdi.serveisweb.com/AT018"
+			description="Canal de Canaria"></endpoint>
+		<endpoint name="Egido TV"
+			url="mmsh://bach.serveisweb.com/EJ002?MSWMExt=.asf" description=""></endpoint>
+		<endpoint name="Samaria TV"
+			url="mmsh://st7.unored.com/iglsamaria?MSWMExt=.asf" description=""></endpoint>
+
+	</section>
+
+	<section name="Argentina">
+		<section name="TV">
+			<!--
+				primera colección sacada de http://www.channelchooser.com el día 20
+				de nov de 2009
+			-->
+			<endpoint name="canal13" url="mms://190.241.168.4/Canal13"></endpoint>
+			<endpoint name="TN24 Horas" url="mms://streamtn.uigc.net/TN"></endpoint>
+			<endpoint name="Canal 26" url="http://200.115.194.1:8080/Canal26"></endpoint>
+			<endpoint name="Canal 11" url="mms://media.telered.com.ar:8080"></endpoint>
+			<endpoint name="Urbania TV" url="mms://streamyou.alsolnet.com:8080/urbaniatv"></endpoint>
+			<endpoint name="Canal 10, Tucumán"
+				url="mmsh://tucumantv.interrogacaodigital.net/tucumantv"></endpoint>
+			<endpoint name="TV Naza" url="mmsh://via10.com.ar/naza"></endpoint>
+			<endpoint name="Canal 4 San Juan" url="mmsh://streamall.alsolnet.com/canal4sanjuan"></endpoint>
+			<endpoint name="AVC Argentina" url="http://190.3.70.14:8080"></endpoint>
+			<!--
+				<endpoint name="Notle Express"
+				url="http://201.216.216.39:8080"></endpoint>
+			-->
+			<!--
+				<endpoint name="Canal 5 Telesol"
+				url="mms://67.205.103.55/canal5"></endpoint>
+			-->
+			<!--
+				<endpoint name="Canal 13 TD"
+				url="http://www.telediariodigital.com.ar/video_/td.wmv"></endpoint>
+			-->
+	
+			<endpoint name="Canal 6" url="mmsh://streamall.alsolnet.com/noticiasdel6"></endpoint>
+	
+			<endpoint name="TV Interior" url="http://190.226.61.3:8080"></endpoint>
+			<endpoint name="Canal 5 Argentina"
+				url="http://stream1.interrogacaodigital.net/tucumantv2"></endpoint>
+			<endpoint name="Canal Provincial" url="mms://media.telered.com.ar:8080/"></endpoint>
+			<endpoint name="Canal 11 Paraná" url="mms://media02.cxnlive.com/canal11parana"></endpoint>
+			<endpoint name="Zona 31" url="http://streamair.alsolnet.com:8080/zona31"></endpoint>
+			<endpoint name="La Matanza TV"
+				url="http://streamair.alsolnet.com:8080/lamatanzatv"></endpoint>
+			<!--
+				<endpoint name="Canal 79 - Mar del Plata"
+				url="mms://63.223.110.222/canal79"></endpoint> requiere autenticacion
+			-->
+			<endpoint name="Canal 7 - Santiago del Estero"
+				url="http://canal7santiago.telecomdatacenter.com.ar/canal7santiago"></endpoint>
+			<endpoint name="Canal 3 - Trelew" url="mms://72.55.179.154/canal3"></endpoint>
+			<endpoint name="Ita Web TV" url="http://200.123.147.39:1029"></endpoint>
+			<endpoint name="Canal 4 EsquelV" url="http://streamair.alsolnet.com:8080/canal4"></endpoint>
+	
+	
+		</section>
+		
+		
+		<section name="Radio">
+			<endpoint name="Rock and Pop - Bs. As." url="mms://200.59.146.10/rockandpop-du" description="http://www.fmrockandpop.com"></endpoint>
+			<endpoint name="Dial Austral web-radio - Trelew, Chubut" url="mms://media229.cxnlive.com/dialaustral" description="http://www.dialaustral.com.ar/"></endpoint>
+			<endpoint name="FM Kabul - 107.9 - Bs. As " url="http://200.32.5.175:9000/listen.pls" description="http://www.fmkabul.com"></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+		
+
+
+<!--° Cadena LV3 Argentina-->
+<!---->
+<!---->
+<!--Direccion: mms://200.55.6.22/cadena3envivo-->
+<!--Ubicacion: Córdoba | Argentina-->
+<!--Web: http://www.lv3.com.ar/-->
+<!---->
+<!---->
+<!--° 100.5 FM Cordoba-->
+<!---->
+<!---->
+<!--Direccion: mms://lv3canal1.telecomdatacenter.com.ar/lv3canal1-->
+<!--Ubicacion: Argentina-->
+<!--Web: http://www.lv3.com.ar/-->
+<!---->
+<!---->
+<!--° Radio Popular - 92.3 FM-->
+<!---->
+<!---->
+<!--Direccion: mms://lv3canal2.telecomdatacenter.com.ar/lv3canal2-->
+<!--Ubicacion: Argentina-->
+<!--Web: http://www.lv3.com.ar/-->
+<!---->
+<!---->
+<!--° FM La Boca 90.1 Mhz-->
+<!---->
+<!---->
+<!--Direccion: http://streammax.alsolnet.com/fmlaboca-->
+<!--Ubicacion: Bs. As. | Argentina-->
+<!--Web: http://www.fmlaboca.com.ar/-->
+<!---->
+<!---->
+<!--° FM 94.3 UTN (Universidad Tecnologica Nacional)-->
+<!---->
+<!---->
+<!--Direccion: http://utopias.dynalias.org:82-->
+<!--Ubicacion: Cordoba | Argentina-->
+<!--Web: http://www.institucional.frc.utn.edu.ar/radio/-->
+<!---->
+<!---->
+<!--° FM Azul 104.5mhz-->
+<!---->
+<!---->
+<!--Direccion: mms://cxnlive.com/fmazul-->
+<!--Ubicacion: Villa Carlos Paz, Cordoba | Argentina-->
+<!--Web: http://www.fmazul.com-->
+<!---->
+<!---->
+<!--° Kosiuko Radio FM 101.9-->
+<!---->
+<!---->
+<!--Direccion: http://www.kskradio.net/ksk.asx-->
+<!--Ubicacion: Argentina-->
+<!--Web: http://www.kskradio.net/-->
+<!---->
+<!---->
+<!--° La Radio Tropical-->
+<!---->
+<!---->
+<!--Direccion: http://streammax.alsolnet.com/laradiotropical-->
+<!--Ubicacion: Argentina-->
+<!--Web: http://www.laradiotropical.com.ar/-->
+<!---->
+<!---->
+<!--° FM Melody 90.3-->
+<!---->
+<!---->
+<!--Direccion: http://200.32.8.126:8004/listen.pls-->
+<!--Ubicacion: Chacabuco, Bs.As. | Argentina-->
+<!--Web: http://www.chacabuco903.com.ar/-->
+<!---->
+<!---->
+<!--° Radio 96.9 Villa Maria-->
+<!---->
+<!---->
+<!--Direccion: http://200.32.8.125:8020/-->
+<!--Ubicacion: Villa Maria, Cordoba | Argentina-->
+<!--Web: http://senti969.com.ar/principal.htm-->
+<!---->
+<!---->
+<!--° Continental - AM 590-->
+<!---->
+<!---->
+<!--Direccion: http://66.175.96.10/arcontinental-->
+<!--Web: http://www.continental.com.ar-->
+<!---->
+<!---->
+<!--° Amadeus 103.7-->
+<!---->
+<!---->
+<!--Direccion: mms://amadeus.telecomdatacenter.com.ar/amadeus-->
+<!--Ubicacion: Capital Federal, Buenos Aires | Argentina-->
+<!--Web: http://www.amadeus103.com/-->
+<!---->
+<!---->
+<!--° Radio Turquesa FM 102.5 - La 100 Rafaela-->
+<!---->
+<!---->
+<!--Direccion: http://www.radioturquesa.com.ar/vivo.asx-->
+<!--Ubicacion: Rafaela | Argentina-->
+<!--Web: http://www.radioturquesa.com.ar/-->
+<!---->
+<!---->
+<!--° Maxima FM 92.7-->
+<!---->
+<!---->
+<!--Direccion: mms://media04.cxnlive.com/maxima-->
+<!--Ubicacion: Bonifacio, Bs. As. | Argentina-->
+<!--Web: http://www.92siete.com.ar/-->
+<!---->
+<!---->
+<!--° FM 103.3 San Patricio-->
+<!---->
+<!---->
+<!--Direccion: http://radiosanpatricio.dnsalias.org:8000/-->
+<!--Ubicacion: Rafaela, Santa Fe | Argentina-->
+<!--Web: http://www.hosting.sismedia.com.ar/radiosanpatricio/-->
+<!---->
+<!---->
+<!--° FM Musical 89.3-->
+<!---->
+<!---->
+<!--Direccion: http://stream.dnsclear.com:14050/-->
+<!--Ubicacion: Bs. As. | Argentina-->
+<!--Web: http://www.fmmusical.com.ar/-->
+<!---->
+<!---->
+<!--° FM Especial-->
+<!---->
+<!---->
+<!--Direccion: http://www.fmspecial.com/vivo.m3u-->
+<!--Ubicacion: Ceres, Santa Fe | Argentina-->
+<!--Web: http://www.fmspecial.com/pag/-->
+<!---->
+<!---->
+<!--° FM Record 106.7-->
+<!---->
+<!---->
+<!--Direccion: http://panorama.netverk.com.ar:8000/listen.pls-->
+<!--Ubicacion: La Plata | Argentina-->
+<!--Web: http://www.fmradiorecord.com.ar-->
+<!---->
+<!---->
+<!--° Ghetto Sounds Radio-->
+<!---->
+<!--Direccion: http://www.ghettosounds.fm/ghetto.asx-->
+<!--Web: http://www.ghettosounds.fm/-->
+<!---->
+<!---->
+<!--° Fm D-Rock! 89.7-->
+<!---->
+<!---->
+<!--Direccion: mms://stream.ienter.net/drock-->
+<!--Ubicacion: Mar del Plata | Argentina-->
+<!--Web: http://www.d-rock.com.ar/-->
+<!---->
+<!---->
+<!--° Radio Eter-->
+<!---->
+<!---->
+<!--Direccion: mms://media02.cxnlive.com/radioeter-->
+<!--Ubicacion: Bs. As. | Argentina-->
+<!--Web: http://www.radioeter.com.ar/-->
+<!---->
+<!---->
+<!--° Concept Radio-->
+<!---->
+<!--Direccion: http://www.cxnlive.com/asx/concept.asx-->
+<!--Ubicacion: Bs. As. | Argentina-->
+<!--Web: http://www.conceptradio.com.ar/-->
+<!---->
+<!---->
+<!--° Cooperativa 102.7-->
+<!---->
+<!--Direccion: http://200.58.113.179:5000/-->
+<!--Ubicacion: Godoy Cruz, Mendoza | Argentina-->
+<!--Web: http://www.emisoracooperativa.com.ar/-->
+<!---->
+<!---->
+<!--° FM Show 98.1-->
+<!---->
+<!---->
+<!--Direccion: mms://stream.grandiyasociados.net/fmshow-->
+<!--Ubicacion: Villa Cabello, Posadas - Misiones | Argentina-->
+<!--Web: http://www.981fmshow.com.ar-->
+<!---->
+<!---->
+<!--° Radio Garin-->
+<!---->
+<!---->
+<!--Direccion: http://radiogarin.homeunix.com:8000/listen.m3u-->
+<!--Ubicacion: Escobar, Garín | Argentina-->
+<!--Web: http://www.radiogarin.com.ar/inicio/index.php-->
+<!---->
+<!---->
+<!--° Cadena Tropical 87.5 FM-->
+<!---->
+<!---->
+<!--Direccion: mms://media04.cxnlive.com/cadenatropical-->
+<!--Ubicacion: Santa Fé | Argentina-->
+<!--Web: http://www.cadenatropical.com.ar-->
+<!---->
+<!---->
+<!--° FM Ideal-->
+<!---->
+<!---->
+<!--Direccion: http://virtualpack.com.ar:2065/listen.pls-->
+<!--Ubicacion: Reconquista, Santa Fe | Argentina-->
+<!--Web: http://www.radioideal.com.ar-->
+<!---->
+<!---->
+<!--° Radio Panorama-->
+<!---->
+<!---->
+<!--Direccion: mms://santiago.550m.com/panorama-->
+<!--Ubicacion: Santiago del Estero | Argentina-->
+<!--Web: http://www.radiopanorama.com.ar/-->
+<!---->
+<!---->
+<!--° Fm Aspen 102.3-->
+<!---->
+<!---->
+<!--Direccion: mms://200.59.146.10/radioaspen-du-->
+<!--Ubicacion: Buenos Aires | Argentina-->
+<!--Web: http://www.fmaspen.com/-->
+<!---->
+<!---->
+<!--° Mega 98.3-->
+<!---->
+<!---->
+<!--Direccion: mms://mega.telecomdatacenter.com.ar/mega-->
+<!--Ubicacion: Buenos Aires | Argentina-->
+<!--Web: http://www.mega983.com.ar/-->
+<!---->
+<!---->
+<!--ª FM Vida 97.9-->
+<!---->
+<!---->
+<!--Direccion: http://lavidaonline.com.ar/streaming/FMVida.asx-->
+<!--Ubicacion: Rosario /Santa Fe/ Argentina-->
+<!--Web:http://www.lavidaonline.com.ar-->
+<!---->
+<!---->
+<!--° LT24 Radio San Nicolás-->
+<!---->
+<!---->
+<!--Direccion: http://www.lt24online.com.ar/lt24am.m3u-->
+<!--Ubicacion: San Nicolás de los Arroyos | Argentina-->
+<!--Web: http://www.lt24online.com.ar/-->
+<!---->
+<!---->
+<!--° FM 88-->
+<!---->
+<!---->
+<!--Direccion: http://www.lt24online.com.ar/lt24fm.m3u-->
+<!--Ubicacion: San Nicolás de los Arroyos | Argentina-->
+<!--Web: http://www.lt24online.com.ar/-->
+<!---->
+<!---->
+<!--° FM metro-->
+<!---->
+<!---->
+<!--Direccion: mms://200.59.146.10/radiometro-ba-->
+<!--Ubicacion: Capital-->
+<!--web:http://www.metro951.com-->
+
+	
+		</section>
+	
+	</section>
+
+	<section name="TV-chile">
+		<endpoint name="Arica TV" url="mms://wms.digitalproserver.com/aricatv"></endpoint>
+		<endpoint name="Canal 13" url="mmsh://streaming.entelchile.net/canal13"></endpoint>
+		<!--
+			<endpoint name="Canal 13 Cable - Universidad Catolica de Chile"
+			url="mmsh://streaming.entelchile.net/canal13_cable"></endpoint>
+		-->
+		<!--
+			<endpoint name="Canal 2 de Tamuco"
+			url="mmsh://streaming.entelchile.net/canal13_cable"></endpoint>
+		-->
+		<!--
+			<endpoint name="Canal 33 de Tamuco"
+			url="mhttp://190.8.65.106:1047"></endpoint>
+		-->
+		<!--
+			<endpoint name="Canal 5"
+			url="mmsh://streaming.eltelon.com/canal5"></endpoint>
+		-->
+		<!--		-->
+		<endpoint name="Canal 54"
+			url="mmsh://streaming.entelchile.net/canal54?MSWMExt=.asf"></endpoint>
+		<endpoint name="CDTv" url="mmsh://cdtv.camara.cl/online?MSWMExt=.asf"></endpoint>
+		<endpoint name="Iquique Canal 10 - Rancagua" url="mms://emisor.dyndns.tv:8080/iquiquetv.wmv"></endpoint>
+		<endpoint name="Telecanal - Santiago" url="mms://emisor.dyndns.tv:8080/iquiquetv.wmv"></endpoint>
+		<endpoint name="TV Colo Colo - Fonos" url="mms://200.27.134.82/videocolocolo"></endpoint>
+		<endpoint name="UCVTV - Valparaiso" url="http://200.24.226.186:8080"></endpoint>
+		<endpoint name="UNIacc - Santiago" url="mms://media.uniacc.cl/canal34tv"></endpoint>
+		<endpoint name="VTV2 San Felipe - Los Andes" url="mms://atanua.broadcastchile.cl/canal2"></endpoint>
+
+
+	</section>
+	<section name="TV-Uruguay">
+		<endpoint name="Canal 24 Ciudad" url="mms://multimedia.montevideo.com.uy/tvciudad"></endpoint>
+		<!--
+			<endpoint name="VTV"
+			url="mmsh://stream5.antel.net.uy/btv/vtv"></endpoint>
+		-->
+		<endpoint name="MVTV Mision Vida TV" url="mmsh://st6.unored.com/uruguayvideo"></endpoint>
+		<endpoint name="Tacuarembo TV VE"
+			url="mmsh://stream5.antel.net.uy/btv/canal4tacuarembo"></endpoint>
+		<endpoint name="Canal 4 - Juan Lacaze"
+			url="mmsh://stream5.antel.net.uy/btv/canal4juanlacaze"></endpoint>
+		<endpoint name="Canal 8 - Libertad"
+			url="mmsh://stream5.antel.net.uy/btv/canal8libertad"></endpoint>
+		<endpoint name="Canal 6 - Pando" url="mmsh://stream5.antel.net.uy/btv/canal6pando"></endpoint>
+		<endpoint name="Canal 4 - Tacuarembó"
+			url="mmsh://stream5.antel.net.uy/btv/canal4tacuarembo"></endpoint>
+		<endpoint name="Canal 6 - Durazno"
+			url="mmsh://stream5.antel.net.uy/btv/canal6durazno"></endpoint>
+		<endpoint name="Tele Colonia" url="mms://www.telespectaculo.com.uy/telecolonia/"></endpoint>
+		<endpoint name="Canal 4 Paysandú" url="http://38.109.5.170:8097/stream.nsv"></endpoint>
+		<endpoint name="Canal Rural" url="mms://streamcrural.uigc.net/canalrural"></endpoint>
+		<endpoint name="Televisión Nacional de Noticias"
+			url="mmsh://stream5.antel.net.uy/btv/tnu?MSWMExt=.asf"></endpoint>
+		<endpoint name="UNO TV" url="http://agenda.org.uy:8099/stream.nsv"></endpoint>
+	</section>
+
+	<section name="TV-mejico">
+		<endpoint name="Aguascalientes TV - Mexico" url="mms://207.248.119.160/RyTA_TV"></endpoint>
+		<endpoint name="CANAL 44 Juárez - México" url="mmsh://196.40.46.209/canal44?MSWMExt=.asf"></endpoint>
+		<endpoint name="tele FF Ciudad de México - México" url="mms://168.255.107.6/canal21"></endpoint>
+		<endpoint name="Canal 11 telesecundaria - Ciudad de México - México"
+			url="mmsh://168.255.107.6/canal11?MSWMExt=.asf"></endpoint>
+		<endpoint name="aprende TV - Ciudad de México - México" url="mms://168.255.107.6/canal24"></endpoint>
+		<endpoint name="RTV - Ciudad de México - México"
+			url="mmsh://rtv.interrogacaodigital.net/rtvtelevision?MSWMExt=.asf"></endpoint>
+		<endpoint name="Grupo FM - Veracruz - México"
+			url="mmsh://70.85.59.52/grupofm/GRUPOFM.stream1?MSWMExt=.asf"></endpoint>
+
+	</section>
+	<!--	<section name="TV-Bolivia">-->
+	<!--	-->
+	<!--
+		<endpoint name="Megavision Canal 18 - Santa Cruz de la Sierra."
+		url="mms://200.58.160.36/Megavision"></endpoint>
+	-->
+	<!--
+		<endpoint name="Gigavisión"
+		url="mms://200.58.160.36/Gigavision"></endpoint>
+	-->
+	<!--
+		<endpoint name="Full Television Canal 39"
+		url="http://201.222.92.238:3939"></endpoint>
+	-->
+	<!--	-->
+	<!--	</section>-->
+
+	<section name="classical - USA">
+		<endpoint name="beethoven.com" url="mms://nyc03.egihosting.com/Beethoven"></endpoint>
+		<endpoint name="allclassical.org" url="http://sc1.abacast.com:8220/"
+			description="http://www.allclassical.org/"></endpoint>
+		<endpoint name="classicalmusicamerica.com" url="mms://wm.3wk.com/cma1"></endpoint>
+		<endpoint name="classicalmusicbroadcast.com" url="http://67.222.151.10:8002"
+			description="the highest quality classical music programming available. During the workday, our classical music hosts present the full range of classical music - instrumental, vocal, choral, modern, and opera. We're not sure if it makes you smarter, but we're willing to bet it makes you happier"></endpoint>
+
+
+		<endpoint name="CPR Classical Music Channel - cpr.org" url="http://66.162.107.141/cpr2"
+			description="Twenty-four hours a day, Colorado Public Radio's classical music hosts present the full range of classical music and educate listeners with stories that give the music a broader context. Highlights include weekly Metropolitan Opera broadcasts and performances from around the state on Colorado Spotlight"></endpoint>
+
+		<endpoint name="Equinox Music - equinoxmusic.com" url="http://stream-18.streamsolutions.co.uk:9244"
+			description="presents very interesting contemperary music"></endpoint>
+
+		<endpoint name="KAMU Classical Radio from Texas - http://kamu.tamu.edu/"
+			url="rtsp://128.194.247.73:554/broadcast/kamu-fm?cloakport=8080,554,7070"></endpoint>
+
+		<endpoint name="KBAQ Classical Radio from Tempe, Arizona -"
+			url="http://riosoleado.streamguys.org/kbaq"></endpoint>
+
+		<endpoint name="KCME - Colorado Springs" url="http://www.live365.com/play/kcmebroadband"></endpoint>
+
+		<endpoint name="KCNV 89.7KCME Las Vegas" url="http://66.209.79.122:8000/"></endpoint>
+
+
+		<!--
+			TODO: continuar esta lista de http://classicalwebcast.com/usa.htm
+		-->
+
+	</section>
+
+
+	<section name="french">
+		<endpoint
+			name="france-musiques - Paris, http://www.radiofrance.fr/chaines/france-musiques/direct/"
+			url="http://mp3.live.tv-radio.com/francemusique/all/francemusique-32k.mp3"
+			description="Classical/Jazz"></endpoint>
+
+		<endpoint
+			name="Chérie FM Frenchy - Paris, http://www.radiofrance.fr/chaines/france-musiques/direct/"
+			url="http://vipicecast.yacast.net:80/cherie_fm_frenchie" description="French soft pop"></endpoint>
+
+		<endpoint name="http://www.clicknrock.fr/" url="http://relay1.clicknrock.fr:8150/"
+			description="Pop/Rock"></endpoint>
+
+		<endpoint
+			name="Fréquence Metz - Rock and British - http://www.frequencemetz.fr/"
+			url="http://yoda.frequencemetz.fr:8000" description="Alternative rock"></endpoint>
+
+		<endpoint name="fun radio - Paris - http://www.funradio.fr/ "
+			url="http://vipicecast.yacast.net:80/funradio" description="Top 40"></endpoint>
+
+		<endpoint name="Galaxie FM 95.3 - Lille" url="http://91.121.22.39:8010/"
+			description="Dance/Electronic music"></endpoint>
+
+		<endpoint name="Gold FM - Bordeaux" url="http://208.80.52.78:80/GOLDFMCMP3"
+			description="Oldies"></endpoint>
+
+		<endpoint name="Generations Reggae - Paris"
+			url="http://broadcast.infomaniak.net:80/generations-caraibes-high.mp3"
+			description="Reggae"></endpoint>
+
+		<endpoint name="Jazz Radio - Lyon"
+			url="http://broadcast.infomaniak.net:80/jazzradio-high.mp3"
+			description="Jazz"></endpoint>
+
+		<endpoint name="Jazz Radio blues - Lyon"
+			url="http://broadcast.infomaniak.net:80/jazzblues-high.mp3"
+			description="Blues"></endpoint>
+
+		<endpoint name="M2 Love" url="http://antarctica.m2stream.fr:8080"
+			description="Love songs"></endpoint>
+	</section>
+
+	<section name="rusia">
+		<endpoint name="ru 101" url="mms://msk.101.ru/goto101"></endpoint>
+		<endpoint name="Dobrie Pesni - Moscow" url="mms://broadcast03.station.ru/dobryepesni"></endpoint>
+		<endpoint name="Love Radio Russian - Moscow"
+			url="http://stream.loveradio.ru:8000/Russian_32_mono.mp3"></endpoint>
+		<endpoint name="Newtone FM - Moscow" url="mms://media.nthost.ru/NewTone64"></endpoint>
+		<endpoint name="Radio Hit - St Petersburg" url="http://217.170.67.77/radiohit"></endpoint>
+		<!--
+			<endpoint name="Radio Hermitage - St Petersburg"
+			url="rtsp://213.170.86.230:554/encoder/hermitage.rm"></endpoint>
+		-->
+
+		<endpoint name="Radio Militsejskaja Volna - Moscow"
+			url="mms://stream04.rambler.ru/radiomv?WMContentBitrate=30000"></endpoint>
+		<endpoint name="Radio Orpheus - Moscow" url="mms://live.rfn.ru/orfey/"></endpoint>
+		<!--
+			<endpoint name="Radio St Petersburg"
+			url="http://www.5-tv.ru:8010/"></endpoint>
+		-->
+		<endpoint name="Radio Sibir - Tomsk" url="http://radiosibir.ru:8090/modem"></endpoint>
+		<endpoint name="Radio Studio - St Petersburg" url="http://195.182.132.18:8240/"></endpoint>
+		<endpoint name="Radio Svoya Volna - Cherepovetz" url="mms://radiosv.no-ip.info:8888/"></endpoint>
+		<endpoint name="Radio Uniton 	Novosibirsk" url="http://brc.r-uniton.ru:8500/"></endpoint>
+		<endpoint name="Radio Record 	St.Petersburg" url="http://78.111.92.26:8000/"></endpoint>
+
+		<endpoint name="Relax FM 	Moscow"
+			url="mms://87.242.72.62/relaxfm?WMBitrate=41600&amp;WMContentBitrate=41600"></endpoint>
+
+		<endpoint name="Retro FM 	Moscow"
+			url="mms://stream01.rambler.ru:80/retro?WMContentBitrate=80000"></endpoint>
+
+		<endpoint name="Ultra 100.5 FM - Moscow  " url="http://mp3.radioultra.ru/ultra-48"></endpoint>
+		<endpoint name="Radio Culture - Moscow  " url="mms://live.rfn.ru/rcult_64"></endpoint>
+		<endpoint name="Voice of Russia Ch.1 	Moscow"
+			url="mms://live.wm.t-bn.de/live/st_ru/stimme_russl"></endpoint>
+		<!--
+			<endpoint name="AvtoRadio Autoradio Music - Moscow"
+			url="mms://msk.101.ru/goto101"></endpoint>
+		-->
+		<!--
+			<endpoint name="drove presni"
+			url="mms://broadcast03.station.ru/dobryepesni"></endpoint>
+		-->
+
+
+
+	</section>
+
+
+	<section name="Bulgaria">
+		<endpoint name="BNR1 Program Horizont 	Sofia"
+			url="mmsh://213.222.53.195/horizontlive?MSWMExt=.asf" description="News/Music"></endpoint>
+		<endpoint name="Radio Blagoevgrad 	Blagoevgrad" url="http://radioblg.com:8000/"
+			description="Regional programme (BNR)"></endpoint>
+		<endpoint name="Radio Stara Zagora 	Stara Zagora" url="http://broadcast.spnet.net:8000/sz-high"
+			description="Regional programme (BNR)"></endpoint>
+		<!--
+			<endpoint name="Alpha Radio - Varna" url="
+			http://alpharadio.m-sat.bg:8000/mp3high "
+			description="Dance"></endpoint>
+		-->
+
+		<endpoint name="Katra FM 	Plovdiv" url="mms://www.katrafm.com:8090/"
+			description="top 40"></endpoint>
+		<endpoint name="Radio Veronika (Balkan pop) 	Sofia " url="http://80.72.68.217:80/veronika_low.ogg"
+			description="Balkan pop"></endpoint>
+		<!--
+			<endpoint name="Radio Signal Plus (Bulgarian pop) - Sofia"
+			url="http://radiosignal.fm:8000/signalhigh" description="Bulgarian
+			pop"></endpoint>
+		-->
+
+		<endpoint name="BG Radio - Sofia " url="http://80.72.68.217:80/bgradio_low.ogg"
+			description=""></endpoint>
+		<endpoint name="Classic FM - Sofia  "
+			url="http://classic-nonstop.atlantis.bg:8000/classic_nonstop_low.ogg"
+			description=""></endpoint>
+		<endpoint name="Jazz FM - Sofia " url="http://193.108.24.6:8000/jazzfm_low.ogg"
+			description=""></endpoint>
+		<endpoint name="Jazz FM Lounge - Sofia"
+			url="http://jazzfmlounge.atlantis.bg:8000/JazzFMLounge_low.ogg"
+			description=""></endpoint>
+		<endpoint name="Radio Fresh 	Sofia " url=" http://193.108.24.21:8000/fresh"
+			description=""></endpoint>
+		<endpoint name="Radio Bravo 	Varna " url="http://bravo.neterra.net:8000/live"
+			description=""></endpoint>
+		<endpoint name="Radio Romantika 	Sofia " url="http://89.190.212.173:8002/"
+			description="	Adult Contemporary	"></endpoint>
+
+
+
+
+	</section>
+
+
+
+	<section name="Croatia">
+		<endpoint name="HR3 - Treći program 	Zagreb" url="http://195.29.5.150:8006/"
+			description=""></endpoint>
+
+
+
+		<endpoint name="Narodni Radio -	Zagreb " url="mms://media.t-com.hr/www.narodni.hr"
+			description="Croatian music"></endpoint>
+
+
+		<endpoint name="Plavi Radio -	Zagreb" url="mms://217.14.208.58/plavi9"
+			description="Top 40/Urban"></endpoint>
+		<endpoint name="Radio Martin -	Dugo Selo" url="http://glazba.posluh.hr:8000/"
+			description="Croatian music"></endpoint>
+		<endpoint name="Radio Zaprešić -	Zaprešić" url="http://195.78.32.26:8000/"
+			description="top 40 "></endpoint>
+		<endpoint name="RTL Radio -	Lekenik" url="http://shout.stream-radio.net:8052/"
+			description="local"></endpoint>
+		<endpoint name="Radio Ogulin 	Ogulin" url="http://s6.viastreaming.net:7370/"
+			description="local"></endpoint>
+		<endpoint name="Radio Mrežnica -	Duga Resa" url="http://peace.str3am.com:6820/"
+			description=""></endpoint>
+		<endpoint name="Radio Max - Maruševec" url="http://85.10.136.137:8010/"
+			description=""></endpoint>
+
+		<endpoint name="" url="" description=""></endpoint>
+		<endpoint name="" url="" description=""></endpoint>
+	</section>
+
+
+	<section name="Finland">
+		<endpoint name="Radio Pooki (musica finlandesa) - Oulu" url="http://212.50.217.50:8000/"
+			description="(musica finlandesa)"></endpoint>
+		<endpoint name="Radio KLF 	Helsinki" url="http://217.30.180.245:80/"
+			description="Dance"></endpoint>
+		<endpoint name="Radio Åland 	Mariehamn " url="mms://media.alcom.aland.fi/radiotv"
+			description=""></endpoint>
+		<endpoint name="Radio 967 - Kokkola" url="mms://seutumedia.kpnet.fi/radio967"
+			description=""></endpoint>
+		<endpoint name="YLE Ylen Klassinen - Helsinki"
+			url="mmsh://mediau.yle.fi/liveklassinen?MSWMExt=.asf" description=""></endpoint>
+		<endpoint name="Järviradio - Alajärvi" url="http://www1.6net.fi:8000/"
+			description=""></endpoint>
+		<endpoint name="Steel FM 	Åland" url="mms://media.alcom.aland.fi/steelfm"
+			description="	Current/Classic Hits (Swedish)"></endpoint>
+		<endpoint name="Radio Voima 	Lahti" url="http://81.175.250.3:8000/"
+			description=""></endpoint>
+		<endpoint name="Radio Vaasa 	Vaasa" url="http://webcast.vlp.fi:8000/radioVaasa"
+			description=""></endpoint>
+
+	</section>
+
+	<section name="Germany">
+		<endpoint name="106!8 Rock n Pop - Hamburg" url="http://62.75.132.19:80/"
+			description=""></endpoint>
+		<endpoint name="Antenne AC - Würselen" url="http://87.106.128.61:1078/"
+			description=""></endpoint>
+		<endpoint name="Antenne Bayern - Munich" url="mms://wms.webradio.antenne.de"
+			description=""></endpoint>
+		<endpoint name="" url="" description=""></endpoint>
+		<endpoint name="" url="" description=""></endpoint>
+		<endpoint name="" url="" description=""></endpoint>
+		<endpoint name="" url="" description=""></endpoint>
+	</section>
+
+
+
+	<!--  the big section ;) -->
+	<section name="Uruguay">
+		<section name="FM">
+
+			<endpoint name="Oceano - Montevideo" url="http://radio2.oceanofm.com:8010/"></endpoint>
+			<endpoint name="Futura - Montevideo"
+				url="http://rfm.radio.netgate.com.uy:8000/futurafm"></endpoint>
+
+			<endpoint name="Inolvidable - San José"
+				url="mms://inolvidable.audio-server.com/inolvidable/.wma"></endpoint>
+			<endpoint name="Metrópolis - Montevideo" url="mms://flux.cxnlive.com/metropolisfm"></endpoint>
+			<endpoint name="M24 (97.9FM) - Montevideo" url="mms://200.40.120.90/01173"></endpoint>
+			<endpoint name="Sodre: Emisora del sur (94.7 FM) - Montevideo" url="http://66.55.139.217:9160/"></endpoint>
+			<endpoint name="Sodre: Babel (97.1 FM) - Montevideo" url="http://66.55.139.217:9170/"></endpoint>
+
+			<endpoint name="Más – 101.3 FM - Montevideo"
+				url="mmsh://flux.cxnlive.com:8080/fmmas?MSWMExt=.asf" description="http://www.fmmas.com/"></endpoint>
+			
+			
+			<endpoint name="Azul – 101.9 FM - Montevideo" url="mms://200.40.120.90/01144" description=""></endpoint>
+<!--			<endpoint name="Alfa – 96.3 FM" url="mms://200.58.141.20/alfafm" description=""></endpoint>-->
+<!--			<endpoint name="Radiocero – 104.3 FM" url="mms://radio.audio-server.com/radiocero1" description=""></endpoint>-->
+			<endpoint name="Del Sol – 99.5 FM" url="mms://200.108.192.48/Brodcast_DelSol" description=""></endpoint>
+			
+			
+			<endpoint name="Urbana – 92.5 FM - Montevideo" url="http://streaming.urbana.com.uy/urbana" description=""></endpoint>
+			
+<!--			<endpoint name="Radio Cooperativa - 88.7 FM" url="mms://200.40.120.90/01166" description=""></endpoint>-->
+<!--			<endpoint name="Aire – 100.3 FM" url="http://96.31.81.7:49616" description=""></endpoint>-->
+			
+<!--			<endpoint name="Sur – 107.1 - Flores" url="http://69.57.134.47:4000/" description=""></endpoint>-->
+			<endpoint name="La Noventa – 90.9 FM - Florida" url="mms://radios.ciudaddigital.com.uy/LaNoventaFM" description=""></endpoint>
+		
+<!--			<endpoint name="100.Uno – 100.1 FM - Lavalleja" url="http://usa8.ciudaddigital.com.uy:9000/fmdigital" description=""></endpoint>-->
+			<endpoint name="Federal – 99.1 FM - Lavalleja" url="http://usa8.ciudaddigital.com.uy:9000/federal" description=""></endpoint>
+			<endpoint name="Más – 101.3 FM - Paysandú" url="mmsh://flux.cxnlive.com:8080/fmmas?MSWMExt=.asf" description=""></endpoint>
+			
+			<endpoint name="Contacto – 106.9 FM - Paysandú"
+				url="http://radiointercom.net:7196/" description=""></endpoint>			
+			
+			<endpoint name="CASINO FM - Paysandú" url="http://www.casinofm.net/images/Listen-online_Playlist.wax" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			
+			
+			
+			
+			
+			<endpoint name="Tranqueras – 107.3 FM - Rivera" url="mms://200.40.120.90/01146"
+				description=""></endpoint>
+			<endpoint name="Cenit – 100.3 - Rivera" url="http://radios-online.info:3290/"
+				description=""></endpoint>
+			<endpoint name="Cadena de la Costa – 102.1 FM - Rocha" url="http://200.108.212.229:5000"
+				description=""></endpoint>
+			
+			<endpoint name="Emisora del Éxodo – 106.5 - Salto" url="http://agenda.org.uy:8090/als"
+				description=""></endpoint>				
+				
+			<endpoint name="Inolvidable – 93.1 - San Jose"
+				url="mms://inolvidable.audio-server.com/inolvidable" description=""></endpoint>
+
+			<endpoint name="Música – 88.9 FM - Tacuarembó" url="mms://st5.unored.com/uruguay20?MSWMExt=.asf"
+				description=""></endpoint>
+			<endpoint name="Conquistador – 97.3 FM - Treinta y Tres"
+				url="http://usa8.ciudaddigital.com.uy:9100/fmconquistador"
+				description=""></endpoint>
+			<endpoint name="Líder – 89.1 FM  - Treinta y Tres"
+				url="mmsh://insserver.com:8081/liderfm891.asx?MSWMExt=.asf"
+				description=""></endpoint>
+
+
+			<!--
+				<endpoint name="Horizonte – 91.3 FM - Artigas"
+				url="mms://200.C40.120.90/01160" description=""></endpoint>
+			-->
+
+			<endpoint name="Ideal – 90.1 FM - Canelones" url="mms://74.208.154.181/fmideal"
+				description=""></endpoint>
+			<!--
+				<endpoint name="Cauces – 89.1 FM - Canelones"
+				url="mms://78.129.197.192:11748" description=""></endpoint>
+			-->
+			<endpoint name="Atlántida FM – 89.9 FM - Canelones" url="mms://200.40.120.90/01135"
+				description=""></endpoint>
+			<endpoint name="Radio Continental – 1600 AM - Canelones"
+				url="http://usa8.ciudaddigital.com.uy:9000/radiomil" description=""></endpoint>
+			<!--
+				<endpoint name="La Voz de Melo – 1340 AM - Cerro Largo"
+				url="http://usa8.ciudaddigital.com.uy:9100/lavozdemelo"
+				description=""></endpoint>
+			-->
+			<!--
+				<endpoint name="Acuarela – 1520 AM"
+				url="http://usa8.ciudaddigital.com.uy:9000/radioacuarela"
+				description=""></endpoint>
+			-->
+			<endpoint name="Reflejos – 90.7 FM - Colonia"
+				url="http://usa8.ciudaddigital.com.uy:9100/reflejos" description=""></endpoint>
+			<endpoint name="Radio Ombúes – 97.3 FM - Colonia" url="http://giss.tv:8000/fmombues.mp3"
+				description=""></endpoint>
+			<endpoint name="Amanecer 91.9 FM - Colonia"
+				url="http://www.colonialinux.com:8000/AmanecerFM.ogg" description=""></endpoint>
+				
+			<endpoint name="fm gente - Maldonado" url="http://67.222.24.88:7048/" description=""></endpoint>
+			<endpoint name="Del Plata – 95.5 FM" url="mms://media.movinet.com.uy/delplataFM/" description=""></endpoint>
+			
+		</section>
+
+		<section name="AM">
+	
+			<endpoint name="El Espectador" url="http://streaming.espectador.com/envivo"></endpoint>
+			<endpoint name="CX12 Oriental" url="mms://82.165.177.15/oriental"></endpoint><!-- mms://oriental.audio-server.com/oriental -->
+			<endpoint name="Montecarlo" url="mms://radio.audio-server.com/montecarlo1"></endpoint>
+			<endpoint name="Sarandí"
+				url="http://radioonline.netgate.com.uy:8000/sarandi"></endpoint>
+			<endpoint name="Nuevo_Tiempo" url="http://66.98.168.9:9050"></endpoint>
+			<endpoint name="Clarín – 580 AM"
+				url="http://usa8.ciudaddigital.com.uy:8050/radioclarin"></endpoint>
+			<endpoint name="Sodre: Clásica (650 AM)" url="http://66.55.139.217:9090/"></endpoint>
+			<endpoint name="Sodre: Uruguay (1050 AM)" url="http://66.55.139.217:9120/"></endpoint>
+			
+			<endpoint name="Radio Rural – 610 AM" url="http://usa.web2mil.com:8020/CX4" description=""></endpoint>
+			<endpoint name="Sport – 890 AM" url="http://radioonline.netgate.com.uy:8000/sport890" description=""></endpoint>
+			
+			<endpoint name="Universal – 970 AM" url="http://66.45.240.242:8000/Universal" description=""></endpoint>
+			<endpoint name="Centenario – 1250 AM" url="mms://multimedia.montevideo.com.uy/radio36" description=""></endpoint>
+			<endpoint name="Ciudad de Monevideo – 1370 AM" url="http://66.45.232.218:8040/CX42" description=""></endpoint>
+			
+			<endpoint name="AM Libre – 1410 AM" url="mms://multimedia.montevideo.com.uy/amlibre" description=""></endpoint>
+			<endpoint name="Carve – 850 AM" url="http://66.98.168.9:9000" description=""></endpoint>
+			
+			
+			<endpoint name="Paysandú – 1240 AM"
+				url="http://www.paysandu.com/panoramicadeportiva/envivowindowsm.wax"
+				description=""></endpoint>
+			<endpoint name="Felicidad – 1420 AM" url="http://usa8.ciudaddigital.com.uy:9300/felicidad" description=""></endpoint>
+			
+			
+			
+			<endpoint name="Turística – 1410 AM - Salto" url="http://agenda.org.uy:8086/turistic"
+				description=""></endpoint>
+				
+			<endpoint name="Arapey – 1450 AM - Salto" url="http://agenda.org.uy:8085/arapey" description=""></endpoint>				  
+			
+			<endpoint name="Difusora Soriano – 1210 AM"
+				url="http://usa8.ciudaddigital.com.uy:9100/difusorasoriano"
+				description=""></endpoint>
+			<endpoint name="San Salvador – 1580 AM - Soriano"
+				url="http://usa8.ciudaddigital.com.uy:9000/sansalvador" description=""></endpoint>
+			<endpoint name="Zorilla – 1400 AM - Tacuarembó"
+				url="http://usa8.ciudaddigital.com.uy:9000/zorrilla" description=""></endpoint>
+			<endpoint name="La voz de Artigas – 1180 AM"
+				url="mms://radios.ciudaddigital.com.uy/LaVozdeArtigasAM"
+				description=""></endpoint>
+			<endpoint name="Bella Unión – 1250 AM - Artigas"
+				url="http://usa8.ciudaddigital.com.uy:9100/bellaunion" description=""></endpoint>
+			<!--
+				<endpoint name="Amatista – 90.7 FM - Artigas"
+				url="http://usa8.ciudaddigital.com.uy:9100/amatista"
+				description=""></endpoint>
+			-->
+			<endpoint name="Difusora Rochense – 1260 AM - Rocha" url="mms://media04.cxnlive.com/difusorarochense"
+				description=""></endpoint>
+			<endpoint name="Cuareim – 1270 AM - Artigas	"
+				url="http://usa8.ciudaddigital.com.uy:9000/cuareim" description=""></endpoint>
+			<endpoint name="Radio Colonia – 550 AM" url="mms://200.49.150.35:80/AMCOLONIA"
+				description=""></endpoint>
+		
+			<endpoint name="Del Oeste – 1490 AM - Colonia"
+				url="http://usa8.ciudaddigital.com.uy:9100/deloeste" description=""></endpoint>
+			<endpoint name="Durazno – 1430 AM"
+				url="http://usa8.ciudaddigital.com.uy:9000/durazno" description=""></endpoint>
+				
+			<endpoint name="CW 33 La Nueva Radio – 1200 AM - Florida" url="mms://200.40.120.90/01153" description=""></endpoint>
+			
+			
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+			<endpoint name="" url="" description=""></endpoint>
+		</section>
+
+
+	</section>
+</document>

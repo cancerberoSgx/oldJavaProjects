@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project name="jmencoder" basedir="." default="compile">
+
+  <target name="project_init" description="Initialize environment">
+
+    <property name="component.name" value="jmencoder"/>
+    <property name="component.package" value="org.sgx.jmencoder"/>
+    <property name="component.title" value="cabopolonio: utilidades multimedia basadas en mplayer."/>
+    <property name="component.version" value="0.1a"/>
+    
+  </target>
+
+	<path id="compile.classpath">
+  		    <fileset dir="../utils/dist/lib">
+  		        <include name="*.jar"/>
+  		    </fileset>
+  		    <fileset dir="../j2s/dist/lib">
+  		        <include name="*.jar"/>
+  		    </fileset>
+		 <fileset dir="../swing/dist/lib">
+		  		        <include name="*.jar"/>
+		  		    </fileset>
+		 <fileset dir="../natives/dist/lib">
+				  		        <include name="*.jar"/>
+				  		    </fileset>
+  		</path>
+  <import file="../build/build_common.xml" />
+
+</project>

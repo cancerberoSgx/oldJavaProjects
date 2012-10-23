@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- en este archivo se configura el valor del "Representative field" de la lista 
+	de resultados. Lo que se hace para hallar el representative field es, dado un documento,
+	primero nos fijamos si su clase documental está referida en esta configuración. 
+	En caso de que no halla sido especificada la docclass, buscamos por repositorio. 
+	De no encontrarse ni document class ni repositorio definido aquí el representative 
+	field se considerará vacío.  
+	
+	Nota: Las propiedades beeblos deben ser especificadas por identificador. 
+	En el caso de querer hacer referencia a una propiedad de usuario, el 
+	identificador debe comenzar con el prefijo "property_". De otra forma, 
+	se considerará que es una system propierty.
+	
+	@author: sgurin
+-->
+
+<!-- DTD -->
+
+<!DOCTYPE SearchConfiguration [
+
+<!ELEMENT SearchConfiguration (Repository|DocumentClass)*>
+
+	<!ELEMENT Repository (RepresentativeField|ResumenField)*>	
+		<!ATTLIST Repository name CDATA #REQUIRED>
+		<!-- Nombre del repositorio que contiene el documento -->
+		
+	<!ELEMENT DocumentClass (RepresentativeField|ResumenField)*>	
+		<!ATTLIST DocumentClass name CDATA #IMPLIED>			
+		<!-- identificador de la clase docuemental -->
+		
+	<!ELEMENT RepresentativeField EMPTY>
+		<!ATTLIST RepresentativeField name CDATA #REQUIRED>
+		<!-- referencia a alguna propiedad de documentos beeblos. -->
+		<!ATTLIST RepresentativeField alternative CDATA #IMPLIED>
+		<!-- referencia a otra propiedad beeblos que será utilIzada en 
+		caso de que la indicada por name no se encuentre o sea vacía-->
+		
+	<!ELEMENT ResumenField EMPTY>
+		<!ATTLIST ResumenField name CDATA #REQUIRED>
+		<!-- referencia a alguna propiedad de documentos beeblos. -->
+			 
+		<!ATTLIST ResumenField alternative CDATA #IMPLIED>
+		<!-- referencia a otra propiedad beeblos que será utilIzada en 
+		caso de que la indicada por name no se encuentre o sea vacía-->
+]>
+
+
+<SearchConfiguration>
+
+	<Repository name="medium4">
+		<RepresentativeField name="filename" />
+		<ResumenField name="content" />
+	</Repository>
+	
+	<DocumentClass name="43">
+		<RepresentativeField name="docid"  alternative="filename"/>
+		<RepresentativeField name="property_51"  alternative="filename"/>
+		<RepresentativeField name="property_54"  alternative="content"/>
+	</DocumentClass>
+	<DocumentClass name="HojaDeTrabajo">
+		<RepresentativeField name="property_51"  alternative="filename"/>
+		<RepresentativeField name="property_54"  alternative="content"/>
+	</DocumentClass>
+	<DocumentClass name="Manual">
+		<RepresentativeField name="property_55"  alternative="filename"/>
+		<RepresentativeField name="property_54"  alternative="content"/>
+	</DocumentClass>
+	<DocumentClass name="41">
+		<RepresentativeField name="property_54"  alternative="companyid"/>
+		<RepresentativeField name="property_55"  alternative="docclassid"/>
+		<RepresentativeField name="Producto" />
+	</DocumentClass>
+
+</SearchConfiguration>

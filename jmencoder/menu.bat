@@ -1,0 +1,1 @@
+java  -cp ..\utils\classes;..\swing\classes;..\j2s\classes;classes org.sgx.jmencoder.gui.Menu

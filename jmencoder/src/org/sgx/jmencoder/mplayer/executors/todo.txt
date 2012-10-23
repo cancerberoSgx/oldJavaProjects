@@ -1,0 +1,2 @@
+implementar un defaultexecutor basado en la tecnica utilizada para le mplkayerexecutorimpl
+y mover este paquete al projecto  jutils

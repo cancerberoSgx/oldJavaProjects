@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     05/12/2009 17:17:19                                                        
+
+     jmencoder    
+     description
+                   
+     sebastian                                                                
+     ====================================================================== -->
+<project name="jmencoder" default="default">
+
+	<property file="build.properties"/>
+
+
+	<description>
+            description
+    </description>
+
+	<!-- ================================= 
+          target: default              
+         ================================= -->
+	<target name="default" depends="compile" description="description">
+
+	</target>
+
+	<target name="compile" depends="compile-deps">
+		<path id="jmencoder-classpath">
+			<pathelement path="${base-dir}/utils/classes" />
+			<pathelement path="${base-dir}/swing/classes" />
+		</path>
+		<javac nowarn="true" classpathref="jmencoder-classpath" srcdir="${src-dir}" destdir="${classes-dir}">
+		</javac>
+	</target>
+
+<target name="distr" depends="compile">
+	<deltree dir="${distrDir}"/>
+	<mkdir dir="${distrDir}"/>
+	<mkdir dir="${distrDir}/win32"/>
+	<mkdir dir="${distrDir}/linux"/>	
+	
+	<!--classes -->
+	<copydir dest="${distrDir}/win32/jmencoder/classes" src="${base-dir}/jmencoder/classes"></copydir>
+	<copydir dest="${distrDir}/win32/jmencoder/resources" src="${base-dir}/jmencoder/resources"></copydir>
+	<copydir dest="${distrDir}/win32/swing/classes" src="${base-dir}/swing/classes"></copydir>
+	<copydir dest="${distrDir}/win32/utils/classes" src="${base-dir}/utils/classes"></copydir>
+	<copydir dest="${distrDir}/win32/jmencoder/mplayer" src="${base-dir}/jmencoder/mplayer"></copydir>
+	<copydir dest="${distrDir}/win32/jmencoder/ffmpeg" src="${base-dir}/jmencoder/ffmpeg"></copydir>
+	<copy tofile="${distrDir}/win32/jmencoder/menu.bat" file="${base-dir}/jmencoder/menu.bat"></copy>
+	<copy tofile="${distrDir}/win32/LICENSE.txt" file="${base-dir}/jmencoder/LICENSE.txt"></copy>
+	
+	<copydir dest="${distrDir}/linux/jmencoder/classes" src="${base-dir}/jmencoder/classes"></copydir>
+	<copydir dest="${distrDir}/linux/jmencoder/src" src="${base-dir}/jmencoder/src"></copydir>
+	<copydir dest="${distrDir}/linux/jmencoder/resources" src="${base-dir}/jmencoder/resources"></copydir>
+	<copydir dest="${distrDir}/linux/swing/classes" src="${base-dir}/swing/classes"></copydir>
+	<copydir dest="${distrDir}/linux/utils/classes" src="${base-dir}/utils/classes"></copydir>
+	<copy tofile="${distrDir}/linux/jmencoder/menu.sh" file="${base-dir}/jmencoder/menu.sh"></copy>
+	<copy tofile="${distrDir}/linux/LICENSE.txt" file="${base-dir}/jmencoder/LICENSE.txt"></copy>
+	
+	<!--src-->
+	<copydir dest="${distrDir}/win32/jmencoder/src" src="${base-dir}/jmencoder/src"></copydir>
+	<copydir dest="${distrDir}/win32/jmencoder/build" src="${base-dir}/jmencoder/build"></copydir>
+	<copydir dest="${distrDir}/win32/utils/org" src="${base-dir}/utils/org"></copydir>
+	<copydir dest="${distrDir}/win32/utils/build" src="${base-dir}/utils/build"></copydir>
+	<copydir dest="${distrDir}/win32/swing/org" src="${base-dir}/swing/org"></copydir>
+	<copydir dest="${distrDir}/win32/swing/build" src="${base-dir}/swing/build"></copydir>
+	
+	<copydir dest="${distrDir}/linux/jmencoder/src" src="${base-dir}/jmencoder/src"></copydir>
+	<copydir dest="${distrDir}/linux/jmencoder/build" src="${base-dir}/jmencoder/build"></copydir>
+	<copydir dest="${distrDir}/linux/utils/org" src="${base-dir}/utils/org"></copydir>
+	<copydir dest="${distrDir}/linux/utils/build" src="${base-dir}/utils/build"></copydir>
+	<copydir dest="${distrDir}/linux/swing/org" src="${base-dir}/swing/org"></copydir>
+	<copydir dest="${distrDir}/linux/swing/build" src="${base-dir}/swing/build"></copydir>
+	
+</target>
+
+	<target name="compile-deps">
+		<ant dir="${base-dir}/utils/build" antfile="${base-dir}/utils/build/build.xml" target="compile" >
+			<property file="${base-dir}/utils/build/build.properties" />
+		</ant>
+		<ant dir="${base-dir}/swing/build" antfile="${base-dir}/swing/build/build.xml" target="compile">
+			<property file="${base-dir}/swing/build/build.properties" />
+		</ant>
+	</target>
+
+	<target name="clean">
+		<delete includeemptydirs="true">
+			<fileset dir="${classes-dir}" includes="**/*" />
+		</delete>
+	</target>
+
+</project>
