@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     05/12/2009 17:17:19                                                        
+
+     utils    
+     description
+                   
+     sebastian                                                                
+     ====================================================================== -->
+<project name="utils" default="default" >
+	
+	<property file="build.properties"/>
+	
+	
+    <description>
+            description
+    </description>
+
+    <!-- ================================= 
+          target: default              
+         ================================= -->
+    <target name="default" depends="compile" description="description">
+        
+    </target>
+
+
+	<target name="clean">
+		<delete includeemptydirs="true">
+			<fileset dir="${classes-dir}" includes="**/*"/>
+		</delete>
+	</target>
+	
+    <!-- - - - - - - - - - - - - - - - - - 
+          target: compile                      
+         - - - - - - - - - - - - - - - - - -->
+    <target name="compile" depends="compile-deps">
+    	<javac nowarn="true" classpath="" srcdir="${src-dir}" destdir="${classes-dir}"></javac>
+    </target>
+	
+	<target name="compile-deps">
+	</target>
+	
+	
+
+</project>
