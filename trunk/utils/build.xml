@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project name="utils" basedir="." default="compile">
+
+  <target name="project_init" description="Initialize environment">
+
+    <property name="component.name" value="utils"/>
+    <property name="component.package" value="org.sgx.utils"/>
+    <property name="component.title" value="java general utilities"/>
+    <property name="component.version" value="0.1a"/>
+  	 <property name="path.src" value="."/>
+  </target>
+
+	 <path id="compile.classpath">
+	        </path>
+  <import file="../build/build_common.xml" />
+
+</project>
