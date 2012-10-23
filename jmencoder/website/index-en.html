@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <style>
+  </style>
+  <title>MyMMT : My MultiMedia Tools</title>
+</head>
+<body>
+<h1>My MultiMedia Tools</h1>
+<h2>what is this?</h2>
+<p>Sebastián Gurin's multimedia tools is a set of desktop applications
+related to multimedia file playing and formating. It is based on the
+great <a href="">mplayer</a> and written in java. Among other things
+you will find: </p>
+<ul>
+  <li><big><b><a href="mediaPlayer-en.html">sound and video player</a></b></big>,
+supporting advanced things like subtitles, video-sound-subtitle timing
+control, playing list, etc. Supports almost all video and sound major
+formats like avi, flv, mp4, mp3, mkbv, etc</li>
+  <li><big><b><a href="streamPlayer-en.html">Stream player (radio and
+television)</a></b></big>. This is a radio and tv internet stream
+player, with a nice playlist editable format, and a nice collection of
+radio and tv channels of all over the world (more than 10000 cannels in
+the catalog). The idea is that each user composes its own playlist and
+share with the world.</li>
+  <li><a href="videoFormatConversor-en.html"><b>video format conversor</b>
+    </a>that will let you easily transform from-to avi, mp4, flv, etc.
+Also it let you paste subtitles, with custom fonts. </li>
+  <li><b>sound format conversor</b>, for example, you can easily
+convert all mp4 sounds in a folder to mp3.</li>
+  <li><b>desktop recorder and screenshoter</b> (experimental), with
+unique features like timer, etc.</li>
+</ul>
+<p><b>Caution: </b>All of these applications where made to be used by
+me at my home and are brought to you without any warranty. These are
+not proffesional tools, so spect failures! However, they have showed to
+work pretty well in most cases...<br>
+</p>
+<p><span style="font-weight: bold;">Why to use this?</span> if you want
+to have a <span style="font-weight: bold;">lightweight</span> set of
+alternative tools, for playing all your sound and video format files,
+easily do common conversion of sound and video formats, paste subtitle
+to movies, listen internet radios and television, and other related
+tasks, with a few clicks, easy to learn and to teach.<br>
+</p>
+<h2>Download and Install</h2>
+<p><b>1) Make sure java is installed on the system. If not sure,
+http://www.java.com.<br>
+</b></p>
+<h3>Windows</h3>
+<p>Download and decompress <a href="TODO">file</a>. Execute
+jmencoder\menu.bat. The windows release contains all required mplayer
+executables and
+plugins, so the user doesn't require to install anything additional.
+Only extract and run.</p>
+<p><br>
+</p>
+<h3>Linux</h3>
+<p>Make sure that <span style="font-weight: bold;">mplayer</span> is
+installed in your system. Some tools like video or sound format
+conversors will require also <span style="font-weight: bold;">ffmpeg</span>
+installed.
+In particular, the commands <span style="font-weight: bold;">mplayer,</span>
+<span style="font-weight: bold;">ffmpeg</span> and <span
+ style="font-weight: bold;">mencoder</span> must be in your PATH. <br>
+</p>
+Download and decompress <a href="TODO">file</a>. Execute <i>sh
+jmencoder/menu.sh</i><br>
+<br>
+<h2>Usage</h2>
+<p>Executing jmencoder/menu will give you a menu like the following
+with links to all available applications:</p>
+<p><img src="menu.png"></p>
+<p><big><b>TIP</b>. The interface of these applications let you drag
+and drop your files. For example, in the media player application, you
+can drag a movie file to the player playlist and your subtitle file to
+the subtitle input box.</big></p>
+<p>TODO: make desktop recordings in windows.<br>
+</p>
+<h2>Hacking</h2>
+<p>All these tools are based in the great mplayer project, so a lot of
+credits are for mplayer's folks. These utilities are only GUI
+applications interfacing with mplayer, done with java swing. <br>
+</p>
+<p>All java source code is included in the releases. If you want to
+build the program from source code yourself: </p>
+<ol>
+  <li>make sure ant is installed.</li>
+  <li>$ cd jmencoder/build</li>
+  <li>$ ant</li>
+</ol>
+</body>
+</html>

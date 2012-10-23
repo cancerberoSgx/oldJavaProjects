@@ -1,1 +1,3 @@
 here it should be a windows distribution of mplayer with codecs.  
+
+@see http://www.mplayerhq.hu/design7/dload.html. the code package must go into /mplayer/codecs/... 
