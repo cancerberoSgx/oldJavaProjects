@@ -1,0 +1,1 @@
+taken from http://oglimmer.de/java/mathematical_expression_parser.php
