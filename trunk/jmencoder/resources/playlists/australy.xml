@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<document>
+<section description="" image="" name="Australian Capital Territory">
+<endpoint name="666 ABC Canberra" description="city: Canberra - resolution: 40 Kbps - description: News/Local programming" url="http://www.abc.net.au/canberra/onair/666stream.asx"></endpoint>
+<endpoint name="1WAY FM" description="city: Canberra - resolution: 128 Kbps - description: Christian music and talk" url="http://streaming.1wayfm.com.au:7620/listen.pls"></endpoint>
+<endpoint name="2CA" description="city: Canberra - resolution: 64 Kbps - description: Oldies" url="mms://2ca.gohosting.com.au/2ca"></endpoint>
+<endpoint name="2CC" description="city: Canberra - resolution: 64 Kbps - description: News/Talk" url="mms://2cc.gohosting.com.au/2cc"></endpoint>
+<endpoint name="2XX" description="city: Canberra - resolution: 128 Kbps - description: Community radio" url="http://2xxfm-ice.stream.integritynet.com.au:8000/2xxfm.m3u"></endpoint>
+<endpoint name="ArtSound FM" description="city: Canberra - resolution: 64 Kbps - description: Community radio" url="http://210.9.230.69:8000/listen.pls"></endpoint>
+<endpoint name="FM104.7" description="city: Canberra - resolution: 64 Kbps - description: Top 40" url="http://www.velocity.net.au/radio/listenfm1047.m3u"></endpoint>
+<endpoint name="Mix 106.3" description="city: Canberra - resolution: 64 Kbps - description: Top 40" url="http://www.velocity.net.au/radio/listenMIX1063.m3u"></endpoint>
+<endpoint name="TAB Radio 88.7 FM" description="city: Canberra - resolution: 16 Kbps - description: Sport" url="http://radio2.acttab.com.au:9000/radio-m16.m3u"></endpoint>
+<endpoint name="UCFM" description="city: Canberra - resolution: 192 Kbps - description: Student radio – University of Canberra" url="http://ucfm.canberra.edu.au:8000/stream.mp3.m3u"></endpoint>
+<endpoint name="CMS Radio" description="city: Canberra - resolution: 32 Kbps - description: Multicultural programming" url="http://cmsradio.gohosting.com.au/cmsradio"></endpoint>
+</section>
+
+
+<section description="" image="" name="New South Wales">
+<endpoint name="702 ABC Sydney" description="city: Sydney - resolution: 44 Kbps - description: News/Local programming" url="http://abc.net.au/streaming/702/702stream.ram"></endpoint>
+<endpoint name="702 ABC Sydney - Sydney" description="city: Sydney - resolution: 44 Kbps - description: News/Local programming" url="http://abc.net.au/streaming/702/702stream.ram"></endpoint>
+<endpoint name="1233 ABC Newcastle - Newcastle" description="city: Newcastle - resolution: 40 Kbps - description: News/Local programming" url="http://abc.net.au/newcastle/onair/1233stream.asx"></endpoint>
+<endpoint name="FM107.1  2AAA - Wagga Wagga" description="city: Wagga Wagga - resolution: 48 Kbps - description: Community radio" url="http://www.2aaa.net/files/2aaa_hi.wax"></endpoint>
+<endpoint name="2AY - Albury" description="city: Albury - resolution: 20 Kbps - description: News/Talk/Oldies" url="http://albury.aceradio.com.au:82/broadwave.asx"></endpoint>
+<endpoint name="2BS Gold - Bathurst" description="city: Bathurst - resolution: 32 Kbps - description: Oldies" url="mms://wm9.spacialnet.com/2BS_Gold"></endpoint>
+<endpoint name="2CBD - Glen Innes" description="city: Glen Innes - resolution: 56 Kbps - description: Community radio" url="http://sc4.spacialnet.com:20872/listen.pls"></endpoint>
+<endpoint name="2CCC - Gosford" description="city: Gosford - resolution: 128 Kbps - description: Community radio" url="mms://2ccc.stream.integritynet.com.au/2ccc"></endpoint>
+<endpoint name="2CCR - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Community radio" url="http://www.2ccrfm.com/2ccrfm-stream.m3u"></endpoint>
+<endpoint name="2CH - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Easy Listening" url="http://www.2ch.com/2ch_wmp.asx"></endpoint>
+<endpoint name="2Day FM - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Top 40" url="mms://66.70.119.243/2DayFM"></endpoint>
+<endpoint name="2GB - Sydney" description="city: Sydney - resolution: 32 Kbps - description: News/Talk" url="mms://202.58.32.111/MMN_2GB"></endpoint>
+<endpoint name="2GLF 89.3FM - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Community radio" url="http://38.96.148.21:8692/listen.pls"></endpoint>
+<endpoint name="2GN - Goulburn" description="city: Goulburn - resolution: 128 Kbps - description: Oldies" url="mms://2gn.gohosting.com.au/2gn"></endpoint>
+<endpoint name="2GO FM - Gosford" description="city: Gosford - resolution: 128 Kbps - description: Adult Contemporary" url="mms://2go.stream.integritynet.com.au/2go"></endpoint>
+<endpoint name="2KY - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Sport" url="http://www.2ky.com.au/media/2ky.asx"></endpoint>
+<endpoint name="2MBS - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Classical/Jazz" url="http://2mbsfm.primcast.com/2MBSFM"></endpoint>
+<endpoint name="2MCE - Bathurst" description="city: Bathurst - resolution: 32 Kbps - description: Charles Sturt University" url="mms://bsoc-2mcelive1.csumain.csu.edu.au/2mceLive"></endpoint>
+<endpoint name="2MCR - Campbelltown" description="city: Campbelltown - resolution: 64 Kbps - description: Community radio" url="http://sc1.spacialnet.com:26308/listen.pls"></endpoint>
+<endpoint name="2ME - Sydney" description="city: Sydney - resolution: 24 Kbps - description: Arabic programming" url="http://www.2meradio.com/listen.pls"></endpoint>
+<endpoint name="2MFM - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Muslim community radio" url="mms://www.2mfm.org.au/live"></endpoint>
+<endpoint name="2MM - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Greek programming" url="mms://Stream1.nextgen.net/2MM%2520Live%2520Broadcast"></endpoint>
+<endpoint name="2MMM - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Top 40/Rock" url="http://66.70.119.243:81/2mmm"></endpoint>
+<endpoint name="2NM - Muswellbrook" description="city: Muswellbrook - resolution: 32 Kbps - description: News/Talk/Oldies" url="http://wmedia01.grantbroadcasters.com.au/2nm981"></endpoint>
+<endpoint name="2NSB - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Community radio" url="http://media.2nsb.org.au:9796/live.m3u"></endpoint>
+<endpoint name="2NUR - Newcastle" description="city: Newcastle - resolution: 20 Kbps - description: Easy Listening/Alternative" url="http://www.newcastle.edu.au/service/2nur/audio/listen.mov"></endpoint>
+<endpoint name="2RDJ - Burwood" description="city: Burwood - resolution: 64 Kbps - description: Community radio" url="http://208.84.146.168:8000/listen.pls"></endpoint>
+<endpoint name="2SER - Sydney" description="city: Sydney - resolution: 56 Kbps - description: Variety, community radio" url="http://138.25.190.250:8080/broadwave.asx?src=1&amp;kbps=56"></endpoint>
+<endpoint name="2SM - Sydney" description="city: Sydney - resolution: 24 Kbps - description: News/Talk" url="http://s2.viastreaming.net:7500/listen.pls"></endpoint>
+<endpoint name="2ST - Nowra" description="city: Nowra - resolution: 32 Kbps - description: Oldies" url="http://wmedia01.grantbroadcasters.com.au/2st"></endpoint>
+<endpoint name="2UE - Sydney" description="city: Sydney - resolution: 32 Kbps - description: News/Talk" url="http://streaming.mytalk.com.au/2ue"></endpoint>
+<endpoint name="2XL - Cooma" description="city: Cooma - resolution: 64 Kbps - description: Oldies" url="mms://2xl.gohosting.com.au/2xl"></endpoint>
+<endpoint name="2 YOU FM88.9 - Tamworth" description="city: Tamworth - resolution: 96 Kbps - description: Community radio" url="http://s9.viastreaming.net:7040/listen.pls"></endpoint>
+<endpoint name="2000FM - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Multicultural" url="http://2000fm.net.au/stereo64.asx"></endpoint>
+<endpoint name="88.9 FM Richmond Valley Radio - Coraki" description="city: Coraki - resolution: 24 Kbps - description: Community radio" url="http://stream.stationplaylist.com:8150/listen.pls"></endpoint>
+<endpoint name="ABS Radio - Sydney" description="city: Sydney - resolution: 8 Kbps - description: Arabic Programming" url="http://www.absradio.com.au:8080/ramgen/encoder/live.rm"></endpoint>
+<endpoint name="Axe 1656 AM - Broken Hill" description="city: Broken Hill - resolution: 48 Kbps - description: Adult Contemporary/80s" url="http://www.hypefm.com.au/listenam.m3u"></endpoint>
+<endpoint name="B-Rock 99.3 - Bathurst" description="city: Bathurst - resolution: 32 Kbps - description: Top 40" url="mms://wm7.spacialnet.com/B-Rock_FM"></endpoint>
+<endpoint name="Bay FM - Byron Bay" description="city: Byron Bay - resolution: 40 Kbps - description: Community radio" url="http://mega2.radioserver.co.uk:8226/listen.pls"></endpoint>
+<endpoint name="Bay and Basin FM - Sanctuary Point" description="city: Sanctuary Point - resolution: 32 Kbps - description: Community radio" url="http://www.bbcri.com.au/bbfm-live.m3u"></endpoint>
+<endpoint name="Big Country Radio - Murwillumbah" description="city: Murwillumbah - resolution: 128 Kbps - description: Country" url="mms://fm88.stream.integritynet.com.au/fm88"></endpoint>
+<endpoint name="Blu FM - Katoomba" description="city: Katoomba - resolution: 28 Kbps - description: Community Radio" url="http://media.blufm.org.au:8080/dialup.ogg.m3u"></endpoint>
+<endpoint name="Bondi FM - Bondi" description="city: Bondi - resolution: 64 Kbps - description: Beach vibes" url="mms://media4.shiftreload.com.au/bondifm"></endpoint>
+<endpoint name="Bucketts Radio - Gloucester" description="city: Gloucester - resolution: 24 Kbps - description: Community radio" url="http://220.245.48.12:8000/listen.pls"></endpoint>
+<endpoint name="Breeze FM - Gloucester" description="city: Gloucester - resolution: 32 Kbps - description: Easy Listening" url="http://69.59.178.124:8840/listen.pls"></endpoint>
+<endpoint name="Eagle FM - Goulburn" description="city: Goulburn - resolution: 64 Kbps - description: Top 40" url="mms://eaglefm.gohosting.com.au/eaglefm"></endpoint>
+<endpoint name="Eastside FM - Sydney" description="city: Sydney - resolution: 128 Kbps - description: Community radio / Jazz" url="http://38.96.148.81:6034/listen.pls"></endpoint>
+<endpoint name="The Edge 96.1 - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Top 40" url="http://www.961.com.au/961.asx"></endpoint>
+<endpoint name="FBi Radio - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Alternative/New music" url="mms://wm9.streaming.telstra.com/UCS-wh_fbi0live1"></endpoint>
+<endpoint name="Fresh 103.2 - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Christian Youth Music" url="mms://stream1.cnmns.net/fresh"></endpoint>
+<endpoint name="Goanna Radio 16AM - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Country" url="http://live.str3am.com:2230/listen.pls"></endpoint>
+<endpoint name="Great Lakes FM - Forster" description="city: Forster - resolution: 40 Kbps - description: Community radio" url="http://202.43.226.98:8000/listen.pls"></endpoint>
+<endpoint name="Greek Radio 1683 - Sydney" description="city: Sydney - resolution: 24 Kbps - description: Greek programming" url="http://203.160.9.167:8000/listen.pls"></endpoint>
+<endpoint name="Hawkesbury Radio - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Community rdio" url="http://streaming.softcast.com.au:8004/listen.pls"></endpoint>
+<endpoint name="Heartland FM - Tamworth" description="city: Tamworth - resolution: 24 Kbps - description: Country/Adult Contemporary" url="http://ct1.fast-serv.com:9030/listen.pls"></endpoint>
+<endpoint name="Highland FM - Bowral" description="city: Bowral - resolution: 32 Kbps - description: Community radio" url="http://115.70.72.10:88/broadwave.asx?src=1&amp;kbps=32"></endpoint>
+<endpoint name="Hope 103.2 - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Christian Contemporary" url="mms://stream1.cnmns.net/1032"></endpoint>
+<endpoint name="Hype FM - Broken Hill" description="city: Broken Hill - resolution: 64 Kbps - description: RnB/Dance" url="http://www.hypefm.com.au/listenhigh.m3u"></endpoint>
+<endpoint name="Inspire - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Christian Praise &amp; Worship" url="mms://stream1.cnmns.net/inspire"></endpoint>
+<endpoint name="Italia FM - Sydney" description="city: Sydney - resolution: 96 Kbps - description: Italian Programming" url="http://shoutcast.mr-host.com/root/castcontrol/playlist.php?id=492"></endpoint>
+<endpoint name="KOFM - Newcastle" description="city: Newcastle - resolution: 32 Kbps - description: Hot Adult Contemporary" url="http://www.kofm.com.au/listen/kofm.asx"></endpoint>
+<endpoint name="Koori FM - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Aboriginal station " url="mms://125.255.41.166:1112/"></endpoint>
+<endpoint name="Max FM - Narrabri" description="city: Narrabri - resolution: 24 Kbps - description: Community radio" url="http://58.6.36.176:8000/listen.pls"></endpoint>
+<endpoint name="Mix 106.5 - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Adult Contemporary" url="http://208.96.14.149/mix1065"></endpoint>
+<endpoint name="Nim FM - Nimbin" description="city: Nimbin - resolution: 192 Kbps - description: Community - Alternative lifestyle" url="http://stream.nimfm.org/listen.pls"></endpoint>
+<endpoint name="Nova 96.9 - Sydney" description="city: Sydney - resolution: 48 Kbps - description: Active Hits" url="http://114.141.193.20:15014/listen.pls"></endpoint>
+<endpoint name="NXFM - Newcastle" description="city: Newcastle - resolution: 32 Kbps - description: Top 40" url="http://www.nxfm.com.au/listen/nxfm.asx"></endpoint>
+<endpoint name="PHFM - Peak Hill" description="city: Peak Hill - resolution: 32 Kbps - description: Community radio" url="http://streaming.softcast.com.au:8006/listen.pls"></endpoint>
+<endpoint name="Portuguese Radio - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Portuguese Programming" url="http://ams01.egihosting.com/374426"></endpoint>
+<endpoint name="Power FM - Muswellbrook" description="city: Muswellbrook - resolution: 32 Kbps - description: Top 40" url="mms://wmedia01.grantbroadcasters.com.au/powerfm981"></endpoint>
+<endpoint name="Power FM - Nowra" description="city: Nowra - resolution: 64 Kbps - description: Top 40" url="mms://wmedia01.grantbroadcasters.com.au/power949"></endpoint>
+<endpoint name="Radar Radio - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Undiscovered Music" url="mms://66.70.119.243:81/dab2"></endpoint>
+<endpoint name="Radio 1629 AM - Newcastle" description="city: Newcastle - resolution: 32 Kbps - description: Oldies/Nostalgia" url="http://203.206.231.112:8000/stream.ogg.m3u"></endpoint>
+<endpoint name="Radio 2Moro - Sydney" description="city: Sydney - resolution: 24 Kbps - description: Arabic Programming" url="http://67.19.249.130:8000/listen.pls"></endpoint>
+<endpoint name="Radio Austral - Sydney" description="city: Sydney - resolution: 56 Kbps - description: Spanish programming" url="http://60.242.62.17:8000/listen.pls"></endpoint>
+<endpoint name="Radio Five-O-Plus - Gosford" description="city: Gosford - resolution: 32 Kbps - description: Community Radio - Seniors" url="mms://122.252.16.195/50plus"></endpoint>
+<endpoint name="Radio Paradisos - Sydney" description="city: Sydney - resolution: 24 Kbps - description: Greek Programming" url="http://58.105.229.182:8000/listen.pls"></endpoint>
+<endpoint name="Radio Yesteryear - Gosford" description="city: Gosford - resolution: 20 Kbps - description: Community station - seniors" url="mms://ryy.stream.integritynet.com.au/ryy"></endpoint>
+<endpoint name="Radio Skidrow - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Community radio" url="http://www.skidrow.com.au/stream/mono32.asx"></endpoint>
+<endpoint name="Radio Symban FM - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Greek Programming" url="http://s1.onweb.gr:8430/listen.pls"></endpoint>
+<endpoint name="Raw FM - Lane Cove" description="city: Lane Cove - resolution: 64 Kbps - description: Dance" url="http://stream.rawfm.com.au:8004/listen.pls"></endpoint>
+<endpoint name="Rete Italia - Sydney" description="city: Sydney - resolution: 48 Kbps - description: Italian programming" url="http://69.73.144.31:9745/listen.pls"></endpoint>
+<endpoint name="Rhema FM - Newcastle" description="city: Newcastle - resolution: 32 Kbps - description: Christian" url="http://rhemastream.dynalias.com:85/broadwave.m3u?src=1&amp;kbps=32"></endpoint>
+<endpoint name="Rhema FM - Gosford" description="city: Gosford - resolution: 24 Kbps - description: Christian" url="http://s9.viastreaming.net:7120/listen.pls"></endpoint>
+<endpoint name="101.3 Sea FM - Gosford" description="city: Gosford - resolution: 128 Kbps - description: Top 40" url="mms://seafm.stream.integritynet.com.au/seafm"></endpoint>
+<endpoint name="Smooth Jazz FM - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Smooth Jazz" url="http://ns1.digitalpacific.com.au:8000/listen.pls"></endpoint>
+<endpoint name="Snow FM - Cooma" description="city: Cooma - resolution: 64 Kbps - description: Top 40" url="mms://snowfm.gohosting.com.au/SNOWFM"></endpoint>
+<endpoint name="Sounds of the Mountains - Tumut" description="city: Tumut - resolution: 24 Kbps - description: Community radio" url="http://www.fm963.com.au/streams/wm-low.asx"></endpoint>
+<endpoint name="Star 104.5 - Gosford" description="city: Gosford - resolution: 48 Kbps - description: Rock Adult Contemporary" url="http://114.141.193.20:15016/listen.pls"></endpoint>
+<endpoint name="Street Radio - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Community radio" url="mms://203.41.81.184/push-enc-salvoradio"></endpoint>
+<endpoint name="SWR FM - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Community radio" url="http://60.242.150.120/SWRFM_live/listen.m3u"></endpoint>
+<endpoint name="Tank FM - Kempsey" description="city: Kempsey - resolution: 128 Kbps - description: Community radio" url="http://radio.internode.on.net:8048/listen.pls"></endpoint>
+<endpoint name="Triple H - Sydney" description="city: Sydney - resolution: 64 Kbps - description: Community radio" url="http://triplehfm.stream.integritynet.com.au/triplehfm"></endpoint>
+<endpoint name="Tune FM - Armidale" description="city: Armidale - resolution: 56 Kbps - description: University of New England" url="http://tunefm-stream.une.edu.au:8000/listen.pls"></endpoint>
+<endpoint name="Vega 95.3 - Sydney" description="city: Sydney - resolution: 48 Kbps - description: Classic Hits" url="http://114.141.193.20:15020/listen.pls"></endpoint>
+<endpoint name="Vintage FM - Penrith" description="city: Penrith - resolution: 32 Kbps - description: Oldies" url="http://115.178.19.40:6002/listen.pls"></endpoint>
+<endpoint name="Voice Of Islam 87.6 - Sydney" description="city: Sydney - resolution: 56 Kbps - description: Religious - Islamic " url="http://203.206.228.153:88/broadwave.asx?src=1&amp;kbps=56"></endpoint>
+<endpoint name="Wave FM - Wollongong" description="city: Wollongong - resolution: 32 Kbps - description: Adult Contemporary" url="mms://wmedia01.grantbroadcasters.com.au/wave965"></endpoint>
+<endpoint name="WOW FM - Penrith" description="city: Penrith - resolution: 48 Kbps - description: Community radio" url="http://wowfm.serverroom.us:7872/listen.pls"></endpoint>
+<endpoint name="101.7 WS-FM - Sydney" description="city: Sydney - resolution: 32 Kbps - description: Classic Hits" url="http://208.96.14.149/wsfm"></endpoint>
+
+</section>
+
+<section description="" image="" name="Northern Territory">
+<endpoint name="105.7 ABC Darwin - Darwin" description="city: Darwin - resolution: 40 Kbps - description: News/Local programming" url="http://abc.net.au/darwin/onair/1057stream.asx"></endpoint>
+<endpoint name="8KIN CAAMA Radio - Alice Springs" description="city: Alice Springs - resolution: 32 Kbps - description: Aboriginal" url="mms://radio.caama.com.au/caama"></endpoint>
+<endpoint name="Hot 100 - Darwin" description="city: Darwin - resolution: 24 Kbps - description: Top 40" url="mms://wmedia02.grantbroadcasters.com.au/hot100fm"></endpoint>
+<endpoint name="KIK FM - Darwin" description="city: Darwin - resolution: 48 Kbps - description: Dance" url="mms://win4.fast-serv.com/kikfm"></endpoint>
+<endpoint name="Mix 104.9 - Darwin" description="city: Darwin - resolution: 24 Kbps - description: Adult Contemporary" url="mms://wmedia02.grantbroadcasters.com.au/mix1049"></endpoint>
+<endpoint name="Radio Larrakia - Darwin" description="city: Darwin - resolution: 96 Kbps - description: Aboriginal" url="http://media.radiolarrakia.org:7600/listen.pls"></endpoint>
+<endpoint name="Territory FM - Darwin" description="city: Darwin - resolution: 128 Kbps - description: Variety - Charles Darwin University" url="http://streaming.territoryfm.com:8000/TerritoryFM.m3u"></endpoint>
+<endpoint name="Territory FM - Darwin/Nhulunbuy" description="city: Darwin/Nhulunbuy - resolution: WebPlayer - description: Aboriginal station" url="http://www.ards.com.au/LiveRadio/YolnguRadioLive.html"></endpoint>
+</section>
+
+
+<section description="" image="" name="Queensland">
+<endpoint name="612 ABC Brisbane - Brisbane" description="city: Brisbane - resolution: 44 Kbps - description: News/Local programming" url="http://abc.net.au/brisbane/onair/612stream.ram"></endpoint>
+<endpoint name="ABC Coast FM - Gold Coast" description="city: Gold Coast - resolution: 44 Kbps - description: News/Local programming" url="http://www.abc.net.au/streaming/coast.ram"></endpoint>
+<endpoint name="4AK - Toowoomba" description="city: Toowoomba - resolution: 32 Kbps - description: Adult contemporary" url="mms://121.223.241.116:1240/"></endpoint>
+<endpoint name="4BC - Brisbane" description="city: Brisbane - resolution: 16 Kbps - description: News/Talk" url="http://streaming.mytalk.com.au/4bc"></endpoint>
+<endpoint name="4BH - Brisbane" description="city: Brisbane - resolution: 22 Kbps - description: Easy Listening" url="http://streaming.mytalk.com.au/4bh"></endpoint>
+<endpoint name="4CBL 101FM - Logan City" description="city: Logan City - resolution: 48 Kbps - description: Community radio" url="http://202.134.228.124:8002/listen.pls"></endpoint>
+<endpoint name="4CRB - Gold Coast" description="city: Gold Coast - resolution: 32 Kbps - description: Community radio" url="http://139.obj.netromedia.net/4CRB"></endpoint>
+<endpoint name="4EB - Brisbane" description="city: Brisbane - resolution: 24 Kbps - description: Ethnic" url="http://oberon.4eb.org.au:8000/listen.pls"></endpoint>
+<endpoint name="4K1G - Townsville" description="city: Townsville - resolution: 20 Kbps - description: Aboriginal" url="mms://wm16.spacialnet.com/toodeadly"></endpoint>
+<endpoint name="4KQ - Brisbane" description="city: Brisbane - resolution: 32 Kbps - description: Classic Hits" url="http://208.96.14.149/4KQ"></endpoint>
+<endpoint name="4KZ - Innisfail" description="city: Innisfail - resolution: 24 Kbps - description: Oldies/Talk" url="http://www.4kz.com.au/4kz.m3u"></endpoint>
+<endpoint name="4MBS - Brisbane" description="city: Brisbane - resolution: 40 Kbps - description: Classical" url="http://wma1.viastreaming.net/classicfm"></endpoint>
+<endpoint name="4MMM - Brisbane" description="city: Brisbane - resolution: 64 Kbps - description: Top 40/Rock" url="http://66.70.119.243:81/4mmm"></endpoint>
+<endpoint name="4RFM - Moranbah" description="city: Moranbah - resolution: 48 Kbps - description: Community radio" url="http://220.157.86.39:8830/listen.pls"></endpoint>
+<endpoint name="4RO - Rockhampton" description="city: Rockhampton - resolution: 32 Kbps - description: News,Talk,Oldies" url="mms://stream2.cooeeweb.com.au/4rorock"></endpoint>
+<endpoint name="4SDB - Warwick" description="city: Warwick - resolution: 64 Kbps - description: Community radio" url="http://209.51.163.229/radio4ccc27277"></endpoint>
+<endpoint name="4TO FM - Townsville" description="city: Townsville - resolution: 48 Kbps - description: Adult Contemporary" url="http://livestream.tsv.qld.macsc.com.au/stream_4to.asx"></endpoint>
+<endpoint name="4WHO - Yarraman" description="city: Yarraman - resolution: 32 Kbps - description: Community radio" url="http://stream.stationplaylist.com:8050/listen.pls"></endpoint>
+<endpoint name="4ZZZ - Brisbane" description="city: Brisbane - resolution: 96 Kbps - description: Alternative" url="http://stream.4zzzfm.org.au:789/listen.pls"></endpoint>
+<endpoint name="106.3 FM - Townsville" description="city: Townsville - resolution: 32 Kbps - description: Top 40" url="mms://stream2.cooeeweb.com.au/mixfmtowns"></endpoint>
+<endpoint name="77.4 FM the 80s - Gold Coast" description="city: Gold Coast - resolution: 64 Kbps - description: 80s pop/rock" url="http://kara.fast-serv.com:9886/listen.pls"></endpoint>
+<endpoint name="92.9 FM - Toowoomba" description="city: Toowoomba - resolution: 64 Kbps - description: Christian Contemporary" url="http://929mp3.serverroom.us:6550/listen.pls"></endpoint>
+<endpoint name="96five FM - Brisbane" description="city: Brisbane - resolution: 64 Kbps - description: Contemporary Christian" url="mms://audio01.cnmns.net/965bne"></endpoint>
+<endpoint name="97.3FM - Brisbane" description="city: Brisbane - resolution: 32 Kbps - description: Adult Contemporary" url="http://208.96.14.149/973fm"></endpoint>
+<endpoint name="98.9FM - Brisbane" description="city: Brisbane - resolution: 32 Kbps - description: Country/Indigenous music" url="http://asx.abacast.com/nichestudio-989fm-32.asx"></endpoint>
+<endpoint name="B105 - Brisbane" description="city: Brisbane - resolution: 32 Kbps - description: Top 40" url="mms://66.70.119.243/B105"></endpoint>
+<endpoint name="The Breeze - South Brisbane" description="city: South Brisbane - resolution: 40 Kbps - description: Adult Contemporary" url="http://69.59.178.124:8800/listen.pls"></endpoint>
+<endpoint name="Coral Coast Radio - Bundaberg" description="city: Bundaberg - resolution: 56 Kbps - description: Community radio" url="http://165.228.147.198:88/broadwave.asx?src=1&amp;rate=1"></endpoint>
+<endpoint name="Crow FM - Wondai" description="city: Wondai - resolution: 21 Kbps - description: Community radio" url="mms://wm15.spacialnet.com/crowfm"></endpoint>
+<endpoint name="Gold FM - Gold Coast " description="city: Gold Coast  - resolution: 32 Kbps - description: Adult Contemporary" url="mms://stream2.cooeeweb.com.au/GOLDFMGC?MSWMExt=.asf"></endpoint>
+<endpoint name="Hot 91 - Maroochydore" description="city: Maroochydore - resolution: 48 Kbps - description: Top 40" url="mms://stream2.cooeeweb.com.au/HOT91-Maroochydore"></endpoint>
+<endpoint name="Hot Country - Roma" description="city: Roma - resolution: 24 Kbps - description: Country" url="http://69.59.178.124:8822/listen.pls"></endpoint>
+<endpoint name="Hot FM - Townsville" description="city: Townsville - resolution: 48 Kbps - description: Top 40" url="http://livestream.tsv.qld.macsc.com.au/stream_hot.asx"></endpoint>
+<endpoint name="Hot Tomato - Gold Coast" description="city: Gold Coast - resolution: 32 Kbps - description: Top 40" url="http://streaming.softcast.com.au:8002/listen.pls"></endpoint>
+<endpoint name="Kix FM - Bundaberg" description="city: Bundaberg - resolution: 32 Kbps - description: Country" url="http://www.kixcountry.com.au/streaming.pls"></endpoint>
+<endpoint name="Live FM - Townsville" description="city: Townsville - resolution: 48 Kbps - description: Christian" url="mms://58.6.123.134:1752/"></endpoint>
+<endpoint name="106.3 The Lounge - Port Douglas" description="city: Port Douglas - resolution: 40 Kbps - description: Smooth Jazz" url="http://win4.fast-serv.com/ra45"></endpoint>
+<endpoint name="Mix 92.7FM - Sunshine Coast" description="city: Sunshine Coast - resolution: 32 Kbps - description: Adult Contemporary" url="mms://stream2.cooeeweb.com.au/mixfmsc?MSWMExt=.asf"></endpoint>
+<endpoint name="My 105 - Mackay" description="city: Mackay - resolution: 160 Kbps - description: Country n' Classics/Aboriginal" url="http://203.45.82.40:8000/HighStream.m3u"></endpoint>
+<endpoint name="Noise 4 - Toowoomba" description="city: Toowoomba - resolution: 64 Kbps - description: Christian Youth programming" url="http://www.noise4.com/listen.pls"></endpoint>
+<endpoint name="Nova 106.9 - Brisbane" description="city: Brisbane - resolution: 48 Kbps - description: Active Hits" url="http://114.141.193.20:15008/listen.pls"></endpoint>
+<endpoint name="Planet Radio - Brisbane" description="city: Brisbane - resolution: 58 Kbps - description: Environmental/Oz Indie" url="mms://live.camstreams.com/csplanetradio"></endpoint>
+<endpoint name="Radio Brisvaani - Brisbane" description="city: Brisbane - resolution: 32 Kbps - description: South Asian Programming" url="mms://energy15.egihosting.com/874213"></endpoint>
+<endpoint name="Radio FM88 - Brisbane" description="city: Brisbane - resolution: 24 Kbps - description: Alternative spirituality " url="http://211.31.10.17:85/broadwave.m3u?src=1&amp;kbps=24"></endpoint>
+<endpoint name="Radio Metro - Gold Coast" description="city: Gold Coast - resolution: 128 Kbps - description: Dance, Top 40, R'n'B" url="http://67.220.196.164:7777/listen.pls"></endpoint>
+<endpoint name="Rebel FM - Logan" description="city: Logan - resolution: 48 Kbps - description: Rock" url="http://69.59.178.124:8810/listen.pls"></endpoint>
+<endpoint name="106.5 Rhema FM - Sunshine Coast" description="city: Sunshine Coast - resolution: 24 Kbps - description: Christian Contemporary" url="http://203.45.172.178:85/broadwave.asx?src=1&amp;kbps=24"></endpoint>
+<endpoint name="Rhema Radio - Hervey Bay" description="city: Hervey Bay - resolution: 24 Kbps - description: Christian Contemporary" url="http://www.rhemawidebay.com/listen-malachi.asx"></endpoint>
+<endpoint name="River 94.9 - Brisbane" description="city: Brisbane - resolution: 160 Kbps - description: Adult Contemporary" url="http://www.river949.com/wmedia.asx"></endpoint>
+<endpoint name="Sea FM - Sunshine Coast" description="city: Sunshine Coast - resolution: 32 Kbps - description: Top 40" url="http://stream2.cooeeweb.com.au/seafmsc?MSWMExt=.asf"></endpoint>
+<endpoint name="Sea FM - Gold Coast" description="city: Gold Coast - resolution: 32 Kbps - description: Top 40" url="mms://stream2.cooeeweb.com.au/seafmgc"></endpoint>
+<endpoint name="Station X - Gold Coast" description="city: Gold Coast - resolution: 24 Kbps - description: Adult Contemporary/Oldies" url="http://kara.fast-serv.com:9264/listen.pls"></endpoint>
+<endpoint name="Switch 1197 - Brisbane" description="city: Brisbane - resolution: 32 Kbps - description: Top 40/Dance" url="http://switch.fm/aacplus.m3u"></endpoint>
+<endpoint name="103.9 Triple T - Townsville" description="city: Townsville - resolution: 32 Kbps - description: Community radio" url="mms://stream2.cooeeweb.com.au/tttfmtowns"></endpoint>
+<endpoint name="Vision Radio Network - Underwood" description="city: Underwood - resolution: 48 Kbps - description: Contemporary Christian" url="http://www.txradica.net/tune.php?c=ucbau&amp;.wvx="></endpoint>
+<endpoint name="Voice of Australian Chinese - Brisbane" description="city: Brisbane - resolution: 64 Kbps - description: Chinese programming" url="mms://123.243.153.148/"></endpoint>
+<endpoint name="Zinc 96 - Noosa" description="city: Noosa - resolution: 32 Kbps - description: Adult Alternative/Classic Rock" url="http://stream2.cooeeweb.com.au/zincsc"></endpoint>
+<endpoint name="Zinc Cairns - Cairns" description="city: Cairns - resolution: 32 Kbps - description: Classic Rock" url="mms://stream2.cooeeweb.com.au/4cacairns"></endpoint>
+<endpoint name="Zinc Gladstone - Gladstone" description="city: Gladstone - resolution: 32 Kbps - description: Classic Rock" url="mms://stream2.cooeeweb.com.au/4ccgladstone"></endpoint>
+<endpoint name="Zinc Mackay - Mackay" description="city: Mackay - resolution: 32 Kbps - description: Classic Rock" url="mms://stream2.cooeeweb.com.au/4mkmackay"></endpoint>
+<endpoint name="Zinc Townsville - Townsville" description="city: Townsville - resolution: 32 Kbps - description: Classic Rock" url="mms://stream2.cooeeweb.com.au/seafmtowns"></endpoint>
+
+</section>
+<section description="" image="" name="New South Wales">
+</section>
+<section description="" image="" name="New South Wales">
+</section>
+<section description="" image="" name="New South Wales">
+</section>
+<section description="" image="" name="New South Wales">
+</section>
+<section description="" image="" name="New South Wales">
+</section>
+<section description="" image="" name="New South Wales">
+</section>
+<section description="" image="" name="New South Wales">
+</section>
+<section description="" image="" name="New South Wales">
+</section>
+
+</document>

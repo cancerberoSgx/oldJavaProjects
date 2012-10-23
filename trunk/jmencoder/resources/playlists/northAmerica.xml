@@ -1,0 +1,1418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document>
+<section description="" image="" name="United States">
+<endpoint name="VOA News Now - Washington - DC" description="city: Washington - DC - resolution: 32 Kbps - description: News/information" url="http://www.voanews.com/wm/live/newsnow.asx"></endpoint>
+<endpoint name="KAAM - Dallas - Texas" description="city: Dallas - Texas - resolution: 48 Kbps - description: Adult Standards" url="http://wmc1.den.liquidcompass.net/KAAMAM"></endpoint>
+<endpoint name="KABC - Los Angeles - California" description="city: Los Angeles - California - resolution: 41 Kbps - description: News/Talk" url="http://citadelcc-KABC-AM.wm.llnwd.net/citadelcc_KABC_AM"></endpoint>
+<endpoint name="KAIM - Honolulu - Hawaii" description="city: Honolulu - Hawaii - resolution: 32 Kbps - description: Contemporary Christian" url="mms://uni1.salem.streamaudio.com/KAIM_FM"></endpoint>
+<endpoint name="KAJM - Phoenix - Arizona" description="city: Phoenix - Arizona - resolution: 64 Kbps - description: Urban Oldies" url="mms://streamer3.webstream.net/KAJM"></endpoint>
+<endpoint name="KAJX - Aspen - Colorado" description="city: Aspen - Colorado - resolution: 160 Kbps - description: Public - NPR/Classical/Jazz" url="http://peace.str3am.com:6880/kajxhi.m3u"></endpoint>
+<endpoint name="KALC - Denver - Colorado" description="city: Denver - Colorado - resolution: 64 Kbps - description: Hot Adult Contemporary" url="http://provisioning.streamtheworld.com/pls/KALCFM.pls"></endpoint>
+<endpoint name="KALX - Berkeley - California" description="city: Berkeley - California - resolution: 128 Kbps - description: College - Uni of California" url="http://icecast.media.berkeley.edu:8000/kalx-128.mp3.m3u"></endpoint>
+<endpoint name="KATM - Modesto - California" description="city: Modesto - California - resolution: 41 Kbps - description: Country" url="http://citadelcc-KATM-FM.wm.llnwd.net/citadelcc_KATM_FM"></endpoint>
+<endpoint name="KBLX - San Francisco - California" description="city: San Francisco - California - resolution: 42 Kbps - description: Urban Adult Contemporary" url="mms://209.222.159.116/kblx"></endpoint>
+<endpoint name="KBOO - Portland - Oregon" description="city: Portland - Oregon - resolution: 64 Kbps - description: Freeform" url="http://live.kboo.fm:8000/high.m3u"></endpoint>
+<endpoint name="KBRT - Los Angeles - California" description="city: Los Angeles - California - resolution: 33 Kbps - description: Christian Talk" url="http://wmc1.den.liquidcompass.net/KBRTAM"></endpoint>
+<endpoint name="KBXX - Houston - Texas" description="city: Houston - Texas - resolution: 32 Kbps - description: RnB/HipHop" url="mms://Wm-eon.vitalstreamcdn.com/live_eonwmss_vitalstream_com_radioone-kbxx-fm-fast"></endpoint>
+<endpoint name="KCDD - Abilene - Texas" description="city: Abilene - Texas - resolution: 64 Kbps - description: Top 40" url="http://live.cumulusstreaming.com/kcdd-fm"></endpoint>
+<endpoint name="KCFR - Denver - Colorado" description="city: Denver - Colorado - resolution: 128 Kbps - description: Public - News/NPR" url="http://www.cpr.org/listen/live_newsinfo_ogg.pls"></endpoint>
+<endpoint name="KCMP - St.Paul - Minneapolis" description="city: St.Paul - Minneapolis - resolution: 128 Kbps - description: Eclectic" url="http://currentstream1.publicradio.org/listen.pls"></endpoint>
+<endpoint name="KCRW - Santa Monica - California" description="city: Santa Monica - California - resolution: 128 Kbps - description: Public - NPR/freeform music" url="http://media.kcrw.com/live/kcrwlive.pls"></endpoint>
+<endpoint name="KCRW - Santa Monica - California" description="city: Santa Monica - California - resolution: 128 Kbps - description: Eclectic" url="http://media.kcrw.com/live/kcrwmusic.pls"></endpoint>
+<endpoint name="KCSM - San Mateo - California" description="city: San Mateo - California - resolution: 64 Kbps - description: Jazz" url="http://asx.abacast.com/kcsm-kcsmwmp641-64.asx"></endpoint>
+<endpoint name="KDFC - San Francisco - California" description="city: San Francisco - California - resolution: 128 Kbps - description: Classical" url="http://provisioning.streamtheworld.com/pls/KDFCFM.pls"></endpoint>
+<endpoint name="KDIA - San Francisco - California" description="city: San Francisco - California - resolution: 64 Kbps - description: Christian Talk" url="http://stream2.nwrnetwork.com/KDIA"></endpoint>
+<endpoint name="KDLD - Santa Monica - California" description="city: Santa Monica - California - resolution: 128 Kbps - description: Alternative Rock" url="http://ccdig.liquidviewer.com/indie103"></endpoint>
+<endpoint name="KDND - Sacramento - California" description="city: Sacramento - California - resolution: 128 Kbps - description: Top 40" url="http://provisioning.streamtheworld.com/pls/KDNDFM.pls"></endpoint>
+<endpoint name="KEXP - Seattle - Washington" description="city: Seattle - Washington - resolution: 128 Kbps - description: Alternative Rock/Indie" url="mms://media-wm.cac.washington.edu/KEXP-Live"></endpoint>
+<endpoint name="KEZP - Alexandria - Louisiana" description="city: Alexandria - Louisiana - resolution: 32 Kbps - description: Alternative Rock" url="http://azulweb.streamguys.com/kezp-fm.asx"></endpoint>
+<endpoint name="KEZW - Denver - Colorado" description="city: Denver - Colorado - resolution: 64 Kbps - description: Adult Standards" url="http://provisioning.streamtheworld.com/pls/KEZWAM.pls"></endpoint>
+<endpoint name="KFOG - San Francisco - California" description="city: San Francisco - California - resolution: 66 Kbps - description: Adult Album Alternative" url="http://player.cumulusstreaming.com/stations/KFOG-FM/PubPoint.asx"></endpoint>
+<endpoint name="KFUO - St Louis - Missouri" description="city: St Louis - Missouri - resolution: 48 Kbps - description: Classical" url="http://boss.streamos.com/wmedia-live/kfuo/11565/70_kfuo-live_060612.asx"></endpoint>
+<endpoint name="KGO - San Francisco - California" description="city: San Francisco - California - resolution: 41 Kbps - description: News/Talk" url="http://citadelcc-KGO-AM.wm.llnwd.net/citadelcc_KGO_AM"></endpoint>
+<endpoint name="KGON - Portland - Oregon" description="city: Portland - Oregon - resolution: 58 Kbps - description: Classic Rock" url="mms://wmc1.liquidviewer.net/KGON"></endpoint>
+<endpoint name="KHOP - Modesto - California" description="city: Modesto - California - resolution: 42 Kbps - description: Top 40" url="http://citadelcc-khop-fm.wm.llnwd.net/citadelcc_khop_fm"></endpoint>
+<endpoint name="KHOY - Laredo - Texas" description="city: Laredo - Texas - resolution: 64 Kbps - description: Easy Listening" url="http://www.christiannetcast.com/listen/dynamicasx.asp?station=khoy-fm"></endpoint>
+<endpoint name="KIFM - San Diego - California" description="city: San Diego - California - resolution: 64 Kbps - description: Smooth Jazz" url="http://wmc1.den.liquidcompass.net/KIFMfm"></endpoint>
+<endpoint name="KING - Seattle - Washington" description="city: Seattle - Washington - resolution: 32 Kbps - description: Classical" url="http://www.king.org/stream/kingfm.asx"></endpoint>
+<endpoint name="KIRO - Seattle - Washington" description="city: Seattle - Washington - resolution: 32 Kbps - description: News/Talk" url="http://wmc1.liquidviewer.net/KIRO"></endpoint>
+<endpoint name="KIXI - Seattle - Washington" description="city: Seattle - Washington - resolution: 64 Kbps - description: Adult Standards" url="http://wmc1.den.liquidcompass.net/KIXIam"></endpoint>
+<endpoint name="KIZN - Boise - Idaho" description="city: Boise - Idaho - resolution: 42 Kbps - description: Country" url="http://citadelcc-KIZN-FM.wm.llnwd.net/citadelcc_KIZN_FM"></endpoint>
+<endpoint name="KJUL - Las Vegas - Nevada" description="city: Las Vegas - Nevada - resolution: 64 Kbps - description: Adult Standards" url="mms://wms2.mainstreamnetwork.com/kjul-fm"></endpoint>
+<endpoint name="KKMJ - Austin - Texas" description="city: Austin - Texas - resolution: 64 Kbps - description: Adult Contemporary" url="http://provisioning.streamtheworld.com/pls/KKMJFM.pls"></endpoint>
+<endpoint name="KLTI - Des Moines - Iowa" description="city: Des Moines - Iowa - resolution: 42 Kbps - description: Adult Contemporary" url="mms://winmedia.voxcdn.net/3156-WMA-KLTI-FM-32"></endpoint>
+<endpoint name="KLOS - Los Angeles - California" description="city: Los Angeles - California - resolution: 41 Kbps - description: Classic Rock" url="http://citadelcc-klos-fm.wm.llnwd.net/citadelcc_KLOS_FM"></endpoint>
+<endpoint name="KMEZ - New Orleans - Louisiana" description="city: New Orleans - Louisiana - resolution: 33 Kbps - description: Urban Adult Contemporary" url="http://citadelcc-kmez-fm.wm.llnwd.net/citadelcc_KMEZ_FM"></endpoint>
+<endpoint name="KMFA - Austin - Texas" description="city: Austin - Texas - resolution: 64 Kbps - description: Classical" url="http://pubint.ic.llnwd.net/stream/pubint_kmfa.m3u"></endpoint>
+<endpoint name="KMHD - Portland - Oregon" description="city: Portland - Oregon - resolution: 48 Kbps - description: Jazz/Blues/NPR" url="http://www.abacast.com/media/pls/kmhd/kmhd-sc-48.pls"></endpoint>
+<endpoint name="KMJK - Kansas City - Missouri" description="city: Kansas City - Missouri - resolution: 48 Kbps - description: Urban Adult Contemporary" url="mms://live.cumulusstreaming.com/KMJK-FM"></endpoint>
+<endpoint name="KMJO - Fargo - North Dakota" description="city: Fargo - North Dakota - resolution: 48 Kbps - description: Oldies" url="http://asx.abacast.com/radiofm-kmjofm-32.asx"></endpoint>
+<endpoint name="KMJQ - Houston - Texas" description="city: Houston - Texas - resolution: 33 Kbps - description: Urban Adult Contemporary" url="mms://wm-eon.vitalstreamcdn.com/live_eonwmss_vitalstream_com_radioone-houston-kmjq-fm"></endpoint>
+<endpoint name="KMTS - Glenwood Springs - Colorado" description="city: Glenwood Springs - Colorado - resolution: 64 Kbps - description: Country" url="mms://stream.netro.ca/kmts"></endpoint>
+<endpoint name="KMTT - Seattle - Washington" description="city: Seattle - Washington - resolution: 64 Kbps - description: Adult Album Alternative" url="http://provisioning.streamtheworld.com/pls/KMTTFM.pls"></endpoint>
+<endpoint name="KNBR - San Francisco - California" description="city: San Francisco - California - resolution: 66 Kbps - description: Sports" url="http://player.cumulusstreaming.com/stations/KNBR-AM/PubPoint.asx"></endpoint>
+<endpoint name="KNIK - Anchorage - Alaska" description="city: Anchorage - Alaska - resolution: 64 Kbps - description: Smooth Jazz" url="mms://nick11.surfernetwork.com/KNIK"></endpoint>
+<endpoint name="KNOW - St.Paul - Minneapolis" description="city: St.Paul - Minneapolis - resolution: 64 Kbps - description: Public - News/Information" url="http://newsstream1.publicradio.org/listen.pls"></endpoint>
+<endpoint name="KOIT - San Francisco - California" description="city: San Francisco - California - resolution: 128 Kbps - description: Adult Contemporary" url="http://provisioning.streamtheworld.com/pls/KOITFM.pls"></endpoint>
+<endpoint name="KOMO - Seattle - Washington" description="city: Seattle - Washington - resolution: 48 Kbps - description: News" url="mms://wma.fsci.com/komo-1000"></endpoint>
+<endpoint name="KOSI - Denver - Colorado" description="city: Denver - Colorado - resolution: 64 Kbps - description: Adult Contemporary" url="http://provisioning.streamtheworld.com/pls/KOSIFM.pls"></endpoint>
+<endpoint name="KPLU - Seattle - Washington" description="city: Seattle - Washington - resolution: 64 Kbps - description: Jazz/NPR" url="http://asx.abacast.com/kplu-newsjazzhi-64.asx"></endpoint>
+<endpoint name="KPLX - Dallas - Texas" description="city: Dallas - Texas - resolution: 32 Kbps - description: Country" url="mms://1.uni7.susq.streamaudio.com/KPLX_FM"></endpoint>
+<endpoint name="KPMZ - Dallas - Texas" description="city: Dallas - Texas - resolution: 42 Kbps - description: Oldies" url="http://citadelcc-KTYS-FM.wm.llnwd.net/citadelcc_KTYS_FM"></endpoint>
+<endpoint name="KQKS - Denver - Colorado" description="city: Denver - Colorado - resolution: 64 Kbps - description: RnB/HipHop" url="http://wmc1.liquidcompass.cc/KQKS"></endpoint>
+<endpoint name="KROC - Rochester - Minnesota" description="city: Rochester - Minnesota - resolution: 48 Kbps - description: Top 40" url="http://live.cumulusstreaming.com/kroc-fm"></endpoint>
+<endpoint name="KSOL - San Francisco - California" description="city: San Francisco - California - resolution: 32 Kbps - description: Spanish Mexican" url="http://wm-eon.vitalstreamcdn.com/live_eonwmss_vitalstream_com_univision-ksolfm"></endpoint>
+<endpoint name="KRSK - Portland - Oregon" description="city: Portland - Oregon - resolution: 58 Kbps - description: Hot Adult Contemporary" url="http://wmc1.liquidviewer.net/KWJJ"></endpoint>
+<endpoint name="KRWM - Seattle - Washington" description="city: Seattle - Washington - resolution: 128 Kbps - description: Adult Contemporary" url="http://www.usliveradio.com/krwm.m3u"></endpoint>
+<endpoint name="KRXQ - Sacramento - California" description="city: Sacramento - California - resolution: 128 Kbps - description: Active Rock" url="http://provisioning.streamtheworld.com/pls/KRXQFM.pls"></endpoint>
+<endpoint name="KSCS - Dallas - Texas" description="city: Dallas - Texas - resolution: 42 Kbps - description: Country" url="http://citadelcc-kscs-fm.wm.llnwd.net/citadelcc_KSCS_FM"></endpoint>
+<endpoint name="KSDS - San Diego - California" description="city: San Diego - California - resolution: 96 Kbps - description: Jazz" url="http://www.jazz88online.org/listen.m3u"></endpoint>
+<endpoint name="KSEG - Sacramento - California" description="city: Sacramento - California - resolution: 128 Kbps - description: Classic Rock" url="http://provisioning.streamtheworld.com/pls/KSEGFM.pls"></endpoint>
+<endpoint name="KSFI - Salt Lake City - Utah" description="city: Salt Lake City - Utah - resolution: 64 Kbps - description: Adult Contemporary" url="http://wmc2.liquidcompass.cc/KSFI"></endpoint>
+<endpoint name="KSFO - San Francisco - California" description="city: San Francisco - California - resolution: 41 Kbps - description: News/Talk" url="http://citadelcc-KSFO-AM.wm.llnwd.net/citadelcc_KSFO_AM"></endpoint>
+<endpoint name="KSJN - St.Paul - Minneapolis" description="city: St.Paul - Minneapolis - resolution: 128 Kbps - description: Classical" url="http://minnesota.publicradio.org/tools/play/streams/classical.pls"></endpoint>
+<endpoint name="KSL - Salt Lake City - Utah" description="city: Salt Lake City - Utah - resolution: 32 Kbps - description: News/Talk" url="http://wmc1.liquidcompass.cc/KSLAM"></endpoint>
+<endpoint name="KSOC - Dallas - Texas" description="city: Dallas - Texas - resolution: 33 Kbps - description: Urban Adult Contemporary" url="http://wmlive.vitalstreamcdn.com/live_eonwmss_vitalstream_com_radioone-ksoc-fm-fast"></endpoint>
+<endpoint name="KSON - San Diego - California" description="city: San Diego - California - resolution: 42 Kbps - description: Country" url="mms://wmc1.liquidcompass.cc/KSON"></endpoint>
+<endpoint name="KSSJ - Sacramento - California" description="city: Sacramento - California - resolution: 128 Kbps - description: Smooth Jazz" url="http://provisioning.streamtheworld.com/pls/KSSJFM.pls"></endpoint>
+<endpoint name="KSWD - Los Angeles - California" description="city: Los Angeles - California - resolution: 64 Kbps - description: Adult Album Alternative" url="http://live1.bonnevillechicago.com/KRBV"></endpoint>
+<endpoint name="KTCT - San Francisco - California" description="city: San Francisco - California - resolution: 66 Kbps - description: Sports" url="http://player.cumulusstreaming.com/stations/KTCT-AM/PubPoint.asx"></endpoint>
+<endpoint name="KTHT - Houston - Texas" description="city: Houston - Texas - resolution: 23 Kbps - description: Classic Country" url="http://uni6.cox.streamaudio.com/KTHT_FM"></endpoint>
+<endpoint name="KUAT - Tucson - Arizona" description="city: Tucson - Arizona - resolution: 192 Kbps - description: Classical" url="http://streaming.azpm.org/kuat192.mp3.m3u"></endpoint>
+<endpoint name="KUHF - Houston - Texas" description="city: Houston - Texas - resolution: 128 Kbps - description: Public - NPR" url="http://129.7.48.199/KUHF-HD1-128K.m3u"></endpoint>
+<endpoint name="KUHF-HD2 - Houston - Texas" description="city: Houston - Texas - resolution: 192 Kbps - description: Public - NPR/Classical" url="http://129.7.48.199/KUHF-HD2-128K.m3u"></endpoint>
+<endpoint name="KUOM - Minneapolis - Minnesota" description="city: Minneapolis - Minnesota - resolution: 128 Kbps - description: College - Uni of Minnesota" url="http://radiokstreams.cce.umn.edu:8128/listen.pls"></endpoint>
+<endpoint name="KUOW - Seattle - Washington" description="city: Seattle - Washington - resolution: 128 Kbps - description: Public - NPR" url="http://128.208.34.80:8002/listen.pls"></endpoint>
+<endpoint name="KUPS - Tacoma - Washington" description="city: Tacoma - Washington - resolution: 56 Kbps - description: College - Uni of Puget Sound" url="http://kupstream.ups.edu/listen.pls"></endpoint>
+<endpoint name="KUSC - Los Angeles - California" description="city: Los Angeles - California - resolution: 96 Kbps - description: Classical" url="http://www.kusc.org/streams/kusc96.m3u"></endpoint>
+<endpoint name="KUVO - Denver - Colorado" description="city: Denver - Colorado - resolution: 64 Kbps - description: Jazz/Blues/Latin Jazz" url="http://evergreen.ablazegroup.com/KUVO/kuvohi.pls"></endpoint>
+<endpoint name="KVOD - Denver - Colorado" description="city: Denver - Colorado - resolution: 128 Kbps - description: Classical" url="http://www.cpr.org/listen/live_classical_ogg.pls"></endpoint>
+<endpoint name="KWJZ - Seattle - Washington" description="city: Seattle - Washington - resolution: 64 Kbps - description: Smooth Jazz" url="http://wmc1.liquidcompass.cc/KWJZ"></endpoint>
+<endpoint name="KWOD - Sacramento - California" description="city: Sacramento - California - resolution: 128 Kbps - description: Alternative Rock" url="http://provisioning.streamtheworld.com/pls/KWODFM.pls"></endpoint>
+<endpoint name="KYGO - Denver - Colorado" description="city: Denver - Colorado - resolution: 64 Kbps - description: Country" url="http://wmc1.den.liquidcompass.net/KYGOFM"></endpoint>
+<endpoint name="KZIA - Cedar Rapids - Iowa" description="city: Cedar Rapids - Iowa - resolution: 64 Kbps - description: Top 40" url="http://www.kzia.com/listen/kzialive.asx"></endpoint>
+<endpoint name="KZSU - Stanford - California" description="city: Stanford - California - resolution: 128 Kbps - description: College - Standford University" url="http://kzsulive.stanford.edu/audio/kzsu-1-128.m3u"></endpoint>
+<endpoint name="WABC - New York - New York" description="city: New York - New York - resolution: 42 Kbps - description: News/Talk" url="http://citadelcc-WABC-AM.wm.llnwd.net/citadelcc_WABC_AM"></endpoint>
+<endpoint name="WAFX - Norfolk - Virginia" description="city: Norfolk - Virginia - resolution: 32 Kbps - description: Classic Hits" url="mms://winmedia.voxcdn.net/3156-WMA-WAFX-FM-32"></endpoint>
+<endpoint name="WARH - St Louis - Missouri" description="city: St Louis - Missouri - resolution: 64 Kbps - description: Adult Hits" url="http://www.toastedrav.com/streaming/warh/warh3.asx"></endpoint>
+<endpoint name="WAVV - Naples - Florida" description="city: Naples - Florida - resolution: 48 Kbps - description: Easy Listening" url="mms://wmc1.liquidcompass.cc/WAVV"></endpoint>
+<endpoint name="WAYM - Nashville - Tennessee" description="city: Nashville - Tennessee - resolution: 64 Kbps - description: Contemporary Christian" url="http://waym.wayfm.com/streams/waym_high.m3u"></endpoint>
+<endpoint name="WBAP - Dallas - Texas" description="city: Dallas - Texas - resolution: 42 Kbps - description: News/Talk" url="http://citadelcc-wbap-am.wm.llnwd.net/citadelcc_WBAP_AM"></endpoint>
+<endpoint name="WBEB - Philadelphia - Pennsylvania" description="city: Philadelphia - Pennsylvania - resolution: 48 Kbps - description: Adult Contemporary" url="http://tuner1.dc1.sonixtream.com/playlists/b101radio/b101radioWBEB.asx"></endpoint>
+<endpoint name="WBEN - Buffalo - New York" description="city: Buffalo - New York - resolution: 32 Kbps - description: News/Talk" url="http://provisioning.streamtheworld.com/pls/WBENAM.pls"></endpoint>
+<endpoint name="WBGO - Newark - New Jersey" description="city: Newark - New Jersey - resolution: 64 Kbps - description: Jazz" url="http://www.wbgo.org/listennow/wbgo.m3u"></endpoint>
+<endpoint name="WBLS - New York - New York" description="city: New York - New York - resolution: 42 Kbps - description: Urban Adult Contemporary" url="http://209.222.144.36/wbls"></endpoint>
+<endpoint name="WBLX - Mobile - Alabama" description="city: Mobile - Alabama - resolution: 48 Kbps - description: RnB/HipHop" url="mms://live.cumulusstreaming.com/WBLX-FM"></endpoint>
+<endpoint name="WBOS - Boston - Massachusetts" description="city: Boston - Massachusetts - resolution: 74 Kbps - description: Active/Modern Rock" url="http://bdcast-greatermedia-wbos-fm.wm.llnwd.net/bdcast_greatermedia_wbos-fm"></endpoint>
+<endpoint name="WBRU - Providence - Rhode Island" description="city: Providence - Rhode Island - resolution: 96 Kbps - description: Active/Modern Rock" url="http://wmc2.liquidcompass.cc/WBRU"></endpoint>
+<endpoint name="WBVI - Findlay - Ohio" description="city: Findlay - Ohio - resolution: 32 Kbps - description: Hot Adult Contemporary" url="http://www.mainstreamnetwork.com/listen/dynamicasx.asp?station=wbvi-fm"></endpoint>
+<endpoint name="WCAA - New York - New York" description="city: New York - New York - resolution: 32 Kbps - description: Spanish Tropical" url="http://wmlive.vitalstreamcdn.com/live_eonwmss_vitalstream_com_univision-wcaa-fm-fast"></endpoint>
+<endpoint name="WCBN - Ann Arbor - Michigan" description="city: Ann Arbor - Michigan - resolution: 128 Kbps - description: Freeform - Uni of Michigan" url="http://floyd.wcbn.org/wcbn-hi.m3u"></endpoint>
+<endpoint name="WCLZ - Portland - Maine" description="city: Portland - Maine - resolution: 42 Kbps - description: Adult Album Alternative" url="http://winmedia.voxcdn.net/3156-WMA-WCLZ-32"></endpoint>
+<endpoint name="WCOD - Cape Cod - Massachusetts" description="city: Cape Cod - Massachusetts - resolution: 48 Kbps - description: Hot Adult Contemporary" url="http://asx.abacast.com/gateway/cool102/wcod.asx"></endpoint>
+<endpoint name="WDBY - Danbury - Connecticut" description="city: Danbury - Connecticut - resolution: 64 Kbps - description: Hot Adult Contemporary" url="http://live.cumulusstreaming.com/WDBY-FM"></endpoint>
+<endpoint name="WDET - Detroit - Michigan" description="city: Detroit - Michigan - resolution: 96 Kbps - description: Public - NPR" url="http://141.217.119.35:8000/listen.pls"></endpoint>
+<endpoint name="WDET- HD2 - Detroit - Michigan" description="city: Detroit - Michigan - resolution: 96 Kbps - description: Eclectic music" url="mms://141.217.119.108/Wdet-HD2"></endpoint>
+<endpoint name="WDJC - Birmingham - Alabama" description="city: Birmingham - Alabama - resolution: 32 Kbps - description: Contemporary Christian" url="http://wmc1.den.liquidcompass.net/WDJCFM"></endpoint>
+<endpoint name="WDJO - Cincinnati - Ohio" description="city: Cincinnati - Ohio - resolution: 128 Kbps - description: Oldies 50s/60s/70s" url="http://63.210.232.202:8001/wdjo2.m3u"></endpoint>
+<endpoint name="WDKX - Rochester - New York" description="city: Rochester - New York - resolution: 32 Kbps - description: RnB/HipHop" url="mms://74.43.249.59/livetest"></endpoint>
+<endpoint name="WDNA - Miami - Florida" description="city: Miami - Florida - resolution: 48 Kbps - description: Jazz" url="http://www.wdna.org/audio/wdna.asx"></endpoint>
+<endpoint name="WDRV - Chicago - Illinois" description="city: Chicago - Illinois - resolution: 64 Kbps - description: Classic Rock" url="http://live1.bonnevillechicago.com/wdrv"></endpoint>
+<endpoint name="WDST - Woodstock - New York" description="city: Woodstock - New York - resolution: 128 Kbps - description: Adult Album Alternative" url="http://207.200.96.227:8040/listen.pls"></endpoint>
+<endpoint name="WEHM - Long Island - New York" description="city: Long Island - New York - resolution: 80 Kbps - description: Adult Album Alternative" url="http://wehm.streamguys.net/listen.pls"></endpoint>
+<endpoint name="WERQ - Baltimore - Maryland" description="city: Baltimore - Maryland - resolution: 32 Kbps - description: RnB/HipHop" url="http://wm-eon.vitalstreamcdn.com/live_eonwmss_vitalstream_com_radioone-md-baltimore-werq-fm"></endpoint>
+<endpoint name="WERS - Boston - Massachusetts" description="city: Boston - Massachusetts - resolution: 128 Kbps - description: College - Emerson College" url="http://www.wers.org/wers.pls"></endpoint>
+<endpoint name="WETA - Washington - DC" description="city: Washington - DC - resolution: 32 Kbps - description: Classical" url="http://www.weta.org/files/streamingprerolls/preroll_8002.asx"></endpoint>
+<endpoint name="WFBC - Greenville - South Carolina" description="city: Greenville - South Carolina - resolution: 58 Kbps - description: Top 40" url="http://wmc1.liquidviewer.net/WFBC"></endpoint>
+<endpoint name="WFCC - Cape Cod - Massachusetts" description="city: Cape Cod - Massachusetts - resolution: 52 Kbps - description: Classical" url="mms://bdcast-sandabcommunications-wfcc-fm.wm.llnwd.net/bdcast_sandabcommunications_wfcc-fm"></endpoint>
+<endpoint name="WFMT - Chicago - Illinois" description="city: Chicago - Illinois - resolution: 48 Kbps - description: Classical/Fine Arts" url="http://www.wfmt.com/res/streaming/live/wfmtstream.pls"></endpoint>
+<endpoint name="WFMU - Jersey City - New Jersey" description="city: Jersey City - New Jersey - resolution: 128 Kbps - description: Freeform" url="http://wfmu.org/wfmu.pls"></endpoint>
+<endpoint name="WFUV - New York - New York" description="city: New York - New York - resolution: 64 Kbps - description: Public - Eclectic/Celtic/NPR" url="http://www.wfuv.org/audio/wfuvaac.pls"></endpoint>
+<endpoint name="WGBH - Boston - Massachusetts" description="city: Boston - Massachusetts - resolution: 24 Kbps - description: Public - classical/jazz" url="http://streams.wgbh.org/wgbh.pls"></endpoint>
+<endpoint name="WGBH-HD2 - Boston - Massachusetts" description="city: Boston - Massachusetts - resolution: 112 Kbps - description: Classical" url="http://streams.wgbh.org/classical.pls"></endpoint>
+<endpoint name="WGKC - Champaign - Illinois" description="city: Champaign - Illinois - resolution: 64 Kbps - description: Classic Rock" url="http://wmc1.liquidcompass.cc/WGKC"></endpoint>
+<endpoint name="WGN - Chicago - Illinois" description="city: Chicago - Illinois - resolution: 32 Kbps - description: News/Talk" url="http://provisioning.streamtheworld.com/pls/WGNAM.pls"></endpoint>
+<endpoint name="WGR - Buffalo - New York" description="city: Buffalo - New York - resolution: 32 Kbps - description: Sports Talk" url="http://provisioning.streamtheworld.com/pls/WGRAM.pls"></endpoint>
+<endpoint name="WGRF - Buffalo - New York" description="city: Buffalo - New York - resolution: 42 Kbps - description: Classic Rock" url="http://citadelcc-WGRF-FM.wm.llnwd.net/citadelcc_WGRF_FM"></endpoint>
+<endpoint name="WGRD - Grand Rapids - Michigan" description="city: Grand Rapids - Michigan - resolution: 32 Kbps - description: Alternative Rock" url="http://regent.player.abacast.com/player/asx/wgrd.asx"></endpoint>
+<endpoint name="WGXL - Lebanon - New Hampshire" description="city: Lebanon - New Hampshire - resolution: 31 Kbps - description: Hot Adult Contemporary" url="http://lightningstream.surfernetwork.com/Media/player/scripts/playerp2.aspx?call=wgxl"></endpoint>
+<endpoint name="WHOM - Portland - Maine" description="city: Portland - Maine - resolution: 48 Kbps - description: Adult Contemporary" url="http://citadelcc-WHOM-FM.wm.llnwd.net/citadelcc_WHOM_FM"></endpoint>
+<endpoint name="WHRP - Huntsville - Alabama" description="city: Huntsville - Alabama - resolution: 48 Kbps - description: Urban Adult Contemporary" url="mms://live.cumulusstreaming.com/WHRP-FM"></endpoint>
+<endpoint name="WHTF - Tallahassee - Florida" description="city: Tallahassee - Florida - resolution: 48 Kbps - description: Top 40" url="mms://wm-live.abacast.com/opus_tal-whft-48"></endpoint>
+<endpoint name="WIL FM - St. Louis - Missouri" description="city: St. Louis - Missouri - resolution: 64 Kbps - description: Country" url="http://wmc1.liquidcompass.cc/WILFM"></endpoint>
+<endpoint name="WILV - Chicago - Illinois" description="city: Chicago - Illinois - resolution: 64 Kbps - description: Adult Contemporary" url="http://live1.bonnevillechicago.com/LOVEfm"></endpoint>
+<endpoint name="WILZ - Saginaw - Michigan" description="city: Saginaw - Michigan - resolution: 42 Kbps - description: Classic Rock" url="http://citadelcc-WILZ-FM.wm.llnwd.net/citadelcc_WILZ_FM"></endpoint>
+<endpoint name="WIXX - Green Bay - Wisconsin" description="city: Green Bay - Wisconsin - resolution: 64 Kbps - description: Top 40" url="http://madison.wm-live.abacast.com/mwcradio-wixx-64"></endpoint>
+<endpoint name="WJBQ - Portland - Maine" description="city: Portland - Maine - resolution: 42 Kbps - description: Top 40" url="http://citadelcc-WJBQ-FM.wm.llnwd.net/citadelcc_WJBQ_FM"></endpoint>
+<endpoint name="WJMI - Jackson - Mississippi" description="city: Jackson - Mississippi - resolution: 32 Kbps - description: RnB/HipHop" url="http://nick8.surfernetwork.com/Media/WJMI.asx"></endpoint>
+<endpoint name="WJR AM - Detroit - Michigan" description="city: Detroit - Michigan - resolution: 42 Kbps - description: News/Talk" url="http://citadelcc-wjr-am.wm.llnwd.net/citadelcc_WJR_AM"></endpoint>
+<endpoint name="WJZW - Washington - DC" description="city: Washington - DC - resolution: 42 Kbps - description: Oldies" url="http://citadelcc-wjzw-fm.wm.llnwd.net/citadelcc_WJZW_FM"></endpoint>
+<endpoint name="WKCP - Miami - Florida" description="city: Miami - Florida - resolution: 128 Kbps - description: Classical" url="http://classicalsouthflorida.publicradio.org/tools/play/streams/csf.pls"></endpoint>
+<endpoint name="WKCR - New York - New York" description="city: New York - New York - resolution: 56 Kbps - description: College - Columbia University" url="http://kanga.college.columbia.edu:8000/listen.pls"></endpoint>
+<endpoint name="WKHX - Atlanta - Georgia" description="city: Atlanta - Georgia - resolution: 42 Kbps - description: Country" url="http://citadelcc-WKHX-FM.wm.llnwd.net/citadelcc_WKHX_FM"></endpoint>
+<endpoint name="WKSE - Buffalo - New York" description="city: Buffalo - New York - resolution: 64Kbps - description: Top 40" url="http://provisioning.streamtheworld.com/pls/WKSEFM.pls"></endpoint>
+<endpoint name="WKSU - Kent - Ohio" description="city: Kent - Ohio - resolution: 128 Kbps - description: Public -  NPR/Classical" url="http://www.wksu.org/listen/wksu1.pls"></endpoint>
+<endpoint name="WKSU-HD2 - Kent - Ohio" description="city: Kent - Ohio - resolution: 128 Kbps - description: Folk music" url="http://wksu1.streamguys.com/listen.pls"></endpoint>
+<endpoint name="WKSU-HD3 - Kent - Ohio" description="city: Kent - Ohio - resolution: 128 Kbps - description: Classical" url="http://www.wksu.org/listen/wksu3.pls"></endpoint>
+<endpoint name="WLKK - Buffalo - New York" description="city: Buffalo - New York - resolution: 64 Kbps - description: Adult Album Alternative" url="http://provisioning.streamtheworld.com/pls/WLKKFM.pls"></endpoint>
+<endpoint name="WLOB - Portland - Maine" description="city: Portland - Maine - resolution: 20 Kbps - description: News/Talk" url="http://208.43.60.70/wlob-am"></endpoint>
+<endpoint name="WLS AM - Chicago - Illinois" description="city: Chicago - Illinois - resolution: 42 Kbps - description: News/Talk" url="http://citadelcc-WLS-AM.wm.llnwd.net/citadelcc_WLS_AM"></endpoint>
+<endpoint name="WLS FM - Chicago - Illinois" description="city: Chicago - Illinois - resolution: 42 Kbps - description: Oldies" url="http://citadelcc-WLS-FM.wm.llnwd.net/citadelcc_WLS_FM"></endpoint>
+<endpoint name="WLTJ - Pittsburgh - Pennsylvania" description="city: Pittsburgh - Pennsylvania - resolution: 64 Kbps - description: Adult Contemporary" url="http://asx.abacast.com/steelcity-wltjstream-64.asx"></endpoint>
+<endpoint name="WLYF - Miami - Florida" description="city: Miami - Florida - resolution: 48 Kbps - description: Adult Contemporary" url="http://wmc1.den.liquidcompass.net/WLYFFM"></endpoint>
+<endpoint name="WMAL - Washington - DC" description="city: Washington - DC - resolution: 42 Kbps - description: News/Talk" url="http://citadelcc-WMAL-AM.wm.llnwd.net/citadelcc_WMAL_AM"></endpoint>
+<endpoint name="WMBR - Cambridge - Massachusetts" description="city: Cambridge - Massachusetts - resolution: 128 Kbps - description: College - MIT" url="http://wmbr.mit.edu/WMBR_live_128.m3u"></endpoint>
+<endpoint name="WMGK - Philadelphia - Pennsylvania" description="city: Philadelphia - Pennsylvania - resolution: 35 Kbps - description: Classic Rock" url="http://tuner1.dc1.sonixtream.com/playlists/wmgk/wmgkWMGKFM.asx"></endpoint>
+<endpoint name="WMKK - Boston - Massachusetts" description="city: Boston - Massachusetts - resolution: 128 Kbps - description: Adult Hits" url="http://provisioning.streamtheworld.com/pls/WMKKFM.pls"></endpoint>
+<endpoint name="WMMJ - Washington - DC" description="city: Washington - DC - resolution: 33 Kbps - description: Urban Adult Contemporary" url="http://live.eonstreams.com/radioone_dc_washington_wmmj_fm_fast"></endpoint>
+<endpoint name="WMVN - St Louis - Missouri" description="city: St Louis - Missouri - resolution: 64 Kbps - description: Rhythmic Contemporary" url="http://wmc1.liquidcompass.cc/WMVN"></endpoint>
+<endpoint name="WMXJ - Miami - Florida" description="city: Miami - Florida - resolution: 58 Kbps - description: Oldies" url="http://wmc1.den.liquidcompass.net/WMXJfm"></endpoint>
+<endpoint name="WMXU - Columbus - Mississippi" description="city: Columbus - Mississippi - resolution: 48 Kbps - description: Urban Adult Contemporary" url="http://live.cumulusstreaming.com/WMXU-FM"></endpoint>
+<endpoint name="WNTQ - Syracuse - New York" description="city: Syracuse - New York - resolution: 42 Kbps - description: Top 40" url="http://citadelcc-wntq-fm.wm.llnwd.net/citadelcc_wntq_fm"></endpoint>
+<endpoint name="WNUW - Philadelphia - Pennsylvania" description="city: Philadelphia - Pennsylvania - resolution: 32 Kbps - description: Adult Contemporary" url="http://bdcast-greatermedia-wjjz-fm.wm.llnwd.net/bdcast_greatermedia_wjjz-fm"></endpoint>
+<endpoint name="WNVZ - Norfolk - Virginia" description="city: Norfolk - Virginia - resolution: 64 Kbps - description: Top 40" url="http://provisioning.streamtheworld.com/pls/WNVZFM.pls"></endpoint>
+<endpoint name="WNWV - Cleveland - Ohio" description="city: Cleveland - Ohio - resolution: 128 Kbps - description: Smooth Jazz" url="http://cmn-ice.spacialnet.com/wnwv.m3u"></endpoint>
+<endpoint name="WNYC - New York - New York" description="city: New York - New York - resolution: 32 Kbps - description: Public - NPR/Informatiom" url="http://www.wnyc.org/stream/fm.pls"></endpoint>
+<endpoint name="WOCM - Ocean City - Maryland" description="city: Ocean City - Maryland - resolution: 128 Kbps - description: Adult Album Alternative" url="mms://seacrets-radioaudio.wm.llnwd.net/seacrets_RadioAudio"></endpoint>
+<endpoint name="WPEN - Philadelphia - Pennsylvania" description="city: Philadelphia - Pennsylvania - resolution: 32 Kbps - description: Sports" url="http://bdcast-greatermedia-wpen-am.wm.llnwd.net/bdcast_greatermedia_wpen-am"></endpoint>
+<endpoint name="WPLJ - New York - New York" description="city: New York - New York - resolution: 37 Kbps - description: Hot Adult Contemporary" url="http://citadelcc-WPLJ-FM.wm.llnwd.net/citadelcc_WPLJ_FM"></endpoint>
+<endpoint name="WPPZ - Philadelphia - Pennsylvania" description="city: Philadelphia - Pennsylvania - resolution: 32 Kbps - description: Gospel" url="mms://RadioOne.wmlive.internapcdn.net/live_RadioOne_PA-Philiadephia-WPPZ-FM"></endpoint>
+<endpoint name="WPRB - Princeton - New Jersey" description="city: Princeton - New Jersey - resolution: 256 Kbps - description: Eclectic" url="http://www.princeton.edu/WebMedia/music/wprb-multibitrate.asx"></endpoint>
+<endpoint name="WPTE - Norfolk - Virginia" description="city: Norfolk - Virginia - resolution: 64 Kbps - description: Hot Adult Contemporary" url="http://provisioning.streamtheworld.com/pls/WPTEFM.pls"></endpoint>
+<endpoint name="WPUR - Atlantic City - New Jersey" description="city: Atlantic City - New Jersey - resolution: 64 Kbps - description: Country" url="http://provisioning.streamtheworld.com/pls/WPURFM.pls"></endpoint>
+<endpoint name="WPXY - Rochester - New York" description="city: Rochester - New York - resolution: 64 Kbps - description: Top 40" url="http://provisioning.streamtheworld.com/pls/WPXYFM.pls"></endpoint>
+<endpoint name="WPYA - Norfolk - Virginia" description="city: Norfolk - Virginia - resolution: 48 Kbps - description: Adult Hits" url="http://wmc1.den.liquidcompass.net/WPYAFM"></endpoint>
+<endpoint name="WQMG - Greensboro - North Carolina" description="city: Greensboro - North Carolina - resolution: 58 Kbps - description: Urban Adult Contemporary" url="http://wmc1.liquidcompass.cc/WQMG"></endpoint>
+<endpoint name="WQQK - Nashville - Tennessee" description="city: Nashville - Tennessee - resolution: 48 Kbps - description: Urban Adult Contemporary" url="http://live.cumulusstreaming.com/WQQK-FM"></endpoint>
+<endpoint name="WRBO - Memphis - Tennessee" description="city: Memphis - Tennessee - resolution: 42 Kbps - description: Urban Oldies" url="http://mmslb.eonstreams.com/citadel_tn_memphis_wrbo_fm.asf"></endpoint>
+<endpoint name="WRCH - Hartford - Connecticut" description="city: Hartford - Connecticut - resolution: 64 Kbps - description: Adult Contemporary" url="http://provisioning.streamtheworld.com/pls/WRCHFM.pls"></endpoint>
+<endpoint name="WRKZ - Columbus - Ohio" description="city: Columbus - Ohio - resolution: 64 Kbps - description: Active/Modern Rock" url="http://wmc1.den.liquidcompass.net/WRKZFM"></endpoint>
+<endpoint name="WRLT - Nashville - Tennessee" description="city: Nashville - Tennessee - resolution: 48 Kbps - description: Adult Album Alternative" url="http://wmc1.den.liquidcompass.net/WRLTFM"></endpoint>
+<endpoint name="WRNB - Philadelphia - Pennsylvania" description="city: Philadelphia - Pennsylvania - resolution: 33 Kbps - description: Urban Adult Contemporary" url="mms://wm-eon.vitalstreamcdn.com/live_eonwmss_vitalstream_com_radioone-wrnb-fm-fast"></endpoint>
+<endpoint name="WROR - Boston - Massachusetts" description="city: Boston - Massachusetts - resolution: 24 Kbps - description: Classic Hits" url="http://bdcast-greatermedia-wror-fm.wm.llnwd.net/bdcast_greatermedia_wror-fm"></endpoint>
+<endpoint name="WRQN - Toledo - Ohio" description="city: Toledo - Ohio - resolution: 64 Kbps - description: Oldies" url="http://live.cumulusstreaming.com/WRQN-FM"></endpoint>
+<endpoint name="WRQX - Washington - DC" description="city: Washington - DC - resolution: 42 Kbps - description: Hot Adult Contemporary" url="http://citadelcc-WRQX-FM.wm.llnwd.net/citadelcc_WRQX_FM"></endpoint>
+<endpoint name="WRR - Dallas - Texas" description="city: Dallas - Texas - resolution: 64 Kbps - description: Classical" url="http://adams.wm-live.abacast.com/wrr-wrr101-64"></endpoint>
+<endpoint name="WRRX - Pensacola - Florida" description="city: Pensacola - Florida - resolution: 48 Kbps - description: Urban Adult Contemporary" url="http://live.cumulusstreaming.com/WRRX-FM"></endpoint>
+<endpoint name="WRTI - Philadelphia - Pennsylvania" description="city: Philadelphia - Pennsylvania - resolution: 96 Kbps - description: Classical/Jazz" url="http://wrti-ice.streamguys.net/classical-247-aacp.m3u"></endpoint>
+<endpoint name="WRTS - Erie - Pennsylvania" description="city: Erie - Pennsylvania - resolution: 48 Kbps - description: Top 40" url="http://noxsol.wl.miisolutions.net/live/noxsol_con_wrts"></endpoint>
+<endpoint name="WSIA - Staten Island - New York" description="city: Staten Island - New York - resolution: 56 Kbps - description: College of Staten Island" url="http://vorbis.wsia.fm:8000/wsia.mp3.m3u"></endpoint>
+<endpoint name="WSJO - Atlantic City - New Jersey" description="city: Atlantic City - New Jersey - resolution: 64 Kbps - description: Hot Adult Contemporary" url="http://nick8.surfernetwork.com/media/wsjo.asx"></endpoint>
+<endpoint name="WSLC - Roanoke - Virginia" description="city: Roanoke - Virginia - resolution: 64 Kbps - description: Country" url="http://asx.abacast.com/wheelerbroadcasting-star94-64.asx"></endpoint>
+<endpoint name="WSLQ - Roanoke - Virginia" description="city: Roanoke - Virginia - resolution: 64 Kbps - description: Hot Adult Contemporary" url="http://asx.abacast.com/wheelerbroadcasting-q99-64.asx"></endpoint>
+<endpoint name="WSRB - Chicago - Illinois" description="city: Chicago - Illinois - resolution: 49 Kbps - description: Urban Adult Contemporary" url="http://wmc1.liquidviewer.net/WSRB"></endpoint>
+<endpoint name="WSTR - Atlanta - Georgia" description="city: Atlanta - Georgia - resolution: 48 Kbps - description: Top 40" url="http://wmc1.liquidcompass.cc/WSTR"></endpoint>
+<endpoint name="WTIC - Hartford - Connecticut" description="city: Hartford - Connecticut - resolution: 64 Kbps - description: Hot Adult Contemporary" url="http://provisioning.streamtheworld.com/pls/WTICFM.pls"></endpoint>
+<endpoint name="WTMX - Chicago - Illinois" description="city: Chicago - Illinois - resolution: 64 Kbps - description: Hot Adult Contemporary" url="http://live1.bonnevillechicago.com/wtmx"></endpoint>
+<endpoint name="WTPT - Greenville - South Carolina" description="city: Greenville - South Carolina - resolution: 64 Kbps - description: Active/Modern Rock" url="http://provisioning.streamtheworld.com/pls/WTPTFM.pls"></endpoint>
+<endpoint name="WTLC - Indianapolis - Indiana" description="city: Indianapolis - Indiana - resolution: 33 Kbps - description: Urban Adult Contemporary" url="http://wm-eon.vitalstreamcdn.com/live_eonwmss_vitalstream_com_radioone-wtlcfm-fast"></endpoint>
+<endpoint name="WTSS - Buffalo - New York" description="city: Buffalo - New York - resolution: 64 Kbps - description: Hot Adult Contemporary" url="http://provisioning.streamtheworld.com/pls/WTSSFM.pls"></endpoint>
+<endpoint name="WTTS - Indianapolis - Indiana" description="city: Indianapolis - Indiana - resolution: 48 Kbps - description: Adult Album Alternative" url="http://cluster.sbr.liquidcompass.cc/Live_WTTS"></endpoint>
+<endpoint name="WUBE - Cincinnatti - Ohio" description="city: Cincinnatti - Ohio - resolution: 32 Kbps - description: Country" url="http://wmc1.den.liquidcompass.net/WUBE"></endpoint>
+<endpoint name="WUMB - Boston - Massachusetts" description="city: Boston - Massachusetts - resolution: 56 Kbps - description: Folk" url="http://www.wumb.org/listenlive/wumbfast.pls"></endpoint>
+<endpoint name="WUWM - Milwaukee - Wisconsin" description="city: Milwaukee - Wisconsin - resolution: 64 Kbps - description: Public - NPR" url="http://www.wuwm.com/m3u/live.pls"></endpoint>
+<endpoint name="WUWM - HD2 - Milwaukee - Wisconsin" description="city: Milwaukee - Wisconsin - resolution: 128 Kbps - description: Adult Album Alternative" url="http://www.wuwm.com/m3u/wuwm2.pls"></endpoint>
+<endpoint name="WVYB - Daytona Beach - Florida" description="city: Daytona Beach - Florida - resolution: 64 Kbps - description: Top 40" url="mms://72.236.125.114/wvyb"></endpoint>
+<endpoint name="WWDE - Norfolk - Virginia" description="city: Norfolk - Virginia - resolution: 64 Kbps - description: Adult Contemporary" url="http://provisioning.streamtheworld.com/pls/WWDEFM.pls"></endpoint>
+<endpoint name="WWKL - Harrisburg - Pennsylvania" description="city: Harrisburg - Pennsylvania - resolution: 64 Kbps - description: Top 40" url="http://live.cumulusstreaming.com/wwwl-fm"></endpoint>
+<endpoint name="WWMP - Burlington - Virginia" description="city: Burlington - Virginia - resolution: 64 Kbps - description: Adult Hits" url="http://asx.abacast.com/wxal.asx"></endpoint>
+<endpoint name="WWOZ - New Orleans - Louisiana" description="city: New Orleans - Louisiana - resolution: 64 Kbps - description: Jazz/Blues" url="http://wwoz-wm.streamguys.com/wwoz"></endpoint>
+<endpoint name="WWWQ - Atlanta - Georgia" description="city: Atlanta - Georgia - resolution: 64 Kbps - description: Top 40" url="http://live.cumulusstreaming.com/wwwq-fm"></endpoint>
+<endpoint name="WWWZ - Charleston - South Carolina" description="city: Charleston - South Carolina - resolution: 32 Kbps - description: RnB/HipHop" url="mms://citadelcc-wwwz-fm.wm.llnwd.net/citadelcc_wwwz_fm"></endpoint>
+<endpoint name="WXMG - Columbus - Ohio" description="city: Columbus - Ohio - resolution: 33 Kbps - description: Urban Adult Contemporary" url="mms://wm-eon.vitalstreamcdn.com/live_eonwmss_vitalstream_com_radioone-columbus-wxmg-fm"></endpoint>
+<endpoint name="WXPN - Philadelphia - Pennsylvania" description="city: Philadelphia - Pennsylvania - resolution: 96 Kbps - description: Adult Album Alternative" url="http://wxpnsc96.streamguys.com/listen.pls"></endpoint>
+<endpoint name="WXPN HD-2 - Philadelphia - Pennsylvania" description="city: Philadelphia - Pennsylvania - resolution: 96 Kbps - description: Alternative Rock" url="http://yrockhi.streamguys.net/listen.pls"></endpoint>
+<endpoint name="WXSS - Milwaukee - Wisconsin" description="city: Milwaukee - Wisconsin - resolution: 64 Kbps - description: Top 40" url="http://provisioning.streamtheworld.com/pls/WXSSFM.pls"></endpoint>
+<endpoint name="WXST - Charleston - South Carolina" description="city: Charleston - South Carolina - resolution: 33 Kbps - description: Urban Adult Contemporary" url="mms://wm-eon.vitalstreamcdn.com/eonwmss_vitalstream_com/Playlist.wsx?PPID=3852"></endpoint>
+<endpoint name="WZAT - Savannah - Georgia" description="city: Savannah - Georgia - resolution: 64 Kbps - description: Hot Adult Contemporary" url="http://live.cumulusstreaming.com/WZAT-FM"></endpoint>
+<endpoint name="WZFX - Fayetteville - North Carolina" description="city: Fayetteville - North Carolina - resolution: 24 Kbps - description: RnB/HipHop" url="mms://bdcast-beasley-whhd-fm.wm.llnwd.net/bdcast_beasley_wzfx-fm"></endpoint>
+<endpoint name="WZRR - Birmingham - Alabama" description="city: Birmingham - Alabama - resolution: 58 Kbps - description: Classic Rock" url="http://citadelcc-WZRR-FM.wm.llnwd.net/citadelcc_WZRR_FM"></endpoint>
+
+</section>
+
+
+
+
+
+
+
+
+
+<section description="" image="" name="Mexico">
+
+
+
+<endpoint name=" 3. RadioOro 94.9 - Puebla - FM  - Variety " description=" 3. RadioOro 94.9 - Puebla - FM  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xhteu.wma"></endpoint>
+<endpoint name=" 4. XECD Formula 1170 - Puebla - Internet Only  - News / Talk " description=" 4. XECD Formula 1170 - Puebla - Internet Only  - News / Talk  -  - website: undefined" url="http://radio.solidred.com.mx:7211/listen.pls"></endpoint>
+
+
+<endpoint name=" 3. .:RMEWEB:. - Cuautitlán Izcalli - Internet Only  - Rock " description=" 3. .:RMEWEB:. - Cuautitlán Izcalli - Internet Only  - Rock  -  - website: undefined" url="http://rmeweb.homedns.org:8000/listen.pls"></endpoint>
+<endpoint name=" 4. .e))) media - Puebla - Internet Only  - Indie " description=" 4. .e))) media - Puebla - Internet Only  - Indie  -  - website: undefined" url="mms://67.192.180.182:1105/wmtencoder/radioemedia.wmv"></endpoint>
+<endpoint name=" 5. 100.3 Radio Queretaro XHQUE - Querétaro - Internet Only  - Variety " description=" 5. 100.3 Radio Queretaro XHQUE - Querétaro - Internet Only  - Variety  -  - website: undefined" url="http://s4.viastreaming.net:7540/listen.pls"></endpoint>
+<endpoint name=" 6. 100.3 Stereo 100 - Hermosillo - FM  - Classic Hits  " description=" 6. 100.3 Stereo 100 - Hermosillo - FM  - Classic Hits   -  - website: undefined" url="http://www.stereo100.com.mx/envivo.asx"></endpoint>
+
+
+
+
+
+<endpoint name=" 12. 1010 XEHL Estadio W - Guadalajara - Internet Only  - Sports " description=" 12. 1010 XEHL Estadio W - Guadalajara - Internet Only  - Sports  -  - website: undefined" url="mms://63.99.225.140/estadiow"></endpoint>
+<endpoint name=" 13. 102.3 Estereo Vida XHMW - Nuevo Laredo - FM  - Hits " description=" 13. 102.3 Estereo Vida XHMW - Nuevo Laredo - FM  - Hits  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xhmw.wma"></endpoint>
+<endpoint name=" 14. 102.5 Rio Digital - San Luis Río Colorado - FM  - Variety " description=" 14. 102.5 Rio Digital - San Luis Río Colorado - FM  - Variety  -  - website: undefined" url="http://64.202.98.133:3070/listen.pls"></endpoint>
+
+<endpoint name=" 16. 103.7 La Mejor FM XHDGO - Durango - FM  - Grupero " description=" 16. 103.7 La Mejor FM XHDGO - Durango - FM  - Grupero  -  - website: undefined" url="http://ignacio.serverroom.us:9000/listen.pls"></endpoint>
+<endpoint name=" 17. 103.7 XHCME Crystal - Ecatepec - FM  - Variety " description=" 17. 103.7 XHCME Crystal - Ecatepec - FM  - Variety  -  - website: undefined" url="mms://www.spiri7.com:8080/wmtencoder/crystal_ecatepec_hi.wma"></endpoint>
+
+
+
+<endpoint name=" 21. 104.3 La Sonora de Nogales - Nogales - FM  - Variety " description=" 21. 104.3 La Sonora de Nogales - Nogales - FM  - Variety  -  - website: undefined" url="rtsp://148.243.98.2/broadcast/lasonora.rm"></endpoint>
+
+
+
+
+<endpoint name=" 26. 1050 La Poderosa XERIO - Ixtlán del Río - Internet Only  - Variety " description=" 26. 1050 La Poderosa XERIO - Ixtlán del Río - Internet Only  - Variety  -  - website: undefined" url="http://serversirac.servehttp.com:8004/listen.pls"></endpoint>
+
+
+<endpoint name=" 29. 107.5 Él y Ella XHCGT - Celaya - FM  - Variety " description=" 29. 107.5 Él y Ella XHCGT - Celaya - FM  - Variety  -  - website: undefined" url="http://elyella.radiocelaya.com:9325/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 34. 1100 Radio Alegría XEBV - Moroleón - Internet Only  - Variety " description=" 34. 1100 Radio Alegría XEBV - Moroleón - Internet Only  - Variety  -  - website: undefined" url="http://radio.mashter.com:8094/listen.pls"></endpoint>
+<endpoint name=" 35. 1100 Radio Cañon - Tlaltenango - AM  - News " description=" 35. 1100 Radio Cañon - Tlaltenango - AM  - News  -  - website: undefined" url="mms://stream.netro.ca/radiocanon"></endpoint>
+<endpoint name=" 36. 1110 La Rancherita XELEO - León - Internet Only  - Regional " description=" 36. 1110 La Rancherita XELEO - León - Internet Only  - Regional  -  - website: undefined" url="0"></endpoint>
+
+
+<endpoint name=" 39. 1120 Radio Oro La Tremenda XEZB - Oaxaca - AM  - Regional " description=" 39. 1120 Radio Oro La Tremenda XEZB - Oaxaca - AM  - Regional  -  - website: undefined" url="http://www.grupooro.com.mx/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 43. 1240 Radio Positiva XESI - Santiago Ixcuintla - Internet Only  - Variety " description=" 43. 1240 Radio Positiva XESI - Santiago Ixcuintla - Internet Only  - Variety  -  - website: undefined" url="http://208.53.131.12:7870/listen.pls"></endpoint>
+
+<endpoint name=" 45. 1270 Radio Universidad XEHD - Durango - Internet Only  - Talk " description=" 45. 1270 Radio Universidad XEHD - Durango - Internet Only  - Talk  -  - website: undefined" url="0"></endpoint>
+
+
+
+<endpoint name=" 49. 1310  XEHV - Veracruz - Internet Only  - Grupero " description=" 49. 1310  XEHV - Veracruz - Internet Only  - Grupero  -  - website: undefined" url="http://gpazos.centrocibernetico.com:21000/listen.pls"></endpoint>
+<endpoint name=" 50. 1310 XETIA Radio Vital - Guadalajara - Internet Only  - Variety " description=" 50. 1310 XETIA Radio Vital - Guadalajara - Internet Only  - Variety  -  - website: undefined" url="http://www.notisistema.com/vital.asx"></endpoint>
+
+<endpoint name=" 52. 1370 Mariachi Estéreo XEGNK - Nuevo Laredo - AM  - Folklore " description=" 52. 1370 Mariachi Estéreo XEGNK - Nuevo Laredo - AM  - Folklore  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xegnk.wma"></endpoint>
+<endpoint name=" 53. 1370 Radio Reyna XEJE - León - Internet Only  - Regional " description=" 53. 1370 Radio Reyna XEJE - León - Internet Only  - Regional  -  - website: undefined" url="http://208.53.131.12:7850/listen.pls"></endpoint>
+<endpoint name=" 54. 1390 Radio Fórmula RW XERW - León - AM  - News / Talk " description=" 54. 1390 Radio Fórmula RW XERW - León - AM  - News / Talk  -  - website: undefined" url="rtsp://148.243.98.2/broadcast/leon1a.rm"></endpoint>
+
+
+
+<endpoint name=" 58. 1510 La Nueva Radio - Monterrey - AM  - Classic Hits  " description=" 58. 1510 La Nueva Radio - Monterrey - AM  - Classic Hits   -  - website: undefined" url="http://www.radionuevoleon.com.mx/1listen.asx"></endpoint>
+<endpoint name=" 59. 1550 La Rancherita XENU - Nuevo Laredo - AM  - Variety " description=" 59. 1550 La Rancherita XENU - Nuevo Laredo - AM  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xenu.wma"></endpoint>
+
+
+<endpoint name=" 62. 24/7 Internacional - Guadalajara - Internet Only  - Christian " description=" 62. 24/7 Internacional - Guadalajara - Internet Only  - Christian  -  - website: undefined" url="http://radio.lldm.org/247.asx"></endpoint>
+<endpoint name=" 63. 40 Pricipales 92.1 FM - Mérida - FM  - Variety " description=" 63. 40 Pricipales 92.1 FM - Mérida - FM  - Variety  -  - website: undefined" url="http://208.43.0.154:8000/listen.pls"></endpoint>
+
+
+<endpoint name=" 66. 550 XEPL  La Super Estación - Cd. Cuauhtémoc - AM  - Variety " description=" 66. 550 XEPL  La Super Estación - Cd. Cuauhtémoc - AM  - Variety  -  - website: undefined" url="http://200.35.145.21:8070/listen.pls"></endpoint>
+<endpoint name=" 67. 570 Ultra XELQ - Morelia - Internet Only  - Rock / Pop " description=" 67. 570 Ultra XELQ - Morelia - Internet Only  - Rock / Pop  -  - website: undefined" url="http://webos.com.mx:8320/listen.pls"></endpoint>
+
+<endpoint name=" 69. 630 Doble X - Guaymas - AM  - Variety " description=" 69. 630 Doble X - Guaymas - AM  - Variety  -  - website: undefined" url="http://66.90.104.71:8100/listen.pls"></endpoint>
+
+
+<endpoint name=" 72. 680 La Grande XELG - León - Internet Only  - Variety " description=" 72. 680 La Grande XELG - León - Internet Only  - Variety  -  - website: undefined" url="http://radio.promosat.com:8100/listen.pls"></endpoint>
+<endpoint name=" 73. 690 La Madre de Todas - Fresnillo - AM  - Variety " description=" 73. 690 La Madre de Todas - Fresnillo - AM  - Variety  -  - website: undefined" url="http://189.200.246.135:690/listen.pls"></endpoint>
+
+
+<endpoint name=" 76. 77 Radio - Puebla - Internet Only  - Pop " description=" 76. 77 Radio - Puebla - Internet Only  - Pop  -  - website: undefined" url="http://lado2.com:9100/listen.pls"></endpoint>
+<endpoint name=" 77. 770 La Ranchera XEML - Apatzingán - Internet Only  - Regional " description=" 77. 770 La Ranchera XEML - Apatzingán - Internet Only  - Regional  -  - website: undefined" url="http://radio.promosat.com:8118/listen.pls"></endpoint>
+
+
+<endpoint name=" 80. 850 MaxiStar XEZI - Zacapu - AM  - Grupero " description=" 80. 850 MaxiStar XEZI - Zacapu - AM  - Grupero  -  - website: undefined" url="http://www.maxistarxezi.com/files/xezi.asx"></endpoint>
+
+
+
+<endpoint name=" 84. 880 880 AM - Torreón - Internet Only  - Variety " description=" 84. 880 880 AM - Torreón - Internet Only  - Variety  -  - website: undefined" url="http://www.7bd.com/streaming/grem.asx"></endpoint>
+<endpoint name=" 85. 89.3 Ultra - Mérida - FM  - Variety " description=" 85. 89.3 Ultra - Mérida - FM  - Variety  -  - website: undefined" url="0"></endpoint>
+<endpoint name=" 86. 89.7 Radio Gente XHSOC - Saltillo - Internet Only  - Talk " description=" 86. 89.7 Radio Gente XHSOC - Saltillo - Internet Only  - Talk  -  - website: undefined" url="http://67.159.45.136:7046/listen.pls"></endpoint>
+<endpoint name=" 87. 90.7 XHOY Señal 90 - Guadalajara - FM  - Adult Contemporany " description=" 87. 90.7 XHOY Señal 90 - Guadalajara - FM  - Adult Contemporany  -  - website: undefined" url="http://www.notisistema.com/envivo_senal90.m3u"></endpoint>
+<endpoint name=" 88. 91 DAT - Querétaro - FM  - Pop / Rock " description=" 88. 91 DAT - Querétaro - FM  - Pop / Rock  -  - website: undefined" url="http://stream01.chispa.com.mx:8000/91dat"></endpoint>
+<endpoint name=" 89. 91.5 Suprema 91 XHCRI - San Cristóbal de las Casas - Internet Only  - Variety " description=" 89. 91.5 Suprema 91 XHCRI - San Cristóbal de las Casas - Internet Only  - Variety  -  - website: undefined" url="mms://xhcri.serverroom.us/xhcri"></endpoint>
+<endpoint name=" 90. 91.5 XHGEO Ultra - Guadalajara - FM  - Adult Contemporany " description=" 90. 91.5 XHGEO Ultra - Guadalajara - FM  - Adult Contemporany  -  - website: undefined" url="http://www.ultra915.com/images/fm.asx"></endpoint>
+<endpoint name=" 91. 910 Radio Uno XEACN - León - Internet Only  - News / Talk " description=" 91. 910 Radio Uno XEACN - León - Internet Only  - News / Talk  -  - website: undefined" url="rtsp://148.243.98.2/broadcast/leon2a.rm"></endpoint>
+
+
+
+<endpoint name=" 95. 92.5 La Mejor - Monterrey - FM  - Hits " description=" 95. 92.5 La Mejor - Monterrey - FM  - Hits  -  - website: undefined" url="rtsp://streaming.mvsradio.com/broadcast/mejormty.rm"></endpoint>
+<endpoint name=" 96. 920 XELT  Radio María - Guadalajara - AM  - Religious " description=" 96. 920 XELT  Radio María - Guadalajara - AM  - Religious  -  - website: undefined" url="http://www.radiomariamexico.com/EscucharRadioMaria/RadioMaria.asx"></endpoint>
+
+<endpoint name=" 98. 93.9 XHSC  Imagen Guadalajara - Guadalajara - FM  - News " description=" 98. 93.9 XHSC  Imagen Guadalajara - Guadalajara - FM  - News  -  - website: undefined" url="http://www.imagen.com.mx/audioenvivo/"></endpoint>
+
+<endpoint name=" 100. 94.1 Mas 94 XHJE - Puebla - Internet Only  - Variety " description=" 100. 94.1 Mas 94 XHJE - Puebla - Internet Only  - Variety  -  - website: undefined" url="mms://74.54.28.242/mas94"></endpoint>
+
+
+
+<endpoint name=" 104. 94.9 Universo FM - Colima - FM  - Pop " description=" 104. 94.9 Universo FM - Colima - FM  - Pop  -  - website: undefined" url="rtsp://radio.ucol.mx/broadcast/musica.rm"></endpoint>
+<endpoint name=" 105. 940 XEHE  La Voz - Atotonilco - Internet Only  - Variety " description=" 105. 940 XEHE  La Voz - Atotonilco - Internet Only  - Variety  -  - website: undefined" url="http://216.245.220.82:3212/listen.pls"></endpoint>
+
+<endpoint name=" 107. 95.5 95 Cinco Sentidos - Torreón - Internet Only  - Variety " description=" 107. 95.5 95 Cinco Sentidos - Torreón - Internet Only  - Variety  -  - website: undefined" url="http://www.7bd.com/streaming/955.asx"></endpoint>
+
+<endpoint name=" 109. 950 La Poderosa XEZE - Santiago Ixcuintla - Internet Only  - Grupero " description=" 109. 950 La Poderosa XEZE - Santiago Ixcuintla - Internet Only  - Grupero  -  - website: undefined" url="http://serversirac.servehttp.com:8004/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 113. 96.3 XHFCT La Tropicosta - Tomatlán - FM  - Variety " description=" 113. 96.3 XHFCT La Tropicosta - Tomatlán - FM  - Variety  -  - website: undefined" url="http://216.245.220.82:3220/listen.pls"></endpoint>
+<endpoint name=" 114. 96.5 La nueva RN XHRN - Veracruz - Internet Only  - Variety " description=" 114. 96.5 La nueva RN XHRN - Veracruz - Internet Only  - Variety  -  - website: undefined" url="http://209.62.43.178:8400"></endpoint>
+
+<endpoint name=" 116. 97.1 La Mejor FM Estereo Gallito - Torreón - Internet Only  - Variety " description=" 116. 97.1 La Mejor FM Estereo Gallito - Torreón - Internet Only  - Variety  -  - website: undefined" url="http://www.7bd.com/streaming/971.asx"></endpoint>
+
+<endpoint name=" 118. 97.3 XHECA La Voladora Radio - Amecameca - FM  - Variety " description=" 118. 97.3 XHECA La Voladora Radio - Amecameca - FM  - Variety  -  - website: undefined" url="http://lavoladora.net/webcast.m3u"></endpoint>
+
+<endpoint name=" 120. 970 AM Stereo - Villahermosa - AM  - Variety " description=" 120. 970 AM Stereo - Villahermosa - AM  - Variety  -  - website: undefined" url="http://www.xevt.com:8000/listen.pls"></endpoint>
+<endpoint name=" 121. 98.3 XHPX Exa FM - Cd. Juárez - FM  - Hits " description=" 121. 98.3 XHPX Exa FM - Cd. Juárez - FM  - Hits  -  - website: undefined" url="rtsp://streaming.mvsradio.com/broadcast/elpaso.rm?rpurl=http://www.exafm.com/index.php?id=plazas&amp;element=61"></endpoint>
+<endpoint name=" 122. 98.7 XHMQ Ke buena - Querétaro - FM  - Regional " description=" 122. 98.7 XHMQ Ke buena - Querétaro - FM  - Regional  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xhmq.wma"></endpoint>
+<endpoint name=" 123. 99.3 Extasis Digital XHNK - Nuevo Laredo - FM  - Adult Contemporany " description=" 123. 99.3 Extasis Digital XHNK - Nuevo Laredo - FM  - Adult Contemporany  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xhnk.wma"></endpoint>
+<endpoint name=" 124. 99.7 Mar FM 99.7 XHPB - Veracruz - Internet Only  - Variety " description=" 124. 99.7 Mar FM 99.7 XHPB - Veracruz - Internet Only  - Variety  -  - website: undefined" url="http://209.62.43.178:8200"></endpoint>
+<endpoint name=" 125. 99.7 XHUAH Radio Universidad - Pachuca - FM  - College " description=" 125. 99.7 XHUAH Radio Universidad - Pachuca - FM  - College  -  - website: undefined" url="http://200.34.44.252:8002/listen.pls"></endpoint>
+<endpoint name=" 126. 99.7 XHUAX* Uni Radio (UAEM) - Toluca - Internet Only  - Variety " description=" 126. 99.7 XHUAX* Uni Radio (UAEM) - Toluca - Internet Only  - Variety  -  - website: undefined" url="mms://148.215.1.43/UniRadio"></endpoint>
+
+<endpoint name=" 128. 990 A Toda Maquina XEATM - Morelia - AM  - Variety " description=" 128. 990 A Toda Maquina XEATM - Morelia - AM  - Variety  -  - website: undefined" url="http://webos.com.mx:8320/listen.pls"></endpoint>
+
+<endpoint name=" 130. ABC Radio - Cd. de México - AM  - Variety " description=" 130. ABC Radio - Cd. de México - AM  - Variety  -  - website: undefined" url="rtsp://200.57.128.89/broadcast/abcradio.rm"></endpoint>
+<endpoint name=" 131. Accesaradio - Cd. Nezahualcoyotl - Internet Only  - Alternative " description=" 131. Accesaradio - Cd. Nezahualcoyotl - Internet Only  - Alternative  -  - website: undefined" url="http://www.accesaradio.com.mx/rep/accesaradio.m3u"></endpoint>
+<endpoint name=" 132. ACyKE radio - Cd. de México - FM  - Variety " description=" 132. ACyKE radio - Cd. de México - FM  - Variety  -  - website: undefined" url="http://www.acyke2006.com.mx/wmp.asx"></endpoint>
+<endpoint name=" 133. ADMM Metal Music Radio - Cd. de México - Internet Only  - Metal " description=" 133. ADMM Metal Music Radio - Cd. de México - Internet Only  - Metal  -  - website: undefined" url="http://www.icastcenter.com/cast/tunein.php/wendigo/playlist.asx"></endpoint>
+<endpoint name=" 134. Alpha Vision Radio - Cd. de México - Internet Only  - Variety " description=" 134. Alpha Vision Radio - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://67.159.45.136:8944/listen.pls"></endpoint>
+<endpoint name=" 135. Altera Radio - Jilotepec - Internet Only  - Variety " description=" 135. Altera Radio - Jilotepec - Internet Only  - Variety  -  - website: undefined" url="http://www.grupodecibel.com:8000/listen.pls"></endpoint>
+
+
+<endpoint name=" 138. Animepolis - Cd. de México - FM  - Variety " description=" 138. Animepolis - Cd. de México - FM  - Variety  -  - website: undefined" url="http://87.117.201.38:7117/listen.pls"></endpoint>
+<endpoint name=" 139. ANIMEX RADIO FERVAX - Puebla - Internet Only  - Anime " description=" 139. ANIMEX RADIO FERVAX - Puebla - Internet Only  - Anime  -  - website: undefined" url="http://83.142.230.129:9705/listen.pls"></endpoint>
+
+<endpoint name=" 141. Antena 760 AM - Chihuahua - AM  - News / Talk " description=" 141. Antena 760 AM - Chihuahua - AM  - News / Talk  -  - website: undefined" url="http://76.73.9.194:7140/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 145. Atmosfera19 - Tuxpan, Ver. - Internet Only  - Variety " description=" 145. Atmosfera19 - Tuxpan, Ver. - Internet Only  - Variety  -  - website: undefined" url="http://www.atmosfera19.com.mx/encabezado.html"></endpoint>
+<endpoint name=" 146. Attom Radio - Cd. de México - Internet Only  - Electronic / Techno  House / Trance " description=" 146. Attom Radio - Cd. de México - Internet Only  - Electronic / Techno  House / Trance  -  - website: undefined" url="http://grupoelectrotopradiomexico.com/cast/tunein.php/attomradio/playlist.asx"></endpoint>
+<endpoint name=" 147. AudioFutura - Cd. de México - Internet Only  - Variety " description=" 147. AudioFutura - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://audiofutura.punkscorp.net:8036/listen.pls"></endpoint>
+
+
+<endpoint name=" 150. Axis Radio Guadalajara - Guadalajara - Internet Only  - Variety " description=" 150. Axis Radio Guadalajara - Guadalajara - Internet Only  - Variety  -  - website: undefined" url="http://208.53.190.146:8704/listen.pls"></endpoint>
+<endpoint name=" 151. Back Generation's Radio México - Cd. de México - Internet Only  - Italo Disco / High Energy / Pop Inglés 80's y 90's / Musica Disco / Dance 90's / Rock en Inglés 80's y 90's / Eurobeat " description=" 151. Back Generation's Radio México - Cd. de México - Internet Only  - Italo Disco / High Energy / Pop Inglés 80's y 90's / Musica Disco / Dance 90's / Rock en Inglés 80's y 90's / Eurobeat  -  - website: undefined" url="http://grupoelectrotopradiomexico.com/cast/tunein.php/backgene/playlist.asx"></endpoint>
+
+
+
+
+
+<endpoint name=" 157. Blazin 98.9 XHMORE - Tijuana - FM  - Hip Hop " description=" 157. Blazin 98.9 XHMORE - Tijuana - FM  - Hip Hop  -  - website: undefined" url="mms://wm-live.abacast.com/blazin.blazin989-32"></endpoint>
+
+
+
+
+<endpoint name=" 162. Cabo Mil 96.3 FM - Los Cabos - FM  - Variety " description=" 162. Cabo Mil 96.3 FM - Los Cabos - FM  - Variety  -  - website: undefined" url="http://cabomil.fabredns.net:4600/listen.pls"></endpoint>
+<endpoint name=" 163. Cabo Mil  - San José del Cabo - FM  - Latin Hits " description=" 163. Cabo Mil  - San José del Cabo - FM  - Latin Hits  -  - website: undefined" url="http://cabomil.fabredns.net:4600/listen.pls"></endpoint>
+
+<endpoint name=" 165. Cambio 1440 - Cd. de México - AM  - Variety " description=" 165. Cambio 1440 - Cd. de México - AM  - Variety  -  - website: undefined" url="mms://www.spiri7.com:8080/wmtencoder/1440.wma"></endpoint>
+<endpoint name=" 166. Canal 25 Edusat Radio - Cd. de México - Internet Only  - Variety " description=" 166. Canal 25 Edusat Radio - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="mms://168.255.107.6/radioedu"></endpoint>
+<endpoint name=" 167. Capital Máxima - Chilpancingo - Internet Only  - Variety " description=" 167. Capital Máxima - Chilpancingo - Internet Only  - Variety  -  - website: undefined" url="mms://gruporadiocapital.com.mx/xechh"></endpoint>
+<endpoint name=" 168. Casa de Oración Radio - Guadalajara - Internet Only  - Christian " description=" 168. Casa de Oración Radio - Guadalajara - Internet Only  - Christian  -  - website: undefined" url="mms://wm4.spacialnet.com/casadeoracionDC88320"></endpoint>
+<endpoint name=" 169. CBX Radio - Miahuatlán - Internet Only  - Grupera y Romántica
+ " description=" 169. CBX Radio - Miahuatlán - Internet Only  - Grupera y Romántica
+  -  - website: undefined" url="http://85.17.201.194/tunein.php/cbxradio/playlist.asx"></endpoint>
+
+<endpoint name=" 171. Charolastras Radio - Queretaro - Internet Only  - Variety " description=" 171. Charolastras Radio - Queretaro - Internet Only  - Variety  -  - website: undefined" url="http://207.182.149.180:8020/listen.pls"></endpoint>
+<endpoint name=" 172. Chilangaradio - Cd. de México - Internet Only  - Alternative " description=" 172. Chilangaradio - Cd. de México - Internet Only  - Alternative  -  - website: undefined" url="http://208.43.218.127:8308/listen.pls"></endpoint>
+
+<endpoint name=" 174. Citrobyte Stereo La Radio sin Censura - Álamo - Internet Only  - Variety " description=" 174. Citrobyte Stereo La Radio sin Censura - Álamo - Internet Only  - Variety  -  - website: undefined" url="0"></endpoint>
+
+
+<endpoint name=" 177. Código DF - Cd. de México - Internet Only  - Variety " description=" 177. Código DF - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="mms://187.141.18.206/wmtencoder/cultura.wmv"></endpoint>
+<endpoint name=" 178. Cofiradio.com - Guadalajara - Internet Only  - Adult Contemporany " description=" 178. Cofiradio.com - Guadalajara - Internet Only  - Adult Contemporany  -  - website: undefined" url="http://cofiradio.com/reproductores/listen.asx"></endpoint>
+
+<endpoint name=" 180. Color 96 - Tampico - FM  - Variety " description=" 180. Color 96 - Tampico - FM  - Variety  -  - website: undefined" url="mms://color96.yupimobil.net/envivowm/digitales/color96.wma"></endpoint>
+
+<endpoint name=" 182. Colorin Colorradio - Cd. de México - Internet Only  - Variety " description=" 182. Colorin Colorradio - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="mms://200.57.91.181/wmtencoder/xeur.wma"></endpoint>
+<endpoint name=" 183. Concepto Radial - Cd. de México - FM  - College " description=" 183. Concepto Radial - Cd. de México - FM  - College  -  - website: undefined" url="rtsp://67.192.180.182/broadcast/conceptoradial.rm"></endpoint>
+
+
+
+
+
+
+
+
+<endpoint name=" 192. Crew Digital - Cd. de México - Internet Only  - Variety " description=" 192. Crew Digital - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://www.crewdigital.net/reproductores/wmp.wpl"></endpoint>
+<endpoint name=" 193. Crossfader.net Undernet Radio - Cd. de México - FM  - Electronic " description=" 193. Crossfader.net Undernet Radio - Cd. de México - FM  - Electronic  -  - website: undefined" url="http://crossfader.net:8000/listen.pls"></endpoint>
+<endpoint name=" 194. Cuarto Nivel Radio México - Cd. de México - Internet Only  - Latin Rock / Latin Pop / Ska " description=" 194. Cuarto Nivel Radio México - Cd. de México - Internet Only  - Latin Rock / Latin Pop / Ska  -  - website: undefined" url="http://grupoelectrotopradiomexico.com/cast/tunein.php/cuartonivel/playlist.asx"></endpoint>
+<endpoint name=" 195. Cultural FM 107.9 - Tepalcatepec - FM  - Variety " description=" 195. Cultural FM 107.9 - Tepalcatepec - FM  - Variety  -  - website: undefined" url="0"></endpoint>
+<endpoint name=" 196. CulturalFM - Tepalcatepec - FM  - Variety " description=" 196. CulturalFM - Tepalcatepec - FM  - Variety  -  - website: undefined" url="http://207.182.149.180:8090/listen.pls"></endpoint>
+<endpoint name=" 197. D-L La Fuerza de la Palabra - Hermosillo - FM  - Variety " description=" 197. D-L La Fuerza de la Palabra - Hermosillo - FM  - Variety  -  - website: undefined" url="http://audiovirtual.net:8008/listen.pls"></endpoint>
+
+<endpoint name=" 199. Dalemorelos - Cuernavaca - Internet Only  - Pop " description=" 199. Dalemorelos - Cuernavaca - Internet Only  - Pop  -  - website: undefined" url="http://www.dalemorelos.com/dalemorelos.asx"></endpoint>
+<endpoint name=" 200. Damechance.com - Zacatelco - FM  - Variety " description=" 200. Damechance.com - Zacatelco - FM  - Variety  -  - website: undefined" url="http://damechance.com/listen.asx"></endpoint>
+<endpoint name=" 201. Danini Jazz - Cerro Azul - Internet Only  - Jazz " description=" 201. Danini Jazz - Cerro Azul - Internet Only  - Jazz  -  - website: undefined" url="http://208.53.131.169:7240/listen.pls"></endpoint>
+<endpoint name=" 202. Dejame Dormir - Cd. de México - Internet Only  - Variety " description=" 202. Dejame Dormir - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://www.dejamedormir.com/ddr.asx"></endpoint>
+
+
+
+<endpoint name=" 206. Despertando Tus Sentidos - Villahermosa - FM  - Variety " description=" 206. Despertando Tus Sentidos - Villahermosa - FM  - Variety  -  - website: undefined" url="rtsp://201.116.10.228:80/broadcast/radio949fm.rm"></endpoint>
+
+
+
+
+<endpoint name=" 211. Digitalmusick.com - Cd. de México - Internet Only  - Variety / 90's / 80's " description=" 211. Digitalmusick.com - Cd. de México - Internet Only  - Variety / 90's / 80's  -  - website: undefined" url="http://digitalmusick.com:8090/listen.pls"></endpoint>
+<endpoint name=" 212. Dual Estéreo 92.7 FM - La Piedad - AM  - Variety " description=" 212. Dual Estéreo 92.7 FM - La Piedad - AM  - Variety  -  - website: undefined" url="http://www.depollos.com/radio/XELP.asx"></endpoint>
+<endpoint name=" 213. Earwax Fm - Cd. de México - Internet Only  - Alternative Rock " description=" 213. Earwax Fm - Cd. de México - Internet Only  - Alternative Rock  -  - website: undefined" url="http://74.222.4.101:7110/listen.pls"></endpoint>
+
+
+<endpoint name=" 216. El Coro de babel - Morelia - Internet Only  - Variety " description=" 216. El Coro de babel - Morelia - Internet Only  - Variety  -  - website: undefined" url="http://72.236.163.144:9725/listen.pls"></endpoint>
+<endpoint name=" 217. El Descafeinado.com - Guadalajara - FM  - Alternative " description=" 217. El Descafeinado.com - Guadalajara - FM  - Alternative  -  - website: undefined" url="http://eldescafeinado.com/playlist/listen.ram"></endpoint>
+
+
+
+<endpoint name=" 221. Electroforever - Cd. de México - Internet Only  - Electronic " description=" 221. Electroforever - Cd. de México - Internet Only  - Electronic  -  - website: undefined" url="http://208.43.0.154:8062/listen.pls"></endpoint>
+<endpoint name=" 222. ElectroTop Radio México - Cd. de México - Internet Only  - Italo Disco / High Energy / Disco Musis / Techno " description=" 222. ElectroTop Radio México - Cd. de México - Internet Only  - Italo Disco / High Energy / Disco Musis / Techno  -  - website: undefined" url="http://grupoelectrotopradiomexico.com/cast/tunein.php/electrotop/playlist.ram"></endpoint>
+
+
+<endpoint name=" 225. Elemento Radio - Cd. de México - FM  - Variety " description=" 225. Elemento Radio - Cd. de México - FM  - Variety  -  - website: undefined" url="http://www.elementoradio.com/listen.wax"></endpoint>
+<endpoint name=" 226. Ella 1120 - Puebla - AM  - Variety " description=" 226. Ella 1120 - Puebla - AM  - Variety  -  - website: undefined" url="mms://74.54.28.242/formula1120"></endpoint>
+
+
+<endpoint name=" 229. Entorno a la Radio - Matamoros - Internet Only  - Pop " description=" 229. Entorno a la Radio - Matamoros - Internet Only  - Pop  -  - website: undefined" url="http://www.entornoalaradio.com/modules/mod_shoutcastextended/listen.ram"></endpoint>
+
+
+<endpoint name=" 232. Escaparate XEUR - Cd. de México - AM  - Variety " description=" 232. Escaparate XEUR - Cd. de México - AM  - Variety  -  - website: undefined" url="mms://200.57.91.181/wmtencoder/xeur.wma"></endpoint>
+
+
+<endpoint name=" 235. ESPN 800 XESPN - Mexicali - AM  - Sports " description=" 235. ESPN 800 XESPN - Mexicali - AM  - Sports  -  - website: undefined" url="http://audio.espnradio800.com:8000/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 240. Estereo Roy 92.9 FM - Plateros - FM  - Variety " description=" 240. Estereo Roy 92.9 FM - Plateros - FM  - Variety  -  - website: undefined" url="http://www.multigruporadio.com/modules/mod_shoutcastextended/listen.ram"></endpoint>
+<endpoint name=" 241. Estereo Vida - Mexicali - FM  - Variety " description=" 241. Estereo Vida - Mexicali - FM  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xhmc.wma"></endpoint>
+
+<endpoint name=" 243. Estereosol - Atoyac de Álvarez - FM  - Variety " description=" 243. Estereosol - Atoyac de Álvarez - FM  - Variety  -  - website: undefined" url="http://radio.solidred.com.mx:7901/listen.pls"></endpoint>
+
+
+
+
+
+
+<endpoint name=" 250. Exa 104.9 - Cd. de México - FM  - Top 40 " description=" 250. Exa 104.9 - Cd. de México - FM  - Top 40  -  - website: undefined" url="rtsp://streaming.mvsradio.com/broadcast/exa.rm?rpurl=http://www.exafm.com.mx"></endpoint>
+<endpoint name=" 251. EXA 91.3 FM - Córdoba - FM  - Pop Rock " description=" 251. EXA 91.3 FM - Córdoba - FM  - Pop Rock  -  - website: undefined" url="http://208.53.131.12:7250/listen.pls"></endpoint>
+
+<endpoint name=" 253. EXA Digital 104.5 - Celaya - FM  - Top 40 " description=" 253. EXA Digital 104.5 - Celaya - FM  - Top 40  -  - website: undefined" url="http://66.90.104.82:8820/listen.pls"></endpoint>
+
+
+<endpoint name=" 256. Exa FM - Fresnillo - FM  - Top 40 " description=" 256. Exa FM - Fresnillo - FM  - Top 40  -  - website: undefined" url="http://189.200.246.130:1005/listen.pls"></endpoint>
+<endpoint name=" 257. Exa FM + 1070 AM - Cd. del Carmen - AM  - Hits " description=" 257. Exa FM + 1070 AM - Cd. del Carmen - AM  - Hits  -  - website: undefined" url="http://radioexa.islavirtual.com.mx:8500/listen.pls"></endpoint>
+
+<endpoint name=" 259. Exa FM 100.3 - Campeche - FM  - Pop / Rock " description=" 259. Exa FM 100.3 - Campeche - FM  - Pop / Rock  -  - website: undefined" url="http://exafm.dyndns.org:8000/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 264. Exa FM XHEXA-FM - Monterrey - FM  - Hits " description=" 264. Exa FM XHEXA-FM - Monterrey - FM  - Hits  -  - website: undefined" url="rtsp://streaming.mvsradio.com/broadcast/examty.rm?rpurl=http://www.exafm.com.mx"></endpoint>
+<endpoint name=" 265. Exa FM  - Guadalajara - FM  - Pop " description=" 265. Exa FM  - Guadalajara - FM  - Pop  -  - website: undefined" url="rtsp://streaming.mvsradio.com/broadcast/exa-gdl.rm?rpurl=http://www.exafm.com.mx"></endpoint>
+<endpoint name=" 266. Exacto Radio - Cd. de México - Variety " description=" 266. Exacto Radio - Cd. de México - Variety  -  - website: undefined" url="http://208.43.0.154:8024/listen.pls"></endpoint>
+<endpoint name=" 267. Expansión Radio - Huejotzingo - FM  - Variety " description=" 267. Expansión Radio - Huejotzingo - FM  - Variety  -  - website: undefined" url="http://200.6.157.20:8311/listen.pls"></endpoint>
+<endpoint name=" 268. Expresión Acapulco 89.1 FM - Acapulco - FM  - Variety " description=" 268. Expresión Acapulco 89.1 FM - Acapulco - FM  - Variety  -  - website: undefined" url="http://expresionacapulco.com:14000/listen.pls"></endpoint>
+<endpoint name=" 269. Expresión Acapulco 89.1 FM - Acapulco - FM  - Variety " description=" 269. Expresión Acapulco 89.1 FM - Acapulco - FM  - Variety  -  - website: undefined" url="http://expresionacapulco.com:14000/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 273. Extasis Digital - Tuxtla Gutiérrez - AM  - Variety " description=" 273. Extasis Digital - Tuxtla Gutiérrez - AM  - Variety  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xerpr.wma"></endpoint>
+
+<endpoint name=" 275. Feeling Radio Online FM - Ensenada - Internet Only  - Romantic " description=" 275. Feeling Radio Online FM - Ensenada - Internet Only  - Romantic  -  - website: undefined" url="http://ensenadahoy.com:18150/listen.pls"></endpoint>
+
+
+<endpoint name=" 278. Fiesta Mexicana 92.3 - Morelia - FM  - Grupero " description=" 278. Fiesta Mexicana 92.3 - Morelia - FM  - Grupero  -  - website: undefined" url="http://streaming.promomedios.com:8004/listen.pls"></endpoint>
+<endpoint name=" 279. FM Cancún - Cancún - Internet Only  - Variety " description=" 279. FM Cancún - Cancún - Internet Only  - Variety  -  - website: undefined" url="http://shoutcast.xhells.net/tunein.php/fmcancun/playlist.asx"></endpoint>
+<endpoint name=" 280. FM Stereo Ticul 107.7 FM - Ticul - FM  - News / Talk " description=" 280. FM Stereo Ticul 107.7 FM - Ticul - FM  - News / Talk  -  - website: undefined" url="http://radiomundo.2mydns.com:8026/listen.pls"></endpoint>
+
+
+<endpoint name=" 283. Formula 1170 - Puebla - AM  - News / Talk " description=" 283. Formula 1170 - Puebla - AM  - News / Talk  -  - website: undefined" url="http://radio.solidred.com.mx:7211/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 288. Fraktal Radio - Cd. de México - Internet Only  - Alternative " description=" 288. Fraktal Radio - Cd. de México - Internet Only  - Alternative  -  - website: undefined" url="http://www.fraktalradio.com/fraktal.asx"></endpoint>
+<endpoint name=" 289. Frecuencia CEM - Cd. de México - Country " description=" 289. Frecuencia CEM - Cd. de México - Country  -  - website: undefined" url="rtsp://148.241.32.67/broadcast/frecuencia.rm"></endpoint>
+
+<endpoint name=" 291. Frecuencia Real - Xalapa - Internet Only  - Variety " description=" 291. Frecuencia Real - Xalapa - Internet Only  - Variety  -  - website: undefined" url="http://www.frecuenciareal.com/files/lista/Frecuencia%2520Real%2520Radio.wmx"></endpoint>
+
+
+<endpoint name=" 294. Frecuencia Toxica - Guadalajara - Internet Only  - Variety " description=" 294. Frecuencia Toxica - Guadalajara - Internet Only  - Variety  -  - website: undefined" url="http://207.182.149.180:8075/listen.pls"></endpoint>
+
+<endpoint name=" 296. Fuerza Latina XHMUG - Mexicali - FM  - Grupero " description=" 296. Fuerza Latina XHMUG - Mexicali - FM  - Grupero  -  - website: undefined" url="http://live.str3am.com:3080/listen.pls"></endpoint>
+<endpoint name=" 297. Galería Radio - Cd. de México - Internet Only  - Hits " description=" 297. Galería Radio - Cd. de México - Internet Only  - Hits  -  - website: undefined" url="http://www.galeriaradio.com/radio/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 302. Global Radio - Cd. de México - Internet Only  - Variety " description=" 302. Global Radio - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://75.126.195.251:8227/listen.pls"></endpoint>
+
+<endpoint name=" 304. Gramil Radio - Puerto Escondido - Internet Only  - Variety " description=" 304. Gramil Radio - Puerto Escondido - Internet Only  - Variety  -  - website: undefined" url="http://207.182.149.180:8095/listen.pls"></endpoint>
+<endpoint name=" 305. Grupo Radio Rave Comunicaciones - Cd. de México - Internet Only  - Variety " description=" 305. Grupo Radio Rave Comunicaciones - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://rrrave.mxsonica.com:8072/listen.pls"></endpoint>
+<endpoint name=" 306. GuanatozFM - Puerto Vallarta - Internet Only  - Pop / Rock / Baladas " description=" 306. GuanatozFM - Puerto Vallarta - Internet Only  - Pop / Rock / Baladas  -  - website: undefined" url="http://75.126.43.243:8550/listen.pls"></endpoint>
+<endpoint name=" 307. GuanatozFM - Guadalajara - Internet Only  - Pop / Rock / Baladas " description=" 307. GuanatozFM - Guadalajara - Internet Only  - Pop / Rock / Baladas  -  - website: undefined" url="http://75.126.43.243:8550/listen.pls"></endpoint>
+
+<endpoint name=" 309. Hambre! Radio - Puebla - Internet Only  - Alternative " description=" 309. Hambre! Radio - Puebla - Internet Only  - Alternative  -  - website: undefined" url="http://hambreradio.net:8200/listen.pls"></endpoint>
+<endpoint name=" 310. Hibrido Web Radio - Cd. de México - FM  - Variety " description=" 310. Hibrido Web Radio - Cd. de México - FM  - Variety  -  - website: undefined" url="http://listen.radionomy.com/hibrido.m3u"></endpoint>
+
+
+
+
+<endpoint name=" 315. Ibero León Radio - León - Internet Only  - Classics " description=" 315. Ibero León Radio - León - Internet Only  - Classics  -  - website: undefined" url="http://148.243.255.9:8082/listen.pls"></endpoint>
+<endpoint name=" 316. Ibero León Radio - León - Internet Only  - Variety " description=" 316. Ibero León Radio - León - Internet Only  - Variety  -  - website: undefined" url="http://video.leon.uia.mx:8081/listen.pls"></endpoint>
+<endpoint name=" 317. Iguala-net.com - Iguala - Internet Only  - Variety " description=" 317. Iguala-net.com - Iguala - Internet Only  - Variety  -  - website: undefined" url="http://216.14.126.190:8002/listen.pls"></endpoint>
+
+
+
+
+
+
+
+<endpoint name=" 325. Inframundo Hotel - Cd. de México - Internet Only  - Rock / Pop / Electronic " description=" 325. Inframundo Hotel - Cd. de México - Internet Only  - Rock / Pop / Electronic  -  - website: undefined" url="http://energy14.egihosting.com:6907/listen.pls"></endpoint>
+<endpoint name=" 326. InnovacionesMx - Cozumel - Internet Only  - Variety " description=" 326. InnovacionesMx - Cozumel - Internet Only  - Variety  -  - website: undefined" url="http://innovacionesmx.com:8003/listen.pls"></endpoint>
+<endpoint name=" 327. Insanes-Radio - Cd. de México - Internet Only  - Variety " description=" 327. Insanes-Radio - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://tu-panel.com:8162/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 331. InVox Radio - Puerto Vallarta - Internet Only  - Variety " description=" 331. InVox Radio - Puerto Vallarta - Internet Only  - Variety  -  - website: undefined" url="http://listen.radionomy.com/invox.m3u"></endpoint>
+<endpoint name=" 332. JD Inside - Cd. de México - Internet Only  - 80's / 90's " description=" 332. JD Inside - Cd. de México - Internet Only  - 80's / 90's  -  - website: undefined" url="http://www.panel-streaming.com/tunein.php/jdinside/playlist.asx"></endpoint>
+
+<endpoint name=" 334. Ke buena - San Luis Potosí - AM  - Variety " description=" 334. Ke buena - San Luis Potosí - AM  - Variety  -  - website: undefined" url="http://208.43.218.127:8060/listen.pls"></endpoint>
+<endpoint name=" 335. Ke buena - Mazatlán - FM  - Variety " description=" 335. Ke buena - Mazatlán - FM  - Variety  -  - website: undefined" url="mms://200.57.91.183/wmtencoder/xeblxhbl.wma"></endpoint>
+
+<endpoint name=" 337. Ke Buena 100.1 - Montemorelos - FM  - Regional " description=" 337. Ke Buena 100.1 - Montemorelos - FM  - Regional  -  - website: undefined" url="http://216.245.220.82:3218/listen.pls"></endpoint>
+
+
+<endpoint name=" 340. Ke Buena 93.7 FM - Mérida - FM  - Oldies " description=" 340. Ke Buena 93.7 FM - Mérida - FM  - Oldies  -  - website: undefined" url="http://208.43.0.154:8002/listen.pls"></endpoint>
+<endpoint name=" 341. Ke Buena FM - Tuxpan, Ver. - FM  - Variety " description=" 341. Ke Buena FM - Tuxpan, Ver. - FM  - Variety  -  - website: undefined" url="0"></endpoint>
+
+
+
+
+
+
+
+<endpoint name=" 349. Kiss XECAM-AM - Campeche - AM  - Hits " description=" 349. Kiss XECAM-AM - Campeche - AM  - Hits  -  - website: undefined" url="http://kissfm.2mydns.com:8018/listen.pls"></endpoint>
+
+<endpoint name=" 351. KSB Radio - Cd. de México - Internet Only  - Variety " description=" 351. KSB Radio - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://76.73.1.146:8018/listen.pls"></endpoint>
+
+
+<endpoint name=" 354. La 13 1290 - Cd. de México - AM  - Talk " description=" 354. La 13 1290 - Cd. de México - AM  - Talk  -  - website: undefined" url="http://radiotrece.serverroom.us:5884/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 358. La buena onda 120 FM - Guadalajara - FM  - Romantic " description=" 358. La buena onda 120 FM - Guadalajara - FM  - Romantic  -  - website: undefined" url="http://www.notisistema.com/buenaonda.asx"></endpoint>
+
+
+
+
+
+
+<endpoint name=" 365. La Campirana 1470 AM - Irapuato - FM  - Regional " description=" 365. La Campirana 1470 AM - Irapuato - FM  - Regional  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xeirg.wma"></endpoint>
+<endpoint name=" 366. La Candente 96.5 FM - Cd. de México - Internet Only  - Grupero " description=" 366. La Candente 96.5 FM - Cd. de México - Internet Only  - Grupero  -  - website: undefined" url="http://www.lacandente.org/listen_real.ram"></endpoint>
+
+
+<endpoint name=" 369. La Comadre - El Grullo - Internet Only  - Latin Hits " description=" 369. La Comadre - El Grullo - Internet Only  - Latin Hits  -  - website: undefined" url="http://radio.mashter.com:8072/listen.pls"></endpoint>
+
+
+<endpoint name=" 372. La Dinámica - Mexicali - FM  - Variety " description=" 372. La Dinámica - Mexicali - FM  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xesuxhsu.wma"></endpoint>
+<endpoint name=" 373. La Energia - Guadalajara - Internet Only  - Adult Contemporany " description=" 373. La Energia - Guadalajara - Internet Only  - Adult Contemporany  -  - website: undefined" url="http://208.53.190.146:9010/listen.pls"></endpoint>
+
+
+<endpoint name=" 376. La Explosiva 590 - Puerto Vallarta - AM  - Grupero " description=" 376. La Explosiva 590 - Puerto Vallarta - AM  - Grupero  -  - website: undefined" url="http://radio2.wnsol.net:9400/listen.pls"></endpoint>
+<endpoint name=" 377. La HR - Puebla - AM  - Variety " description=" 377. La HR - Puebla - AM  - Variety  -  - website: undefined" url="mms://74.54.28.242/lahr"></endpoint>
+<endpoint name=" 378. La Huasteca - Tampico - AM  - Variety " description=" 378. La Huasteca - Tampico - AM  - Variety  -  - website: undefined" url="mms://200.57.91.183/wmtencoder/xeola.wma"></endpoint>
+<endpoint name=" 379. La Imagen de la Radio 970 AM - Villahermosa - AM  - Variety " description=" 379. La Imagen de la Radio 970 AM - Villahermosa - AM  - Variety  -  - website: undefined" url="http://www.xevt.com:8000/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 384. La K Buena - Nuevo Laredo - FM  - Grupero " description=" 384. La K Buena - Nuevo Laredo - FM  - Grupero  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xeasxhas.wma"></endpoint>
+
+
+<endpoint name=" 387. La Kallejera - Altar - Internet Only  - Grupero " description=" 387. La Kallejera - Altar - Internet Only  - Grupero  -  - website: undefined" url="http://216.245.192.251:8201/listen.pls"></endpoint>
+
+
+<endpoint name=" 390. La Ke Buena - Coatzacoalcos - AM  - Grupero " description=" 390. La Ke Buena - Coatzacoalcos - AM  - Grupero  -  - website: undefined" url="mms://200.57.91.181/wmtencoder/xeafa.wma"></endpoint>
+
+
+
+
+
+
+<endpoint name=" 397. La más Picuda - Mexicali - AM  - Variety " description=" 397. La más Picuda - Mexicali - AM  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xezf.wma"></endpoint>
+
+
+
+
+<endpoint name=" 402. La mejor 1260 AM - El Grullo - AM  - Grupero " description=" 402. La mejor 1260 AM - El Grullo - AM  - Grupero  -  - website: undefined" url="http://78.129.231.93:12676/listen.pls"></endpoint>
+<endpoint name=" 403. La Mejor 97.7 FM - Tijuana - FM  - Grupero " description=" 403. La Mejor 97.7 FM - Tijuana - FM  - Grupero  -  - website: undefined" url="rtsp://streaming.mvsradio.com/broadcast/tijuana.rm?rpurl=http://www.lamejor.com."></endpoint>
+<endpoint name=" 404. La Mejor 970 AM HD - Caborca - AM  - Regional " description=" 404. La Mejor 970 AM HD - Caborca - AM  - Regional  -  - website: undefined" url="http://208.53.131.169:7010/listen.pls"></endpoint>
+
+<endpoint name=" 406. La Mejor FM - Irapuato - FM  - Country " description=" 406. La Mejor FM - Irapuato - FM  - Country  -  - website: undefined" url="rtsp://streaming.mvsradio.com/broadcast/99.9.rm?"></endpoint>
+
+
+<endpoint name=" 409. La Mejor FM 95.5 - Guadalajara - FM  - Banda " description=" 409. La Mejor FM 95.5 - Guadalajara - FM  - Banda  -  - website: undefined" url="rtsp://streaming.mvsradio.com/broadcast/mejor-gdl.rm?rpurl=http://www."></endpoint>
+<endpoint name=" 410. La Mejor XHENA 103.3 - Mexicali - FM  - Grupero " description=" 410. La Mejor XHENA 103.3 - Mexicali - FM  - Grupero  -  - website: undefined" url="rtsp://streaming.mvsradio.com/broadcast/mejormxl.rm?rpurl=http://www.lamejor.com"></endpoint>
+
+<endpoint name=" 412. La Mera Mera - San Luis Potosí - FM  - Grupera " description=" 412. La Mera Mera - San Luis Potosí - FM  - Grupera  -  - website: undefined" url="http://pointers.audiovideoweb.com/asxfiles-live/1c2winlive6629.asx"></endpoint>
+
+
+<endpoint name=" 415. La Mexicana - Zapopan - FM
+  - Variety " description=" 415. La Mexicana - Zapopan - FM
+  - Variety  -  - website: undefined" url="http://www.lamexicana.com.mx/lamexicana.m3u"></endpoint>
+<endpoint name=" 416. La Mexicana 920 AM - Lázaro Cárdenas - AM  - Variety " description=" 416. La Mexicana 920 AM - Lázaro Cárdenas - AM  - Variety  -  - website: undefined" url="0"></endpoint>
+<endpoint name=" 417. La MeXiCaNRaDiO - Cd. Nezahualcoyotl - Internet Only  - Variety " description=" 417. La MeXiCaNRaDiO - Cd. Nezahualcoyotl - Internet Only  - Variety  -  - website: undefined" url="http://85.17.222.39/tunein.php/mexicanradio/playlist.asx"></endpoint>
+
+<endpoint name=" 419. La Norteñita - Los Mochis - AM  - Grupero " description=" 419. La Norteñita - Los Mochis - AM  - Grupero  -  - website: undefined" url="http://174.142.98.249:8004/stream"></endpoint>
+
+
+
+<endpoint name=" 423. La Nueva Azul - Tuxpan, Ver. - FM  - Variety " description=" 423. La Nueva Azul - Tuxpan, Ver. - FM  - Variety  -  - website: undefined" url="mms://200.57.91.184/wmtencoder/xetvrxhtvr.wma"></endpoint>
+<endpoint name=" 424. La Nueva Radio - Pinotepa Nacional - Internet Only  - Variety " description=" 424. La Nueva Radio - Pinotepa Nacional - Internet Only  - Variety  -  - website: undefined" url="http://s3.myradiostream.com:13600/listen.pls"></endpoint>
+
+
+<endpoint name=" 427. La Otra Online - El Grullo - Internet Only  - Variety " description=" 427. La Otra Online - El Grullo - Internet Only  - Variety  -  - website: undefined" url="http://stream.zuperdns.net:9000/listen.pls"></endpoint>
+<endpoint name=" 428. LA PAJARRACA RADIO - Guadalajara - Internet Only  - Rock " description=" 428. LA PAJARRACA RADIO - Guadalajara - Internet Only  - Rock  -  - website: undefined" url="http://www.lapajarracaradio.com/playlists/playlist.asx"></endpoint>
+
+
+<endpoint name=" 431. La Picosita - Tampico - AM  - Variety " description=" 431. La Picosita - Tampico - AM  - Variety  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xhtr.wma"></endpoint>
+<endpoint name=" 432. La Poderosa - Cd. Obregón - AM  - Variety " description=" 432. La Poderosa - Cd. Obregón - AM  - Variety  -  - website: undefined" url="mms://200.57.91.184/wmtencoder/xeso.wma"></endpoint>
+
+
+
+
+<endpoint name=" 437. La Poderosa 1130 - Aguascalientes - AM  - Country " description=" 437. La Poderosa 1130 - Aguascalientes - AM  - Country  -  - website: undefined" url="http://201.151.158.7:88/broadwave.asx?src=2&amp;kbps=5"></endpoint>
+
+<endpoint name=" 439. La Poderosa 92.5 FM - Villahermosa - FM  - Regional " description=" 439. La Poderosa 92.5 FM - Villahermosa - FM  - Regional  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xhtr.wma"></endpoint>
+
+<endpoint name=" 441. La Poderosa 93.3 FM - León - FM  - Variety " description=" 441. La Poderosa 93.3 FM - León - FM  - Variety  -  - website: undefined" url="mms://pchospital.servemp3.com/lapoderosa"></endpoint>
+<endpoint name=" 442. La Poderosa FM - Mexicali - FM  - Variety " description=" 442. La Poderosa FM - Mexicali - FM  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xhmmf.wma"></endpoint>
+
+
+
+
+
+<endpoint name=" 448. La Ranchera 710 AM - Cd. Cuauhtémoc - AM  - Regional " description=" 448. La Ranchera 710 AM - Cd. Cuauhtémoc - AM  - Regional  -  - website: undefined" url="http://server30.radioyvideo.com:7030/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 453. La Reina 900 AM - Cd. Cuauhtémoc - AM  - Variety " description=" 453. La Reina 900 AM - Cd. Cuauhtémoc - AM  - Variety  -  - website: undefined" url="http://76.73.9.194:7140/listen.pls"></endpoint>
+<endpoint name=" 454. La Romántica - Chetumal - FM  - Variety " description=" 454. La Romántica - Chetumal - FM  - Variety  -  - website: undefined" url="mms://200.57.91.180/wmtencoder/belice.wma"></endpoint>
+
+
+
+
+<endpoint name=" 459. La Serranita - Zacapoaxtla - FM  - Grupero " description=" 459. La Serranita - Zacapoaxtla - FM  - Grupero  -  - website: undefined" url="http://72.249.105.26:8585/listen.pls"></endpoint>
+
+
+
+
+
+<endpoint name=" 465. La Tapatía 103.5 FM - Guadalajara - FM  - Grupero " description=" 465. La Tapatía 103.5 FM - Guadalajara - FM  - Grupero  -  - website: undefined" url="mms://wm3.spacialnet.com/radiorama35728"></endpoint>
+<endpoint name=" 466. La Tremenda - Cuernavaca - FM  - Regional " description=" 466. La Tremenda - Cuernavaca - FM  - Regional  -  - website: undefined" url="mms://201.122.60.235:8600/"></endpoint>
+<endpoint name=" 467. LA TREMENDA - Durango - AM  - Variety " description=" 467. LA TREMENDA - Durango - AM  - Variety  -  - website: undefined" url="http://tremenda.no-ip.biz:8000/listen.pls"></endpoint>
+<endpoint name=" 468. La Tremenda 800 - Comitán - AM  - Latin Hits " description=" 468. La Tremenda 800 - Comitán - AM  - Latin Hits  -  - website: undefined" url="http://www.xeddradio.com/xedd.m3u"></endpoint>
+<endpoint name=" 469. La Tremenda XESDD - Mexicali - AM  - Grupero " description=" 469. La Tremenda XESDD - Mexicali - AM  - Grupero  -  - website: undefined" url="http://pointers.audiovideoweb.com/stcasx/va90winlive2007/play.asx"></endpoint>
+
+<endpoint name=" 471. La UK 570 - Caborca - AM  - Oldies " description=" 471. La UK 570 - Caborca - AM  - Oldies  -  - website: undefined" url="http://208.53.131.169:6001/listen.pls"></endpoint>
+<endpoint name=" 472. La Voz de los Mayas - Peto - AM  - Community " description=" 472. La Voz de los Mayas - Peto - AM  - Community  -  - website: undefined" url="http://www.cdi.gob.mx/audio_cdi/aquiestamos/03sep09.ram"></endpoint>
+<endpoint name=" 473. La Z - Macuspana - AM  - Variety " description=" 473. La Z - Macuspana - AM  - Variety  -  - website: undefined" url="http://radio.mediaservicios.com:8004/listen.pls"></endpoint>
+
+<endpoint name=" 475. La Z 97.1 FM - San Juan de Río - FM  - Grupero " description=" 475. La Z 97.1 FM - San Juan de Río - FM  - Grupero  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xhrq.wma"></endpoint>
+<endpoint name=" 476. La Zeta Vallarta - Puerto Vallarta - AM  - Grupero " description=" 476. La Zeta Vallarta - Puerto Vallarta - AM  - Grupero  -  - website: undefined" url="mms://67.223.226.106:8001/live"></endpoint>
+
+
+<endpoint name=" 479. lcradio - Lázaro Cárdenas - Internet Only  - Variety " description=" 479. lcradio - Lázaro Cárdenas - Internet Only  - Variety  -  - website: undefined" url="http://www.interwebmx.net/lazarocardenasradio/LCradio.m3u"></endpoint>
+
+<endpoint name=" 481. Liverarte Radio - Guadalajara - Internet Only  - Hits " description=" 481. Liverarte Radio - Guadalajara - Internet Only  - Hits  -  - website: undefined" url="http://209.40.202.122:8016/listen.pls"></endpoint>
+
+
+
+
+
+
+
+
+<endpoint name=" 490. Mas FM - Puebla - Variety " description=" 490. Mas FM - Puebla - Variety  -  - website: undefined" url="mms://74.54.28.242/mas94"></endpoint>
+
+
+
+<endpoint name=" 494. Matamoros Radio - Matamoros - Internet Only  - Variety " description=" 494. Matamoros Radio - Matamoros - Internet Only  - Variety  -  - website: undefined" url="http://76.73.41.107:8698/listen.pls"></endpoint>
+<endpoint name=" 495. Max FM - Caborca - FM  - Top 40 " description=" 495. Max FM - Caborca - FM  - Top 40  -  - website: undefined" url="http://208.53.131.169:8010/listen.pls"></endpoint>
+<endpoint name=" 496. Max FM 91.5 - Morelia - FM  - Variety " description=" 496. Max FM 91.5 - Morelia - FM  - Variety  -  - website: undefined" url="http://rs1.radiostreamer.com:8220/listen.pls"></endpoint>
+<endpoint name=" 497. Máxima  XHSOL  89.9FM Solo Exitos - Mexicali - FM  - Variety " description=" 497. Máxima  XHSOL  89.9FM Solo Exitos - Mexicali - FM  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xhsol.wma"></endpoint>
+<endpoint name=" 498. Maxima 103.3 - Culiacán - FM  - Top 40 " description=" 498. Maxima 103.3 - Culiacán - FM  - Top 40  -  - website: undefined" url="http://stream01.streaming.com.mx:8000/listen.pls"></endpoint>
+<endpoint name=" 499. Maxima 93.1 FM Coatzacoalcos - Coatzacoalcos - FM  - Hits " description=" 499. Maxima 93.1 FM Coatzacoalcos - Coatzacoalcos - FM  - Hits  -  - website: undefined" url="http://www.maximacoatza.com/listen.m3u"></endpoint>
+<endpoint name=" 500. Máxima FM - Cd. del Carmen - FM  - Hits " description=" 500. Máxima FM - Cd. del Carmen - FM  - Hits  -  - website: undefined" url="http://radio.mashter.com:8074/listen.pls"></endpoint>
+<endpoint name=" 501. Máxima FM 89.1 FM - Guadalajara - FM  - Pop " description=" 501. Máxima FM 89.1 FM - Guadalajara - FM  - Pop  -  - website: undefined" url="http://www.maxima891.fm/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 505. ME 570 AM - Valladolid - AM  - Variety " description=" 505. ME 570 AM - Valladolid - AM  - Variety  -  - website: undefined" url="http://208.43.0.154:8006/listen.pls"></endpoint>
+
+
+<endpoint name=" 508. Mexicanisima XEYW 760 AM - Mérida - AM  - Variety " description=" 508. Mexicanisima XEYW 760 AM - Mérida - AM  - Variety  -  - website: undefined" url="http://208.43.0.154:8004/listen.pls"></endpoint>
+
+<endpoint name=" 510. Mi Punto de Vista Radio... Web - Mérida - Internet Only  - News " description=" 510. Mi Punto de Vista Radio... Web - Mérida - Internet Only  - News  -  - website: undefined" url="0"></endpoint>
+<endpoint name=" 511. Milenium 105 FM - Guadalajara - FM  - Classical " description=" 511. Milenium 105 FM - Guadalajara - FM  - Classical  -  - website: undefined" url="http://radio2.wnsol.net:9406/listen.pls"></endpoint>
+
+<endpoint name=" 513. MiMamáMeMima Radio (Guadalajara) - Guadalajara - Internet Only  - Rock " description=" 513. MiMamáMeMima Radio (Guadalajara) - Guadalajara - Internet Only  - Rock  -  - website: undefined" url="http://74.222.4.104:8050/listen.pls"></endpoint>
+
+
+<endpoint name=" 516. Mobb Radio - San Luis Potosí - Internet Only  - Pop " description=" 516. Mobb Radio - San Luis Potosí - Internet Only  - Pop  -  - website: undefined" url="http://96.30.16.180:7036/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 521. Murallas Rotas Radio - Campeche - Internet Only  - Variety " description=" 521. Murallas Rotas Radio - Campeche - Internet Only  - Variety  -  - website: undefined" url="http://66.90.112.180:8140/listen.pls"></endpoint>
+
+
+<endpoint name=" 524. Musica en Linea - Tecamac - Internet Only  - Pop / Rock / Baladas " description=" 524. Musica en Linea - Tecamac - Internet Only  - Pop / Rock / Baladas  -  - website: undefined" url="mms://148.204.7.99:26/"></endpoint>
+<endpoint name=" 525. MusikReal - Cd. de México - Internet Only  - Variety " description=" 525. MusikReal - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://216.245.220.82:3050/listen.pls"></endpoint>
+<endpoint name=" 526. MusikReal - Cd. de México - Internet Only  - Variety " description=" 526. MusikReal - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://216.245.220.82:3050/listen.pls"></endpoint>
+
+
+<endpoint name=" 529. Neurotica FM 102.1 - Toluca - FM  - Adult Contemporany " description=" 529. Neurotica FM 102.1 - Toluca - FM  - Adult Contemporany  -  - website: undefined" url="mms://www.spiri7.com:8080/wmtencoder/neurotica_city.wma"></endpoint>
+<endpoint name=" 530. No me vengas!!! - Puerto Vallarta - Internet Only  - Variety " description=" 530. No me vengas!!! - Puerto Vallarta - Internet Only  - Variety  -  - website: undefined" url="http://www.nomevengas.com/reproductores/NOMEVENGAS.wax"></endpoint>
+
+
+<endpoint name=" 533. Nova 1100 - Hermosillo - AM  - Variety " description=" 533. Nova 1100 - Hermosillo - AM  - Variety  -  - website: undefined" url="mms://200.57.91.183/wmtencoder/xenas.wma"></endpoint>
+<endpoint name=" 534. OA Radio Mexicana - Oaxaca - AM  - Variety " description=" 534. OA Radio Mexicana - Oaxaca - AM  - Variety  -  - website: undefined" url="mms://200.57.91.181/wmtencoder/xeoa.wma"></endpoint>
+<endpoint name=" 535. Oasis de Paz - Cd. de México - Internet Only  - Christian " description=" 535. Oasis de Paz - Cd. de México - Internet Only  - Christian  -  - website: undefined" url="http://69.16.226.113/oasisdepaz.m3u"></endpoint>
+
+
+
+
+<endpoint name=" 540. OPUS 102 - Monterrey - FM  - Classic Hits  " description=" 540. OPUS 102 - Monterrey - FM  - Classic Hits   -  - website: undefined" url="http://www.radionuevoleon.com.mx/listen.asx"></endpoint>
+
+
+
+
+
+<endpoint name=" 546. Oye 99,9 - Emiliano Zapata - FM  - Top 40 " description=" 546. Oye 99,9 - Emiliano Zapata - FM  - Top 40  -  - website: undefined" url="0"></endpoint>
+<endpoint name=" 547. Planeta FM - Cd. Obregón - FM  - Christian / Pop " description=" 547. Planeta FM - Cd. Obregón - FM  - Christian / Pop  -  - website: undefined" url="http://69.162.119.226:8209/listen.pls"></endpoint>
+
+<endpoint name=" 549. PlazaNetwork Radio! - Guadalajara - Pop / Rock " description=" 549. PlazaNetwork Radio! - Guadalajara - Pop / Rock  -  - website: undefined" url="http://www.internetradio.com.mx/radio.asx"></endpoint>
+<endpoint name=" 550. Pop City Radio. - Cd. de México - Internet Only  - Pop " description=" 550. Pop City Radio. - Cd. de México - Internet Only  - Pop  -  - website: undefined" url="http://grupoelectrotopradiomexico.com/cast/tunein.php/popcityradio/playlist.asx"></endpoint>
+<endpoint name=" 551. Pop FM - Cd. de México - FM  - Pop " description=" 551. Pop FM - Cd. de México - FM  - Pop  -  - website: undefined" url="http://www.tu-panel.com/castcontrol/playlist.php?port=8128&amp;type=asx"></endpoint>
+
+<endpoint name=" 553. Powermixfm - Cd. Obregón - Internet Only  - Pop " description=" 553. Powermixfm - Cd. Obregón - Internet Only  - Pop  -  - website: undefined" url="http://208.53.131.169:7740/listen.pls"></endpoint>
+<endpoint name=" 554. Psicosis Radio - Ecatepec - Internet Only  - Variety " description=" 554. Psicosis Radio - Ecatepec - Internet Only  - Variety  -  - website: undefined" url="http://psicosisradio.com:8000/listen.pls"></endpoint>
+<endpoint name=" 555. Pulsar FM 107.3 FM - Tijuana - FM  - Top 40 " description=" 555. Pulsar FM 107.3 FM - Tijuana - FM  - Top 40  -  - website: undefined" url="mms://win40nj.audiovideoweb.com/avwebdsnjwinlive4053?.wma"></endpoint>
+
+<endpoint name=" 557. Punto 98.5 FM - Xalapa - FM  - Top 40 " description=" 557. Punto 98.5 FM - Xalapa - FM  - Top 40  -  - website: undefined" url="http://audio.grupohg.net.mx:8002/xhwa.m3u"></endpoint>
+<endpoint name=" 558. Punto de Energia Radio - Cd. de México - FM  - 80's " description=" 558. Punto de Energia Radio - Cd. de México - FM  - 80's  -  - website: undefined" url="http://91.121.42.157:8070/listen.pls"></endpoint>
+
+
+<endpoint name=" 561. Quinmedia Online - Cd. Juárez - Internet Only  - Top 40 / Pop / Religion " description=" 561. Quinmedia Online - Cd. Juárez - Internet Only  - Top 40 / Pop / Religion  -  - website: undefined" url="http://www.quinmedia.zobyhost.com/offline/Quinmedia.asx"></endpoint>
+<endpoint name=" 562. Quiroga Digital - Quiroga - Internet Only  - Variety " description=" 562. Quiroga Digital - Quiroga - Internet Only  - Variety  -  - website: undefined" url="http://208.53.131.12:7200/listen.pls"></endpoint>
+<endpoint name=" 563. QuiteLoudFM.com - Cd. de México - FM  - Rock " description=" 563. QuiteLoudFM.com - Cd. de México - FM  - Rock  -  - website: undefined" url="http://quiteloud.serverroom.us:5870/listen.pls"></endpoint>
+
+<endpoint name=" 565. Radar Punto G - Guadalajara - Internet Only  - Hits " description=" 565. Radar Punto G - Guadalajara - Internet Only  - Hits  -  - website: undefined" url="http://radarpuntog.com.mx/listen.asx"></endpoint>
+<endpoint name=" 566. Radial FM - Cd. del Carmen - FM  - Hits / Pop / Electronic " description=" 566. Radial FM - Cd. del Carmen - FM  - Hits / Pop / Electronic  -  - website: undefined" url="http://www.radialfm.com/listen.asx"></endpoint>
+
+
+<endpoint name=" 569. Radio 13 - Cd. de México - AM  - Variety " description=" 569. Radio 13 - Cd. de México - AM  - Variety  -  - website: undefined" url="http://radiotrece.serverroom.us:5884/listen.pls"></endpoint>
+
+
+<endpoint name=" 572. Radio 6.20 - Cd. de México - AM  - News / Talk " description=" 572. Radio 6.20 - Cd. de México - AM  - News / Talk  -  - website: undefined" url="http://webos.com.mx:8330/listen.pls"></endpoint>
+
+<endpoint name=" 574. Radio 880 AM - Guadalajara - AM  - Variety " description=" 574. Radio 880 AM - Guadalajara - AM  - Variety  -  - website: undefined" url="http://radio.wnsol.net:8272/listen.pls"></endpoint>
+<endpoint name=" 575. Radio Acapulco - Acapulco - FM  - Variety " description=" 575. Radio Acapulco - Acapulco - FM  - Variety  -  - website: undefined" url="http://tu-panel.com:8432/listen.pls"></endpoint>
+
+
+<endpoint name=" 578. Radio Alternativo - Cd. de México - Internet Only  - Hits " description=" 578. Radio Alternativo - Cd. de México - Internet Only  - Hits  -  - website: undefined" url="mms://win90va.audiovideoweb.com/va90winlive2132"></endpoint>
+
+
+
+
+
+<endpoint name=" 584. Radio Aztlan 550 - Cd. de México - am  - Adult Contemporany " description=" 584. Radio Aztlan 550 - Cd. de México - am  - Adult Contemporany  -  - website: undefined" url="http://www.radioaztlan.com.mx:8000/radioaztlan"></endpoint>
+<endpoint name=" 585. Radio Aztlán 550 AM - Tepic - Internet Only  - Variety " description=" 585. Radio Aztlán 550 AM - Tepic - Internet Only  - Variety  -  - website: undefined" url="http://www.radioaztlan.com.mx:8000/radioaztlan.m3u"></endpoint>
+
+
+<endpoint name=" 588. Radio Banana FM - Cd. Cuauhtémoc - FM  - Variety " description=" 588. Radio Banana FM - Cd. Cuauhtémoc - FM  - Variety  -  - website: undefined" url="http://www.radiobananafm.com/Radio/listen.m3u"></endpoint>
+
+<endpoint name=" 590. Radio Bemba - Hermosillo - FM  - Rock " description=" 590. Radio Bemba - Hermosillo - FM  - Rock  -  - website: undefined" url="http://transmision.radiobemba.org:8000/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 594. Radio Calcetin - Cd. de México - Internet Only  - Pop / Rock " description=" 594. Radio Calcetin - Cd. de México - Internet Only  - Pop / Rock  -  - website: undefined" url="http://208.53.151.154:8008/listen.pls"></endpoint>
+<endpoint name=" 595. Radio Campesina CNC - Durango - FM  - Variety " description=" 595. Radio Campesina CNC - Durango - FM  - Variety  -  - website: undefined" url="http://67.159.45.136:8085/listen.pls"></endpoint>
+
+
+
+
+
+
+
+<endpoint name=" 603. Radio Catolica Orizaba - Orizaba - FM  - Catolic " description=" 603. Radio Catolica Orizaba - Orizaba - FM  - Catolic  -  - website: undefined" url="http://75.126.195.251:8243/listen.pls"></endpoint>
+
+
+<endpoint name=" 606. Radio Centro Universitario de Huatusco - Huatusco de Chicuellar - FM  - Variety " description=" 606. Radio Centro Universitario de Huatusco - Huatusco de Chicuellar - FM  - Variety  -  - website: undefined" url="http://208.53.131.169:7600/listen.pls"></endpoint>
+<endpoint name=" 607. Radio Cetec Evolución - Cd. de México - Internet Only  - Variety " description=" 607. Radio Cetec Evolución - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://75.126.195.251:8197/listen.pls"></endpoint>
+<endpoint name=" 608. Radio Chapultepec - Cd. de México - AM  - Variety " description=" 608. Radio Chapultepec - Cd. de México - AM  - Variety  -  - website: undefined" url="http://sc9.spacialnet.com:22102/listen.pls"></endpoint>
+
+
+<endpoint name=" 611. Radio clic - Durango - FM  - Variety " description=" 611. Radio clic - Durango - FM  - Variety  -  - website: undefined" url="http://grupoclick.no-ip.biz:8000/"></endpoint>
+<endpoint name=" 612. Radio Cocowine - Guadalajara - Internet Only  - Variety " description=" 612. Radio Cocowine - Guadalajara - Internet Only  - Variety  -  - website: undefined" url="http://66.90.104.71:9670/listen.pls"></endpoint>
+
+<endpoint name=" 614. Radio ConceptoMéxico - Cd. de México - Internet Only  - Pop " description=" 614. Radio ConceptoMéxico - Cd. de México - Internet Only  - Pop  -  - website: undefined" url="http://72.236.163.63:10979/listen.pls"></endpoint>
+<endpoint name=" 615. Radio Consentida 890 - Acámbaro - AM  - Variety " description=" 615. Radio Consentida 890 - Acámbaro - AM  - Variety  -  - website: undefined" url="http://200.6.154.160:8074/listen.pls"></endpoint>
+<endpoint name=" 616. Radio Constituyente MEXICO 2010 - San Luis Potosi - Internet Only  - Variety " description=" 616. Radio Constituyente MEXICO 2010 - San Luis Potosi - Internet Only  - Variety  -  - website: undefined" url="http://64.191.78.69:7495/listen.pls"></endpoint>
+
+<endpoint name=" 618. Radio Costa - Autlán de Navarro - AM  - Latin Hits " description=" 618. Radio Costa - Autlán de Navarro - AM  - Latin Hits  -  - website: undefined" url="http://radio.mashter.com:8042/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 623. Radio de Bulbos - Atizapán de Zaragoza - Internet Only  - Variety " description=" 623. Radio de Bulbos - Atizapán de Zaragoza - Internet Only  - Variety  -  - website: undefined" url="http://www.produccionescuandon.com/media_player.html"></endpoint>
+<endpoint name=" 624. Radio Delfín - Cd. del Carmen - FM  - Hits " description=" 624. Radio Delfín - Cd. del Carmen - FM  - Hits  -  - website: undefined" url="http://76.73.9.194:9200/listen.pls"></endpoint>
+
+
+<endpoint name=" 627. Radio Efimera - Cd. de México - Internet Only  - Rock / Jazz " description=" 627. Radio Efimera - Cd. de México - Internet Only  - Rock / Jazz  -  - website: undefined" url="http://radioefimera.com:8080/listen.pls"></endpoint>
+
+
+<endpoint name=" 630. Radio Estrella - Tampico - Variety " description=" 630. Radio Estrella - Tampico - Variety  -  - website: undefined" url="mms://xefw.yupimobil.net/envivowm/digitales/xefw.wma"></endpoint>
+
+
+<endpoint name=" 633. Radio Fama 1030 AM - San Blas - AM  - Top 40 " description=" 633. Radio Fama 1030 AM - San Blas - AM  - Top 40  -  - website: undefined" url="http://rsn.com.mx/listas/playlist_pesada.asx"></endpoint>
+<endpoint name=" 634. Radio Favorita - Xalapa - AM  - Variety " description=" 634. Radio Favorita - Xalapa - AM  - Variety  -  - website: undefined" url="http://audio.grupohg.net.mx:8002/imagen1040"></endpoint>
+
+<endpoint name=" 636. Radio Fórmula - Durango - FM  - News / Talk " description=" 636. Radio Fórmula - Durango - FM  - News / Talk  -  - website: undefined" url="mms://200.57.91.181/wmtencoder/xewx.wma"></endpoint>
+
+<endpoint name=" 638. Radio Fórmula  XERM  1150AM - Mexicali - Internet Only  - Variety " description=" 638. Radio Fórmula  XERM  1150AM - Mexicali - Internet Only  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xerm.wma"></endpoint>
+<endpoint name=" 639. Radio Formula (Primera Cadena) XENT-AM - La Paz - AM  - News " description=" 639. Radio Formula (Primera Cadena) XENT-AM - La Paz - AM  - News  -  - website: undefined" url="http://148.243.98.2:7080/listen.pls"></endpoint>
+
+<endpoint name=" 641. Radio Formula 710 AM - San Luis Potosí - AM  - News / Talk " description=" 641. Radio Formula 710 AM - San Luis Potosí - AM  - News / Talk  -  - website: undefined" url="http://pointers.audiovideoweb.com/asxfiles-live/il81winlive2041.asx"></endpoint>
+
+
+
+
+
+
+<endpoint name=" 648. Radio Funk - Cholula - Internet Only  - Variety " description=" 648. Radio Funk - Cholula - Internet Only  - Variety  -  - website: undefined" url="http://208.53.131.169:8694/listen.pls"></endpoint>
+<endpoint name=" 649. Radio Génesis 106.5 - Aguascalientes - Internet Only  - Variety " description=" 649. Radio Génesis 106.5 - Aguascalientes - Internet Only  - Variety  -  - website: undefined" url="http://www.miradiosite.com:8000/desdeags.m3u"></endpoint>
+<endpoint name=" 650. Radio Global - Guadalajara - Internet Only  - Alternative " description=" 650. Radio Global - Guadalajara - Internet Only  - Alternative  -  - website: undefined" url="http://s4.viastreaming.net:7460/listen.pls"></endpoint>
+<endpoint name=" 651. Radio Hits - Tepic - AM  - Top 40 " description=" 651. Radio Hits - Tepic - AM  - Top 40  -  - website: undefined" url="mms://200.57.91.184/wmtencoder/xepic.wma"></endpoint>
+<endpoint name=" 652. Radio Hits - Coatzacoalcos - Variety " description=" 652. Radio Hits - Coatzacoalcos - Variety  -  - website: undefined" url="http://208.85.242.228:9078/"></endpoint>
+<endpoint name=" 653. Radio Hits - Cd. de México - Internet Only  - Hits " description=" 653. Radio Hits - Cd. de México - Internet Only  - Hits  -  - website: undefined" url="http://www.radiohits.com.mx/radiohits.ram"></endpoint>
+<endpoint name=" 654. Radio Identidad 94.5 FM - Coscomatepec de Bravo - Internet Only  - Variety " description=" 654. Radio Identidad 94.5 FM - Coscomatepec de Bravo - Internet Only  - Variety  -  - website: undefined" url="http://www.radioidentidad.net:9080/"></endpoint>
+
+
+<endpoint name=" 657. Radio Impulso - Puebla - Internet Only  - Variety " description=" 657. Radio Impulso - Puebla - Internet Only  - Variety  -  - website: undefined" url="0"></endpoint>
+
+
+<endpoint name=" 660. Radio InterDual - Monterrey - Internet Only  - International " description=" 660. Radio InterDual - Monterrey - Internet Only  - International  -  - website: undefined" url="http://www.makeavoice.com/shoutcast/tuneinlinks.php?file=ram&amp;host=174.133.212.248&amp;port=8220"></endpoint>
+<endpoint name=" 661. Radio IPN  - Cd. de México - FM  - Variety " description=" 661. Radio IPN  - Cd. de México - FM  - Variety  -  - website: undefined" url="rtsp://148.204.12.90:554/encoder/radioipn_957.rm?cloakport=8080,554,7070"></endpoint>
+
+
+
+
+<endpoint name=" 666. Radio Korita 710 - Tepic - AM  - Regional " description=" 666. Radio Korita 710 - Tepic - AM  - Regional  -  - website: undefined" url="http://sirac.servehttp.com:8110/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 670. Radio Latido 1430 - Cd. de México - AM  - Variety " description=" 670. Radio Latido 1430 - Cd. de México - AM  - Variety  -  - website: undefined" url="http://gpazos.centrocibernetico.com/latido/listen.pls"></endpoint>
+<endpoint name=" 671. Radio Latina - Tijuana - FM  - Adult Contemporany " description=" 671. Radio Latina - Tijuana - FM  - Adult Contemporany  -  - website: undefined" url="http://148.240.229.64/latina/audio.ram"></endpoint>
+<endpoint name=" 672. Radio Latinos FM - Poza Rica - Internet Only  - Pop / Rock / Reggaeton / Hip Hop / Electronic " description=" 672. Radio Latinos FM - Poza Rica - Internet Only  - Pop / Rock / Reggaeton / Hip Hop / Electronic  -  - website: undefined" url="http://www.radiolatinosfm.com/listen.asx"></endpoint>
+<endpoint name=" 673. Radio Lobo - Tehuacán - Internet Only  - Grupero " description=" 673. Radio Lobo - Tehuacán - Internet Only  - Grupero  -  - website: undefined" url="http://pump.com.mx:8030/listen.pls"></endpoint>
+<endpoint name=" 674. Radio Lupita 1130 AM - Las Varas - AM  - Variety " description=" 674. Radio Lupita 1130 AM - Las Varas - AM  - Variety  -  - website: undefined" url="http://208.53.131.12:7860/listen.pls"></endpoint>
+<endpoint name=" 675. Radio Mania - Poza Rica - Internet Only  - Pop " description=" 675. Radio Mania - Poza Rica - Internet Only  - Pop  -  - website: undefined" url="http://audiovirtual.net:7900/"></endpoint>
+<endpoint name=" 676. Radio Mania Vip - Mérida - Internet Only  - Variety " description=" 676. Radio Mania Vip - Mérida - Internet Only  - Variety  -  - website: undefined" url="http://www.radiomaniavip.com/listen.asx"></endpoint>
+
+
+<endpoint name=" 679. Radio Maya Internacional - Chetumal - FM  - Caribbean " description=" 679. Radio Maya Internacional - Chetumal - FM  - Caribbean  -  - website: undefined" url="http://76.73.9.194:8970/listen.pls"></endpoint>
+<endpoint name=" 680. Radio Mayor - San Luis Potosí - Internet Only  - Variety " description=" 680. Radio Mayor - San Luis Potosí - Internet Only  - Variety  -  - website: undefined" url="http://tv.stream-music.net:8468/listen.pls"></endpoint>
+<endpoint name=" 681. Radio Mente Abierta - Cd. de México - Internet Only  - Variety " description=" 681. Radio Mente Abierta - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://public.wavepanel.net/YD9G4E4OFS49GZRO/listen/asx"></endpoint>
+<endpoint name=" 682. Radio Metropoli - Guadalajara - FM  - News " description=" 682. Radio Metropoli - Guadalajara - FM  - News  -  - website: undefined" url="http://www.notisistema.com/metropoli.asx"></endpoint>
+
+<endpoint name=" 684. Radio Mexicana  XEAO  910AM - Mexicali - Internet Only  - Variety " description=" 684. Radio Mexicana  XEAO  910AM - Mexicali - Internet Only  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xeao.wma"></endpoint>
+
+<endpoint name=" 686. Radio Mexico: La Radio Cultural por Internet - Cd. de México - FM  - Variety " description=" 686. Radio Mexico: La Radio Cultural por Internet - Cd. de México - FM  - Variety  -  - website: undefined" url="http://76.73.9.194:8160/listen.pls"></endpoint>
+<endpoint name=" 687. Radio Mexiquense - Metepec - AM  - Variety " description=" 687. Radio Mexiquense - Metepec - AM  - Variety  -  - website: undefined" url="rtsp://radiomexiquense.edomexico.gob.mx/broadcast/radio.rm"></endpoint>
+
+<endpoint name=" 689. Radio Mezcalito - Cuautitlán Izcalli - FM  - Rock classic " description=" 689. Radio Mezcalito - Cuautitlán Izcalli - FM  - Rock classic  -  - website: undefined" url="http://listen.radionomy.com/radio-mezcalito.m3u"></endpoint>
+
+
+
+
+
+
+<endpoint name=" 696. Radio Mixx - Tampico - FM  - Variety " description=" 696. Radio Mixx - Tampico - FM  - Variety  -  - website: undefined" url="http://giss.tv:8001/radiomixx.mp3"></endpoint>
+<endpoint name=" 697. Radio Mujer - Guadalajara - AM  - News / Talk " description=" 697. Radio Mujer - Guadalajara - AM  - News / Talk  -  - website: undefined" url="http://streaming.promomedios.com:8002/listen.pls"></endpoint>
+<endpoint name=" 698. Radio Mujer 1040 AM - Guadalajara - AM  - News / Talk " description=" 698. Radio Mujer 1040 AM - Guadalajara - AM  - News / Talk  -  - website: undefined" url="http://radio3.wnsol.net:8610/listen.pls"></endpoint>
+
+<endpoint name=" 700. Radio Neox - Mérida - Internet Only  - Rock / Metal / Alternative " description=" 700. Radio Neox - Mérida - Internet Only  - Rock / Metal / Alternative  -  - website: undefined" url="0"></endpoint>
+<endpoint name=" 701. Radio Nocturna - Guadalajara - FM  - Variety " description=" 701. Radio Nocturna - Guadalajara - FM  - Variety  -  - website: undefined" url="http://99.198.118.250:8082/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 705. Radio Nucleo - Mapastepec - Internet Only  - Variety " description=" 705. Radio Nucleo - Mapastepec - Internet Only  - Variety  -  - website: undefined" url="http://70.38.6.155/cast/tunein.php/extremotuxtla/playlist.asx"></endpoint>
+<endpoint name=" 706. Radio Nuevo León - Monterrey - AM  - Talk " description=" 706. Radio Nuevo León - Monterrey - AM  - Talk  -  - website: undefined" url="http://www.radionuevoleon.com.mx/1listen.asx"></endpoint>
+<endpoint name=" 707. Radio Pacifico - Pinotepa Nacional - Internet Only  - Variety " description=" 707. Radio Pacifico - Pinotepa Nacional - Internet Only  - Variety  -  - website: undefined" url="http://www.telecosta.com.mx/listen.asx"></endpoint>
+<endpoint name=" 708. Radio Palabra Viva - Jalpa de Mendez - FM  - Cristiano " description=" 708. Radio Palabra Viva - Jalpa de Mendez - FM  - Cristiano  -  - website: undefined" url="http://208.53.131.169:8655/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 712. Radio Patrañas - Ecatepec - Internet Only  - Rock / Metal / Surf " description=" 712. Radio Patrañas - Ecatepec - Internet Only  - Rock / Metal / Surf  -  - website: undefined" url="http://giss.tv:8000/radio_patranas.mp3"></endpoint>
+<endpoint name=" 713. Radio Pepito - Tuxtla Gutiérrez - Internet Only  - Variety " description=" 713. Radio Pepito - Tuxtla Gutiérrez - Internet Only  - Variety  -  - website: undefined" url="http://radiopepito.purestream.net:8010/listen.pls"></endpoint>
+<endpoint name=" 714. Radio Pepito - Cd. de México - Internet Only  - Variety " description=" 714. Radio Pepito - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://radiopepito.purestream.net:8010/listen.pls"></endpoint>
+<endpoint name=" 715. Radio Pia - La Piedad - AM  - Variety " description=" 715. Radio Pia - La Piedad - AM  - Variety  -  - website: undefined" url="http://www.depollos.com/radio/XELP.asx"></endpoint>
+<endpoint name=" 716. Radio Pía 1230 AM - La Piedad - AM  - Variety " description=" 716. Radio Pía 1230 AM - La Piedad - AM  - Variety  -  - website: undefined" url="http://www.depollos.com/radio/XELP.asx"></endpoint>
+
+
+
+
+<endpoint name=" 721. Radio Quiroga - Quiroga - FM  - Variety " description=" 721. Radio Quiroga - Quiroga - FM  - Variety  -  - website: undefined" url="http://208.53.131.12:7180/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 725. Radio Ranchito - Chihuahua - AM  - Variety " description=" 725. Radio Ranchito - Chihuahua - AM  - Variety  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xerpc.wma"></endpoint>
+
+
+
+
+<endpoint name=" 730. Radio Reporte 1 - Cd. de México - FM  - Variety " description=" 730. Radio Reporte 1 - Cd. de México - FM  - Variety  -  - website: undefined" url="rtsp://148.240.229.63/broadcast/reporte.rm"></endpoint>
+
+<endpoint name=" 732. Radio Reyna - Tamazunchale - AM  - Regional " description=" 732. Radio Reyna - Tamazunchale - AM  - Regional  -  - website: undefined" url="http://www.radioreyna.com.mx/radio/listen.ram"></endpoint>
+<endpoint name=" 733. Radio Rockola Playa - Playa del Carmen - Internet Only  - Variety " description=" 733. Radio Rockola Playa - Playa del Carmen - Internet Only  - Variety  -  - website: undefined" url="http://208.43.0.155:8024/listen.pls"></endpoint>
+<endpoint name=" 734. Radio Romi - San Juan de los Lagos - FM  - Grupero " description=" 734. Radio Romi - San Juan de los Lagos - FM  - Grupero  -  - website: undefined" url="http://927radioromi.com:8000/radioromi2.m3u"></endpoint>
+
+<endpoint name=" 736. Radio Salem - Cancún - Internet Only  - Christian " description=" 736. Radio Salem - Cancún - Internet Only  - Christian  -  - website: undefined" url="http://www.live275.com/painel/tunein.php/salem/playlist.asx"></endpoint>
+<endpoint name=" 737. Radio Saltillo - Saltillo - AM  - Public " description=" 737. Radio Saltillo - Saltillo - AM  - Public  -  - website: undefined" url="http://www.xesj.com.mx/sitio/sintoniza/listen.ram"></endpoint>
+
+
+
+<endpoint name=" 741. RADIO SENSACIÓN - Santa Bárbara - Internet Only  - Variety " description=" 741. RADIO SENSACIÓN - Santa Bárbara - Internet Only  - Variety  -  - website: undefined" url="http://87.117.196.97:4933/listen.pls"></endpoint>
+
+
+
+
+
+<endpoint name=" 747. Radio Sonora - Hermosillo - Internet Only  - Cultural " description=" 747. Radio Sonora - Hermosillo - Internet Only  - Cultural  -  - website: undefined" url="http://sc1.collinsnetworks.net:8100/listen.pls"></endpoint>
+
+<endpoint name=" 749. Radio Space Djs México - Cd. de México - Internet Only  - Electronic Music " description=" 749. Radio Space Djs México - Cd. de México - Internet Only  - Electronic Music  -  - website: undefined" url="http://188.165.58.14:4264/listen.pls"></endpoint>
+
+<endpoint name=" 751. Radio sun - Playa del Carmen - Internet Only  - Variety " description=" 751. Radio sun - Playa del Carmen - Internet Only  - Variety  -  - website: undefined" url="http://208.53.131.12:9040/listen.pls"></endpoint>
+<endpoint name=" 752. Radio Tabasco - Villahermosa - AM  - Variety " description=" 752. Radio Tabasco - Villahermosa - AM  - Variety  -  - website: undefined" url="http://189.132.176.157:8006/listen.pls"></endpoint>
+<endpoint name=" 753. Radio Tamaulipas 90.9 - Nuevo Laredo - FM  - News / Talk " description=" 753. Radio Tamaulipas 90.9 - Nuevo Laredo - FM  - News / Talk  -  - website: undefined" url="mms://200.23.59.10/radiotam"></endpoint>
+
+
+
+
+<endpoint name=" 758. Radio TK - Tecamachalco - Internet Only  - Variety " description=" 758. Radio TK - Tecamachalco - Internet Only  - Variety  -  - website: undefined" url="http://207.182.149.180:8080/listen.pls"></endpoint>
+
+<endpoint name=" 760. Radio Triunfo - Oaxaca - Internet Only  - Adult Contemporany " description=" 760. Radio Triunfo - Oaxaca - Internet Only  - Adult Contemporany  -  - website: undefined" url="http://www.radiotriunfo.org/listen.ram"></endpoint>
+<endpoint name=" 761. Radio Tu Anhelo - Oaxaca - Internet Only  - Variety " description=" 761. Radio Tu Anhelo - Oaxaca - Internet Only  - Variety  -  - website: undefined" url="http://live275.com/painel/tunein.php/tuanhelo/playlist.asx"></endpoint>
+<endpoint name=" 762. Radio Tuxpan - Tuxpan, Mich. - Internet Only  - Hits " description=" 762. Radio Tuxpan - Tuxpan, Mich. - Internet Only  - Hits  -  - website: undefined" url="http://rs1.radiostreamer.com:8040/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 766. Radio UBJ - Puebla - Internet Only  - Variety " description=" 766. Radio UBJ - Puebla - Internet Only  - Variety  -  - website: undefined" url="http://208.43.218.127:8082/listen.pls"></endpoint>
+<endpoint name=" 767. Radio UdeM XHUDEM-FM - Monterrey - FM  - Variety " description=" 767. Radio UdeM XHUDEM-FM - Monterrey - FM  - Variety  -  - website: undefined" url="mms://radioudem.udem.edu.mx/radio"></endpoint>
+
+<endpoint name=" 769. Radio UNAM (XEUN 860) - Cd. de México - AM  - Variety " description=" 769. Radio UNAM (XEUN 860) - Cd. de México - AM  - Variety  -  - website: undefined" url="http://132.247.253.87:8000/listen.pls"></endpoint>
+<endpoint name=" 770. Radio UNAM (XEUN 96.1) - Cd. de México - FM  - Variety " description=" 770. Radio UNAM (XEUN 96.1) - Cd. de México - FM  - Variety  -  - website: undefined" url="http://132.247.253.87:8002/listen.pls"></endpoint>
+
+<endpoint name=" 772. Radio Universidad - Querétaro - College " description=" 772. Radio Universidad - Querétaro - College  -  - website: undefined" url="http://148.220.8.97:8000/listen.pls"></endpoint>
+
+
+<endpoint name=" 775. Radio Universidd de Guanajuato 970 - Guanajuato - AM  - College " description=" 775. Radio Universidd de Guanajuato 970 - Guanajuato - AM  - College  -  - website: undefined" url="http://radioug.ugto.mx/radioug.ram"></endpoint>
+
+
+<endpoint name=" 778. Radio Valladolid 570 - Valladolid - AM  - Variety " description=" 778. Radio Valladolid 570 - Valladolid - AM  - Variety  -  - website: undefined" url="http://208.43.0.154:8006/listen.pls"></endpoint>
+<endpoint name=" 779. Radio Via I Pi - Xalapa - Internet Only  - Variety " description=" 779. Radio Via I Pi - Xalapa - Internet Only  - Variety  -  - website: undefined" url="http://87.98.141.213:8500/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 783. Radio Xidoo - Salamanca - Internet Only  - Pop " description=" 783. Radio Xidoo - Salamanca - Internet Only  - Pop  -  - website: undefined" url="http://207.182.149.180:8000/listen.pls"></endpoint>
+
+<endpoint name=" 785. Radio Xtremo - Guadalajara - Internet Only  - Latin Hits " description=" 785. Radio Xtremo - Guadalajara - Internet Only  - Latin Hits  -  - website: undefined" url="http://www.radioextremo.com/rx.ram"></endpoint>
+
+<endpoint name=" 787. Radio Zaz la Trasnsportacion Auditiva de tu Generacion Musical - Tijuana - Internet Only  - 70S, 80S, 90, En Ingles " description=" 787. Radio Zaz la Trasnsportacion Auditiva de tu Generacion Musical - Tijuana - Internet Only  - 70S, 80S, 90, En Ingles  -  - website: undefined" url="http://66.197.225.117:8993/listen.pls"></endpoint>
+
+<endpoint name=" 789. Radio Zona Global - Orizaba - Internet Only  - Pop / Alternative / Rock " description=" 789. Radio Zona Global - Orizaba - Internet Only  - Pop / Alternative / Rock  -  - website: undefined" url="0"></endpoint>
+<endpoint name=" 790. Radio-B - Cd. de México - Internet Only  - Alternative " description=" 790. Radio-B - Cd. de México - Internet Only  - Alternative  -  - website: undefined" url="http://69.16.226.44:8050/radiob"></endpoint>
+
+<endpoint name=" 792. Radio76 - Tecamachalco - FM  - Trova " description=" 792. Radio76 - Tecamachalco - FM  - Trova  -  - website: undefined" url="http://hdmultistreaming.com/panel/castcontrol/playlist.php?port=8070&amp;type=ram"></endpoint>
+
+
+
+
+
+<endpoint name=" 798. RadioAlternativo - Cd. de México - FM  - Alternative " description=" 798. RadioAlternativo - Cd. de México - FM  - Alternative  -  - website: undefined" url="mms://win90va.audiovideoweb.com/va90winlive2132"></endpoint>
+
+<endpoint name=" 800. Radiofutura - Tlalnepantla - FM  - Variety " description=" 800. Radiofutura - Tlalnepantla - FM  - Variety  -  - website: undefined" url="http://208.53.131.169:8100/listen.pls"></endpoint>
+<endpoint name=" 801. Radiojalisco.net - Guadalajara - Internet Only  - Variety " description=" 801. Radiojalisco.net - Guadalajara - Internet Only  - Variety  -  - website: undefined" url="http://208.53.131.169:7052/listen.pls"></endpoint>
+
+
+
+
+
+
+<endpoint name=" 808. Radiomyx - Chiautempan - FM  - Variety " description=" 808. Radiomyx - Chiautempan - FM  - Variety  -  - website: undefined" url="http://67.228.177.60:8201/"></endpoint>
+<endpoint name=" 809. Radionet 1490 AM - Cd. Juárez - AM  - News / Talk " description=" 809. Radionet 1490 AM - Cd. Juárez - AM  - News / Talk  -  - website: undefined" url="rtsp://148.243.98.2/broadcast/xecjc.rm"></endpoint>
+<endpoint name=" 810. Radioplay! - Hermosillo - FM  - Variety " description=" 810. Radioplay! - Hermosillo - FM  - Variety  -  - website: undefined" url="http://shoutcast.xhells.net/tunein.php/radioplay/playlist.asx"></endpoint>
+<endpoint name=" 811. Radiorama Siglo XXI - Tuxtla Gutiérrez - AM  - News / Talk " description=" 811. Radiorama Siglo XXI - Tuxtla Gutiérrez - AM  - News / Talk  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xetug.wma"></endpoint>
+<endpoint name=" 812. Radiorama Siglo XXI  XED  1050AM - Mexicali - Internet Only  - Variety " description=" 812. Radiorama Siglo XXI  XED  1050AM - Mexicali - Internet Only  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xed.wma"></endpoint>
+
+<endpoint name=" 814. Radiostarvip - Orizaba - Internet Only  - Variety " description=" 814. Radiostarvip - Orizaba - Internet Only  - Variety  -  - website: undefined" url="http://72.167.113.122:16000/listen.pls"></endpoint>
+
+<endpoint name=" 816. Radiotlax-FM - Chiautempan - FM  - Variety " description=" 816. Radiotlax-FM - Chiautempan - FM  - Variety  -  - website: undefined" url="http://hdmultistreaming.com/panel/castcontrol/playlist.php?port=8056&amp;type=asx"></endpoint>
+<endpoint name=" 817. RADIOVALL - Morelia - Internet Only  - Variety " description=" 817. RADIOVALL - Morelia - Internet Only  - Variety  -  - website: undefined" url="http://radiovall.dyndns.org:8000/listen.pls"></endpoint>
+
+<endpoint name=" 819. RadioZonar - Cabo San Lucas - Internet Only  - Variety " description=" 819. RadioZonar - Cabo San Lucas - Internet Only  - Variety  -  - website: undefined" url="http://76.73.20.18:8125/listen.pls"></endpoint>
+<endpoint name=" 820. Radiozonico - Cuautla - Internet Only  - Variety " description=" 820. Radiozonico - Cuautla - Internet Only  - Variety  -  - website: undefined" url="http://www.radiozonico.com/media_player_-_listen.asx"></endpoint>
+
+
+
+
+
+
+
+
+
+
+
+<endpoint name=" 832. Red Bandera - Cd. de México - FM  - Variety " description=" 832. Red Bandera - Cd. de México - FM  - Variety  -  - website: undefined" url="http://208.53.190.146:8030/listen.pls"></endpoint>
+
+<endpoint name=" 834. Red W Interactiva - Cuernavaca - AM  - News / Talk " description=" 834. Red W Interactiva - Cuernavaca - AM  - News / Talk  -  - website: undefined" url="http://www.radioramamorelos.com.mx/Radio/wradio.wax"></endpoint>
+<endpoint name=" 835. Renacimiento 850 AM - Chihuahua - AM  - Christian " description=" 835. Renacimiento 850 AM - Chihuahua - AM  - Christian  -  - website: undefined" url="http://www.vozenred.com/Renacimiento850AM/radio.php?file=ram"></endpoint>
+<endpoint name=" 836. Reporte 1 - Cd. de México - Internet Only  - Variety " description=" 836. Reporte 1 - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://radioreportefotos.sytes.net:8000/listen.pls"></endpoint>
+<endpoint name=" 837. Reporte 985 - Cd. de México - FM  - News / Talk " description=" 837. Reporte 985 - Cd. de México - FM  - News / Talk  -  - website: undefined" url="http://www.reporte.com.mx/r98.ram"></endpoint>
+<endpoint name=" 838. Reporteros Hoy - Mérida - Internet Only  - Variety " description=" 838. Reporteros Hoy - Mérida - Internet Only  - Variety  -  - website: undefined" url="http://208.53.166.245:9002/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 843. Riviera FM 98.1 - Cozumel - FM  - Variety " description=" 843. Riviera FM 98.1 - Cozumel - FM  - Variety  -  - website: undefined" url="http://209.59.209.118:8008/listen.pls"></endpoint>
+<endpoint name=" 844. RMX 100.3 - Guadalajara - FM  - Hits " description=" 844. RMX 100.3 - Guadalajara - FM  - Hits  -  - website: undefined" url="http://www.rmx.com.mx/gdl/players/emisora.ram"></endpoint>
+<endpoint name=" 845. RN 96.5 FM - Veracruz - FM  - Latin Hits " description=" 845. RN 96.5 FM - Veracruz - FM  - Latin Hits  -  - website: undefined" url="http://209.62.43.178:8400"></endpoint>
+
+
+
+
+<endpoint name=" 850. Rockola 990  - Mexicali - AM  - Variety " description=" 850. Rockola 990  - Mexicali - AM  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xecl.wma"></endpoint>
+<endpoint name=" 851. Rockstalgica FM - Guadalajara - Internet Only  - Oldies " description=" 851. Rockstalgica FM - Guadalajara - Internet Only  - Oldies  -  - website: undefined" url="http://www.rockstalgica.com/radio/listen.asx"></endpoint>
+<endpoint name=" 852. Romántica - Tuxtla Gutiérrez - AM  - Hits " description=" 852. Romántica - Tuxtla Gutiérrez - AM  - Hits  -  - website: undefined" url="mms://200.57.91.181/wmtencoder/xeky.wma"></endpoint>
+
+<endpoint name=" 854. Romántica - Tehuacán - AM  - Romantic " description=" 854. Romántica - Tehuacán - AM  - Romantic  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xetcp.wma"></endpoint>
+
+<endpoint name=" 856. Romántica 1370      XEHG  1370AM - Mexicali - Internet Only  - Variety " description=" 856. Romántica 1370      XEHG  1370AM - Mexicali - Internet Only  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xehg.wma"></endpoint>
+<endpoint name=" 857. Romantica 740 - Celaya - AM  - Latin Hits " description=" 857. Romantica 740 - Celaya - AM  - Latin Hits  -  - website: undefined" url="http://208.53.131.12:8670/listen.pls"></endpoint>
+<endpoint name=" 858. Romántica 820 - Oaxaca - AM  - Variety " description=" 858. Romántica 820 - Oaxaca - AM  - Variety  -  - website: undefined" url="mms://200.57.91.181/wmtencoder/xeyn.wma"></endpoint>
+<endpoint name=" 859. RTV Radio Mas - Veracruz - Public " description=" 859. RTV Radio Mas - Veracruz - Public  -  - website: undefined" url="http://rtv.interrogacaodigital.net/rtvradio"></endpoint>
+
+
+<endpoint name=" 862. SabordelNorte - Los Mochis - FM  - Oldies " description=" 862. SabordelNorte - Los Mochis - FM  - Oldies  -  - website: undefined" url="http://75.126.43.243:8550/"></endpoint>
+
+
+
+
+
+<endpoint name=" 868. Sintonía Dígital - León - Internet Only  - Variety " description=" 868. Sintonía Dígital - León - Internet Only  - Variety  -  - website: undefined" url="http://74.53.240.115:8800/listen.pls"></endpoint>
+<endpoint name=" 869. Sintonia X-OYMEtu Internet Radio - Cd. de México - Internet Only  - Variety " description=" 869. Sintonia X-OYMEtu Internet Radio - Cd. de México - Internet Only  - Variety  -  - website: undefined" url="http://sintonia.x-oymetu.com:8038/listen.pls"></endpoint>
+<endpoint name=" 870. SMasH Radio - Cd. de México - Internet Only  - Rock / Grunge / Punk / Indie " description=" 870. SMasH Radio - Cd. de México - Internet Only  - Rock / Grunge / Punk / Indie  -  - website: undefined" url="http://208.53.131.12:7700/listen.pls"></endpoint>
+
+
+<endpoint name=" 873. Sonica Radio - Querétaro - Internet only  - Variety " description=" 873. Sonica Radio - Querétaro - Internet only  - Variety  -  - website: undefined" url="http://www.sonicaradio.com/playlist/sonicaw.pls"></endpoint>
+<endpoint name=" 874. Sonido 89 FM - Juchitán de Zaragoza - Internet Only  - Variety " description=" 874. Sonido 89 FM - Juchitán de Zaragoza - Internet Only  - Variety  -  - website: undefined" url="http://76.73.9.194:8110/listen.pls"></endpoint>
+<endpoint name=" 875. Sonido Estrella - Zacatecas - AM  - Variety " description=" 875. Sonido Estrella - Zacatecas - AM  - Variety  -  - website: undefined" url="http://87.98.169.204:8400/listen.pls"></endpoint>
+
+<endpoint name=" 877. Sonorritmica Radio - Cd. de México - Internet Only  - Salsa / Merengue / Son / Latín Jazz / Tropical " description=" 877. Sonorritmica Radio - Cd. de México - Internet Only  - Salsa / Merengue / Son / Latín Jazz / Tropical  -  - website: undefined" url="http://grupoelectrotopradiomexico.com/cast/tunein.php/sonorritmica/playlist.asx"></endpoint>
+
+
+
+
+
+
+
+
+<endpoint name=" 886. Stereo 99 - Guadalajara - FM  - Variety " description=" 886. Stereo 99 - Guadalajara - FM  - Variety  -  - website: undefined" url="mms://energy10.egihosting.com/898169?MSWMExt=.asf"></endpoint>
+
+
+
+
+
+
+<endpoint name=" 893. Stereo Joya 1310 AM - Querétaro - AM  - Romantic / News " description=" 893. Stereo Joya 1310 AM - Querétaro - AM  - Romantic / News  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xehy.wma"></endpoint>
+<endpoint name=" 894. Stereo Luz - Tehuacán - FM  - Pop " description=" 894. Stereo Luz - Tehuacán - FM  - Pop  -  - website: undefined" url="http://66.240.221.240:8111/listen.pls"></endpoint>
+<endpoint name=" 895. Stereo Max FM - San Martín Texmelucan - FM  - Adult Contemporany " description=" 895. Stereo Max FM - San Martín Texmelucan - FM  - Adult Contemporany  -  - website: undefined" url="mms://74.54.28.242/stereomax"></endpoint>
+
+<endpoint name=" 897. Stereo Sol - Chetumal - FM  - Variety " description=" 897. Stereo Sol - Chetumal - FM  - Variety  -  - website: undefined" url="http://www.sol899.com/8002.ram"></endpoint>
+<endpoint name=" 898. Stereo Sol 810 AM - Cozumel - AM  - Variety " description=" 898. Stereo Sol 810 AM - Cozumel - AM  - Variety  -  - website: undefined" url="http://www.sol899.com/8000.ram"></endpoint>
+<endpoint name=" 899. Stereo Vida - Chihuahua - FM  - Variety " description=" 899. Stereo Vida - Chihuahua - FM  - Variety  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xhua.wma"></endpoint>
+<endpoint name=" 900. Stereo100 - Cd. de México - FM  - Rock " description=" 900. Stereo100 - Cd. de México - FM  - Rock  -  - website: undefined" url="http://sc1.collinsnetworks.net:8600/listen.pls"></endpoint>
+<endpoint name=" 901. Sui Radio - Guadalajara - FM  - Jazz " description=" 901. Sui Radio - Guadalajara - FM  - Jazz  -  - website: undefined" url="http://70.38.54.111:13000/listen.pls"></endpoint>
+
+
+<endpoint name=" 904. Super Hits - Guadalajara - Internet Only  - Hits " description=" 904. Super Hits - Guadalajara - Internet Only  - Hits  -  - website: undefined" url="http://www.superhits.com.mx/sh.ram"></endpoint>
+
+<endpoint name=" 906. Suprema 64 AM XHCRI - San Cristóbal de las Casas - Internet Only  - Variety " description=" 906. Suprema 64 AM XHCRI - San Cristóbal de las Casas - Internet Only  - Variety  -  - website: undefined" url="mms://xewm.serverroom.us/xewm"></endpoint>
+
+<endpoint name=" 908. Sur Online - Tejupilco - FM  - Regional " description=" 908. Sur Online - Tejupilco - FM  - Regional  -  - website: undefined" url="http://208.53.190.158:8712/listen.pls"></endpoint>
+
+
+<endpoint name=" 911. Tlaxcallanradio - Tlaxcala - Internet Only  - Variety " description=" 911. Tlaxcallanradio - Tlaxcala - Internet Only  - Variety  -  - website: undefined" url="http://189.131.28.93:8000/listen.pls"></endpoint>
+
+<endpoint name=" 913. Touch-Radio - Guadalajara - Internet Only  - Variety " description=" 913. Touch-Radio - Guadalajara - Internet Only  - Variety  -  - website: undefined" url="http://76.73.88.227:8888/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 918. TRIONICCA webradio - San Luis Potosí - Internet Only  - Variety " description=" 918. TRIONICCA webradio - San Luis Potosí - Internet Only  - Variety  -  - website: undefined" url="http://tu-panel.com:8010/listen.pls"></endpoint>
+
+<endpoint name=" 920. Trovando Radio - Tlalnepantla - Internet Only  - Trova " description=" 920. Trovando Radio - Tlalnepantla - Internet Only  - Trova  -  - website: undefined" url="http://75.126.195.251:8235/listen.pls"></endpoint>
+
+<endpoint name=" 922. Tu Radio Musical - Guasave - Variety " description=" 922. Tu Radio Musical - Guasave - Variety  -  - website: undefined" url="http://74.81.94.122:8100"></endpoint>
+<endpoint name=" 923. TU VOZ INTERACTIVARADIO - Valle de Chalco - Internet Only  - Variety " description=" 923. TU VOZ INTERACTIVARADIO - Valle de Chalco - Internet Only  - Variety  -  - website: undefined" url="http://208.43.218.127:8096/listen.pls"></endpoint>
+
+<endpoint name=" 925. TV RADIO COM - Cd. de México - FM  - Variety " description=" 925. TV RADIO COM - Cd. de México - FM  - Variety  -  - website: undefined" url="http://grupoelectrotopradiomexico.com/cast/tunein.php/sonorritmica/playlist.asx"></endpoint>
+<endpoint name=" 926. UFM Alterna - Cuautla - FM  - Variety " description=" 926. UFM Alterna - Cuautla - FM  - Variety  -  - website: undefined" url="rtsp://streaming.dti.uaem.mx:8000/ufm1.sdp"></endpoint>
+<endpoint name=" 927. Ultra - Veracruz - AM  - Variety " description=" 927. Ultra - Veracruz - AM  - Variety  -  - website: undefined" url="rtsp://200.94.18.6/broadcast/lanena770am.rm"></endpoint>
+
+
+
+<endpoint name=" 931. Ultra FM - León - FM  - Variety " description=" 931. Ultra FM - León - FM  - Variety  -  - website: undefined" url="http://radio.promosat.com:8104/listen.pls"></endpoint>
+
+<endpoint name=" 933. UltraRadio - Guadalajara - Internet Only  - Adult Contemporary " description=" 933. UltraRadio - Guadalajara - Internet Only  - Adult Contemporary  -  - website: undefined" url="http://www.ultraradio.com.mx/radiohits.ram"></endpoint>
+
+
+
+
+
+
+
+<endpoint name=" 941. ViveMásRadio! - Cd. de México - Internet Only  - Rock " description=" 941. ViveMásRadio! - Cd. de México - Internet Only  - Rock  -  - website: undefined" url="http://74.222.4.101:7120/listen.pls"></endpoint>
+
+
+<endpoint name=" 944. Vozdgo - Durango - FM  - Variety " description=" 944. Vozdgo - Durango - FM  - Variety  -  - website: undefined" url="http://201.101.10.208:8000/listen.pls"></endpoint>
+
+
+
+
+
+<endpoint name=" 950. W Radio 1070 AM - Cd. Obregón - AM  - News " description=" 950. W Radio 1070 AM - Cd. Obregón - AM  - News  -  - website: undefined" url="mms://200.57.91.183/wmtencoder/xeobs.wma"></endpoint>
+
+
+<endpoint name=" 953. W RADIO 940 AM - Villahermosa - FM  - Top 40 " description=" 953. W RADIO 940 AM - Villahermosa - FM  - Top 40  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xerec.wma"></endpoint>
+
+
+
+<endpoint name=" 957. XEACD - Radio Formula - Acapulco - AM  - News / Talk " description=" 957. XEACD - Radio Formula - Acapulco - AM  - News / Talk  -  - website: undefined" url="rtsp://200.78.234.7/broadcast/0970.rm"></endpoint>
+<endpoint name=" 958. XEAD Metropoli 101.9 FM - Guadalajara - FM  - Adult Contemporary / Latin Hits " description=" 958. XEAD Metropoli 101.9 FM - Guadalajara - FM  - Adult Contemporary / Latin Hits  -  - website: undefined" url="http://www.notisistema.com/metropoli.asx"></endpoint>
+<endpoint name=" 959. XEAJ 1330 - Saltillo - AM  - News / Talk " description=" 959. XEAJ 1330 - Saltillo - AM  - News / Talk  -  - website: undefined" url="http://201.100.41.241:8000/listen.pls"></endpoint>
+
+
+<endpoint name=" 962. XEBG Radio 15-50 1550 AM - Tijuana - AM  - Variety " description=" 962. XEBG Radio 15-50 1550 AM - Tijuana - AM  - Variety  -  - website: undefined" url="http://216.245.220.82:2032/listen.pls"></endpoint>
+
+<endpoint name=" 964. XEBM La Mera Mera 105.7 FM - San Luis Potosí - FM  - Top 40 " description=" 964. XEBM La Mera Mera 105.7 FM - San Luis Potosí - FM  - Top 40  -  - website: undefined" url="http://pointers.audiovideoweb.com/asxfiles-live/1c2winlive6629.asx"></endpoint>
+
+<endpoint name=" 966. XECAV - Stereo Imagen - Durango - FM  - Hits " description=" 966. XECAV - Stereo Imagen - Durango - FM  - Hits  -  - website: undefined" url="http://38.96.148.70:9178/listen.pls"></endpoint>
+<endpoint name=" 967. XECD - Puebla - AM  - Local Radio " description=" 967. XECD - Puebla - AM  - Local Radio  -  - website: undefined" url="http://radio.solidred.com.mx:7211/listen.pls"></endpoint>
+<endpoint name=" 968. XECE KeBuena 1240 AM - Oaxaca - AM  - Variety " description=" 968. XECE KeBuena 1240 AM - Oaxaca - AM  - Variety  -  - website: undefined" url="mms://66.175.96.10/mxkebuena"></endpoint>
+<endpoint name=" 969. XECF La Mexicana 1410 AM - Los Mochis - AM  - Top 40 " description=" 969. XECF La Mexicana 1410 AM - Los Mochis - AM  - Top 40  -  - website: undefined" url="http://rsn.com.mx/listas/playlist_mexicana.asx"></endpoint>
+
+<endpoint name=" 971. XECHH Capital Maxima 650 - Cd. de México - Internet Only  - News " description=" 971. XECHH Capital Maxima 650 - Cd. de México - Internet Only  - News  -  - website: undefined" url="mms://gruporadiocapital.com.mx/xechh"></endpoint>
+
+
+
+
+<endpoint name=" 976. XECZ - ABC Radio - San Luis Potosí - AM  - News / Talk " description=" 976. XECZ - ABC Radio - San Luis Potosí - AM  - News / Talk  -  - website: undefined" url="rtsp://200.57.128.89/broadcast/abcradio.rm"></endpoint>
+
+<endpoint name=" 978. XEDF Uno 104.1 FM - Cd. de México - FM  - Adult Contemporary / Talk / News " description=" 978. XEDF Uno 104.1 FM - Cd. de México - FM  - Adult Contemporary / Talk / News  -  - website: undefined" url="rtsp://148.243.98.3/broadcast/1041.rm"></endpoint>
+<endpoint name=" 979. XEDF Uno 1470 AM - Cd. de México - AM  - Talk / News / Sports " description=" 979. XEDF Uno 1470 AM - Cd. de México - AM  - Talk / News / Sports  -  - website: undefined" url="rtsp://148.243.98.3/broadcast/1470.rm"></endpoint>
+<endpoint name=" 980. XEDK En Todas Partes 1250 AM - Guadalajara - AM  - Adult Contemporany " description=" 980. XEDK En Todas Partes 1250 AM - Guadalajara - AM  - Adult Contemporany  -  - website: undefined" url="mms://wm5.spacialnet.com/radiorama35729"></endpoint>
+<endpoint name=" 981. XEDKT Radio Ranchito 1340 AM - Guadalajara - AM  - Ranchera " description=" 981. XEDKT Radio Ranchito 1340 AM - Guadalajara - AM  - Ranchera  -  - website: undefined" url="mms://wm3.spacialnet.com/radiorama35730"></endpoint>
+<endpoint name=" 982. XEDRD - W Radio - Durango - AM  - News / Talk " description=" 982. XEDRD - W Radio - Durango - AM  - News / Talk  -  - website: undefined" url="http://www.wradio.com.mx/player.aspx?id=zfE+cCh18sDes6ctAilxlnUeNBtHhdQiX2JWEDWNcpH2l4XM30KE723wB6kXx2FzYEdgFwUJNQ8="></endpoint>
+<endpoint name=" 983. XEDU - La Que Le Gusta a Ud - Durango - AM  - Top 40 " description=" 983. XEDU - La Que Le Gusta a Ud - Durango - AM  - Top 40  -  - website: undefined" url="http://www.xedu860.com/stream_files/xedu860.asx"></endpoint>
+
+
+
+<endpoint name=" 987. XEEX - Radio Formula Culiacán - Culiacán - AM  - News / Talk " description=" 987. XEEX - Radio Formula Culiacán - Culiacán - AM  - News / Talk  -  - website: undefined" url="rtsp://148.243.98.2/broadcast/culiacan.rm"></endpoint>
+<endpoint name=" 988. XEFAMA Radio Fama 960 AM - Cd. Camargo - AM  - Adult Contemporany " description=" 988. XEFAMA Radio Fama 960 AM - Cd. Camargo - AM  - Adult Contemporany  -  - website: undefined" url="http://siscom.serverroom.us:7976/listen.pls"></endpoint>
+<endpoint name=" 989. XEFAMA Radio Fama 960 AM - Camargo - AM  - Adult Contemporany " description=" 989. XEFAMA Radio Fama 960 AM - Camargo - AM  - Adult Contemporany  -  - website: undefined" url="http://siscom.serverroom.us:7976/listen.pls"></endpoint>
+
+
+<endpoint name=" 992. XEFG La Pachanga 840 AM - Celaya - AM  - Latin Hits " description=" 992. XEFG La Pachanga 840 AM - Celaya - AM  - Latin Hits  -  - website: undefined" url="http://66.90.104.71:9540/listen.pls"></endpoint>
+
+
+<endpoint name=" 995. XEG Ranchera 1050 AM - Monterrey - AM  - Folklore " description=" 995. XEG Ranchera 1050 AM - Monterrey - AM  - Folklore  -  - website: undefined" url="http://www.streamaudio.com/stations/player/pages/newplayer/auth/GenerateASX1.asp?t1=cc244e467521aa385031bd99f51f5198&amp;s=1231&amp;y=2008&amp;m=2&amp;d=21&amp;hh=12&amp;mm=28&amp;ss=40&amp;ntk="></endpoint>
+<endpoint name=" 996. XEGAJ-AM Radio Fórmula - Guadalajara - AM  - News " description=" 996. XEGAJ-AM Radio Fórmula - Guadalajara - AM  - News  -  - website: undefined" url="rtsp://148.243.98.2/broadcast/guadalajara1a.rm"></endpoint>
+<endpoint name=" 997. XEGW Planeta W 1380 - Cd. de México - AM  - Latin Hits " description=" 997. XEGW Planeta W 1380 - Cd. de México - AM  - Latin Hits  -  - website: undefined" url="mms://200.57.91.181/wmtencoder/xeco.wma"></endpoint>
+
+<endpoint name=" 999. XEHT - Radio Huamantla - Huamantla - AM  - Variety " description=" 999. XEHT - Radio Huamantla - Huamantla - AM  - Variety  -  - website: undefined" url="http://audioenlinea.net:6600/"></endpoint>
+
+<endpoint name=" 1001. XEIN Romántica 13-20 AM - Uruapan - AM  - Romantic / News / Talk " description=" 1001. XEIN Romántica 13-20 AM - Uruapan - AM  - Romantic / News / Talk  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xeni.wma"></endpoint>
+<endpoint name=" 1002. XEIP -XHIP La Poderosa - Morelia - AM  - Variety " description=" 1002. XEIP -XHIP La Poderosa - Morelia - AM  - Variety  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xeipxhip.wma"></endpoint>
+
+<endpoint name=" 1004. XEIT - Exa FM - Cd. del Carmen - FM  - Top 40 " description=" 1004. XEIT - Exa FM - Cd. del Carmen - FM  - Top 40  -  - website: undefined" url="mms://200.57.91.185/wmtencoder/xeitxhit.wma"></endpoint>
+
+<endpoint name=" 1006. XEJE Radio Reyna 1370 AM - Dolores Hidalgo - AM  - Variety " description=" 1006. XEJE Radio Reyna 1370 AM - Dolores Hidalgo - AM  - Variety  -  - website: undefined" url="http://208.53.131.12:7850/listen.pls"></endpoint>
+
+
+<endpoint name=" 1009. XEJX 1250 AM - Querétaro - AM  - Classic Hits  " description=" 1009. XEJX 1250 AM - Querétaro - AM  - Classic Hits   -  - website: undefined" url="rtsp://148.243.98.2/broadcast/queretaro2a.rm"></endpoint>
+<endpoint name=" 1010. XEK La Estacion Grande de Nuevo Laredo 960 AM - Nuevo Laredo - AM  - Adult Contemporany " description=" 1010. XEK La Estacion Grande de Nuevo Laredo 960 AM - Nuevo Laredo - AM  - Adult Contemporany  -  - website: undefined" url="0"></endpoint>
+
+
+<endpoint name=" 1013. XELY Fórmula 870 - Morelia - AM  - News / Talk " description=" 1013. XELY Fórmula 870 - Morelia - AM  - News / Talk  -  - website: undefined" url="0"></endpoint>
+
+
+
+<endpoint name=" 1017. XEMON 1370 AM Radio Fórmula - Monterrey - Internet Only  - News / Talk " description=" 1017. XEMON 1370 AM Radio Fórmula - Monterrey - Internet Only  - News / Talk  -  - website: undefined" url="rtsp://148.243.98.2/broadcast/monterrey2a.rm"></endpoint>
+
+
+
+<endpoint name=" 1021. XENQ Radio Tulancingo - Tulancingo - Variety " description=" 1021. XENQ Radio Tulancingo - Tulancingo - Variety  -  - website: undefined" url="http://74.86.22.66:8020/listen.pls"></endpoint>
+<endpoint name=" 1022. XENV - Radio 13 - Monterrey - FM  - News / Talk " description=" 1022. XENV - Radio 13 - Monterrey - FM  - News / Talk  -  - website: undefined" url="http://radiotrece.serverroom.us:5884/listen.pls"></endpoint>
+
+<endpoint name=" 1024. XEOK 900 AM - Monterrey - AM  - Soccer / News " description=" 1024. XEOK 900 AM - Monterrey - AM  - Soccer / News  -  - website: undefined" url="http://transmiteporinternet.com:8230/listen.pls"></endpoint>
+<endpoint name=" 1025. XEPO - Imagen 1100 - San Luis Potosí - AM  - News / Talk " description=" 1025. XEPO - Imagen 1100 - San Luis Potosí - AM  - News / Talk  -  - website: undefined" url="http://pointers.audiovideoweb.com/asxfiles-live/il81winlive2042.asx"></endpoint>
+<endpoint name=" 1026. XEPRU - La Z 92.9 España FM - Durango - FM  - Country " description=" 1026. XEPRU - La Z 92.9 España FM - Durango - FM  - Country  -  - website: undefined" url="http://201.116.153.13:8000/listen.pls"></endpoint>
+
+<endpoint name=" 1028. XEQL  Catedral de la Musica - Zamora - AM  - Variety " description=" 1028. XEQL  Catedral de la Musica - Zamora - AM  - Variety  -  - website: undefined" url="http://radios.webos.com.mx:8370/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 1032. XEQS 930 AM - Fresnillo - AM  - Hits " description=" 1032. XEQS 930 AM - Fresnillo - AM  - Hits  -  - website: undefined" url="http://189.200.246.140:930/listen.pls"></endpoint>
+<endpoint name=" 1033. XEQW - QW Radio - Mérida - AM  - Latin Hits " description=" 1033. XEQW - QW Radio - Mérida - AM  - Latin Hits  -  - website: undefined" url="http://208.43.0.154:8008/listen.pls"></endpoint>
+<endpoint name=" 1034. XEQW La Qbanita 550 AM - Mérida - AM  - Variety " description=" 1034. XEQW La Qbanita 550 AM - Mérida - AM  - Variety  -  - website: undefined" url="http://208.43.0.154:8008/listen.pls"></endpoint>
+
+
+
+
+
+
+
+<endpoint name=" 1042. XERCN Radio Hispana 1470 AM - Tijuana - AM  - Variety " description=" 1042. XERCN Radio Hispana 1470 AM - Tijuana - AM  - Variety  -  - website: undefined" url="http://pointers.audiovideoweb.com/asxfiles-live/nj45winlive9773.asx"></endpoint>
+
+
+
+
+<endpoint name=" 1047. XERTP - La Poderosa - San Martín Texmelucan - AM  - Regional " description=" 1047. XERTP - La Poderosa - San Martín Texmelucan - AM  - Regional  -  - website: undefined" url="mms://200.57.91.182/wmtencoder/xhteu.wma"></endpoint>
+<endpoint name=" 1048. XERUV Radio Universidad Veracruzana 1550 AM - Xalapa - AM  - College " description=" 1048. XERUV Radio Universidad Veracruzana 1550 AM - Xalapa - AM  - College  -  - website: undefined" url="mms://148.226.22.2/radiouv"></endpoint>
+
+
+
+<endpoint name=" 1052. XETE Punto Digital - Puebla - AM  - Latin Hits " description=" 1052. XETE Punto Digital - Puebla - AM  - Latin Hits  -  - website: undefined" url="mms://74.54.28.242/puntodigital"></endpoint>
+
+<endpoint name=" 1054. XETIA Melodica 97.9 FM - Guadalajara - Latin Hits " description=" 1054. XETIA Melodica 97.9 FM - Guadalajara - Latin Hits  -  - website: undefined" url="http://www.notisistema.com/formula.asx"></endpoint>
+<endpoint name=" 1055. XETT - Radio Tlaxcala 1430 - Tlaxcala - AM  - News / Talk " description=" 1055. XETT - Radio Tlaxcala 1430 - Tlaxcala - AM  - News / Talk  -  - website: undefined" url="http://68.178.226.158:9000/listen.pls"></endpoint>
+<endpoint name=" 1056. XEU La U de Veracruz 930 AM - Veracruz - AM  - News / Talk " description=" 1056. XEU La U de Veracruz 930 AM - Veracruz - AM  - News / Talk  -  - website: undefined" url="http://gpazos.centrocibernetico.com/xeu/listen.pls"></endpoint>
+<endpoint name=" 1057. XEUAS - Radio UASinalo - Culiacán - AM  - College " description=" 1057. XEUAS - Radio UASinalo - Culiacán - AM  - College  -  - website: undefined" url="0"></endpoint>
+
+<endpoint name=" 1059. XEUN AM 860 - Cd. de México - AM  - College " description=" 1059. XEUN AM 860 - Cd. de México - AM  - College  -  - website: undefined" url="http://radio.dgsca.unam.mx:8000/listen.pls"></endpoint>
+
+
+<endpoint name=" 1062. XEVF 730 A.M. RADIO VILLAFLORES - Villaflores - AM  - Latin Hits " description=" 1062. XEVF 730 A.M. RADIO VILLAFLORES - Villaflores - AM  - Latin Hits  -  - website: undefined" url="mms://wm10.spacialnet.com/BDSI_730am"></endpoint>
+
+
+<endpoint name=" 1065. XEVSS - Radio Trece - Hermosillo - AM  - News / Talk " description=" 1065. XEVSS - Radio Trece - Hermosillo - AM  - News / Talk  -  - website: undefined" url="http://radiotrece.serverroom.us:5884/listen.pls"></endpoint>
+
+<endpoint name=" 1067. XEWJ Fórmula 1420 - Tehuacán - AM  - Variety " description=" 1067. XEWJ Fórmula 1420 - Tehuacán - AM  - Variety  -  - website: undefined" url="http://pump.com.mx:8035/listen.pls"></endpoint>
+<endpoint name=" 1068. XEX Estadio W 730 AM - Cd. de México - AM  - Variety " description=" 1068. XEX Estadio W 730 AM - Cd. de México - AM  - Variety  -  - website: undefined" url="mms://sdstrm.r2ventures.com/SportsYa-EstadioW"></endpoint>
+<endpoint name=" 1069. XEXE 1090AM - Querétaro - AM  - News / Talk " description=" 1069. XEXE 1090AM - Querétaro - AM  - News / Talk  -  - website: undefined" url="rtsp://148.243.98.2/broadcast/queretaro1a.rm"></endpoint>
+<endpoint name=" 1070. XEYF - Radio Formula - Hermosillo - AM  - News / Talk " description=" 1070. XEYF - Radio Formula - Hermosillo - AM  - News / Talk  -  - website: undefined" url="rtsp://200.78.234.7/broadcast/0970.rm"></endpoint>
+<endpoint name=" 1071. XEZ - Mérida - Variety " description=" 1071. XEZ - Mérida - Variety  -  - website: undefined" url="0"></endpoint>
+<endpoint name=" 1072. XEZM  La Zamorana - Zamora - AM  - Variety " description=" 1072. XEZM  La Zamorana - Zamora - AM  - Variety  -  - website: undefined" url="http://radios.webos.com.mx:8360/listen.pls"></endpoint>
+
+
+<endpoint name=" 1075. XHAUT 102.3 FM Radio Universidad de Guadalajara Autlán - Autlán de la Grana - FM  - Variety " description=" 1075. XHAUT 102.3 FM Radio Universidad de Guadalajara Autlán - Autlán de la Grana - FM  - Variety  -  - website: undefined" url="rtsp://148.202.165.1/broadcast/xhaut.rm"></endpoint>
+
+
+
+<endpoint name=" 1079. XHCM - La Mexicana - Cuernavaca - FM  - Regional " description=" 1079. XHCM - La Mexicana - Cuernavaca - FM  - Regional  -  - website: undefined" url="http://www.radioramamorelos.com.mx/Radio/mexicana.wax"></endpoint>
+
+<endpoint name=" 1081. XHDGO La Super Grupera 103.7 FM - Durango - FM  - Top 40 " description=" 1081. XHDGO La Super Grupera 103.7 FM - Durango - FM  - Top 40  -  - website: undefined" url="http://ignacio.serverroom.us:9000/listen.pls"></endpoint>
+<endpoint name=" 1082. XHEDO Estereo Esmeralda 94.1 FM - Puerto Escondido - FM  - Adult Contemporany " description=" 1082. XHEDO Estereo Esmeralda 94.1 FM - Puerto Escondido - FM  - Adult Contemporany  -  - website: undefined" url="http://207.182.149.180:8040/listen.pls"></endpoint>
+
+
+<endpoint name=" 1085. XHFTI Laser 89.5 FM - Veracruz - FM  - Adult Contemporany " description=" 1085. XHFTI Laser 89.5 FM - Veracruz - FM  - Adult Contemporany  -  - website: undefined" url="http://209.62.43.178:8600/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 1089. XHIN - Planeta 95.3 - Culiacán - FM  - Top 40 " description=" 1089. XHIN - Planeta 95.3 - Culiacán - FM  - Top 40  -  - website: undefined" url="mms://200.57.91.183/wmtencoder/xhin.wma"></endpoint>
+<endpoint name=" 1090. XHINS Radiotec 100.1 - Saltillo - FM  - College " description=" 1090. XHINS Radiotec 100.1 - Saltillo - FM  - College  -  - website: undefined" url="http://radiotec.its.mx:8000/listen.pls"></endpoint>
+
+
+
+
+
+<endpoint name=" 1096. XHMIX Zona 98.3 - Mexicali - FM  - Classic Rock " description=" 1096. XHMIX Zona 98.3 - Mexicali - FM  - Classic Rock  -  - website: undefined" url="http://216.245.220.82:2016/listen.pls"></endpoint>
+
+
+
+<endpoint name=" 1100. XHMSL Stereo Uno 101.3 FM - Los Mochis - FM  - Variety " description=" 1100. XHMSL Stereo Uno 101.3 FM - Los Mochis - FM  - Variety  -  - website: undefined" url="http://rsn.com.mx/listas/playlist_st1.asx"></endpoint>
+<endpoint name=" 1101. XHMZL - Radio Cultura - Mazatlán - FM  - Adult Contemporany " description=" 1101. XHMZL - Radio Cultura - Mazatlán - FM  - Adult Contemporany  -  - website: undefined" url="http://132.248.118.4:8000/listen.pls"></endpoint>
+<endpoint name=" 1102. XHNF Ke Buena 97.7 - Tepic - FM  - Banda " description=" 1102. XHNF Ke Buena 97.7 - Tepic - FM  - Banda  -  - website: undefined" url="mms://200.57.91.184/wmtencoder/xhnf.wma"></endpoint>
+<endpoint name=" 1103. XHNG - Los 40 Principales - Cuernavaca - FM  - Top 40 " description=" 1103. XHNG - Los 40 Principales - Cuernavaca - FM  - Top 40  -  - website: undefined" url="http://www.radioramamorelos.com.mx/cgi-bin/radio.cgi?estacion=4"></endpoint>
+<endpoint name=" 1104. XHNOE Stereo 91 - Nuevo Laredo - FM  - Variety " description=" 1104. XHNOE Stereo 91 - Nuevo Laredo - FM  - Variety  -  - website: undefined" url="http://www.xhnoe.com/Audios/xhnoe-fm-2.asx"></endpoint>
+<endpoint name=" 1105. XHNP - La Grupera - Puebla - FM  - Regional " description=" 1105. XHNP - La Grupera - Puebla - FM  - Regional  -  - website: undefined" url="mms://74.54.28.242/grupera"></endpoint>
+<endpoint name=" 1106. XHNW (Maxi Radio) 103.3 - Cd. de México - FM  - Variety " description=" 1106. XHNW (Maxi Radio) 103.3 - Cd. de México - FM  - Variety  -  - website: undefined" url="http://stream01.streaming.com.mx:8000/listen.pls"></endpoint>
+
+
+
+
+<endpoint name=" 1111. XHOO Fiesta Mexicana 102.3 FM - Guadalajara - Internet Only  - Grupero " description=" 1111. XHOO Fiesta Mexicana 102.3 FM - Guadalajara - Internet Only  - Grupero  -  - website: undefined" url="http://radio7.wnsol.net:8300/listen.pls"></endpoint>
+<endpoint name=" 1112. XHORO - Puebla - Variety " description=" 1112. XHORO - Puebla - Variety  -  - website: undefined" url="http://radio.solidred.com.mx:7201/listen.pls"></endpoint>
+<endpoint name=" 1113. XHOT Maquina 97.7 FM - Xalapa - FM  - Latin Hits " description=" 1113. XHOT Maquina 97.7 FM - Xalapa - FM  - Latin Hits  -  - website: undefined" url="0"></endpoint>
+
+
+
+<endpoint name=" 1117. XHQJ Extasis Digital 105.9 FM - Guadalajara - FM  - Adulto Contemporary " description=" 1117. XHQJ Extasis Digital 105.9 FM - Guadalajara - FM  - Adulto Contemporary  -  - website: undefined" url="mms://wm5.spacialnet.com/radiorama35376"></endpoint>
+
+
+<endpoint name=" 1120. XHREL Radio Michoacan SMRTV 106.9 FM - Morelia - FM  - Public " description=" 1120. XHREL Radio Michoacan SMRTV 106.9 FM - Morelia - FM  - Public  -  - website: undefined" url="http://radio.smrtv.michoacan.gob.mx:8007/listen.pls"></endpoint>
+<endpoint name=" 1121. XHRL Genesis 98.1 FM - Monterrey - FM  - Top 40 " description=" 1121. XHRL Genesis 98.1 FM - Monterrey - FM  - Top 40  -  - website: undefined" url="mms://uni4.sa.streamaudio.com/XHRL_FM?SAT=a257391a612445e549805ea0f589ad3c&amp;ts=1203621259593&amp;s=1410&amp;y=2008&amp;m=2&amp;d=21&amp;hh=11&amp;mm=12&amp;ss=13"></endpoint>
+
+<endpoint name=" 1123. XHRX La Tapatia 103.5 FM - Guadalajara - FM  - Grupero " description=" 1123. XHRX La Tapatia 103.5 FM - Guadalajara - FM  - Grupero  -  - website: undefined" url="mms://wm3.spacialnet.com/radiorama35728"></endpoint>
+
+
+
+
+<endpoint name=" 1128. XHSOC SER Coahuila 89.7 FM - Saltillo - FM  - Public " description=" 1128. XHSOC SER Coahuila 89.7 FM - Saltillo - FM  - Public  -  - website: undefined" url="http://67.159.45.136:7046/listen.pls"></endpoint>
+
+
+<endpoint name=" 1131. XHSW - La Picuda - Cuernavaca - FM  - Folklore " description=" 1131. XHSW - La Picuda - Cuernavaca - FM  - Folklore  -  - website: undefined" url="http://www.radioramamorelos.com.mx/Radio/picuda.wax"></endpoint>
+<endpoint name=" 1132. XHTB - Extasis Digital - Cuernavaca - FM  - Classic Hits  " description=" 1132. XHTB - Extasis Digital - Cuernavaca - FM  - Classic Hits   -  - website: undefined" url="http://www.radioramamorelos.com.mx/Radio/extasis.wax"></endpoint>
+<endpoint name=" 1133. XHTGU 93.9 FM - Tuxtla Gutiérrez - FM  - Cultural " description=" 1133. XHTGU 93.9 FM - Tuxtla Gutiérrez - FM  - Cultural  -  - website: undefined" url="mms://148.233.8.212/radio93.9"></endpoint>
+<endpoint name=" 1134. XHTLAX - Radio Altiplano - Tlaxcala - FM  - Community " description=" 1134. XHTLAX - Radio Altiplano - Tlaxcala - FM  - Community  -  - website: undefined" url="http://68.178.226.158:8000/listen.pls"></endpoint>
+
+<endpoint name=" 1136. XHTS YA! 102.9 FM - Veracruz - FM  - Top 40 " description=" 1136. XHTS YA! 102.9 FM - Veracruz - FM  - Top 40  -  - website: undefined" url="0"></endpoint>
+<endpoint name=" 1137. XHTXA Calor 93.9 FM - Veracruz - FM  - Latin Hits " description=" 1137. XHTXA Calor 93.9 FM - Veracruz - FM  - Latin Hits  -  - website: undefined" url="http://209.62.43.178:9000"></endpoint>
+
+
+<endpoint name=" 1140. XHUG Universidad de Guadalajara 104.3 FM - Guadalajara - FM  - College " description=" 1140. XHUG Universidad de Guadalajara 104.3 FM - Guadalajara - FM  - College  -  - website: undefined" url="rtsp://148.202.165.1/broadcast/cuc.rm"></endpoint>
+
+<endpoint name=" 1142. XHUIA Radio Ibero 90.9 FM - Cd. de México - College " description=" 1142. XHUIA Radio Ibero 90.9 FM - Cd. de México - College  -  - website: undefined" url="mms://192.203.177.78/wmtencoder/radio.wmv"></endpoint>
+<endpoint name=" 1143. XHUNES España FM 92.9 - Durango - FM  - Variety " description=" 1143. XHUNES España FM 92.9 - Durango - FM  - Variety  -  - website: undefined" url="http://201.116.153.13:8000/listen.pls"></endpoint>
+<endpoint name=" 1144. XHUNO - Magia 101 - Aguascalientes - FM  - Pop " description=" 1144. XHUNO - Magia 101 - Aguascalientes - FM  - Pop  -  - website: undefined" url="http://201.151.158.7:88/broadwave.asx?src=1&amp;kbps=5"></endpoint>
+<endpoint name=" 1145. XHUZ - Expresion Total - Aguascalientes - FM  - Public " description=" 1145. XHUZ - Expresion Total - Aguascalientes - FM  - Public  -  - website: undefined" url="mms://207.248.119.160/RyTA_FM"></endpoint>
+<endpoint name=" 1146. XHVIC Radio Tamaulipas 107.9 FM - Tamaulipas - FM  - Variety " description=" 1146. XHVIC Radio Tamaulipas 107.9 FM - Tamaulipas - FM  - Variety  -  - website: undefined" url="mms://200.23.59.10/radiotam"></endpoint>
+<endpoint name=" 1147. XHVJS La Ke Buena 103.3 FM - Cd. Obregón - FM  - Top 40 " description=" 1147. XHVJS La Ke Buena 103.3 FM - Cd. Obregón - FM  - Top 40  -  - website: undefined" url="http://208.53.131.169:8199/listen.pls"></endpoint>
+
+
+<endpoint name=" 1150. XHXZ - FM Centro - Apizaco - FM  - Top 40 " description=" 1150. XHXZ - FM Centro - Apizaco - FM  - Top 40  -  - website: undefined" url="http://95.154.211.187:28409"></endpoint>
+
+
+
+
+<endpoint name=" 1155. Xplosion Radio - Cd. de México - FM  - Variety " description=" 1155. Xplosion Radio - Cd. de México - FM  - Variety  -  - website: undefined" url="http://75.125.141.146/playlist.asx"></endpoint>
+<endpoint name=" 1156. Xtreme Radio - Córdoba - FM  - Variety " description=" 1156. Xtreme Radio - Córdoba - FM  - Variety  -  - website: undefined" url="http://72.44.83.180:8460"></endpoint>
+
+
+
+<endpoint name=" 1160. Yradiamos. La Radio que te Escucha... - Aguascalientes - Internet Only  - Variety " description=" 1160. Yradiamos. La Radio que te Escucha... - Aguascalientes - Internet Only  - Variety  -  - website: undefined" url="http://76.73.1.150:8078/listen.pls"></endpoint>
+<endpoint name=" 1161. ZONA 98 - Mexicali - Internet Only  - Variety " description=" 1161. ZONA 98 - Mexicali - Internet Only  - Variety  -  - website: undefined" url="http://216.245.220.82:2016/listen.pls"></endpoint>
+
+
+<endpoint name=" 1164. ZRadio - Zacatepec - Internet Only  - Variety " description=" 1164. ZRadio - Zacatepec - Internet Only  - Variety  -  - website: undefined" url="http://216.14.126.190:8002/listen.pls"></endpoint>
+<endpoint name=" 1165. ¡La VOZ del Pacífico Sur! - San Pedro Pochutla - FM  - Grupera " description=" 1165. ¡La VOZ del Pacífico Sur! - San Pedro Pochutla - FM  - Grupera  -  - website: undefined" url="http://streamingpulse.info/sc8/tunein.php/alvortiz/playlist.asx"></endpoint>
+
+</section>
+</document>

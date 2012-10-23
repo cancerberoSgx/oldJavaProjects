@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<document>
+<section description="" image="" name="France">
+<endpoint name="Art Channel - Paris" description="Variety TV - Paris - 341 Kbps - website: http://www.artchannel.info/" url="http://streaming.i2i-technology.com/artChannelBB"></endpoint>
+<endpoint name="ASTV - Grande-Synthe" description="TV Broadcast - Grande-Synthe - 391 Kbps - website: http://www.telelocaleastv.fr/" url="mms://213.251.186.202:81/ASTV"></endpoint>
+<endpoint name="Biosphere - Arles" description="TV Tourism - Arles - 809 Kbps - website: http://www.planete-insolite.org/" url="http://live210.impek.com/biosphere"></endpoint>
+<endpoint name="BFM TV - Paris" description="TV Broadcast - Paris - 348 Kbps - website: http://www.bfmtv.fr/" url="http://vipmms9.yacast.net/bfm_bfmtv"></endpoint>
+<endpoint name="Calais TV - Calais" description="TV Broadcast - Calais - 428 Kbps - website: http://www.calaistv.fr/" url="mms://91.121.2.60/calaistv"></endpoint>
+<endpoint name="Canalmoza - Sophia Antipoli" description="Music TV - Sophia Antipoli - 302 Kbps - website: http://www.canalmoza.info/" url="http://live210.impek.com/soul"></endpoint>
+<endpoint name="CAP 24 - Paris" description="TV Broadcast - Paris - 360 Kbps - website: http://www.cap24.com/" url="http://wm.live.tv-radio.com/cap24_360k"></endpoint>
+<endpoint name="Clap TV - Internet" description="TV Broadcast - Internet - 800 Kbps - website: http://www.claptv.fr/" url="mms://rr93.diffusepro.com/rr93"></endpoint>
+<endpoint name="Direct 8 - Paris" description="TV News - Paris - 212 Kbps - website: http://www.direct8.fr/" url="http://a351.l2199361314.c21993.g.lm.akamaistream.net/D/351/21993/v0001/reflector:61314?auth=dbEdUbaaibkcCa3a9cXdTbjbWdCa9aQdGaL-blN8aQ-b4-4q-HzxAKprGv&amp;aifp=LIVE"></endpoint>
+<endpoint name="France 2 Journal de 08h - Paris" description="TV News - Paris - 441 Kbps - website: http://www.france2.fr/" url="http://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/cappuccino/production/publication/France_2/Autre/2010/S11/105835_HD_8h_20100316.wmv"></endpoint>
+<endpoint name="France 2 Journal de 13h - Paris" description="TV News - Paris - 441 Kbps - website: http://www.france2.fr/" url="http://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/cappuccino/production/publication/France_2/Autre/2010/S11/105969_HD_13h_20100316.wmv"></endpoint>
+<endpoint name="France 2 Journal de 20h - Paris" description="TV News - Paris - 441 Kbps - website: http://www.france2.fr/" url="http://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/cappuccino/production/publication/France_2/Autre/2010/S11/105810_HD_20h_20100315.wmv"></endpoint>
+<endpoint name="France 3 Journal du 12/13 - Paris" description="TV News - Paris - 441 Kbps - website: http://www.france3.fr/" url="http://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/cappuccino/production/publication/France_3/Autre/2010/S11/105948_HD_1214_20100316.wmv"></endpoint>
+<endpoint name="France 3 Journal du 19/20 Nationales - Paris" description="TV News - Paris - 441 Kbps - website: http://www.france3.fr/" url="http://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/cappuccino/production/publication/France_3/Autre/2010/S11/105807_HD_1920_20100315.wmv"></endpoint>
+<endpoint name="France 3 Le Soir 3 - Paris" description="TV News - Paris - 441 Kbps - website: http://www.france3.fr/" url="http://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/cappuccino/production/publication/France_3/Autre/2010/S11/105822_HD_soir3_20100315.wmv"></endpoint>
+<endpoint name="France Senat - Paris" description="Government TV - Paris - 350 Kbps - website: http://www.senat.fr/" url="mms://vipmms9.yacast.net/senat_hemi_wm"></endpoint>
+<endpoint name="France24 - Paris" description="TV Broadcast - Paris - 448 Kbps - website: http://www.france24.com/" url="mms://stream1.france24.yacast.net/f24_livefr"></endpoint>
+<endpoint name="France24 English - Paris" description="TV Broadcast - Paris - 448 Kbps - website: http://www.france24.com/" url="mms://stream1.france24.yacast.net/f24_liveen"></endpoint>
+<endpoint name="Hip Hop TV - Internet" description="Music TV - Internet - 512 Kbps - website: http://www.hiphoptelevision.tv/" url="http://www.impek.com/go/shiphop/wm"></endpoint>
+<endpoint name="iTELE - Paris" description="TV News - Paris - 390 Kbps - website: http://www.itele.fr/" url="http://www.itele.fr/"></endpoint>
+<endpoint name="Labelle TV - Pantin" description="Music TV - Pantin - 339 Kbps - website: http://labelletv.net/" url="http://www.labelletv.net/labelletv.asx"></endpoint>
+<endpoint name="LCP Assemblee Nationale - Chambery" description="Government TV - Chambery - 205 Kbps - website: http://www.lcpan.fr/" url="mms://vipmms9.yacast.net/rcs_lcplive"></endpoint>
+<endpoint name="Luso Phonie TV - Paris" description="Music TV - Paris - 332 Kbps - website: http://armindo.pedro.free.fr/" url="http://lusophonie.diffusepro.com/index.asx"></endpoint>
+<endpoint name="MBOA TV - Paris" description="Music TV - Paris - 346 Kbps - website: http://www.mboatv.com/" url="http://88.191.23.167/mboatv"></endpoint>
+<endpoint name="Mizik TV - Paris" description="Music TV - Paris - 150 Kbps - website: http://www.miziktv.com/" url="mms://live210.impek.com/mizik"></endpoint>
+<endpoint name="NRJ TV Dance - Paris" description="Music TV - Paris - 753 Kbps - website: http://www.nrj.fr/" url="http://vipnrj.yacast.net/nrj_webtv02"></endpoint>
+<endpoint name="NRJ TV Groove - Paris" description="Music TV - Paris - 753 Kbps - website: http://www.nrj.fr/" url="http://vipnrj.yacast.net/nrj_webtv01"></endpoint>
+<endpoint name="NRJ TV Hits - Paris" description="Music TV - Paris - 753 Kbps - website: http://www.nrj.fr/" url="http://vipnrj.yacast.net/nrj_tvhit"></endpoint>
+<endpoint name="NRJ TV Paris - Paris" description="Music TV - Paris - 753 Kbps - website: http://www.nrj.fr/" url="http://vipnrj.yacast.net/nrj_tvparis"></endpoint>
+<endpoint name="NRJ TV Pop Rock - Paris" description="Music TV - Paris - 753 Kbps - website: http://www.nrj.fr/" url="http://vipnrj.yacast.net/nrj_webtv03"></endpoint>
+<endpoint name="Paris Cap - Paris" description="TV Broadcast - Paris - 360 Kbps - website: http://www.pariscap.com/" url="mms://wm.live.tv-radio.com/cap24_360k"></endpoint>
+<endpoint name="Plaisance TV - Paris" description="TV Broadcast - Paris - 332 Kbps - website: http://www.teleplaisance.org/" url="mms://www.diffusepro.com/liveteleplaiz"></endpoint>
+<endpoint name="Soleil TV - Antilles" description="Music TV - Antilles - 512 Kbps - website: http://www.soleiltv.com/" url="http://www.soleiltv.com/antilles12.asx"></endpoint>
+<endpoint name="Tele Lyon Metropole - Lyon" description="TV Broadcast - Lyon - 216 Kbps - website: http://www.tlm.fr/" url="mms://91.121.38.105/tlm"></endpoint>
+<endpoint name="TELENiGHT - Lille" description="Music TV (Religious) - Lille - 548 Kbps - website: http://www.telenight.com/" url="mms://195.95.225.110/telenight"></endpoint>
+<endpoint name="TV Caraibes - Rennes" description="Music TV - Rennes - 512 Kbps - website: http://www.tvcaraibes.com/" url="http://www.impek.com/go/soleiltv/wm"></endpoint>
+<endpoint name="TV Grenoble - Mont Blanc" description="TV Broadcast - Mont Blanc - 343 Kbps - website: http://www.telegrenoble.net/" url="http://movix.sdv.fr:8084/teleg1.asf"></endpoint>
+<endpoint name="TVSF - Paris" description="TV Broadcast - Paris - 755 Kbps - website: http://www.tvsf.fr/" url="mms://stream.tvsf.fr/live"></endpoint>
+
+</section>
+</document>
