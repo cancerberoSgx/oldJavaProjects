@@ -1,0 +1,21 @@
+<!ELEMENT doci (widget*, style*)>
+<!-- layout-->
+
+<!ELEMENT widget (widget*, layout?)>
+	<!ATTLIST widget id CDATA #IMPLIED>
+	<!ATTLIST widget class CDATA #IMPLIED>
+	<!ATTLIST widget type (img|text|none) #IMPLIED>
+	<!ATTLIST widget background-color CDATA #IMPLIED>
+
+<!ELEMENT layout (property)*>
+<!ELEMENT property (#PCDATA)>
+	<!ATTLIST property name CDATA #IMPLIED>
+	<!ATTLIST property val CDATA #IMPLIED>
+	
+	<!-- style-->
+<!ELEMENT style (set*)>
+	<!ATTLIST style select CDATA #IMPLIED>
+	
+<!ELEMENT prop (#PCDATA)>
+	<!ATTLIST style name CDATA #IMPLIED>
+	<!ATTLIST style value CDATA #IMPLIED>

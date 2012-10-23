@@ -1,0 +1,26 @@
+<html>
+<head><title>hi</title>
+</head>
+<body>
+<script type="text/javascript" src="soundmanager2.js"></script>
+
+<script type="text/javascript">
+
+soundManager.debugMode = true;
+soundManager.url = "http://localhost:8080/mathWebThings/src/org/sgx/j2s/soundManager";
+
+//System.out.println(soundManager.onload);
+soundManager.onload = function() {
+  // SM2 is ready to go!
+  var mySound = soundManager.createSound({
+    id: 'aSound',
+    url: "smallPianoApp/C4.mp3",
+    volume: 50
+  });
+  mySound.play();
+}
+
+
+</script>
+</body>
+</html>
