@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project name="j2s" basedir="." default="compile">
+
+  <target name="project_init" description="Initialize environment">
+
+    <property name="component.name" value="j2s"/>
+    <property name="component.package" value="org.sgx.j2s"/>
+    <property name="component.title" value="java2script general utilities and little old programs"/>
+    <property name="component.version" value="0.1a"/>
+  	 <property name="path.src" value="src"/>
+  </target>
+
+	 <path id="compile.classpath">
+	        </path>
+  <import file="../build/build_common.xml" />
+
+</project>
