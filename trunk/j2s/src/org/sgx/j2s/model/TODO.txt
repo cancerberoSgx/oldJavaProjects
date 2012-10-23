@@ -1,0 +1,1 @@
+este paquete debería estar en un projecto por separado (org.sgx.model) y no dentro de j2s

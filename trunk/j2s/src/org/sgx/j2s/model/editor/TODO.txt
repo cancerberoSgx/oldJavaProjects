@@ -1,0 +1,1 @@
+utilizar model.editor.selection para todo lo que tenga que ver con los eventos de selección en lugar de model.events
