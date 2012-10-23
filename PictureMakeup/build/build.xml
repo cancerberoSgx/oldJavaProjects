@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     05/12/2009 17:17:19                                                        
+
+     Picturemakeup    
+     description
+                   
+     sebastian                                                                
+     ====================================================================== -->
+<project name="Picturemakeup" default="default">
+
+	<property file="build.properties"/>
+
+
+	<description>
+            description
+    </description>
+
+	<!-- ================================= 
+          target: default              
+         ================================= -->
+	<target name="default" depends="compile" description="description">
+
+	</target>
+
+	<target name="compile" depends="compile-deps">
+		<path id="jmencoder-classpath">
+			<pathelement path="${base-dir}/utils/classes" />
+			<pathelement path="${base-dir}/swing/classes" />
+		</path>
+		<javac nowarn="true" classpathref="jmencoder-classpath" srcdir="${src-dir}" destdir="${classes-dir}">
+		</javac>
+	</target>
+
+
+
+	<target name="compile-deps">
+		<ant dir="${base-dir}/utils/build" antfile="${base-dir}/utils/build/build.xml" target="compile" >
+			<property file="${base-dir}/utils/build/build.properties" />
+		</ant>
+		<ant dir="${base-dir}/swing/build" antfile="${base-dir}/swing/build/build.xml" target="compile">
+			<property file="${base-dir}/swing/build/build.properties" />
+		</ant>
+	</target>
+
+	<target name="clean">
+		<delete includeemptydirs="true">
+			<fileset dir="${classes-dir}" includes="**/*" />
+		</delete>
+	</target>
+
+</project>

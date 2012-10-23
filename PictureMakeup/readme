@@ -1,0 +1,9 @@
+First of all excuse me for my bad english.
+
+Although a descent java development kit has excelent low-level image manipulation tools, there are almost no free projects that explote this. A was needed a free (lgpled) image manipulation program for using inside my project spforms, a html visual editor. I was looking in the web but didn't find something like that.
+
+picture-makeup uses the excelent low level image manipulation operations that jcf-swing offers to java programmers, for implement a lot of known image operations/filters/effects/transformations like blur, sharp, noise, smooth, emboss, edge detection, color operations like bright, shade, grey scales, palettes, and image transformations like shear, rotation, scale, flip, etc. 
+
+It also explotes the java api supporting the most famous image formats like png, gif, jpg, bmp, etc.
+
+The idea is not another image manipulation programm (there are a lot of them and of very good quality) but a small, efficient and easy to modify program that offers java programmers high abstraction image manipulation tools. 

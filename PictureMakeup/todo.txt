@@ -1,0 +1,9 @@
+ver si en el laburo estan las transf: color, contrast, 
+
+Ã­conos: 
+Ã­cono de aplicaciÃ³n: frame.setIconImage(new ImageIcon(imgURL).getImage());
+
+ConvolutionTransformation: apklicación de una convolución general: 
+	represetanción de matriz editable (Float CEllEditor, FloatMatrixModel Y JTable)
+	
+completar paquete modelo representando el objeto imagen de nuestro modelo fuera de BufferedImage
