@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     05/12/2009 17:17:19                                                        
+
+     swing    
+     description
+                   
+     sebastian                                                                
+     ====================================================================== -->
+<project name="swing" default="default">
+
+	<property file="build.properties"/>
+
+
+	<description>
+            description
+    </description>
+
+	<!-- ================================= 
+          target: default              
+         ================================= -->
+	<target name="default" depends="compile" description="description">
+
+	</target>
+
+	<!-- - - - - - - - - - - - - - - - - - 
+          target: compile                      
+         - - - - - - - - - - - - - - - - - -->
+	<target name="compile" depends="compile-deps">
+		<path id="swing-classpath">
+			<pathelement path="${base-dir}/utils/classes" />
+			<!--<pathelement path="${base-dir}/j2s/classes" />-->
+		</path>
+		<javac nowarn="true" classpathref="swing-classpath" srcdir="${src-dir}" destdir="${classes-dir}">
+		</javac>
+	</target>
+
+
+
+	<target name="compile-deps">
+		<ant dir="${base-dir}/utils/build" antfile="${base-dir}/utils/build/build.xml" target="compile" />
+		<!--<ant dir="${base-dir}/j2s/build" antfile="${base-dir}/j2s/build/build.xml" target="compile"/>-->
+	</target>
+
+	<target name="clean">
+		<delete includeemptydirs="true">
+			<fileset dir="${classes-dir}" includes="**/*"/>
+		</delete>
+	</target>
+
+
+</project>
