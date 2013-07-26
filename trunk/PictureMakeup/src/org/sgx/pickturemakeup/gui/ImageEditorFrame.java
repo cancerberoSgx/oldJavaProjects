@@ -48,7 +48,7 @@ import org.sgx.utils.FSUtils;
 import org.sgx.utils.ImageUtils;
 
 
-
+ 
 
 public class ImageEditorFrame extends JFrame {
 
