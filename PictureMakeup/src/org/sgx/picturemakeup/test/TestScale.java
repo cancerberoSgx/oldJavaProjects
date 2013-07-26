@@ -14,7 +14,7 @@ public class TestScale {
 
 	public static void main(String [] a) {
 		try {
-			BufferedImage src = ImageUtils.loadFromFile(ImageWidgetImpl.defaultImgPath);			
+			BufferedImage src = ImageWidgetImpl.getDefaultImg(); //ImageUtils.loadFromFile(ImageWidgetImpl.getDefaultImg());			
 			ScaleTransformation t = new ScaleTransformation(src);
 			t.setNewDimensions(32,32);
 			BufferedImage dest = t.applyTransformation(src);

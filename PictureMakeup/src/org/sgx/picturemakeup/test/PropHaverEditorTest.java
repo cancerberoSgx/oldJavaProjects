@@ -22,7 +22,7 @@ public class PropHaverEditorTest {
 	ImageWidgetImpl imgW;
 	public void test() {
 		
-		 imgW = new ImageWidgetImpl(ImageWidgetImpl.defaultImgPath);
+		 imgW = new ImageWidgetImpl(ImageWidgetImpl.getDefaultImg());
 		JFrame imgF =  new JFrame("image");
 		imgF.setContentPane(imgW);
 		imgF.setPreferredSize(new Dimension(imgW.getWidth(), imgW.getHeight()));

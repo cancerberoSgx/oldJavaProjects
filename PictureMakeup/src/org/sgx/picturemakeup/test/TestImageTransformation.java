@@ -28,7 +28,7 @@ public class TestImageTransformation {
 	
 	public void run() {
 		JFrame origF=new JFrame("original");
-		ImageWidgetImpl orig = new ImageWidgetImpl(ImageWidgetImpl.defaultImgPath);
+		ImageWidgetImpl orig = new ImageWidgetImpl(ImageWidgetImpl.getDefaultImg());
 		origF.setContentPane(orig);
 		origF.setPreferredSize(new Dimension(orig.getWidth(), orig.getHeight()));
 		origF.setVisible(true);

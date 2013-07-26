@@ -151,6 +151,13 @@ public class ImageEditorFrame extends JFrame {
 		super();
 		initialize();
 	}
+	public ImageWidgetImpl getImg() {
+		return img;
+	}
+	
+	public JSplitPane getjSplitPane() {
+		return jSplitPane;
+	}
 
 	/**
 	 * This method initializes this
@@ -158,7 +165,7 @@ public class ImageEditorFrame extends JFrame {
 	 * @return void
 	 */
 	private void initialize() {
-		this.setSize(300, 200);
+//		this.setSize(300, 200);
 		this.setJMenuBar(getJJMenuBar());
 		this.setContentPane(getJSplitPane());		
 		this.setTitle("Image Editor");
@@ -230,7 +237,7 @@ public class ImageEditorFrame extends JFrame {
 					fileDialog.setSelectedFile(selectedFile);
 					fileDialog.setDialogTitle("Save Image as " + ext.toUpperCase() + " File");
 					int option = fileDialog.showSaveDialog(ImageEditorFrame.this);  // Presents the "Save File" dialog to the user.
-					if (option != JFileChooser.APPROVE_OPTION)
+					if (option != JFileChooser.APPROVE_OPTION) 
 						return;  // user canceled
 					selectedFile = fileDialog.getSelectedFile();  // The file the user has elected to save.
 					if (selectedFile.exists()) {
@@ -705,9 +712,10 @@ public class ImageEditorFrame extends JFrame {
 	private JSplitPane getJSplitPane() {
 		if (jSplitPane == null) {
 			jSplitPane = new JSplitPane();
-			img = new ImageWidgetImpl(ImageWidgetImpl.defaultImgPath);
+			img = new ImageWidgetImpl(ImageWidgetImpl.getDefaultImg());
 			jSplitPane.setLeftComponent(img);			
 			jSplitPane.setRightComponent(getJPanel());
+//			jSplitPane.setDividerLocation(0.7); 
 		}
 		return jSplitPane;
 	}
@@ -1031,17 +1039,5 @@ public class ImageEditorFrame extends JFrame {
 		return jMenu1;
 	}
 
-	public static void main( String[] argv ) {
-             
-        JFrame frame = new ImageEditorFrame();
-        frame.addWindowListener( new WindowAdapter(){
-            public void windowClosing( WindowEvent e ){
-                System.exit( 0 );
-            }
-        });                     
-        frame.pack();              
-        frame.setSize( 550, 400 );
-        frame.setVisible(true);
-   }
 
 }
