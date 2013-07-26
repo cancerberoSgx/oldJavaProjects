@@ -13,6 +13,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 import org.sgx.picturemakeup.model.ImageTransformation;
+import org.sgx.picturemakeup.resources.images.ResourceManager;
 import org.sgx.utils.ImageUtils;
 
 
@@ -34,13 +35,20 @@ public class ImageWidgetImpl extends JPanel {
 	private static final long serialVersionUID = 1L;
 
 //	static String defaultImgPath = "C:\\seba\\softpoint\\PictureMakeup\\gui\\images\\map.jpg";
-	public static String defaultImgPath = "/home/sebastian/desarrollo/sgurin_workspace/PictureMakeup/src/org/sgx/pickturemakeup/resources/images/sample.jpg";//"src"+File.separator+"org"+File.separator+"sgx"+File.separator+"pickturemakeup"+File.separator+"resources"+File.separator+"images"+File.separator+"sample.jpg";
-	
+//	public static String defaultImgPath = "/home/sebastian/desarrollo/sgurin_workspace/PictureMakeup/src/org/sgx/pickturemakeup/resources/images/sample.jpg";//"src"+File.separator+"org"+File.separator+"sgx"+File.separator+"pickturemakeup"+File.separator+"resources"+File.separator+"images"+File.separator+"sample.jpg";
+	public static BufferedImage getDefaultImg() {
+		try {
+			return ResourceManager.getInstance().pic2(); 
+		} catch (Exception e) {
+			e.printStackTrace(); 
+		}
+		return null;		
+	}
 //	org.sgx.pickturemakeup.
 	
 	BufferedImage buffi;
 	BufferedImage original;
-	String imgPath=defaultImgPath;
+	String imgPath="";
 
 
 	public ImageWidgetImpl(String imagePath) {	
@@ -94,13 +102,6 @@ public class ImageWidgetImpl extends JPanel {
 		this.paintComponent(this.getGraphics());
 	}
 	
-	public static void main(String [] s) {
-		JFrame f = new JFrame("sls");
-		f.setContentPane(new ImageWidgetImpl(ImageWidgetImpl.defaultImgPath));
-		f.setSize(f.getContentPane().getWidth(), f.getContentPane().getHeight());
-		f.setVisible(true);
-	}
-
 	public String getImgPath() {
 		return imgPath;
 	}

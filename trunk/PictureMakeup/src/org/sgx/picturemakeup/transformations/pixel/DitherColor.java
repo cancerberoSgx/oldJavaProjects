@@ -33,15 +33,15 @@ public class DitherColor extends DitherTransformation{
 		this(colorDefault);
 	}
 	
-	public static void main(String [] a) {
-		ImageWidgetImpl w = new ImageWidgetImpl(ImageWidgetImpl.defaultImgPath);
-		Image img = w.getBufferredImage();
-		DitherColor t = new DitherColor();
-		t.setLevelAlpha(1.0);
-		t.setLevelRed(1.0);
-		t.setLevelGreen(1.0);
-		Color in=new Color(123,123,233);
-		Color c = t.interpolate(new Pixel(0,0,in),img);
-		System.out.println(in+" - "+c);
-	}
+//	public static void main(String [] a) {
+//		ImageWidgetImpl w = new ImageWidgetImpl(ImageWidgetImpl.defaultImgPath);
+//		Image img = w.getBufferredImage();
+//		DitherColor t = new DitherColor();
+//		t.setLevelAlpha(1.0);
+//		t.setLevelRed(1.0);
+//		t.setLevelGreen(1.0);
+//		Color in=new Color(123,123,233);
+//		Color c = t.interpolate(new Pixel(0,0,in),img);
+//		System.out.println(in+" - "+c);
+//	}
 }
